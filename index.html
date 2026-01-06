@@ -1,0 +1,1388 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AOC | Autonomous Lead Systems That Run Without You</title>
+    <meta name="description" content="We engineer AI systems that deliver qualified leads to your inbox every morning. Zero prospecting. Zero manual work. Just pipeline.">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="AOC | Autonomous Lead Systems">
+    <meta property="og:description" content="AI systems that deliver qualified leads while you sleep.">
+    <meta property="og:type" content="website">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%230ea5e9' rx='20' width='100' height='100'/><text x='50' y='68' font-size='50' text-anchor='middle' fill='%23050505' font-family='system-ui' font-weight='bold'>A</text></svg>">
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwindcss.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        void: '#050505',
+                        surface: '#0a0a0a',
+                        elevated: '#111111',
+                        border: 'rgba(255,255,255,0.06)',
+                        'border-hover': 'rgba(255,255,255,0.12)',
+                        accent: '#0ea5e9',
+                        'accent-light': '#38bdf8',
+                        'accent-dim': 'rgba(14,165,233,0.1)',
+                        success: '#10b981',
+                        error: '#ef4444',
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'system-ui', 'sans-serif'],
+                        mono: ['JetBrains Mono', 'monospace'],
+                    },
+                    animation: {
+                        'fade-in': 'fadeIn 0.8s ease forwards',
+                        'fade-in-up': 'fadeInUp 0.8s ease forwards',
+                        'float': 'float 6s ease-in-out infinite',
+                        'pulse-slow': 'pulse 3s ease-in-out infinite',
+                        'node-flow': 'nodeFlow 20s linear infinite',
+                    },
+                    keyframes: {
+                        fadeIn: {
+                            '0%': { opacity: '0' },
+                            '100%': { opacity: '1' },
+                        },
+                        fadeInUp: {
+                            '0%': { opacity: '0', transform: 'translateY(30px)' },
+                            '100%': { opacity: '1', transform: 'translateY(0)' },
+                        },
+                        float: {
+                            '0%, 100%': { transform: 'translateY(0)' },
+                            '50%': { transform: 'translateY(-20px)' },
+                        },
+                        nodeFlow: {
+                            '0%': { transform: 'translate(0, 0)' },
+                            '100%': { transform: 'translate(-50%, -50%)' },
+                        },
+                    },
+                },
+            },
+        }
+    </script>
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    
+    <style>
+        * {
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        ::selection {
+            background: #0ea5e9;
+            color: #050505;
+        }
+
+        body {
+            background: #050505;
+            color: #f8fafc;
+        }
+
+        /* Node Background */
+        .node-bg {
+            position: absolute;
+            inset: 0;
+            overflow: hidden;
+            pointer-events: none;
+        }
+
+        .node-grid {
+            position: absolute;
+            width: 200%;
+            height: 200%;
+            top: -50%;
+            left: -50%;
+            background-image: 
+                radial-gradient(circle at center, rgba(14,165,233,0.03) 1px, transparent 1px);
+            background-size: 60px 60px;
+            animation: nodeFlow 60s linear infinite;
+        }
+
+        .node-connections {
+            position: absolute;
+            width: 200%;
+            height: 200%;
+            top: -50%;
+            left: -50%;
+        }
+
+        .node-connections svg {
+            width: 100%;
+            height: 100%;
+            opacity: 0.15;
+        }
+
+        /* Glow Effects */
+        .glow-accent {
+            box-shadow: 0 0 60px -15px rgba(14,165,233,0.4);
+        }
+
+        .glow-text {
+            text-shadow: 0 0 40px rgba(14,165,233,0.5);
+        }
+
+        /* Glass Effect */
+        .glass {
+            background: rgba(10,10,10,0.8);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border: 1px solid rgba(255,255,255,0.06);
+        }
+
+        /* Gradient Text */
+        .gradient-text {
+            background: linear-gradient(135deg, #0ea5e9 0%, #38bdf8 50%, #0ea5e9 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        /* Reveal Animation Classes */
+        .reveal {
+            opacity: 0;
+            transform: translateY(40px);
+            transition: all 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .reveal.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .reveal-delay-1 { transition-delay: 0.1s; }
+        .reveal-delay-2 { transition-delay: 0.2s; }
+        .reveal-delay-3 { transition-delay: 0.3s; }
+        .reveal-delay-4 { transition-delay: 0.4s; }
+
+        /* Bento Grid */
+        .bento-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 16px;
+        }
+
+        .bento-item {
+            background: #0a0a0a;
+            border: 1px solid rgba(255,255,255,0.06);
+            border-radius: 16px;
+            padding: 32px;
+            transition: all 0.3s ease;
+        }
+
+        .bento-item:hover {
+            border-color: rgba(14,165,233,0.3);
+            transform: translateY(-4px);
+            box-shadow: 0 20px 40px -20px rgba(0,0,0,0.5), 0 0 40px -20px rgba(14,165,233,0.2);
+        }
+
+        .bento-large {
+            grid-column: span 2;
+        }
+
+        .bento-tall {
+            grid-row: span 2;
+        }
+
+        @media (max-width: 1024px) {
+            .bento-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .bento-large { grid-column: span 2; }
+            .bento-tall { grid-row: span 1; }
+        }
+
+        @media (max-width: 640px) {
+            .bento-grid {
+                grid-template-columns: 1fr;
+            }
+            .bento-large { grid-column: span 1; }
+        }
+
+        /* Workflow Spaghetti Container */
+        .spaghetti-container {
+            position: relative;
+            background: linear-gradient(180deg, #0a0a0a 0%, #050505 100%);
+            border: 1px solid rgba(255,255,255,0.06);
+            border-radius: 20px;
+            overflow: hidden;
+        }
+
+        .spaghetti-container::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: radial-gradient(ellipse at top center, rgba(14,165,233,0.08) 0%, transparent 60%);
+            pointer-events: none;
+        }
+
+        /* Button Styles */
+        .btn-primary {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            padding: 18px 36px;
+            background: linear-gradient(135deg, #0ea5e9 0%, #0284c7 100%);
+            color: #050505;
+            font-weight: 700;
+            font-size: 15px;
+            border-radius: 12px;
+            border: none;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 0 40px -10px rgba(14,165,233,0.5);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 0 60px -10px rgba(14,165,233,0.6);
+        }
+
+        .btn-secondary {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            padding: 18px 36px;
+            background: transparent;
+            color: #f8fafc;
+            font-weight: 600;
+            font-size: 15px;
+            border-radius: 12px;
+            border: 1px solid rgba(255,255,255,0.12);
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .btn-secondary:hover {
+            border-color: #0ea5e9;
+            color: #0ea5e9;
+            background: rgba(14,165,233,0.05);
+        }
+
+        /* Code Block Style */
+        .code-block {
+            background: #0a0a0a;
+            border: 1px solid rgba(255,255,255,0.06);
+            border-radius: 12px;
+            padding: 24px;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 13px;
+            overflow-x: auto;
+        }
+
+        .code-line {
+            display: block;
+            line-height: 1.8;
+        }
+
+        .code-comment { color: #6b7280; }
+        .code-keyword { color: #c084fc; }
+        .code-string { color: #34d399; }
+        .code-function { color: #60a5fa; }
+        .code-number { color: #fbbf24; }
+
+        /* Scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #0a0a0a;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #333;
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #444;
+        }
+
+        /* Nav Scroll State */
+        .nav-scrolled {
+            background: rgba(5,5,5,0.9);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid rgba(255,255,255,0.06);
+        }
+    </style>
+</head>
+<body class="font-sans">
+
+    <!-- Animated Node Background -->
+    <div class="node-bg fixed inset-0 z-0">
+        <div class="node-grid"></div>
+        <div class="absolute inset-0 bg-gradient-to-b from-void via-transparent to-void"></div>
+        <div class="absolute top-0 left-1/2 -translate-x-1/2 w-[1000px] h-[600px] bg-accent/5 blur-[120px] rounded-full"></div>
+    </div>
+
+    <!-- Navigation -->
+    <nav id="nav" class="fixed top-0 left-0 right-0 z-50 transition-all duration-300">
+        <div class="max-w-7xl mx-auto px-6 py-5 flex items-center justify-between">
+            <a href="#" class="flex items-center gap-3">
+                <div class="w-10 h-10 bg-accent rounded-lg flex items-center justify-center">
+                    <span class="text-void font-bold text-lg">A</span>
+                </div>
+                <span class="text-xl font-bold tracking-tight">AOC</span>
+            </a>
+            
+            <div class="hidden md:flex items-center gap-8">
+                <a href="#engine" class="text-sm text-gray-400 hover:text-white transition-colors">The Engine</a>
+                <a href="#proof" class="text-sm text-gray-400 hover:text-white transition-colors">Results</a>
+                <a href="#offer" class="text-sm text-gray-400 hover:text-white transition-colors">The Offer</a>
+            </div>
+            
+            <a href="#book" class="btn-primary text-sm py-3 px-6">
+                Execute Pipeline
+                <i data-lucide="arrow-right" class="w-4 h-4"></i>
+            </a>
+        </div>
+    </nav>
+
+    <main class="relative z-10">
+
+        <!-- ═══════════════════════════════════════════
+             HERO SECTION
+        ═══════════════════════════════════════════ -->
+        <section class="min-h-screen flex items-center pt-32 pb-20 px-6">
+            <div class="max-w-7xl mx-auto w-full">
+                <div class="max-w-4xl">
+                    
+                    <!-- Status Badge -->
+                    <div class="reveal inline-flex items-center gap-3 px-4 py-2 rounded-full border border-border bg-surface/50 mb-8">
+                        <span class="w-2 h-2 bg-success rounded-full animate-pulse"></span>
+                        <span class="text-sm font-mono text-gray-400">ACCEPTING 3 CLIENTS FOR JANUARY</span>
+                    </div>
+                    
+                    <!-- Headline -->
+                    <h1 class="reveal reveal-delay-1 text-5xl md:text-7xl lg:text-8xl font-black tracking-tight leading-[0.95] mb-8">
+                        Humans<br>
+                        <span class="gradient-text glow-text">Hallucinate.</span><br>
+                        Logic Doesn't.
+                    </h1>
+                    
+                    <!-- Subheadline -->
+                    <p class="reveal reveal-delay-2 text-xl md:text-2xl text-gray-400 leading-relaxed max-w-2xl mb-12">
+                        We engineer <span class="text-white font-semibold">autonomous n8n systems</span> that source leads, validate data, and personalize outreach on autopilot. 
+                        <span class="text-accent">Scale without the headcount.</span>
+                    </p>
+                    
+                    <!-- CTA Buttons -->
+                    <div class="reveal reveal-delay-3 flex flex-wrap gap-4 mb-20">
+                        <a href="#book" class="btn-primary">
+                            Execute Pipeline
+                            <i data-lucide="terminal" class="w-5 h-5"></i>
+                        </a>
+                        <a href="#engine" class="btn-secondary">
+                            View Architecture
+                            <i data-lucide="arrow-down" class="w-5 h-5"></i>
+                        </a>
+                    </div>
+                    
+                    <!-- Proof Stats -->
+                    <div class="reveal reveal-delay-4 grid grid-cols-3 gap-8 max-w-xl">
+                        <div>
+                            <div class="text-4xl md:text-5xl font-black gradient-text">7</div>
+                            <div class="text-sm text-gray-500 mt-1 font-mono">DAYS TO LIVE</div>
+                        </div>
+                        <div>
+                            <div class="text-4xl md:text-5xl font-black gradient-text">0</div>
+                            <div class="text-sm text-gray-500 mt-1 font-mono">HOURS/WEEK</div>
+                        </div>
+                        <div>
+                            <div class="text-4xl md:text-5xl font-black gradient-text">∞</div>
+                            <div class="text-sm text-gray-500 mt-1 font-mono">PIPELINE</div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+
+        <!-- ═══════════════════════════════════════════
+             TRUST/PROBLEM BAR
+        ═══════════════════════════════════════════ -->
+        <section class="py-16 border-y border-border bg-surface/30">
+            <div class="max-w-7xl mx-auto px-6">
+                <div class="reveal text-center mb-12">
+                    <span class="font-mono text-sm text-accent tracking-widest">THE PROBLEM</span>
+                </div>
+                
+                <div class="reveal reveal-delay-1 grid md:grid-cols-3 gap-8 text-center">
+                    <div class="p-6">
+                        <div class="text-4xl font-black text-error mb-3">10+</div>
+                        <div class="text-gray-400">Hours wasted every week on manual prospecting</div>
+                    </div>
+                    <div class="p-6 border-x border-border">
+                        <div class="text-4xl font-black text-error mb-3">$52K</div>
+                        <div class="text-gray-400">Annual cost of prospecting at $100/hr</div>
+                    </div>
+                    <div class="p-6">
+                        <div class="text-4xl font-black text-error mb-3">30%</div>
+                        <div class="text-gray-400">Bounce rate from garbage VA data</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ═══════════════════════════════════════════
+             THE ENGINE (HOW IT WORKS)
+        ═══════════════════════════════════════════ -->
+        <section id="engine" class="py-32 px-6">
+            <div class="max-w-7xl mx-auto">
+                
+                <!-- Section Header -->
+                <div class="reveal text-center max-w-3xl mx-auto mb-20">
+                    <span class="font-mono text-sm text-accent tracking-widest block mb-4">THE ENGINE</span>
+                    <h2 class="text-4xl md:text-5xl font-black tracking-tight mb-6">
+                        Production-Grade<br>
+                        <span class="gradient-text">Lead Infrastructure</span>
+                    </h2>
+                    <p class="text-xl text-gray-400">
+                        Not a tool. Not a VA. An autonomous system that runs 24/7.
+                    </p>
+                </div>
+                
+                <!-- Bento Grid -->
+                <div class="bento-grid">
+                    
+                    <!-- Large: Pipeline Visualization -->
+                    <div class="bento-item bento-large reveal">
+                        <div class="flex items-start justify-between mb-6">
+                            <div>
+                                <span class="font-mono text-xs text-accent tracking-widest">01</span>
+                                <h3 class="text-2xl font-bold mt-2">Autonomous Scraping</h3>
+                            </div>
+                            <div class="w-12 h-12 rounded-xl bg-accent/10 flex items-center justify-center">
+                                <i data-lucide="radar" class="w-6 h-6 text-accent"></i>
+                            </div>
+                        </div>
+                        <p class="text-gray-400 mb-6">
+                            System runs every night at 2am. Scrapes leads matching your exact ICP from LinkedIn, Apollo, directories, and custom sources. Zero manual work.
+                        </p>
+                        <div class="code-block">
+                            <span class="code-line"><span class="code-comment">// Runs every night @ 02:00 UTC</span></span>
+                            <span class="code-line"><span class="code-keyword">const</span> leads = <span class="code-keyword">await</span> <span class="code-function">scrapeLeads</span>({</span>
+                            <span class="code-line">  icp: <span class="code-string">"VP Sales @ B2B SaaS, 50-500 emp"</span>,</span>
+                            <span class="code-line">  sources: [<span class="code-string">"linkedin"</span>, <span class="code-string">"apollo"</span>],</span>
+                            <span class="code-line">  limit: <span class="code-number">100</span></span>
+                            <span class="code-line">});</span>
+                        </div>
+                    </div>
+                    
+                    <!-- Tall: Validation -->
+                    <div class="bento-item bento-tall reveal reveal-delay-1">
+                        <div class="h-full flex flex-col">
+                            <div class="flex items-start justify-between mb-6">
+                                <div>
+                                    <span class="font-mono text-xs text-accent tracking-widest">02</span>
+                                    <h3 class="text-xl font-bold mt-2">Email Validation</h3>
+                                </div>
+                                <div class="w-10 h-10 rounded-xl bg-accent/10 flex items-center justify-center">
+                                    <i data-lucide="shield-check" class="w-5 h-5 text-accent"></i>
+                                </div>
+                            </div>
+                            <p class="text-gray-400 mb-6">
+                                Every email is validated in real-time. Bad data is rejected. Zero bounces.
+                            </p>
+                            <div class="mt-auto space-y-3">
+                                <div class="flex items-center gap-3 p-3 rounded-lg bg-success/10 border border-success/20">
+                                    <i data-lucide="check-circle" class="w-5 h-5 text-success"></i>
+                                    <span class="text-sm text-success">james@scaleforce.io</span>
+                                </div>
+                                <div class="flex items-center gap-3 p-3 rounded-lg bg-success/10 border border-success/20">
+                                    <i data-lucide="check-circle" class="w-5 h-5 text-success"></i>
+                                    <span class="text-sm text-success">sarah@growthlab.com</span>
+                                </div>
+                                <div class="flex items-center gap-3 p-3 rounded-lg bg-error/10 border border-error/20">
+                                    <i data-lucide="x-circle" class="w-5 h-5 text-error"></i>
+                                    <span class="text-sm text-error line-through">mike@oldcompany.co</span>
+                                </div>
+                                <div class="flex items-center gap-3 p-3 rounded-lg bg-success/10 border border-success/20">
+                                    <i data-lucide="check-circle" class="w-5 h-5 text-success"></i>
+                                    <span class="text-sm text-success">alex@velocity.io</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Standard: Scoring -->
+                    <div class="bento-item reveal reveal-delay-2">
+                        <div class="flex items-start justify-between mb-6">
+                            <div>
+                                <span class="font-mono text-xs text-accent tracking-widest">03</span>
+                                <h3 class="text-xl font-bold mt-2">Lead Scoring</h3>
+                            </div>
+                            <div class="w-10 h-10 rounded-xl bg-accent/10 flex items-center justify-center">
+                                <i data-lucide="bar-chart-3" class="w-5 h-5 text-accent"></i>
+                            </div>
+                        </div>
+                        <p class="text-gray-400 mb-6">
+                            Each lead gets scored based on buying signals. Prioritize the hottest prospects.
+                        </p>
+                        <div class="space-y-2">
+                            <div class="flex items-center justify-between">
+                                <span class="text-sm">Recent funding</span>
+                                <span class="font-mono text-accent">+25</span>
+                            </div>
+                            <div class="flex items-center justify-between">
+                                <span class="text-sm">Hiring SDRs</span>
+                                <span class="font-mono text-accent">+20</span>
+                            </div>
+                            <div class="flex items-center justify-between">
+                                <span class="text-sm">Tech stack match</span>
+                                <span class="font-mono text-accent">+15</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Standard: Deduplication -->
+                    <div class="bento-item reveal reveal-delay-3">
+                        <div class="flex items-start justify-between mb-6">
+                            <div>
+                                <span class="font-mono text-xs text-accent tracking-widest">04</span>
+                                <h3 class="text-xl font-bold mt-2">Deduplication</h3>
+                            </div>
+                            <div class="w-10 h-10 rounded-xl bg-accent/10 flex items-center justify-center">
+                                <i data-lucide="copy-x" class="w-5 h-5 text-accent"></i>
+                            </div>
+                        </div>
+                        <p class="text-gray-400">
+                            System checks every lead against your master list. Never email the same person twice. Never look stupid.
+                        </p>
+                    </div>
+                    
+                    <!-- Large: Delivery -->
+                    <div class="bento-item bento-large reveal reveal-delay-4">
+                        <div class="flex items-start justify-between mb-6">
+                            <div>
+                                <span class="font-mono text-xs text-accent tracking-widest">05</span>
+                                <h3 class="text-2xl font-bold mt-2">Morning Delivery</h3>
+                            </div>
+                            <div class="w-12 h-12 rounded-xl bg-accent/10 flex items-center justify-center">
+                                <i data-lucide="inbox" class="w-6 h-6 text-accent"></i>
+                            </div>
+                        </div>
+                        <p class="text-gray-400 mb-6">
+                            By 8am, fresh leads are sitting in your Google Sheet, Notion, or CRM. Telegram pings you. Ready to contact.
+                        </p>
+                        
+                        <!-- Inbox Preview -->
+                        <div class="bg-elevated rounded-xl border border-border overflow-hidden">
+                            <div class="px-4 py-3 border-b border-border flex items-center gap-2">
+                                <div class="w-3 h-3 rounded-full bg-error"></div>
+                                <div class="w-3 h-3 rounded-full bg-yellow-500"></div>
+                                <div class="w-3 h-3 rounded-full bg-success"></div>
+                                <span class="ml-4 text-xs font-mono text-gray-500">YOUR_INBOX — 08:00 AM</span>
+                            </div>
+                            <div class="p-4 space-y-3">
+                                <div class="flex items-center gap-4 p-3 rounded-lg bg-surface border-l-2 border-accent">
+                                    <div class="w-10 h-10 rounded-full bg-gradient-to-br from-accent to-accent-light flex items-center justify-center text-sm font-bold text-void">JM</div>
+                                    <div class="flex-1 min-w-0">
+                                        <div class="font-semibold text-sm truncate">James Mitchell</div>
+                                        <div class="text-xs text-gray-500">VP Sales @ ScaleForce</div>
+                                    </div>
+                                    <div class="text-xs font-mono text-success bg-success/10 px-2 py-1 rounded">94</div>
+                                </div>
+                                <div class="flex items-center gap-4 p-3 rounded-lg bg-surface border-l-2 border-accent">
+                                    <div class="w-10 h-10 rounded-full bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center text-sm font-bold text-white">SK</div>
+                                    <div class="flex-1 min-w-0">
+                                        <div class="font-semibold text-sm truncate">Sarah Kim</div>
+                                        <div class="text-xs text-gray-500">CEO @ GrowthLab</div>
+                                    </div>
+                                    <div class="text-xs font-mono text-success bg-success/10 px-2 py-1 rounded">91</div>
+                                </div>
+                                <div class="flex items-center gap-4 p-3 rounded-lg bg-surface border-l-2 border-accent">
+                                    <div class="w-10 h-10 rounded-full bg-gradient-to-br from-orange-500 to-red-500 flex items-center justify-center text-sm font-bold text-white">MR</div>
+                                    <div class="flex-1 min-w-0">
+                                        <div class="font-semibold text-sm truncate">Marcus Rodriguez</div>
+                                        <div class="text-xs text-gray-500">Head of Growth @ Velocity</div>
+                                    </div>
+                                    <div class="text-xs font-mono text-success bg-success/10 px-2 py-1 rounded">88</div>
+                                </div>
+                            </div>
+                            <div class="px-4 py-3 border-t border-border flex justify-between text-xs font-mono text-gray-500">
+                                <span>Last sync: 06:00 AM</span>
+                                <span class="text-accent">47 new leads ready</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+                
+            </div>
+        </section>
+
+        <!-- ═══════════════════════════════════════════
+             THE SPAGHETTI (WORKFLOW SHOWCASE)
+        ═══════════════════════════════════════════ -->
+        <section class="py-32 px-6 bg-surface/30">
+            <div class="max-w-7xl mx-auto">
+                
+                <div class="reveal text-center max-w-3xl mx-auto mb-16">
+                    <span class="font-mono text-sm text-accent tracking-widest block mb-4">THE ARCHITECTURE</span>
+                    <h2 class="text-4xl md:text-5xl font-black tracking-tight mb-6">
+                        This Is What<br>
+                        <span class="gradient-text">Runs While You Sleep</span>
+                    </h2>
+                    <p class="text-xl text-gray-400">
+                        Production-grade n8n workflows. Not tutorials. Not experiments. Systems that ship and scale.
+                    </p>
+                </div>
+                
+                <div class="spaghetti-container reveal p-8 md:p-12">
+                    <!-- Workflow Visualization -->
+                    <div class="aspect-[16/9] bg-void rounded-xl border border-border flex items-center justify-center relative overflow-hidden">
+                        
+                        <!-- Animated Nodes -->
+                        <svg class="absolute inset-0 w-full h-full opacity-30" viewBox="0 0 800 450">
+                            <!-- Connection Lines -->
+                            <line x1="100" y1="225" x2="200" y2="150" stroke="#0ea5e9" stroke-width="2" stroke-dasharray="5,5">
+                                <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+                            </line>
+                            <line x1="100" y1="225" x2="200" y2="300" stroke="#0ea5e9" stroke-width="2" stroke-dasharray="5,5">
+                                <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+                            </line>
+                            <line x1="200" y1="150" x2="350" y2="200" stroke="#0ea5e9" stroke-width="2" stroke-dasharray="5,5">
+                                <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+                            </line>
+                            <line x1="200" y1="300" x2="350" y2="250" stroke="#0ea5e9" stroke-width="2" stroke-dasharray="5,5">
+                                <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+                            </line>
+                            <line x1="350" y1="200" x2="500" y2="225" stroke="#0ea5e9" stroke-width="2" stroke-dasharray="5,5">
+                                <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+                            </line>
+                            <line x1="350" y1="250" x2="500" y2="225" stroke="#0ea5e9" stroke-width="2" stroke-dasharray="5,5">
+                                <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+                            </line>
+                            <line x1="500" y1="225" x2="650" y2="150" stroke="#0ea5e9" stroke-width="2" stroke-dasharray="5,5">
+                                <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+                            </line>
+                            <line x1="500" y1="225" x2="650" y2="225" stroke="#0ea5e9" stroke-width="2" stroke-dasharray="5,5">
+                                <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+                            </line>
+                            <line x1="500" y1="225" x2="650" y2="300" stroke="#0ea5e9" stroke-width="2" stroke-dasharray="5,5">
+                                <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+                            </line>
+                            
+                            <!-- Nodes -->
+                            <circle cx="100" cy="225" r="20" fill="#111" stroke="#0ea5e9" stroke-width="2"/>
+                            <circle cx="200" cy="150" r="16" fill="#111" stroke="#0ea5e9" stroke-width="2"/>
+                            <circle cx="200" cy="300" r="16" fill="#111" stroke="#0ea5e9" stroke-width="2"/>
+                            <circle cx="350" cy="200" r="18" fill="#111" stroke="#0ea5e9" stroke-width="2"/>
+                            <circle cx="350" cy="250" r="18" fill="#111" stroke="#0ea5e9" stroke-width="2"/>
+                            <circle cx="500" cy="225" r="22" fill="#111" stroke="#0ea5e9" stroke-width="2"/>
+                            <circle cx="650" cy="150" r="14" fill="#111" stroke="#10b981" stroke-width="2"/>
+                            <circle cx="650" cy="225" r="14" fill="#111" stroke="#10b981" stroke-width="2"/>
+                            <circle cx="650" cy="300" r="14" fill="#111" stroke="#10b981" stroke-width="2"/>
+                            
+                            <!-- Animated Pulses -->
+                            <circle cx="100" cy="225" r="20" fill="none" stroke="#0ea5e9" stroke-width="1" opacity="0.5">
+                                <animate attributeName="r" from="20" to="40" dur="2s" repeatCount="indefinite"/>
+                                <animate attributeName="opacity" from="0.5" to="0" dur="2s" repeatCount="indefinite"/>
+                            </circle>
+                            <circle cx="500" cy="225" r="22" fill="none" stroke="#0ea5e9" stroke-width="1" opacity="0.5">
+                                <animate attributeName="r" from="22" to="45" dur="2s" repeatCount="indefinite" begin="0.5s"/>
+                                <animate attributeName="opacity" from="0.5" to="0" dur="2s" repeatCount="indefinite" begin="0.5s"/>
+                            </circle>
+                        </svg>
+                        
+                        <!-- Center Text -->
+                        <div class="relative z-10 text-center">
+                            <div class="text-6xl font-black gradient-text mb-4">47</div>
+                            <div class="text-sm font-mono text-gray-400">NODES ACTIVE</div>
+                        </div>
+                        
+                    </div>
+                    
+                    <!-- Stats Bar -->
+                    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-8">
+                        <div class="text-center p-4">
+                            <div class="text-2xl font-bold text-accent">2,847</div>
+                            <div class="text-xs font-mono text-gray-500 mt-1">LEADS PROCESSED</div>
+                        </div>
+                        <div class="text-center p-4">
+                            <div class="text-2xl font-bold text-success">99.2%</div>
+                            <div class="text-xs font-mono text-gray-500 mt-1">UPTIME</div>
+                        </div>
+                        <div class="text-center p-4">
+                            <div class="text-2xl font-bold text-accent">0.3s</div>
+                            <div class="text-xs font-mono text-gray-500 mt-1">AVG LATENCY</div>
+                        </div>
+                        <div class="text-center p-4">
+                            <div class="text-2xl font-bold text-success">0</div>
+                            <div class="text-xs font-mono text-gray-500 mt-1">ERRORS</div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </section>
+
+        <!-- ═══════════════════════════════════════════
+             THE RESULTS (PROOF)
+        ═══════════════════════════════════════════ -->
+        <section id="proof" class="py-32 px-6">
+            <div class="max-w-7xl mx-auto">
+                
+                <div class="reveal text-center max-w-3xl mx-auto mb-20">
+                    <span class="font-mono text-sm text-accent tracking-widest block mb-4">THE RESULTS</span>
+                    <h2 class="text-4xl md:text-5xl font-black tracking-tight mb-6">
+                        Zero-Touch<br>
+                        <span class="gradient-text">ROI</span>
+                    </h2>
+                    <p class="text-xl text-gray-400">
+                        What changes when lead gen becomes infrastructure.
+                    </p>
+                </div>
+                
+                <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+                    
+                    <div class="reveal bento-item text-center">
+                        <div class="text-5xl mb-4">⏱️</div>
+                        <div class="text-4xl font-black gradient-text mb-2">10+</div>
+                        <div class="text-gray-400">Hours saved per week</div>
+                        <div class="text-xs font-mono text-gray-600 mt-2">= 520 hrs/year</div>
+                    </div>
+                    
+                    <div class="reveal reveal-delay-1 bento-item text-center">
+                        <div class="text-5xl mb-4">💰</div>
+                        <div class="text-4xl font-black gradient-text mb-2">$52K</div>
+                        <div class="text-gray-400">Annual savings</div>
+                        <div class="text-xs font-mono text-gray-600 mt-2">@ $100/hr opportunity cost</div>
+                    </div>
+                    
+                    <div class="reveal reveal-delay-2 bento-item text-center">
+                        <div class="text-5xl mb-4">📬</div>
+                        <div class="text-4xl font-black gradient-text mb-2">200+</div>
+                        <div class="text-gray-400">Leads per month</div>
+                        <div class="text-xs font-mono text-gray-600 mt-2">Validated & scored</div>
+                    </div>
+                    
+                    <div class="reveal reveal-delay-3 bento-item text-center">
+                        <div class="text-5xl mb-4">🔄</div>
+                        <div class="text-4xl font-black gradient-text mb-2">24/7</div>
+                        <div class="text-gray-400">Always running</div>
+                        <div class="text-xs font-mono text-gray-600 mt-2">Zero human intervention</div>
+                    </div>
+                    
+                </div>
+                
+                <!-- Comparison Table -->
+                <div class="reveal mt-20 overflow-x-auto">
+                    <table class="w-full">
+                        <thead>
+                            <tr class="border-b border-border">
+                                <th class="text-left py-4 px-4 font-mono text-xs text-gray-500">ALTERNATIVE</th>
+                                <th class="text-right py-4 px-4 font-mono text-xs text-gray-500">MONTHLY</th>
+                                <th class="text-right py-4 px-4 font-mono text-xs text-gray-500">ANNUAL</th>
+                                <th class="text-right py-4 px-4 font-mono text-xs text-gray-500">STILL REQUIRES WORK?</th>
+                            </tr>
+                        </thead>
+                        <tbody class="text-sm">
+                            <tr class="border-b border-border/50">
+                                <td class="py-4 px-4 text-gray-400">Hire SDR</td>
+                                <td class="py-4 px-4 text-right text-error">$5,000</td>
+                                <td class="py-4 px-4 text-right text-error">$60,000</td>
+                                <td class="py-4 px-4 text-right text-error">Yes (management)</td>
+                            </tr>
+                            <tr class="border-b border-border/50">
+                                <td class="py-4 px-4 text-gray-400">Hire VA</td>
+                                <td class="py-4 px-4 text-right text-error">$1,200</td>
+                                <td class="py-4 px-4 text-right text-error">$14,400</td>
+                                <td class="py-4 px-4 text-right text-error">Yes (training, QA)</td>
+                            </tr>
+                            <tr class="border-b border-border/50">
+                                <td class="py-4 px-4 text-gray-400">Apollo / ZoomInfo</td>
+                                <td class="py-4 px-4 text-right text-error">$400</td>
+                                <td class="py-4 px-4 text-right text-error">$4,800</td>
+                                <td class="py-4 px-4 text-right text-error">Yes (manual work)</td>
+                            </tr>
+                            <tr class="border-b border-border/50">
+                                <td class="py-4 px-4 text-gray-400">Your time (10 hrs/week)</td>
+                                <td class="py-4 px-4 text-right text-error">$4,000</td>
+                                <td class="py-4 px-4 text-right text-error">$48,000</td>
+                                <td class="py-4 px-4 text-right text-error">Yes (all of it)</td>
+                            </tr>
+                            <tr class="bg-accent/5 rounded-lg">
+                                <td class="py-4 px-4 font-bold text-accent">AI Lead Engine</td>
+                                <td class="py-4 px-4 text-right font-bold text-success">$0</td>
+                                <td class="py-4 px-4 text-right font-bold text-success">$2,000 once</td>
+                                <td class="py-4 px-4 text-right font-bold text-success">No</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                
+            </div>
+        </section>
+        <!-- ═══════════════════════════════════════════
+             THE OFFER (FIXED-SCOPE)
+        ═══════════════════════════════════════════ -->
+        <section id="offer" class="py-32 px-6 bg-surface/30 relative overflow-hidden">
+            
+            <!-- Background Glow -->
+            <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-accent/5 blur-[150px] rounded-full pointer-events-none"></div>
+            
+            <div class="max-w-7xl mx-auto relative z-10">
+                
+                <div class="reveal text-center max-w-3xl mx-auto mb-16">
+                    <span class="font-mono text-sm text-accent tracking-widest block mb-4">THE OFFER</span>
+                    <h2 class="text-4xl md:text-5xl font-black tracking-tight mb-6">
+                        Fixed Scope.<br>
+                        <span class="gradient-text">Fixed Price.</span>
+                    </h2>
+                    <p class="text-xl text-gray-400">
+                        No hourly billing. No scope creep. No surprises. You know exactly what you get.
+                    </p>
+                </div>
+                
+                <!-- Offer Card -->
+                <div class="reveal max-w-4xl mx-auto">
+                    <div class="relative bg-elevated border border-accent/30 rounded-3xl overflow-hidden glow-accent">
+                        
+                        <!-- Header -->
+                        <div class="bg-gradient-to-r from-accent/10 to-transparent border-b border-border p-8 md:p-12">
+                            <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-6">
+                                <div>
+                                    <span class="font-mono text-xs text-accent tracking-widest">AI LEAD ENGINE</span>
+                                    <h3 class="text-3xl md:text-4xl font-black mt-2">The Complete System</h3>
+                                    <p class="text-gray-400 mt-2">Everything you need. Nothing you don't.</p>
+                                </div>
+                                <div class="text-left md:text-right">
+                                    <div class="text-sm text-gray-500 line-through">$7,300 value</div>
+                                    <div class="text-5xl md:text-6xl font-black gradient-text">$2,000</div>
+                                    <div class="text-sm font-mono text-gray-400 mt-1">ONE-TIME INVESTMENT</div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Features Grid -->
+                        <div class="p-8 md:p-12">
+                            <div class="grid md:grid-cols-2 gap-8">
+                                
+                                <!-- Column 1: Core System -->
+                                <div>
+                                    <h4 class="font-mono text-xs text-accent tracking-widest mb-6">CORE SYSTEM</h4>
+                                    <ul class="space-y-4">
+                                        <li class="flex items-start gap-4">
+                                            <div class="w-6 h-6 rounded-full bg-accent/20 flex items-center justify-center flex-shrink-0 mt-0.5">
+                                                <i data-lucide="check" class="w-3.5 h-3.5 text-accent"></i>
+                                            </div>
+                                            <div>
+                                                <div class="font-semibold">Custom n8n Pipeline</div>
+                                                <div class="text-sm text-gray-500">Architected for your exact ICP</div>
+                                            </div>
+                                        </li>
+                                        <li class="flex items-start gap-4">
+                                            <div class="w-6 h-6 rounded-full bg-accent/20 flex items-center justify-center flex-shrink-0 mt-0.5">
+                                                <i data-lucide="check" class="w-3.5 h-3.5 text-accent"></i>
+                                            </div>
+                                            <div>
+                                                <div class="font-semibold">2+ Lead Source Integrations</div>
+                                                <div class="text-sm text-gray-500">LinkedIn, Apollo, directories, custom</div>
+                                            </div>
+                                        </li>
+                                        <li class="flex items-start gap-4">
+                                            <div class="w-6 h-6 rounded-full bg-accent/20 flex items-center justify-center flex-shrink-0 mt-0.5">
+                                                <i data-lucide="check" class="w-3.5 h-3.5 text-accent"></i>
+                                            </div>
+                                            <div>
+                                                <div class="font-semibold">Email Validation System</div>
+                                                <div class="text-sm text-gray-500">Zero bounces. Clean data only.</div>
+                                            </div>
+                                        </li>
+                                        <li class="flex items-start gap-4">
+                                            <div class="w-6 h-6 rounded-full bg-accent/20 flex items-center justify-center flex-shrink-0 mt-0.5">
+                                                <i data-lucide="check" class="w-3.5 h-3.5 text-accent"></i>
+                                            </div>
+                                            <div>
+                                                <div class="font-semibold">Lead Scoring Algorithm</div>
+                                                <div class="text-sm text-gray-500">Prioritize high-intent prospects</div>
+                                            </div>
+                                        </li>
+                                        <li class="flex items-start gap-4">
+                                            <div class="w-6 h-6 rounded-full bg-accent/20 flex items-center justify-center flex-shrink-0 mt-0.5">
+                                                <i data-lucide="check" class="w-3.5 h-3.5 text-accent"></i>
+                                            </div>
+                                            <div>
+                                                <div class="font-semibold">CRM/Sheet Integration</div>
+                                                <div class="text-sm text-gray-500">Delivered where you work</div>
+                                            </div>
+                                        </li>
+                                        <li class="flex items-start gap-4">
+                                            <div class="w-6 h-6 rounded-full bg-accent/20 flex items-center justify-center flex-shrink-0 mt-0.5">
+                                                <i data-lucide="check" class="w-3.5 h-3.5 text-accent"></i>
+                                            </div>
+                                            <div>
+                                                <div class="font-semibold">Notification System</div>
+                                                <div class="text-sm text-gray-500">Telegram, Slack, or Email alerts</div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                
+                                <!-- Column 2: Bonuses -->
+                                <div>
+                                    <h4 class="font-mono text-xs text-accent tracking-widest mb-6">INCLUDED BONUSES</h4>
+                                    <ul class="space-y-4">
+                                        <li class="flex items-start gap-4">
+                                            <div class="w-6 h-6 rounded-full bg-success/20 flex items-center justify-center flex-shrink-0 mt-0.5">
+                                                <i data-lucide="gift" class="w-3.5 h-3.5 text-success"></i>
+                                            </div>
+                                            <div>
+                                                <div class="font-semibold">ICP Mapping Session</div>
+                                                <div class="text-sm text-gray-500">15-min call to define your perfect client</div>
+                                            </div>
+                                        </li>
+                                        <li class="flex items-start gap-4">
+                                            <div class="w-6 h-6 rounded-full bg-success/20 flex items-center justify-center flex-shrink-0 mt-0.5">
+                                                <i data-lucide="gift" class="w-3.5 h-3.5 text-success"></i>
+                                            </div>
+                                            <div>
+                                                <div class="font-semibold">Cold Email Templates</div>
+                                                <div class="text-sm text-gray-500">Proven sequences for your leads</div>
+                                            </div>
+                                        </li>
+                                        <li class="flex items-start gap-4">
+                                            <div class="w-6 h-6 rounded-full bg-success/20 flex items-center justify-center flex-shrink-0 mt-0.5">
+                                                <i data-lucide="gift" class="w-3.5 h-3.5 text-success"></i>
+                                            </div>
+                                            <div>
+                                                <div class="font-semibold">Full Documentation</div>
+                                                <div class="text-sm text-gray-500">Written docs + video walkthrough</div>
+                                            </div>
+                                        </li>
+                                        <li class="flex items-start gap-4">
+                                            <div class="w-6 h-6 rounded-full bg-success/20 flex items-center justify-center flex-shrink-0 mt-0.5">
+                                                <i data-lucide="gift" class="w-3.5 h-3.5 text-success"></i>
+                                            </div>
+                                            <div>
+                                                <div class="font-semibold">14-Day Support Window</div>
+                                                <div class="text-sm text-gray-500">Bug fixes, tweaks, questions</div>
+                                            </div>
+                                        </li>
+                                        <li class="flex items-start gap-4">
+                                            <div class="w-6 h-6 rounded-full bg-success/20 flex items-center justify-center flex-shrink-0 mt-0.5">
+                                                <i data-lucide="gift" class="w-3.5 h-3.5 text-success"></i>
+                                            </div>
+                                            <div>
+                                                <div class="font-semibold">Lead Source Expansion Playbook</div>
+                                                <div class="text-sm text-gray-500">How to add more sources yourself</div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                    
+                                    <!-- Timeline -->
+                                    <div class="mt-8 p-4 bg-accent/5 border border-accent/20 rounded-xl">
+                                        <div class="flex items-center gap-3">
+                                            <i data-lucide="clock" class="w-5 h-5 text-accent"></i>
+                                            <div>
+                                                <div class="font-semibold text-accent">Live in 7 Days</div>
+                                                <div class="text-sm text-gray-500">From kickoff to leads flowing</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- CTA -->
+                            <div class="mt-12 pt-8 border-t border-border text-center">
+                                <a href="#book" class="btn-primary text-lg px-12 py-5 inline-flex">
+                                    Execute Pipeline
+                                    <i data-lucide="arrow-right" class="w-5 h-5"></i>
+                                </a>
+                                <p class="text-sm text-gray-500 mt-4">Limited to 3 builds per month</p>
+                            </div>
+                            
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <!-- Guarantee Box -->
+                <div class="reveal reveal-delay-1 max-w-3xl mx-auto mt-12">
+                    <div class="bg-success/5 border border-success/20 rounded-2xl p-8 md:p-12 text-center">
+                        <div class="w-20 h-20 bg-success/10 rounded-full flex items-center justify-center mx-auto mb-6">
+                            <i data-lucide="shield-check" class="w-10 h-10 text-success"></i>
+                        </div>
+                        <h3 class="text-2xl md:text-3xl font-black text-success mb-4">
+                            The "It Works Or It's Free" Guarantee
+                        </h3>
+                        <p class="text-lg text-gray-400 max-w-xl mx-auto">
+                            Your system goes live in 7 days. If it doesn't deliver qualified leads matching your ICP within 14 days of launch, you get a <span class="text-white font-semibold">full refund</span>. No questions. No hoops. No bullshit.
+                        </p>
+                    </div>
+                </div>
+                
+            </div>
+        </section>
+
+        <!-- ═══════════════════════════════════════════
+             THE MATH (ROI BREAKDOWN)
+        ═══════════════════════════════════════════ -->
+        <section class="py-32 px-6">
+            <div class="max-w-7xl mx-auto">
+                
+                <div class="reveal text-center max-w-3xl mx-auto mb-16">
+                    <span class="font-mono text-sm text-accent tracking-widest block mb-4">THE MATH</span>
+                    <h2 class="text-4xl md:text-5xl font-black tracking-tight mb-6">
+                        Do The Math.<br>
+                        <span class="gradient-text">It's Obvious.</span>
+                    </h2>
+                </div>
+                
+                <div class="reveal grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+                    
+                    <!-- Without System -->
+                    <div class="bento-item border-error/20">
+                        <div class="flex items-center gap-3 mb-6">
+                            <div class="w-10 h-10 rounded-full bg-error/10 flex items-center justify-center">
+                                <i data-lucide="x" class="w-5 h-5 text-error"></i>
+                            </div>
+                            <h4 class="text-xl font-bold">Without The System</h4>
+                        </div>
+                        
+                        <div class="space-y-4">
+                            <div class="flex justify-between items-center py-3 border-b border-border/50">
+                                <span class="text-gray-400">Hours/week prospecting</span>
+                                <span class="font-mono text-error">10-15 hrs</span>
+                            </div>
+                            <div class="flex justify-between items-center py-3 border-b border-border/50">
+                                <span class="text-gray-400">Your hourly rate</span>
+                                <span class="font-mono text-error">$100/hr</span>
+                            </div>
+                            <div class="flex justify-between items-center py-3 border-b border-border/50">
+                                <span class="text-gray-400">Weekly cost</span>
+                                <span class="font-mono text-error">$1,000-1,500</span>
+                            </div>
+                            <div class="flex justify-between items-center py-3 border-b border-border/50">
+                                <span class="text-gray-400">Annual cost</span>
+                                <span class="font-mono text-error font-bold">$52,000-78,000</span>
+                            </div>
+                            <div class="flex justify-between items-center py-3">
+                                <span class="text-gray-400">Pipeline consistency</span>
+                                <span class="font-mono text-error">Feast or famine</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- With System -->
+                    <div class="bento-item border-success/20 bg-success/5">
+                        <div class="flex items-center gap-3 mb-6">
+                            <div class="w-10 h-10 rounded-full bg-success/10 flex items-center justify-center">
+                                <i data-lucide="check" class="w-5 h-5 text-success"></i>
+                            </div>
+                            <h4 class="text-xl font-bold">With The System</h4>
+                        </div>
+                        
+                        <div class="space-y-4">
+                            <div class="flex justify-between items-center py-3 border-b border-success/10">
+                                <span class="text-gray-400">Hours/week prospecting</span>
+                                <span class="font-mono text-success">0 hrs</span>
+                            </div>
+                            <div class="flex justify-between items-center py-3 border-b border-success/10">
+                                <span class="text-gray-400">One-time investment</span>
+                                <span class="font-mono text-success">$2,000</span>
+                            </div>
+                            <div class="flex justify-between items-center py-3 border-b border-success/10">
+                                <span class="text-gray-400">Ongoing cost</span>
+                                <span class="font-mono text-success font-bold">$0</span>
+                            </div>
+                            <div class="flex justify-between items-center py-3 border-b border-success/10">
+                                <span class="text-gray-400">Year 1 ROI</span>
+                                <span class="font-mono text-success font-bold">26x - 39x</span>
+                            </div>
+                            <div class="flex justify-between items-center py-3">
+                                <span class="text-gray-400">Pipeline consistency</span>
+                                <span class="font-mono text-success">24/7/365</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+                
+                <!-- Bottom Line -->
+                <div class="reveal reveal-delay-1 max-w-2xl mx-auto mt-12 text-center">
+                    <div class="p-8 bg-elevated rounded-2xl border border-border">
+                        <p class="text-xl text-gray-400 mb-4">
+                            You're either going to keep spending 10 hours a week on prospecting...
+                        </p>
+                        <p class="text-2xl font-bold text-white">
+                            Or you're going to have a machine that does it for you.
+                        </p>
+                    </div>
+                </div>
+                
+            </div>
+        </section>
+
+        <!-- ═══════════════════════════════════════════
+             FAQ
+        ═══════════════════════════════════════════ -->
+        <section class="py-32 px-6 bg-surface/30">
+            <div class="max-w-4xl mx-auto">
+                
+                <div class="reveal text-center mb-16">
+                    <span class="font-mono text-sm text-accent tracking-widest block mb-4">FAQ</span>
+                    <h2 class="text-4xl font-black tracking-tight">
+                        Questions You're Asking
+                    </h2>
+                </div>
+                
+                <div class="space-y-4">
+                    
+                    <div class="reveal bento-item">
+                        <h4 class="font-bold text-lg mb-3">How is this different from Apollo or ZoomInfo?</h4>
+                        <p class="text-gray-400">
+                            Those tools give you access to data. You still search, filter, export, and clean it yourself. Every single day. I build a system that does all of that automatically. You wake up to leads. You don't hunt for them.
+                        </p>
+                    </div>
+                    
+                    <div class="reveal reveal-delay-1 bento-item">
+                        <h4 class="font-bold text-lg mb-3">I tried hiring a VA. It didn't work.</h4>
+                        <p class="text-gray-400">
+                            VAs are human. They get tired. They make mistakes. They need training, management, and quality control. The data they provide is often garbage. Half the emails bounce. A system runs 24/7 with perfect consistency. No sick days. No quality drops. No management overhead.
+                        </p>
+                    </div>
+                    
+                    <div class="reveal reveal-delay-2 bento-item">
+                        <h4 class="font-bold text-lg mb-3">How many leads will I get?</h4>
+                        <p class="text-gray-400">
+                            Depends on your ICP. If you're targeting a broad market (marketing managers at US companies), we're talking 200-400/month. If you're targeting a narrow niche (CEOs of sustainable fashion brands doing $5M+), the pool is smaller, maybe 50-100/month. On our kickoff call, I'll scope the realistic volume based on your specific target.
+                        </p>
+                    </div>
+                    
+                    <div class="reveal reveal-delay-3 bento-item">
+                        <h4 class="font-bold text-lg mb-3">What if it doesn't work?</h4>
+                        <p class="text-gray-400">
+                            Full refund. If the system doesn't deliver qualified leads matching your ICP within 14 days of going live, you get every dollar back. I only offer this because I know it works.
+                        </p>
+                    </div>
+                    
+                    <div class="reveal reveal-delay-4 bento-item">
+                        <h4 class="font-bold text-lg mb-3">Do I own the system?</h4>
+                        <p class="text-gray-400">
+                            Yes. It's built on n8n, which can be self-hosted. You own the workflows. You own the data. If we part ways, you keep everything. This isn't a SaaS subscription. It's infrastructure you own.
+                        </p>
+                    </div>
+                    
+                    <div class="reveal bento-item">
+                        <h4 class="font-bold text-lg mb-3">What do I need to provide?</h4>
+                        <p class="text-gray-400">
+                            Your ideal customer profile (we'll define this together on our kickoff call), access to any existing lists you want to dedupe against, and where you want leads delivered (Sheets, Notion, CRM). That's it. I handle everything else.
+                        </p>
+                    </div>
+                    
+                </div>
+                
+            </div>
+        </section>
+
+        <!-- ═══════════════════════════════════════════
+             FINAL CTA / BOOKING
+        ═══════════════════════════════════════════ -->
+        <section id="book" class="py-32 px-6 relative overflow-hidden">
+            
+            <!-- Background Effects -->
+            <div class="absolute inset-0 pointer-events-none">
+                <div class="absolute top-0 left-1/2 -translate-x-1/2 w-[1000px] h-[500px] bg-accent/10 blur-[150px] rounded-full"></div>
+            </div>
+            
+            <div class="max-w-4xl mx-auto relative z-10">
+                
+                <div class="reveal text-center">
+                    
+                    <span class="font-mono text-sm text-accent tracking-widest block mb-6">EXECUTE</span>
+                    
+                    <h2 class="text-4xl md:text-6xl font-black tracking-tight mb-6">
+                        Stop Hunting.<br>
+                        <span class="gradient-text">Start Waking Up To Pipeline.</span>
+                    </h2>
+                    
+                    <p class="text-xl text-gray-400 max-w-2xl mx-auto mb-12">
+                        15-minute call. I'll ask about your ICP, show you how the system works, and tell you if it's a fit. No pitch deck. No 90-minute "strategy session." Just a conversation.
+                    </p>
+                    
+                    <!-- Cal.com Embed Placeholder -->
+                    <div class="bg-elevated border border-border rounded-2xl p-8 md:p-12 max-w-xl mx-auto mb-8">
+                        
+                        <!-- This would be replaced with actual Cal.com embed -->
+                        <div class="text-center">
+                            <div class="w-16 h-16 bg-accent/10 rounded-full flex items-center justify-center mx-auto mb-6">
+                                <i data-lucide="calendar" class="w-8 h-8 text-accent"></i>
+                            </div>
+                            <h3 class="text-xl font-bold mb-2">Book Your Pipeline Call</h3>
+                            <p class="text-gray-500 text-sm mb-6">15 minutes. No fluff. Just answers.</p>
+                            
+                            <a 
+                                href="https://cal.com/ayush-chauhan-hfecid/15min" 
+                                target="_blank" 
+                                rel="noopener noreferrer"
+                                class="btn-primary w-full justify-center text-lg py-5"
+                            >
+                                Select a Time
+                                <i data-lucide="external-link" class="w-5 h-5"></i>
+                            </a>
+                        </div>
+                        
+                    </div>
+                    
+                    <p class="text-sm text-gray-600">
+                        Only 3 spots available for January. First come, first served.
+                    </p>
+                    
+                </div>
+                
+            </div>
+        </section>
+
+    </main>
+
+    <!-- ═══════════════════════════════════════════
+         FOOTER
+    ═══════════════════════════════════════════ -->
+    <footer class="py-16 px-6 border-t border-border">
+        <div class="max-w-7xl mx-auto">
+            
+            <div class="grid md:grid-cols-4 gap-12 mb-16">
+                
+                <!-- Brand -->
+                <div class="md:col-span-2">
+                    <a href="#" class="flex items-center gap-3 mb-4">
+                        <div class="w-10 h-10 bg-accent rounded-lg flex items-center justify-center">
+                            <span class="text-void font-bold text-lg">A</span>
+                        </div>
+                        <span class="text-xl font-bold tracking-tight">AOC</span>
+                    </a>
+                    <p class="text-gray-500 max-w-sm">
+                        Autonomous lead systems that run while you sleep. Built on n8n. Owned by you.
+                    </p>
+                </div>
+                
+                <!-- Links -->
+                <div>
+                    <h4 class="font-mono text-xs text-gray-500 tracking-widest mb-4">NAVIGATION</h4>
+                    <ul class="space-y-3">
+                        <li><a href="#engine" class="text-gray-400 hover:text-white transition-colors">The Engine</a></li>
+                        <li><a href="#proof" class="text-gray-400 hover:text-white transition-colors">Results</a></li>
+                        <li><a href="#offer" class="text-gray-400 hover:text-white transition-colors">The Offer</a></li>
+                        <li><a href="#book" class="text-gray-400 hover:text-white transition-colors">Book a Call</a></li>
+                    </ul>
+                </div>
+                
+                <!-- Contact -->
+                <div>
+                    <h4 class="font-mono text-xs text-gray-500 tracking-widest mb-4">CONNECT</h4>
+                    <ul class="space-y-3">
+                        <li><a href="mailto:ayushopchauhan@gmail.com" class="text-gray-400 hover:text-white transition-colors">Email</a></li>
+                        <li><a href="https://linkedin.com/in/ayushopchauhan" target="_blank" rel="noopener" class="text-gray-400 hover:text-white transition-colors">LinkedIn</a></li>
+                        <li><a href="https://twitter.com/ayushopchauhan" target="_blank" rel="noopener" class="text-gray-400 hover:text-white transition-colors">Twitter</a></li>
+                    </ul>
+                </div>
+                
+            </div>
+            
+            <!-- Bottom Bar -->
+            <div class="flex flex-col md:flex-row justify-between items-center gap-4 pt-8 border-t border-border">
+                <p class="text-sm text-gray-600">© 2025 AOC. Built by Ayush Chauhan.</p>
+                <p class="text-sm text-gray-600 font-mono">HUMANS HALLUCINATE. LOGIC DOESN'T.</p>
+            </div>
+            
+        </div>
+    </footer>
+
+    <!-- ═══════════════════════════════════════════
+         JAVASCRIPT
+    ═══════════════════════════════════════════ -->
+    <script>
+        // Initialize Lucide Icons
+        lucide.createIcons();
+
+        // Navigation Scroll Effect
+        const nav = document.getElementById('nav');
+        let lastScrollY = 0;
+
+        window.addEventListener('scroll', () => {
+            const scrollY = window.scrollY;
+            
+            if (scrollY > 100) {
+                nav.classList.add('nav-scrolled');
+            } else {
+                nav.classList.remove('nav-scrolled');
+            }
+            
+            lastScrollY = scrollY;
+        });
+
+        // Reveal on Scroll
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.reveal').forEach(el => {
+            observer.observe(el);
+        });
+
+        // Smooth Scroll for Anchor Links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                const href = this.getAttribute('href');
+                if (href === '#') return;
+                
+                e.preventDefault();
+                const target = document.querySelector(href);
+                
+                if (target) {
+                    const navHeight = nav.offsetHeight;
+                    const targetPosition = target.getBoundingClientRect().top + window.pageYOffset - navHeight - 20;
+                    
+                    window.scrollTo({
+                        top: targetPosition,
+                        behavior: 'smooth'
+                    });
+                }
+            });
+        });
+
+        // Initial Animation Trigger
+        window.addEventListener('load', () => {
+            setTimeout(() => {
+                document.querySelectorAll('.reveal').forEach(el => {
+                    if (el.getBoundingClientRect().top < window.innerHeight) {
+                        el.classList.add('visible');
+                    }
+                });
+            }, 100);
+        });
+
+        // Console Branding
+        console.log('%c⚡ AOC', 'font-size: 32px; font-weight: bold; color: #0ea5e9; text-shadow: 0 0 20px rgba(14,165,233,0.5);');
+        console.log('%cAutonomous Lead Systems', 'font-size: 14px; color: #64748b;');
+        console.log('%c→ ayushopchauhan@gmail.com', 'font-size: 12px; color: #10b981;');
+    </script>
+
+</body>
+</html>
