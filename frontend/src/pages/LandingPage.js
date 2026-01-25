@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
-import AuthModal from './AuthModal';
+import AuthModal from '../components/AuthModal';
 import { 
   Flame, Zap, Target, Users, ChevronRight, Check, 
   FileText, Sparkles, Clock, ArrowRight, Star, 
