@@ -1,0 +1,141 @@
+{
+  "design_system": {
+    "name": "PitchFire Ember OS",
+    "version": "1.0.0",
+    "identity": {
+      "archetype": "The Performance Pro (Fire Variant)",
+      "vibe": "Aggressive, High-Speed, Transformative, Tactical",
+      "core_values": [
+        "Fusion over Imitation",
+        "Emotion First (Heat/Speed)",
+        "Content is King",
+        "Contrast (Light vs Dark)"
+      ]
+    },
+    "typography": {
+      "font_family": {
+        "headings": "Barlow Condensed, sans-serif",
+        "body": "Manrope, sans-serif",
+        "mono": "JetBrains Mono, monospace"
+      },
+      "weights": {
+        "headings": "800",
+        "body": "400",
+        "bold": "700"
+      },
+      "scale": {
+        "h1": "text-6xl md:text-8xl tracking-tighter leading-none uppercase",
+        "h2": "text-4xl md:text-6xl tracking-tight leading-tight uppercase",
+        "h3": "text-2xl md:text-4xl tracking-tight font-bold",
+        "body_lg": "text-lg md:text-xl leading-relaxed",
+        "body_base": "text-base leading-relaxed",
+        "caption": "text-sm tracking-widest uppercase text-muted-foreground"
+      },
+      "imports": [
+        "@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;800&family=Manrope:wght@300;400;600;800&family=JetBrains+Mono:wght@400&display=swap');"
+      ]
+    },
+    "colors": {
+      "palette": {
+        "background": {
+          "default": "#050505",
+          "surface": "#0A0A0A",
+          "surface_highlight": "#121212"
+        },
+        "primary": {
+          "main": "#FF4500",
+          "light": "#FF8C00",
+          "dark": "#CC3700",
+          "glow": "rgba(255, 69, 0, 0.5)"
+        },
+        "text": {
+          "primary": "#FAFAFA",
+          "secondary": "#A1A1AA",
+          "muted": "#52525B"
+        },
+        "accent": {
+          "fire": "#FFD700",
+          "ash": "#27272A"
+        },
+        "status": {
+          "success": "#10B981",
+          "error": "#EF4444",
+          "warning": "#F59E0B"
+        }
+      },
+      "gradients": {
+        "fire_text": "bg-clip-text text-transparent bg-gradient-to-r from-[#FF4500] to-[#FFD700]",
+        "fire_border": "bg-gradient-to-r from-[#FF4500] via-[#FF8C00] to-transparent",
+        "dark_glass": "bg-black/40 backdrop-blur-xl border border-white/10"
+      }
+    },
+    "layout": {
+      "spacing_scale": "Generous (2x standard)",
+      "container_padding": "p-6 md:p-12 lg:p-24",
+      "grid_system": {
+        "marketing": "Bento Grid (Asymmetric)",
+        "dashboard": "High Density Grid (Gap-4)"
+      },
+      "border_radius": {
+        "default": "rounded-none",
+        "cards": "rounded-lg",
+        "buttons": "rounded-sm"
+      }
+    },
+    "components": {
+      "buttons": {
+        "primary": "bg-[#FF4500] text-white hover:bg-[#FF8C00] rounded-sm font-bold uppercase tracking-wider transition-all duration-300 hover:shadow-[0_0_20px_rgba(255,69,0,0.4)]",
+        "secondary": "bg-transparent border border-[#FF4500] text-[#FF4500] hover:bg-[#FF4500]/10 rounded-sm uppercase tracking-wider",
+        "ghost": "text-gray-400 hover:text-white hover:bg-white/5"
+      },
+      "cards": {
+        "glass": "bg-black/40 backdrop-blur-md border border-white/10 hover:border-[#FF4500]/50 transition-colors duration-300",
+        "solid": "bg-[#0A0A0A] border border-white/5"
+      },
+      "inputs": {
+        "default": "bg-[#121212] border-white/10 focus:border-[#FF4500] focus:ring-1 focus:ring-[#FF4500] text-white placeholder:text-gray-600 rounded-sm"
+      }
+    },
+    "visual_enhancers": {
+      "noise": "url(\"data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.05'/%3E%3C/svg%3E\")",
+      "glow_effects": "shadow-[0_0_30px_-5px_rgba(255,69,0,0.3)]",
+      "particles": "Use tsparticles for subtle ember effects in hero sections"
+    },
+    "motion": {
+      "transitions": "transition-all duration-300 ease-out",
+      "hover_lift": "hover:-translate-y-1 hover:shadow-lg",
+      "scroll_reveal": "Use framer-motion for scroll-triggered opacity/y-axis reveals"
+    },
+    "assets": {
+      "images": {
+        "hero_background": "https://images.unsplash.com/photo-1695970922375-34520eca9bed?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "freelancer_context": "https://images.unsplash.com/photo-1562034475-0292da13283a?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "success_context": "https://images.unsplash.com/photo-1752159400890-d906038f1b35?crop=entropy&cs=srgb&fm=jpg&q=85"
+      },
+      "icons": "Use lucide-react (default) or @phosphor-icons/react for marketing pages"
+    },
+    "libraries": {
+      "animation": "framer-motion",
+      "particles": "react-tsparticles",
+      "charts": "recharts (via shadcn/ui)",
+      "toast": "sonner"
+    },
+    "instructions_to_main_agent": [
+      "CRITICAL: Implement the 'Barlow Condensed' font for all headings. This is the core of the brand identity.",
+      "CRITICAL: Use the 'Noise' texture overlay on the main background to prevent the 'flat digital' look.",
+      "CRITICAL: Do not use pure black (#000000). Use #050505 or #0A0A0A.",
+      "CRITICAL: Ensure all text has sufficient contrast against the dark background. Use 'text-gray-400' for secondary text, not darker.",
+      "CRITICAL: For the 'Fire' effect, use gradients of Orange (#FF4500) and Gold (#FFD700). Do not use red alone.",
+      "CRITICAL: Dashboard grids must be dense (gap-4). Marketing grids must be loose (gap-12).",
+      "CRITICAL: Use 'sonner' for all toast notifications.",
+      "CRITICAL: All interactive elements must have 'data-testid' attributes."
+    ],
+    "universal_guidelines": [
+      "Avoid 'AI Slop' - no generic centered layouts.",
+      "Create depth with z-index and glassmorphism.",
+      "Micro-animations on everything (hover, focus, active).",
+      "Mobile-first responsive design is mandatory.",
+      "Use 2-3x more spacing than typical designs."
+    ]
+  }
+}
