@@ -2279,32 +2279,6 @@ section {
 /* ================================================================
    HEADER - Glassmorphic Navigation
    ================================================================ */
-
-/* === FIX: Header Logo Spacing === */
-.header {
-  height: auto;
-  min-height: var(--header-height);
-  padding: var(--space-3) 0;
-}
-
-.header-inner {
-  padding: var(--space-2) 0;
-}
-
-.logo-img {
-  height: 32px;
-}
-
-@media (min-width: 640px) {
-  .header {
-    padding: var(--space-4) 0;
-  }
-  
-  .logo-img {
-    height: 40px;
-  }
-}
-
 .header {
   position: fixed;
   top: 0;
@@ -3438,11 +3412,9 @@ section {
 }
 
 /* Research summary/opportunity box */
-/* === FIX: Research Summary Icon Position === */
 .research-summary {
   margin-top: var(--space-8);
   padding: var(--space-6);
-  padding-left: var(--space-8);
   background: linear-gradient(
     135deg,
     rgba(var(--color-primary-rgb), 0.08) 0%,
@@ -3452,33 +3424,27 @@ section {
   border-left: 4px solid var(--color-primary);
   border-radius: var(--radius-xl);
   position: relative;
-  overflow: visible; /* Changed from hidden */
+  overflow: hidden;
 }
 
 @media (min-width: 640px) {
   .research-summary {
     margin-top: var(--space-10);
     padding: var(--space-8);
-    padding-left: var(--space-12);
   }
 }
 
-/* Icon - now positioned inside the card, not overflowing */
+/* Decorative icon */
 .research-summary::before {
   content: '💡';
   position: absolute;
-  top: 50%;
-  left: var(--space-4);
-  transform: translateY(-50%);
-  font-size: 1.25rem;
-  line-height: 1;
-}
-
-@media (min-width: 640px) {
-  .research-summary::before {
-    left: var(--space-6);
-    font-size: 1.5rem;
-  }
+  top: var(--space-5);
+  left: calc(-1 * var(--space-4));
+  font-size: 1.5rem;
+  background: var(--bg-base);
+  padding: var(--space-2);
+  border-radius: var(--radius-full);
+  box-shadow: var(--shadow-glow-sm);
 }
 
 .research-summary-title {
@@ -4341,28 +4307,6 @@ section {
 /* ================================================================
    PRICING SECTION
    ================================================================ */
-
-/* === FIX: Pricing Section Spacing === */
-.pricing-section {
-  padding-top: var(--section-spacing);
-  padding-bottom: var(--section-spacing);
-}
-
-.pricing-section .section-header {
-  margin-bottom: var(--space-10);
-}
-
-@media (min-width: 640px) {
-  .pricing-section .section-header {
-    margin-bottom: var(--space-12);
-  }
-}
-
-.pricing-note {
-  margin-top: var(--space-10);
-  margin-bottom: var(--space-4);
-}
-
 .pricing-section {
   position: relative;
   background: linear-gradient(
@@ -5799,6 +5743,110 @@ a:focus-visible {
     min-height: 44px;
   }
 }
+
+/* === FIX: Header Logo Spacing === */
+.header {
+  height: auto;
+  min-height: var(--header-height);
+  padding: var(--space-3) 0;
+}
+
+.header-inner {
+  padding: var(--space-2) 0;
+}
+
+.logo-img {
+  height: 32px;
+}
+
+@media (min-width: 640px) {
+  .header {
+    padding: var(--space-4) 0;
+  }
+  
+  .logo-img {
+    height: 40px;
+  }
+}
+
+/* === FIX: Research Summary Icon - Outside Card Version === */
+.research-summary {
+  margin-top: var(--space-8);
+  margin-left: var(--space-10); /* Make room for icon */
+  padding: var(--space-6);
+  background: linear-gradient(
+    135deg,
+    rgba(var(--color-primary-rgb), 0.08) 0%,
+    rgba(var(--color-primary-rgb), 0.02) 100%
+  );
+  border: 1px solid var(--border-glow);
+  border-left: 4px solid var(--color-primary);
+  border-radius: var(--radius-xl);
+  position: relative;
+}
+
+@media (min-width: 640px) {
+  .research-summary {
+    margin-top: var(--space-10);
+    margin-left: var(--space-12);
+    padding: var(--space-8);
+  }
+}
+
+.research-summary::before {
+  content: '💡';
+  position: absolute;
+  top: var(--space-5);
+  left: calc(-1 * var(--space-8));
+  font-size: 1.25rem;
+  background: var(--bg-base);
+  padding: var(--space-2);
+  border-radius: var(--radius-full);
+  box-shadow: var(--shadow-glow-sm);
+  line-height: 1;
+}
+
+@media (min-width: 640px) {
+  .research-summary::before {
+    left: calc(-1 * var(--space-10));
+    font-size: 1.5rem;
+  }
+}
+
+/* Mobile: Move icon inside on very small screens */
+@media (max-width: 480px) {
+  .research-summary {
+    margin-left: 0;
+    padding-top: var(--space-10);
+  }
+  
+  .research-summary::before {
+    top: var(--space-3);
+    left: var(--space-4);
+  }
+}
+
+/* === FIX: Pricing Section Spacing === */
+.pricing-section {
+  padding-top: var(--section-spacing);
+  padding-bottom: var(--section-spacing);
+}
+
+.pricing-section .section-header {
+  margin-bottom: var(--space-10);
+}
+
+@media (min-width: 640px) {
+  .pricing-section .section-header {
+    margin-bottom: var(--space-12);
+  }
+}
+
+.pricing-note {
+  margin-top: var(--space-10);
+  margin-bottom: var(--space-4);
+}
+
 </style>
 
 </head>
@@ -5839,7 +5887,7 @@ a:focus-visible {
         </a>
         <div class="header-right">
           <span class="header-tag">Proposal for <strong>OfficeZilla</strong></span>
-          <span class="header-id">BRN-MD5FRN</span>
+          <span class="header-id">BRN-QR45CB</span>
           <a href="https://calendly.com/brunelloinc/introductions" class="btn btn-primary btn-sm header-cta" target="_blank" rel="noopener">
             Book Call
           </a>
@@ -5877,7 +5925,7 @@ a:focus-visible {
           <span class="line"><span class="highlight text-gradient">Let's Build Something Better</span></span>
         </h1>
         
-        <p class="lead hero-subtitle">We understand the importance of a user-friendly platform that enhances customer satisfaction and drives sales.</p>
+        <p class="lead hero-subtitle">We understand the importance of an optimized website for enhancing customer experience and driving sales.</p>
         
         <div class="hero-cta">
           <a href="https://calendly.com/brunelloinc/introductions" class="btn btn-primary btn-xl" target="_blank" rel="noopener">
@@ -5923,7 +5971,7 @@ a:focus-visible {
             Research
           </span>
           <h2 class="reveal stagger-1">What We Found Looking at OfficeZilla</h2>
-          <p class="lead reveal stagger-2">Our team observed several key areas on your website that could be improved to enhance user experience and drive conversions.</p>
+          <p class="lead reveal stagger-2">Our team observed several key areas on your website that could benefit from improvement.</p>
         </div>
         
         <div class="card card-primary reveal stagger-3">
@@ -5932,24 +5980,24 @@ a:focus-visible {
     <div class="research-item reveal stagger-1">
       <div class="research-icon">🔍</div>
       <div class="research-content">
-        <div class="research-label">Navigation Structure</div>
-        <p class="research-text">We noticed that your website lacks a clear navigation structure, which could hinder the user experience for your customers looking to order supplies.</p>
+        <div class="research-label">User Journey Clarity</div>
+        <p class="research-text">Your website lacks a clear user journey, making it difficult for customers to navigate and complete their orders efficiently.</p>
       </div>
     </div>
   
     <div class="research-item reveal stagger-2">
       <div class="research-icon">🔍</div>
       <div class="research-content">
-        <div class="research-label">Design and UX</div>
-        <p class="research-text">The design appears outdated with inconsistent elements that may not resonate with your target audience.</p>
+        <div class="research-label">Design and UX Issues</div>
+        <p class="research-text">We noted that the design appears outdated and the navigation is confusing, which can detract from the overall user experience.</p>
       </div>
     </div>
   
     <div class="research-item reveal stagger-3">
       <div class="research-icon">🔍</div>
       <div class="research-content">
-        <div class="research-label">SEO Signals</div>
-        <p class="research-text">The current SEO signals are weak, indicating that your website may not be easily discoverable by potential customers.</p>
+        <div class="research-label">Mobile Optimization</div>
+        <p class="research-text">While the mobile experience is acceptable, there are potential responsiveness issues that could hinder accessibility.</p>
       </div>
     </div>
   
@@ -5959,7 +6007,7 @@ a:focus-visible {
         
         <div class="research-summary reveal stagger-5">
           <h4 class="research-summary-title">The Opportunity</h4>
-          <p class="research-summary-text">By redesigning the website, there is a significant opportunity to enhance user experience and increase conversion rates.</p>
+          <p class="research-summary-text">There is a significant opportunity to redesign the website to enhance user experience and streamline the ordering process.</p>
         </div>
         
       </div>
@@ -5981,7 +6029,7 @@ a:focus-visible {
       
       
       <div class="problem-intro reveal stagger-2">
-        <p>We recognize that organizations like yours often struggle with website usability, leading to lost sales opportunities and customer frustration.</p>
+        <p>We recognize that organizations like OfficeZilla often face challenges with website navigation and user experience.</p>
       </div>
       
       
@@ -5990,18 +6038,27 @@ a:focus-visible {
     <div class="challenge-item reveal stagger-1">
       <div class="challenge-icon">🎨</div>
       <div class="challenge-content">
-        <h4>Website Usability Issues</h4>
-        <p>Confusing navigation and outdated design patterns make it difficult for customers to find and order supplies.</p>
-        <span class="challenge-consequence">This can result in increased bounce rates and lost sales.</span>
+        <h4>Website Navigation Issues</h4>
+        <p>Confusing navigation can make it difficult for users to find what they need quickly.</p>
+        <span class="challenge-consequence">This can lead to increased bounce rates and lost sales.</span>
       </div>
     </div>
   
     <div class="challenge-item reveal stagger-2">
       <div class="challenge-icon">📱</div>
       <div class="challenge-content">
-        <h4>Need for Better Online Sales Conversion</h4>
-        <p>Inconsistent design and poor SEO hinder the ability to attract and retain customers.</p>
-        <span class="challenge-consequence">This limits growth potential and customer satisfaction.</span>
+        <h4>User Experience Challenges</h4>
+        <p>An outdated design and slow load times can frustrate users.</p>
+        <span class="challenge-consequence">Poor user experience can result in diminished customer loyalty and reduced repeat business.</span>
+      </div>
+    </div>
+  
+    <div class="challenge-item reveal stagger-3">
+      <div class="challenge-icon">⚡</div>
+      <div class="challenge-content">
+        <h4>Need for Better Online Visibility</h4>
+        <p>Weak SEO signals may be limiting your online reach.</p>
+        <span class="challenge-consequence">This can restrict your ability to attract new customers and compete effectively in the retail space.</span>
       </div>
     </div>
   
@@ -6009,7 +6066,7 @@ a:focus-visible {
       
       
       <div class="stakes-box reveal">
-        <p><strong>What's at stake:</strong> If these issues are not addressed, OfficeZilla risks losing market share to competitors who provide a better online experience.</p>
+        <p><strong>What's at stake:</strong> If these issues are not addressed, OfficeZilla risks losing market share to competitors who provide a more seamless online experience.</p>
       </div>
       
     </div>
@@ -6029,7 +6086,7 @@ a:focus-visible {
       </div>
       
       <div class="solution-intro reveal stagger-2">
-        <p>Our team would focus on a comprehensive redesign that prioritizes user experience and functionality.</p>
+        <p>Our team would take a comprehensive approach to redesigning your website, focusing on user experience and functionality.</p>
       </div>
       
       <div class="phases-timeline">
@@ -6041,10 +6098,10 @@ a:focus-visible {
       </div>
       <div class="phase-content">
         <h4>Discovery and Strategy</h4>
-        <p>We will begin by understanding your business goals and customer needs, conducting user research to inform our design decisions.</p>
+        <p>We start by understanding your business goals and customer needs, conducting user research and mapping the ideal user journey.</p>
         
           <div class="phase-deliverables">
-            <span class="phase-tag">User research report</span><span class="phase-tag">Design strategy document</span>
+            <span class="phase-tag">User experience strategy</span><span class="phase-tag">Detailed project plan</span>
           </div>
         
       </div>
@@ -6057,10 +6114,10 @@ a:focus-visible {
       </div>
       <div class="phase-content">
         <h4>Design and Development</h4>
-        <p>We will create a modern, intuitive design and develop the site on a robust platform that ensures optimal performance.</p>
+        <p>Next, we will create a modern, responsive design that enhances usability and aligns with your brand identity.</p>
         
           <div class="phase-deliverables">
-            <span class="phase-tag">Website wireframes</span><span class="phase-tag">High-fidelity design mockups</span><span class="phase-tag">Fully developed website</span>
+            <span class="phase-tag">Website redesign mockups</span><span class="phase-tag">Fully developed website</span>
           </div>
         
       </div>
@@ -6072,11 +6129,11 @@ a:focus-visible {
         
       </div>
       <div class="phase-content">
-        <h4>SEO and Launch</h4>
-        <p>Finally, we will implement SEO best practices and prepare for a seamless launch, ensuring your site is easily discoverable.</p>
+        <h4>SEO Implementation</h4>
+        <p>Finally, we will implement SEO best practices to improve online visibility and drive traffic to your site.</p>
         
           <div class="phase-deliverables">
-            <span class="phase-tag">SEO optimization report</span><span class="phase-tag">Launch plan</span>
+            <span class="phase-tag">SEO strategy document</span><span class="phase-tag">Optimized website content</span>
           </div>
         
       </div>
@@ -6086,7 +6143,7 @@ a:focus-visible {
       
       <div class="approach-callout reveal">
         <h4>What Makes Us Different</h4>
-        <p>What sets our approach apart is our commitment to hands-on involvement from discovery to delivery, ensuring that every detail aligns with your goals.</p>
+        <p>What sets our approach apart is our commitment to hands-on involvement throughout the project, ensuring that we deliver practical solutions tailored to your needs.</p>
       </div>
     </div>
   </section>
@@ -6106,8 +6163,8 @@ a:focus-visible {
       
       <div class="scope-card reveal scale">
         <div class="scope-header">
-          <h3 class="scope-name">Full Redesign</h3>
-          <p class="scope-description">This project includes a comprehensive redesign of your website, focusing on user experience, navigation, and SEO optimization.</p>
+          <h3 class="scope-name">Full Website Redesign</h3>
+          <p class="scope-description">This project includes a comprehensive redesign of your website to enhance user experience, improve navigation, and implement effective SEO strategies.</p>
           <span class="scope-timeline">
             <span class="scope-timeline-icon">⏱️</span>
             Estimated timeline is 6-8 weeks.
@@ -6119,7 +6176,7 @@ a:focus-visible {
     <div class="deliverable-category reveal stagger-1">
       <h5>Design and Development</h5>
       <ul class="deliverable-list">
-        <li>New website design</li><li>Improved navigation structure</li><li>SEO optimization</li>
+        <li>User experience strategy</li><li>Website redesign</li><li>SEO implementation</li>
       </ul>
     </div>
   
@@ -6127,7 +6184,7 @@ a:focus-visible {
         
         
         <div class="scope-outcome">
-          <p><strong>Outcome:</strong> At the end of this project, you will have a modern, user-friendly website that enhances customer satisfaction and drives sales.</p>
+          <p><strong>Outcome:</strong> At the end of this project, you will have a modern, user-friendly website that improves customer engagement and drives sales.</p>
         </div>
         
       </div>
@@ -6176,25 +6233,25 @@ a:focus-visible {
           Why Us
         </span>
         <h2 class="reveal stagger-1">Why Brunello</h2>
-        <p class="lead reveal stagger-2">We bring 20 years of experience in web design and development, particularly in the retail sector, where user experience is paramount.</p>
+        <p class="lead reveal stagger-2">We bring 20 years of experience in web design and development, particularly in the retail sector.</p>
       </div>
       
       <div class="differentiators-grid">
         
     <div class="differentiator-item reveal stagger-1">
-      <h4>Senior-led Teams</h4>
-      <p>Our senior-led teams ensure that you receive expert guidance without junior handoffs, providing a seamless experience.</p>
+      <h4>Senior-Led Teams</h4>
+      <p>Our experienced team ensures no junior handoffs, providing consistent quality and strategic insight throughout the project.</p>
     </div>
   
     <div class="differentiator-item reveal stagger-2">
-      <h4>Focus on Long-term Partnerships</h4>
-      <p>We prioritize building long-term relationships with our clients, ensuring that your needs are met well beyond the project.</p>
+      <h4>Focus on Long-Term Partnerships</h4>
+      <p>We prioritize building lasting relationships, which allows us to understand your evolving needs and deliver ongoing support.</p>
     </div>
   
       </div>
       
       <div class="experience-box reveal stagger-5">
-        <p><strong>Industries we serve:</strong> We have successfully worked with retail clients to enhance their online platforms, resulting in improved customer engagement and sales.</p>
+        <p><strong>Industries we serve:</strong> We have successfully partnered with various retail businesses, enhancing their online presence and improving customer experiences.</p>
         <div class="industries-tags">
           <span class="industry-tag">Higher Education</span><span class="industry-tag">Healthcare</span><span class="industry-tag">Clean Energy</span><span class="industry-tag">B2B</span><span class="industry-tag">Nonprofits</span><span class="industry-tag">Consulting</span><span class="industry-tag">SaaS</span>
         </div>
@@ -6212,7 +6269,7 @@ a:focus-visible {
           <div class="guarantee-icon">🛡️</div>
           <h2>Our Commitment</h2>
           <p class="guarantee-text">We guarantee practical solutions delivered with integrity and expertise, ensuring every project is executed to the highest standards.</p>
-          <p class="guarantee-note">Our extensive experience in web design and development gives us the confidence that we can deliver a website that meets your needs.</p>
+          <p class="guarantee-note">Our extensive experience in the industry gives us confidence in delivering results that align with your business goals.</p>
           <div class="guarantee-badge">
             <span class="guarantee-badge-icon">✓</span>
             <span>Quality Guaranteed</span>
@@ -6241,9 +6298,9 @@ a:focus-visible {
         <div class="about-content">
           <h3>Adam Hoyle</h3>
           <p class="about-title">Co-founder, Partner</p>
-          <p class="about-bio">Adam leads digital strategy and client partnerships at Brunello. He has nearly two decades of experience in web design and development, focusing on creating user-friendly platforms that drive results.</p>
+          <p class="about-bio">Adam leads digital strategy and client partnerships at Brunello, Inc. He has nearly two decades of experience in web design and development.</p>
           <ul class="about-points">
-            <li>Led successful redesigns for retail and e-commerce clients, enhancing user experience and conversion rates.</li><li>Expert in developing SEO strategies that improve online visibility and traffic.</li><li>Strong background in creating practical solutions tailored to client needs.</li>
+            <li>Expertise in creating user-centered designs that drive engagement.</li><li>Proven track record of successful projects in the retail sector.</li><li>Commitment to delivering high-quality results that meet client needs.</li>
           </ul>
         </div>
       </div>
@@ -6264,7 +6321,7 @@ a:focus-visible {
     <div class="container">
       <div class="cta-content">
         <h2 class="reveal">Interested in Exploring This?</h2>
-        <p class="lead reveal stagger-1">Let&#039;s discuss how we can enhance your website to improve customer experience and drive sales.</p>
+        <p class="lead reveal stagger-1">We would love to discuss how we can enhance your website.</p>
         
         <div class="cta-buttons reveal stagger-2">
           <a href="https://calendly.com/brunelloinc/introductions" class="btn btn-primary btn-xl" target="_blank" rel="noopener">
@@ -6276,7 +6333,7 @@ a:focus-visible {
           </a>
         </div>
         
-        <p class="cta-note reveal stagger-3">During the call, we will explore your specific needs and outline our proposed approach.</p>
+        <p class="cta-note reveal stagger-3">During our call, we will delve deeper into your specific needs and outline how our approach can help OfficeZilla achieve its goals.</p>
         
         <div class="cta-context reveal stagger-4">
           <span class="cta-context-icon">💬</span>
@@ -6519,7 +6576,7 @@ a:focus-visible {
     function initAnalytics() {
       const proposalData = {
         company: 'OfficeZilla',
-        proposalId: 'BRN-MD5FRN',
+        proposalId: 'BRN-QR45CB',
         contact: 'Wayne',
         icpScore: 45,
         viewedAt: new Date().toISOString()
