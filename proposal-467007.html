@@ -1,0 +1,2161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Streamline Your Proposal Process Today</title>
+  <meta name="description" content="Automate your proposals to save time and boost accountability with our tailored solution.">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+  
+  <style>
+    /* ============================================
+       CSS RESET & BASE STYLES
+       ============================================ */
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    
+    :root {
+      /* Colors */
+      --primary: #6366f1;
+      --primary-dark: #4f46e5;
+      --secondary: #ec4899;
+      --accent: #06b6d4;
+      --success: #10b981;
+      --warning: #f59e0b;
+      
+      /* Light mode */
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8fafc;
+      --bg-tertiary: #f1f5f9;
+      --text-primary: #0f172a;
+      --text-secondary: #475569;
+      --text-muted: #94a3b8;
+      --border-color: #e2e8f0;
+      --card-bg: #ffffff;
+      --card-shadow: 0 1px 3px rgba(0,0,0,0.1), 0 1px 2px rgba(0,0,0,0.06);
+      --card-shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -2px rgba(0,0,0,0.05);
+      
+      /* Spacing */
+      --space-xs: 0.25rem;
+      --space-sm: 0.5rem;
+      --space-md: 1rem;
+      --space-lg: 1.5rem;
+      --space-xl: 2rem;
+      --space-2xl: 3rem;
+      --space-3xl: 4rem;
+      --space-4xl: 6rem;
+      
+      /* Typography */
+      --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      --font-mono: 'JetBrains Mono', monospace;
+      
+      /* Transitions */
+      --transition-fast: 150ms ease;
+      --transition-base: 250ms ease;
+      --transition-slow: 350ms ease;
+      
+      /* Border radius */
+      --radius-sm: 0.375rem;
+      --radius-md: 0.5rem;
+      --radius-lg: 0.75rem;
+      --radius-xl: 1rem;
+      --radius-2xl: 1.5rem;
+      --radius-full: 9999px;
+      
+      /* Container */
+      --container-max: 1200px;
+      --container-padding: 1.5rem;
+    }
+    
+    /* Dark mode */
+    [data-theme="dark"] {
+      --bg-primary: #0f172a;
+      --bg-secondary: #1e293b;
+      --bg-tertiary: #334155;
+      --text-primary: #f8fafc;
+      --text-secondary: #cbd5e1;
+      --text-muted: #64748b;
+      --border-color: #334155;
+      --card-bg: #1e293b;
+      --card-shadow: 0 1px 3px rgba(0,0,0,0.3), 0 1px 2px rgba(0,0,0,0.2);
+      --card-shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.4), 0 4px 6px -2px rgba(0,0,0,0.2);
+    }
+        /* ============================================
+       BASE ELEMENTS
+       ============================================ */
+    html {
+      scroll-behavior: smooth;
+      font-size: 16px;
+    }
+    
+    body {
+      font-family: var(--font-sans);
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      overflow-x: hidden;
+    }
+    
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+    
+    a {
+      color: var(--primary);
+      text-decoration: none;
+      transition: color var(--transition-fast);
+    }
+    
+    a:hover {
+      color: var(--primary-dark);
+    }
+    
+    /* ============================================
+       TYPOGRAPHY
+       ============================================ */
+    h1, h2, h3, h4, h5, h6 {
+      font-weight: 700;
+      line-height: 1.2;
+      color: var(--text-primary);
+    }
+    
+    h1 { font-size: clamp(2.5rem, 5vw, 4rem); }
+    h2 { font-size: clamp(2rem, 4vw, 3rem); }
+    h3 { font-size: clamp(1.5rem, 3vw, 2rem); }
+    h4 { font-size: clamp(1.25rem, 2vw, 1.5rem); }
+    
+    p {
+      color: var(--text-secondary);
+      margin-bottom: var(--space-md);
+    }
+    
+    .text-gradient {
+      background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    
+    /* ============================================
+       LAYOUT
+       ============================================ */
+    .container {
+      width: 100%;
+      max-width: var(--container-max);
+      margin: 0 auto;
+      padding: 0 var(--container-padding);
+    }
+    
+    .section {
+      padding: var(--space-4xl) 0;
+    }
+    
+    .section-header {
+      text-align: center;
+      max-width: 800px;
+      margin: 0 auto var(--space-3xl);
+    }
+    
+    .section-header h2 {
+      margin-bottom: var(--space-md);
+    }
+    
+    .section-header p {
+      font-size: 1.125rem;
+      color: var(--text-secondary);
+    }
+    
+    /* ============================================
+       COMPONENTS - BUTTONS
+       ============================================ */
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: var(--space-sm);
+      padding: var(--space-md) var(--space-xl);
+      font-family: var(--font-sans);
+      font-size: 1rem;
+      font-weight: 600;
+      border: none;
+      border-radius: var(--radius-lg);
+      cursor: pointer;
+      transition: all var(--transition-base);
+      text-decoration: none;
+    }
+    
+    .btn-primary {
+      background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+      color: white;
+      box-shadow: 0 4px 14px rgba(99, 102, 241, 0.4);
+    }
+    
+    .btn-primary:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(99, 102, 241, 0.5);
+      color: white;
+    }
+    
+    .btn-secondary {
+      background: var(--bg-secondary);
+      color: var(--text-primary);
+      border: 1px solid var(--border-color);
+    }
+    
+    .btn-secondary:hover {
+      background: var(--bg-tertiary);
+      border-color: var(--primary);
+    }
+    
+    .btn-lg {
+      padding: var(--space-lg) var(--space-2xl);
+      font-size: 1.125rem;
+    }
+    
+    /* ============================================
+       COMPONENTS - CARDS
+       ============================================ */
+    .card {
+      background: var(--card-bg);
+      border-radius: var(--radius-xl);
+      padding: var(--space-xl);
+      box-shadow: var(--card-shadow);
+      border: 1px solid var(--border-color);
+      transition: all var(--transition-base);
+    }
+    
+    .card:hover {
+      box-shadow: var(--card-shadow-lg);
+      transform: translateY(-4px);
+    }
+    
+    .card-icon {
+      width: 48px;
+      height: 48px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+      border-radius: var(--radius-lg);
+      margin-bottom: var(--space-lg);
+      color: white;
+    }
+    
+    .card h4 {
+      margin-bottom: var(--space-sm);
+    }
+    
+    .card p {
+      color: var(--text-secondary);
+      margin: 0;
+    }
+    
+    /* ============================================
+       COMPONENTS - BADGES
+       ============================================ */
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: var(--space-xs);
+      padding: var(--space-xs) var(--space-md);
+      font-size: 0.875rem;
+      font-weight: 500;
+      border-radius: var(--radius-full);
+      background: var(--bg-secondary);
+      color: var(--text-secondary);
+      border: 1px solid var(--border-color);
+    }
+    
+    .badge-primary {
+      background: rgba(99, 102, 241, 0.1);
+      color: var(--primary);
+      border-color: rgba(99, 102, 241, 0.2);
+    }
+    
+    .badge-success {
+      background: rgba(16, 185, 129, 0.1);
+      color: var(--success);
+      border-color: rgba(16, 185, 129, 0.2);
+    }
+    
+    /* ============================================
+       NAVIGATION
+       ============================================ */
+    .navbar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 1000;
+      background: rgba(255, 255, 255, 0.8);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      border-bottom: 1px solid var(--border-color);
+      padding: var(--space-md) 0;
+      transition: all var(--transition-base);
+    }
+    
+    [data-theme="dark"] .navbar {
+      background: rgba(15, 23, 42, 0.8);
+    }
+    
+    .navbar-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    
+    .navbar-brand {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--text-primary);
+    }
+    
+    .navbar-actions {
+      display: flex;
+      align-items: center;
+      gap: var(--space-md);
+    }
+    
+    .theme-toggle {
+      width: 40px;
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--bg-secondary);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-md);
+      cursor: pointer;
+      color: var(--text-secondary);
+      transition: all var(--transition-fast);
+    }
+    
+    .theme-toggle:hover {
+      background: var(--bg-tertiary);
+      color: var(--text-primary);
+    }
+        /* ============================================
+       HERO SECTION
+       ============================================ */
+    .hero {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      padding-top: 80px;
+      position: relative;
+      overflow: hidden;
+    }
+    
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(circle at 20% 50%, rgba(99, 102, 241, 0.1) 0%, transparent 50%),
+        radial-gradient(circle at 80% 50%, rgba(236, 72, 153, 0.1) 0%, transparent 50%),
+        radial-gradient(circle at 50% 100%, rgba(6, 182, 212, 0.1) 0%, transparent 50%);
+      pointer-events: none;
+    }
+    
+    .hero-content {
+      position: relative;
+      z-index: 1;
+      max-width: 900px;
+      margin: 0 auto;
+      text-align: center;
+    }
+    
+    .hero-badge {
+      margin-bottom: var(--space-xl);
+    }
+    
+    .hero h1 {
+      margin-bottom: var(--space-lg);
+      letter-spacing: -0.02em;
+    }
+    
+    .hero-subtitle {
+      font-size: 1.25rem;
+      color: var(--text-secondary);
+      max-width: 600px;
+      margin: 0 auto var(--space-2xl);
+    }
+    
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: var(--space-md);
+      justify-content: center;
+    }
+    
+    .hero-visual {
+      margin-top: var(--space-4xl);
+      position: relative;
+    }
+    
+    .hero-visual::before {
+      content: '';
+      position: absolute;
+      inset: -20%;
+      background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+      opacity: 0.1;
+      filter: blur(60px);
+      border-radius: 50%;
+    }
+    
+    /* ============================================
+       COMPANY INFO BANNER
+       ============================================ */
+    .company-banner {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-xl);
+      padding: var(--space-xl);
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: var(--space-xl);
+      margin-top: var(--space-3xl);
+    }
+    
+    .company-banner-item {
+      display: flex;
+      align-items: center;
+      gap: var(--space-sm);
+    }
+    
+    .company-banner-item i {
+      color: var(--primary);
+    }
+    
+    .company-banner-label {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+    }
+    
+    .company-banner-value {
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+    
+    /* ============================================
+       OVERVIEW SECTION
+       ============================================ */
+    .overview-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: var(--space-xl);
+    }
+    
+    .overview-intro {
+      grid-column: 1 / -1;
+      text-align: center;
+      max-width: 800px;
+      margin: 0 auto var(--space-2xl);
+    }
+    
+    .overview-intro p {
+      font-size: 1.125rem;
+    }
+    
+    .overview-bullets {
+      display: flex;
+      flex-direction: column;
+      gap: var(--space-md);
+      margin-top: var(--space-xl);
+    }
+    
+    .overview-bullet {
+      display: flex;
+      align-items: flex-start;
+      gap: var(--space-md);
+      padding: var(--space-md);
+      background: var(--card-bg);
+      border-radius: var(--radius-lg);
+      border: 1px solid var(--border-color);
+    }
+    
+    .overview-bullet-icon {
+      width: 24px;
+      height: 24px;
+      flex-shrink: 0;
+      color: var(--success);
+    }
+    
+    .overview-bullet p {
+      margin: 0;
+      color: var(--text-primary);
+      font-weight: 500;
+    }
+    
+    /* ============================================
+       PROBLEM SECTION
+       ============================================ */
+    .problem-section {
+      background: var(--bg-secondary);
+    }
+    
+    .problem-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: var(--space-xl);
+    }
+    
+    .problem-card {
+      background: var(--card-bg);
+      border-radius: var(--radius-xl);
+      padding: var(--space-xl);
+      border: 1px solid var(--border-color);
+      position: relative;
+      overflow: hidden;
+    }
+    
+    .problem-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 4px;
+      background: linear-gradient(90deg, var(--warning) 0%, var(--secondary) 100%);
+    }
+    
+    .problem-card h4 {
+      margin-bottom: var(--space-sm);
+      display: flex;
+      align-items: center;
+      gap: var(--space-sm);
+    }
+    
+    .problem-card h4 i {
+      color: var(--warning);
+    }
+    
+    /* ============================================
+       SOLUTION SECTION
+       ============================================ */
+    .solution-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: var(--space-xl);
+    }
+    
+    .solution-card {
+      text-align: center;
+    }
+    
+    .solution-card .card-icon {
+      margin: 0 auto var(--space-lg);
+    }
+    
+    /* ============================================
+       ROI SECTION
+       ============================================ */
+    .roi-section {
+      background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+      color: white;
+      position: relative;
+      overflow: hidden;
+    }
+    
+    .roi-section::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      right: -20%;
+      width: 600px;
+      height: 600px;
+      background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    
+    .roi-section .section-header h2,
+    .roi-section .section-header p {
+      color: white;
+    }
+    
+    .roi-section .section-header p {
+      opacity: 0.9;
+    }
+    
+    .roi-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: var(--space-xl);
+      position: relative;
+      z-index: 1;
+    }
+    
+    .roi-card {
+      text-align: center;
+      padding: var(--space-xl);
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: var(--radius-xl);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+    }
+    
+    .roi-value {
+      font-size: 3rem;
+      font-weight: 800;
+      line-height: 1;
+      margin-bottom: var(--space-sm);
+      background: linear-gradient(135deg, #ffffff 0%, rgba(255,255,255,0.8) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    
+    .roi-label {
+      font-size: 0.875rem;
+      opacity: 0.9;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+        /* ============================================
+       PROCESS SECTION
+       ============================================ */
+    .process-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: var(--space-xl);
+      position: relative;
+    }
+    
+    .process-card {
+      position: relative;
+      text-align: center;
+      padding: var(--space-2xl) var(--space-xl);
+    }
+    
+    .process-number {
+      font-size: 4rem;
+      font-weight: 800;
+      line-height: 1;
+      background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      opacity: 0.3;
+      margin-bottom: var(--space-md);
+    }
+    
+    .process-card h4 {
+      margin-bottom: var(--space-sm);
+    }
+    
+    .process-connector {
+      display: none;
+      position: absolute;
+      top: 50%;
+      right: -30px;
+      width: 60px;
+      height: 2px;
+      background: linear-gradient(90deg, var(--primary) 0%, var(--secondary) 100%);
+    }
+    
+    @media (min-width: 768px) {
+      .process-card:not(:last-child) .process-connector {
+        display: block;
+      }
+    }
+    
+    /* ============================================
+       TESTIMONIAL SECTION
+       ============================================ */
+    .testimonial-section {
+      background: var(--bg-secondary);
+    }
+    
+    .testimonial-card {
+      max-width: 800px;
+      margin: 0 auto;
+      text-align: center;
+      padding: var(--space-3xl);
+      background: var(--card-bg);
+      border-radius: var(--radius-2xl);
+      border: 1px solid var(--border-color);
+      position: relative;
+    }
+    
+    .testimonial-quote-icon {
+      width: 48px;
+      height: 48px;
+      margin: 0 auto var(--space-xl);
+      color: var(--primary);
+      opacity: 0.5;
+    }
+    
+    .testimonial-text {
+      font-size: 1.5rem;
+      font-weight: 500;
+      line-height: 1.6;
+      color: var(--text-primary);
+      margin-bottom: var(--space-xl);
+      font-style: italic;
+    }
+    
+    .testimonial-author {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: var(--space-xs);
+    }
+    
+    .testimonial-author-name {
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+    
+    .testimonial-author-title {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+    }
+    
+    /* ============================================
+       PRICING SECTION
+       ============================================ */
+    .pricing-card {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: var(--space-3xl);
+      background: var(--card-bg);
+      border-radius: var(--radius-2xl);
+      border: 2px solid var(--primary);
+      position: relative;
+      overflow: hidden;
+    }
+    
+    .pricing-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 6px;
+      background: linear-gradient(90deg, var(--primary) 0%, var(--secondary) 100%);
+    }
+    
+    .pricing-badge {
+      position: absolute;
+      top: var(--space-xl);
+      right: var(--space-xl);
+    }
+    
+    .pricing-header {
+      text-align: center;
+      margin-bottom: var(--space-2xl);
+      padding-bottom: var(--space-2xl);
+      border-bottom: 1px solid var(--border-color);
+    }
+    
+    .pricing-name {
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-bottom: var(--space-xs);
+    }
+    
+    .pricing-subtitle {
+      color: var(--text-muted);
+      margin-bottom: var(--space-lg);
+    }
+    
+    .pricing-amount {
+      display: flex;
+      align-items: baseline;
+      justify-content: center;
+      gap: var(--space-sm);
+      margin-bottom: var(--space-sm);
+    }
+    
+    .pricing-currency {
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: var(--text-secondary);
+    }
+    
+    .pricing-value {
+      font-size: 4rem;
+      font-weight: 800;
+      line-height: 1;
+      color: var(--text-primary);
+    }
+    
+    .pricing-period {
+      font-size: 1rem;
+      color: var(--text-muted);
+    }
+    
+    .pricing-setup {
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+    }
+    
+    .pricing-features {
+      list-style: none;
+      margin-bottom: var(--space-2xl);
+    }
+    
+    .pricing-features li {
+      display: flex;
+      align-items: flex-start;
+      gap: var(--space-md);
+      padding: var(--space-md) 0;
+      border-bottom: 1px solid var(--border-color);
+    }
+    
+    .pricing-features li:last-child {
+      border-bottom: none;
+    }
+    
+    .pricing-features i {
+      color: var(--success);
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+    
+    .pricing-cta {
+      text-align: center;
+    }
+    
+    .pricing-cta .btn {
+      width: 100%;
+    }
+    
+    .pricing-guarantee {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: var(--space-sm);
+      margin-top: var(--space-lg);
+      font-size: 0.875rem;
+      color: var(--text-muted);
+    }
+    
+    .pricing-guarantee i {
+      color: var(--success);
+    }
+    
+    /* ============================================
+       FAQ SECTION
+       ============================================ */
+    .faq-section {
+      background: var(--bg-secondary);
+    }
+    
+    .faq-grid {
+      max-width: 800px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: var(--space-md);
+    }
+    
+    .faq-item {
+      background: var(--card-bg);
+      border-radius: var(--radius-lg);
+      border: 1px solid var(--border-color);
+      overflow: hidden;
+    }
+    
+    .faq-question {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: var(--space-lg) var(--space-xl);
+      background: none;
+      border: none;
+      cursor: pointer;
+      text-align: left;
+      font-family: var(--font-sans);
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--text-primary);
+      transition: all var(--transition-fast);
+    }
+    
+    .faq-question:hover {
+      color: var(--primary);
+    }
+    
+    .faq-question i {
+      transition: transform var(--transition-base);
+      flex-shrink: 0;
+      margin-left: var(--space-md);
+    }
+    
+    .faq-item.active .faq-question i {
+      transform: rotate(180deg);
+    }
+    
+    .faq-answer {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height var(--transition-base);
+    }
+    
+    .faq-item.active .faq-answer {
+      max-height: 500px;
+    }
+    
+    .faq-answer-inner {
+      padding: 0 var(--space-xl) var(--space-lg);
+      color: var(--text-secondary);
+    }
+        /* ============================================
+       FINAL CTA SECTION
+       ============================================ */
+    .final-cta-section {
+      background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+      color: white;
+      position: relative;
+      overflow: hidden;
+    }
+    
+    .final-cta-section::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      left: -20%;
+      width: 600px;
+      height: 600px;
+      background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    
+    .final-cta-content {
+      max-width: 700px;
+      margin: 0 auto;
+      text-align: center;
+      position: relative;
+      z-index: 1;
+    }
+    
+    .final-cta-content h2 {
+      color: white;
+      margin-bottom: var(--space-lg);
+    }
+    
+    .final-cta-content p {
+      font-size: 1.25rem;
+      color: rgba(255, 255, 255, 0.9);
+      margin-bottom: var(--space-2xl);
+    }
+    
+    .final-cta-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: var(--space-md);
+      justify-content: center;
+    }
+    
+    .btn-white {
+      background: white;
+      color: var(--primary);
+      box-shadow: 0 4px 14px rgba(0,0,0,0.2);
+    }
+    
+    .btn-white:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+      color: var(--primary-dark);
+    }
+    
+    .urgency-text {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: var(--space-sm);
+      margin-top: var(--space-lg);
+      font-size: 0.875rem;
+      opacity: 0.9;
+    }
+    
+    .urgency-text i {
+      animation: pulse 2s ease-in-out infinite;
+    }
+    
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+    
+    /* ============================================
+       FOOTER
+       ============================================ */
+    .footer {
+      background: var(--bg-secondary);
+      border-top: 1px solid var(--border-color);
+      padding: var(--space-3xl) 0 var(--space-xl);
+    }
+    
+    .footer-content {
+      text-align: center;
+    }
+    
+    .footer-brand {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin-bottom: var(--space-md);
+    }
+    
+    .footer-text {
+      color: var(--text-muted);
+      font-size: 0.875rem;
+      margin-bottom: var(--space-lg);
+    }
+    
+    .footer-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: var(--space-md);
+      justify-content: center;
+      font-size: 0.875rem;
+      color: var(--text-muted);
+    }
+    
+    .footer-meta-item {
+      display: flex;
+      align-items: center;
+      gap: var(--space-xs);
+    }
+    
+    /* ============================================
+       AI CHAT WIDGET
+       ============================================ */
+    .chat-widget {
+      position: fixed;
+      bottom: var(--space-xl);
+      right: var(--space-xl);
+      z-index: 9999;
+    }
+    
+    .chat-button {
+      width: 60px;
+      height: 60px;
+      border-radius: var(--radius-full);
+      background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+      color: white;
+      border: none;
+      box-shadow: 0 4px 20px rgba(99, 102, 241, 0.4);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all var(--transition-base);
+    }
+    
+    .chat-button:hover {
+      transform: scale(1.1);
+      box-shadow: 0 6px 24px rgba(99, 102, 241, 0.5);
+    }
+    
+    .chat-button i {
+      width: 24px;
+      height: 24px;
+    }
+    
+    .chat-window {
+      position: absolute;
+      bottom: 80px;
+      right: 0;
+      width: 380px;
+      max-width: calc(100vw - 2rem);
+      height: 500px;
+      background: var(--card-bg);
+      border-radius: var(--radius-xl);
+      box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+      border: 1px solid var(--border-color);
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    
+    .chat-window.active {
+      display: flex;
+      animation: slideUp 0.3s ease;
+    }
+    
+    @keyframes slideUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    
+    .chat-header {
+      padding: var(--space-lg);
+      background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    
+    .chat-header-info {
+      display: flex;
+      align-items: center;
+      gap: var(--space-md);
+    }
+    
+    .chat-avatar {
+      width: 40px;
+      height: 40px;
+      border-radius: var(--radius-full);
+      background: rgba(255, 255, 255, 0.2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    .chat-title {
+      font-weight: 600;
+      margin-bottom: 2px;
+    }
+    
+    .chat-status {
+      font-size: 0.75rem;
+      opacity: 0.9;
+    }
+    
+    .chat-close {
+      background: rgba(255, 255, 255, 0.2);
+      border: none;
+      width: 32px;
+      height: 32px;
+      border-radius: var(--radius-md);
+      color: white;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all var(--transition-fast);
+    }
+    
+    .chat-close:hover {
+      background: rgba(255, 255, 255, 0.3);
+    }
+    
+    .chat-messages {
+      flex: 1;
+      overflow-y: auto;
+      padding: var(--space-lg);
+      display: flex;
+      flex-direction: column;
+      gap: var(--space-md);
+    }
+    
+    .chat-message {
+      display: flex;
+      gap: var(--space-sm);
+      max-width: 80%;
+    }
+    
+    .chat-message.assistant {
+      align-self: flex-start;
+    }
+    
+    .chat-message.user {
+      align-self: flex-end;
+      flex-direction: row-reverse;
+    }
+    
+    .chat-message-avatar {
+      width: 32px;
+      height: 32px;
+      border-radius: var(--radius-full);
+      background: var(--primary);
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      font-size: 0.875rem;
+    }
+    
+    .chat-message.user .chat-message-avatar {
+      background: var(--secondary);
+    }
+    
+    .chat-message-content {
+      background: var(--bg-secondary);
+      padding: var(--space-md);
+      border-radius: var(--radius-lg);
+      color: var(--text-primary);
+      font-size: 0.875rem;
+      line-height: 1.5;
+    }
+    
+    .chat-message.user .chat-message-content {
+      background: var(--primary);
+      color: white;
+    }
+    
+    .chat-input-wrapper {
+      padding: var(--space-lg);
+      border-top: 1px solid var(--border-color);
+      display: flex;
+      gap: var(--space-sm);
+    }
+    
+    .chat-input {
+      flex: 1;
+      padding: var(--space-md);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-lg);
+      background: var(--bg-secondary);
+      color: var(--text-primary);
+      font-family: var(--font-sans);
+      font-size: 0.875rem;
+      resize: none;
+    }
+    
+    .chat-input:focus {
+      outline: none;
+      border-color: var(--primary);
+    }
+    
+    .chat-send {
+      width: 40px;
+      height: 40px;
+      border-radius: var(--radius-lg);
+      background: var(--primary);
+      color: white;
+      border: none;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all var(--transition-fast);
+    }
+    
+    .chat-send:hover {
+      background: var(--primary-dark);
+    }
+    
+    .chat-send:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+        /* ============================================
+       RESPONSIVE STYLES
+       ============================================ */
+    @media (max-width: 768px) {
+      :root {
+        --container-padding: 1rem;
+      }
+      
+      .section {
+        padding: var(--space-3xl) 0;
+      }
+      
+      .hero {
+        min-height: auto;
+        padding: 120px 0 var(--space-3xl);
+      }
+      
+      .hero h1 {
+        font-size: 2rem;
+      }
+      
+      .hero-subtitle {
+        font-size: 1rem;
+      }
+      
+      .hero-actions {
+        flex-direction: column;
+        align-items: center;
+      }
+      
+      .hero-actions .btn {
+        width: 100%;
+      }
+      
+      .company-banner {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      
+      .pricing-card {
+        padding: var(--space-xl);
+      }
+      
+      .pricing-value {
+        font-size: 3rem;
+      }
+      
+      .testimonial-text {
+        font-size: 1.125rem;
+      }
+      
+      .roi-value {
+        font-size: 2.5rem;
+      }
+      
+      .chat-widget {
+        bottom: var(--space-md);
+        right: var(--space-md);
+      }
+      
+      .chat-window {
+        width: calc(100vw - 2rem);
+        height: 450px;
+        bottom: 70px;
+        right: -0.5rem;
+      }
+    }
+    
+    /* ============================================
+       ANIMATIONS
+       ============================================ */
+    .fade-in {
+      opacity: 0;
+      transform: translateY(20px);
+      transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+    
+    .fade-in.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    
+    .stagger-1 { transition-delay: 0.1s; }
+    .stagger-2 { transition-delay: 0.2s; }
+    .stagger-3 { transition-delay: 0.3s; }
+    .stagger-4 { transition-delay: 0.4s; }
+    
+    /* ============================================
+       SCROLL PROGRESS
+       ============================================ */
+    .scroll-progress {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--primary) 0%, var(--secondary) 100%);
+      z-index: 9999;
+      transition: width 0.1s linear;
+    }
+    
+    /* ============================================
+       PRINT STYLES
+       ============================================ */
+    @media print {
+      .navbar,
+      .chat-widget,
+      .theme-toggle,
+      .scroll-progress {
+        display: none !important;
+      }
+      
+      .hero {
+        min-height: auto;
+        padding: 2rem 0;
+      }
+      
+      .section {
+        padding: 2rem 0;
+        page-break-inside: avoid;
+      }
+      
+      .btn {
+        border: 1px solid currentColor;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Scroll Progress -->
+  <div class="scroll-progress" id="scrollProgress"></div>
+  
+  <!-- Navigation -->
+  <nav class="navbar">
+    <div class="container">
+      <div class="navbar-inner">
+        <div class="navbar-brand">
+          Proposal for 
+        </div>
+        <div class="navbar-actions">
+          <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+            <i data-lucide="moon" class="theme-icon-dark"></i>
+            <i data-lucide="sun" class="theme-icon-light" style="display: none;"></i>
+          </button>
+          <a href="#pricing" class="btn btn-primary">View Pricing</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+  
+  <!-- Hero Section -->
+  <section class="hero" id="hero">
+    <div class="container">
+      <div class="hero-content">
+        <div class="hero-badge">
+          <span class="badge badge-primary">
+            <i data-lucide="sparkles" style="width: 14px; height: 14px;"></i>
+            Personalized Proposal
+          </span>
+        </div>
+        
+        <h1>Streamline Your Proposal Process Today</h1>
+        
+        <p class="hero-subtitle">
+          Automate your proposals to save time and boost accountability with our tailored solution.
+        </p>
+        
+        <div class="hero-actions">
+          <a href="#pricing" class="btn btn-primary btn-lg">
+            <i data-lucide="rocket" style="width: 20px; height: 20px;"></i>
+            Get Started Now
+          </a>
+          <a href="#overview" class="btn btn-secondary btn-lg">
+            <i data-lucide="play-circle" style="width: 20px; height: 20px;"></i>
+            Learn More
+          </a>
+        </div>
+        
+        <div class="company-banner fade-in">
+          <div class="company-banner-item">
+            <i data-lucide="building-2" style="width: 20px; height: 20px;"></i>
+            <div>
+              <div class="company-banner-label">Company</div>
+              <div class="company-banner-value"></div>
+            </div>
+          </div>
+          <div class="company-banner-item">
+            <i data-lucide="briefcase" style="width: 20px; height: 20px;"></i>
+            <div>
+              <div class="company-banner-label">Industry</div>
+              <div class="company-banner-value">Digital Agency</div>
+            </div>
+          </div>
+          <div class="company-banner-item">
+            <i data-lucide="map-pin" style="width: 20px; height: 20px;"></i>
+            <div>
+              <div class="company-banner-label">Location</div>
+              <div class="company-banner-value">United States</div>
+            </div>
+          </div>
+          <div class="company-banner-item">
+            <i data-lucide="users" style="width: 20px; height: 20px;"></i>
+            <div>
+              <div class="company-banner-label">Team Size</div>
+              <div class="company-banner-value">10+ employees</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+    <!-- Overview Section -->
+  <section class="section" id="overview">
+    <div class="container">
+      <div class="section-header fade-in">
+        <h2>Why This Matters to Rocketship</h2>
+        <p>In the competitive digital marketing landscape, efficiency and accountability are crucial. Our proposal solution is designed to address your specific challenges and enhance your client acquisition process.</p>
+      </div>
+      
+      <div class="overview-bullets fade-in">
+        
+          <div class="overview-bullet stagger-1">
+            <i data-lucide="check-circle" class="overview-bullet-icon" style="width: 24px; height: 24px;"></i>
+            <p>Reduce time spent on manual proposal tracking by 20 hours monthly.</p>
+          </div>
+        
+          <div class="overview-bullet stagger-2">
+            <i data-lucide="check-circle" class="overview-bullet-icon" style="width: 24px; height: 24px;"></i>
+            <p>Enhance client trust with transparent, data-driven reporting.</p>
+          </div>
+        
+          <div class="overview-bullet stagger-3">
+            <i data-lucide="check-circle" class="overview-bullet-icon" style="width: 24px; height: 24px;"></i>
+            <p>Increase proposal output to capture more leads consistently.</p>
+          </div>
+        
+      </div>
+    </div>
+  </section>
+  
+  <!-- Problem Section -->
+  <section class="section problem-section" id="problem">
+    <div class="container">
+      <div class="section-header fade-in">
+        <h2>Identifying Your Challenges</h2>
+        <p>Rocketship faces significant hurdles in proposal generation that impact your growth potential. Let&#039;s explore these together.</p>
+      </div>
+      
+      <div class="problem-grid">
+        
+          <div class="problem-card fade-in stagger-1">
+            <h4>
+              <i data-lucide="alert-circle" style="width: 20px; height: 20px;"></i>
+              Competing with Larger Brands
+            </h4>
+            <p>Struggling to stand out against bigger competitors can hinder your growth.</p>
+          </div>
+        
+          <div class="problem-card fade-in stagger-2">
+            <h4>
+              <i data-lucide="alert-circle" style="width: 20px; height: 20px;"></i>
+              Inconsistent Lead Generation
+            </h4>
+            <p>Without a reliable proposal process, lead generation becomes unpredictable.</p>
+          </div>
+        
+          <div class="problem-card fade-in stagger-3">
+            <h4>
+              <i data-lucide="alert-circle" style="width: 20px; height: 20px;"></i>
+              Lack of Accountability
+            </h4>
+            <p>Previous agency experiences may have left you skeptical about results.</p>
+          </div>
+        
+      </div>
+    </div>
+  </section>
+  
+  <!-- Solution Section -->
+  <section class="section" id="solution">
+    <div class="container">
+      <div class="section-header fade-in">
+        <h2>Our Tailored Proposal Solution</h2>
+        <p>Our proposal system is designed to streamline your workflow and deliver measurable results, helping Rocketship thrive in the digital marketing arena.</p>
+      </div>
+      
+      <div class="solution-grid">
+        
+          <div class="solution-card card fade-in stagger-1">
+            <div class="card-icon">
+              <i data-lucide="rocket" style="width: 24px; height: 24px;"></i>
+            </div>
+            <h4>Up to 20 Proposals/Month</h4>
+            <p>Maximize your outreach without sacrificing quality.</p>
+          </div>
+        
+          <div class="solution-card card fade-in stagger-2">
+            <div class="card-icon">
+              <i data-lucide="clock" style="width: 24px; height: 24px;"></i>
+            </div>
+            <h4>Custom Branding &amp; Colors</h4>
+            <p>Ensure every proposal reflects your unique brand identity.</p>
+          </div>
+        
+          <div class="solution-card card fade-in stagger-3">
+            <div class="card-icon">
+              <i data-lucide="chart" style="width: 24px; height: 24px;"></i>
+            </div>
+            <h4>Mobile-Responsive Pages</h4>
+            <p>Reach clients on any device, enhancing accessibility and engagement.</p>
+          </div>
+        
+          <div class="solution-card card fade-in stagger-4">
+            <div class="card-icon">
+              <i data-lucide="shield" style="width: 24px; height: 24px;"></i>
+            </div>
+            <h4>Basic Analytics</h4>
+            <p>Track performance easily to refine your strategies and improve outcomes.</p>
+          </div>
+        
+      </div>
+    </div>
+  </section>
+  
+  <!-- ROI Section -->
+  <section class="section roi-section" id="roi">
+    <div class="container">
+      <div class="section-header fade-in">
+        <h2>The Numbers Don&#039;t Lie</h2>
+        <p>Investing in our proposal solution yields significant returns for Rocketship.</p>
+      </div>
+      
+      <div class="roi-grid">
+        
+          <div class="roi-card fade-in stagger-1">
+            <div class="roi-value">8</div>
+            <div class="roi-label">Proposals Generated Monthly</div>
+          </div>
+        
+          <div class="roi-card fade-in stagger-2">
+            <div class="roi-value">2.5</div>
+            <div class="roi-label">Hours Saved Per Proposal</div>
+          </div>
+        
+          <div class="roi-card fade-in stagger-3">
+            <div class="roi-value">$1500</div>
+            <div class="roi-label">Monthly Value Saved</div>
+          </div>
+        
+          <div class="roi-card fade-in stagger-4">
+            <div class="roi-value">$18000</div>
+            <div class="roi-label">Annual Value Saved</div>
+          </div>
+        
+      </div>
+    </div>
+  </section>
+  
+  <!-- Process Section -->
+  <section class="section" id="process">
+    <div class="container">
+      <div class="section-header fade-in">
+        <h2>How It Works</h2>
+      </div>
+      
+      <div class="process-grid">
+        
+          <div class="process-card fade-in stagger-1">
+            <div class="process-number">01</div>
+            <h4>Sign Up</h4>
+            <p>Join our platform with a simple setup process.</p>
+            <div class="process-connector"></div>
+          </div>
+        
+          <div class="process-card fade-in stagger-2">
+            <div class="process-number">02</div>
+            <h4>Customize Your Proposals</h4>
+            <p>Input your branding and preferences to tailor your proposals.</p>
+            <div class="process-connector"></div>
+          </div>
+        
+          <div class="process-card fade-in stagger-3">
+            <div class="process-number">03</div>
+            <h4>Automate Tracking</h4>
+            <p>Let our system handle metrics and analytics for you.</p>
+            <div class="process-connector"></div>
+          </div>
+        
+          <div class="process-card fade-in stagger-4">
+            <div class="process-number">04</div>
+            <h4>Generate Proposals</h4>
+            <p>Create and send proposals efficiently to capture more leads.</p>
+            <div class="process-connector"></div>
+          </div>
+        
+      </div>
+    </div>
+  </section>
+  
+  <!-- Testimonial Section -->
+  <section class="section testimonial-section" id="testimonial">
+    <div class="container">
+      <div class="testimonial-card fade-in">
+        <i data-lucide="quote" class="testimonial-quote-icon" style="width: 48px; height: 48px;"></i>
+        <p class="testimonial-text">"Using this proposal automation has transformed our client engagement and significantly reduced our workload."</p>
+        <div class="testimonial-author">
+          <div class="testimonial-author-name">Jane D.</div>
+          <div class="testimonial-author-title">Marketing Director at a Leading Agency</div>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Pricing Section -->
+  <section class="section" id="pricing">
+    <div class="container">
+      <div class="section-header fade-in">
+        <h2>Your Investment</h2>
+        <p>For just $197/month, unlock the potential of streamlined proposal generation without long-term commitments.</p>
+      </div>
+      
+      <div class="pricing-card fade-in">
+        
+        
+        <div class="pricing-header">
+          <div class="pricing-name">Starter</div>
+          <div class="pricing-subtitle">Perfect for small agencies</div>
+          
+          
+            <div class="pricing-amount">
+              <span class="pricing-currency">$</span>
+              <span class="pricing-value">197</span>
+              <span class="pricing-period">/month</span>
+            </div>
+            <div class="pricing-setup">+ $997 one-time setup</div>
+          
+        </div>
+        
+        <ul class="pricing-features">
+          
+            <li>
+              <i data-lucide="check" style="width: 20px; height: 20px;"></i>
+              <span>Up to 20 proposals/month</span>
+            </li>
+          
+            <li>
+              <i data-lucide="check" style="width: 20px; height: 20px;"></i>
+              <span>Basic proposal templates</span>
+            </li>
+          
+            <li>
+              <i data-lucide="check" style="width: 20px; height: 20px;"></i>
+              <span>Your branding &amp; colors</span>
+            </li>
+          
+            <li>
+              <i data-lucide="check" style="width: 20px; height: 20px;"></i>
+              <span>Mobile-responsive pages</span>
+            </li>
+          
+            <li>
+              <i data-lucide="check" style="width: 20px; height: 20px;"></i>
+              <span>Email notifications</span>
+            </li>
+          
+            <li>
+              <i data-lucide="check" style="width: 20px; height: 20px;"></i>
+              <span>Basic analytics</span>
+            </li>
+          
+        </ul>
+        
+        <div class="pricing-cta">
+          <a href="mailto:?subject=Interested in Proposal Automation" class="btn btn-primary btn-lg">
+            <i data-lucide="calendar" style="width: 20px; height: 20px;"></i>
+            Schedule Your Demo
+          </a>
+          <div class="pricing-guarantee">
+            <i data-lucide="shield-check" style="width: 16px; height: 16px;"></i>
+            30-day money-back guarantee
+          </div>
+        </div>
+      </div>
+      
+      
+        <div class="card" style="max-width: 600px; margin: var(--space-3xl) auto 0; text-align: center;">
+          <h4 style="margin-bottom: var(--space-lg);">Your Estimated ROI</h4>
+          <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: var(--space-lg);">
+            <div>
+              <div style="font-size: 2rem; font-weight: 700; color: var(--success);">
+                $1,500
+              </div>
+              <div style="font-size: 0.875rem; color: var(--text-muted);">Monthly Value Saved</div>
+            </div>
+            <div>
+              <div style="font-size: 2rem; font-weight: 700; color: var(--success);">
+                $18,000
+              </div>
+              <div style="font-size: 0.875rem; color: var(--text-muted);">Annual Value Saved</div>
+            </div>
+            <div>
+              <div style="font-size: 2rem; font-weight: 700; color: var(--primary);">
+                761%
+              </div>
+              <div style="font-size: 0.875rem; color: var(--text-muted);">ROI</div>
+            </div>
+          </div>
+        </div>
+      
+    </div>
+  </section>
+  
+  <!-- FAQ Section -->
+  <section class="section faq-section" id="faq">
+    <div class="container">
+      <div class="section-header fade-in">
+        <h2>Common Questions</h2>
+      </div>
+      
+      <div class="faq-grid">
+        
+          <div class="faq-item fade-in stagger-1">
+            <button class="faq-question" onclick="toggleFaq(this)">
+              <span>How quickly can I start using the system?</span>
+              <i data-lucide="chevron-down" style="width: 20px; height: 20px;"></i>
+            </button>
+            <div class="faq-answer">
+              <div class="faq-answer-inner">
+                <p>You can start generating proposals within 48 hours of signing up.</p>
+              </div>
+            </div>
+          </div>
+        
+          <div class="faq-item fade-in stagger-2">
+            <button class="faq-question" onclick="toggleFaq(this)">
+              <span>Are there any hidden fees?</span>
+              <i data-lucide="chevron-down" style="width: 20px; height: 20px;"></i>
+            </button>
+            <div class="faq-answer">
+              <div class="faq-answer-inner">
+                <p>No, we offer a transparent pricing model with no hidden fees.</p>
+              </div>
+            </div>
+          </div>
+        
+          <div class="faq-item fade-in stagger-3">
+            <button class="faq-question" onclick="toggleFaq(this)">
+              <span>Can I upgrade my plan later?</span>
+              <i data-lucide="chevron-down" style="width: 20px; height: 20px;"></i>
+            </button>
+            <div class="faq-answer">
+              <div class="faq-answer-inner">
+                <p>Absolutely! You can upgrade at any time to access more features.</p>
+              </div>
+            </div>
+          </div>
+        
+          <div class="faq-item fade-in stagger-4">
+            <button class="faq-question" onclick="toggleFaq(this)">
+              <span>Is training provided?</span>
+              <i data-lucide="chevron-down" style="width: 20px; height: 20px;"></i>
+            </button>
+            <div class="faq-answer">
+              <div class="faq-answer-inner">
+                <p>Yes, we offer comprehensive onboarding and support to ensure your success.</p>
+              </div>
+            </div>
+          </div>
+        
+      </div>
+    </div>
+  </section>
+    <!-- Final CTA Section -->
+  <section class="section final-cta-section" id="cta">
+    <div class="container">
+      <div class="final-cta-content fade-in">
+        <h2>Ready to Transform Your Proposal Process?</h2>
+        <p>Don&#039;t let inefficient proposals hold you back. Invest in your growth today.</p>
+        
+        <div class="final-cta-actions">
+          <a href="mailto:?subject=Ready to Get Started" class="btn btn-white btn-lg">
+            <i data-lucide="rocket" style="width: 20px; height: 20px;"></i>
+            Start My Free Trial
+          </a>
+        </div>
+        
+        
+          <div class="urgency-text">
+            <i data-lucide="clock" style="width: 16px; height: 16px;"></i>
+            Limited time offer!
+          </div>
+        
+      </div>
+    </div>
+  </section>
+  
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-brand">Proposal for </div>
+        <p class="footer-text">This proposal was prepared specifically for you at .</p>
+        <div class="footer-meta">
+          <div class="footer-meta-item">
+            <i data-lucide="calendar" style="width: 14px; height: 14px;"></i>
+            Generated: February 13, 2026
+          </div>
+          <div class="footer-meta-item">
+            <i data-lucide="shield" style="width: 14px; height: 14px;"></i>
+            Confidential
+          </div>
+          <div class="footer-meta-item">
+            <i data-lucide="hash" style="width: 14px; height: 14px;"></i>
+            ID: proposal-467007
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  
+  <!-- AI Chat Widget -->
+  <div class="chat-widget">
+    <div class="chat-window" id="chatWindow">
+      <div class="chat-header">
+        <div class="chat-header-info">
+          <div class="chat-avatar">
+            <i data-lucide="bot" style="width: 20px; height: 20px;"></i>
+          </div>
+          <div>
+            <div class="chat-title">Proposal Assistant</div>
+            <div class="chat-status">● Online</div>
+          </div>
+        </div>
+        <button class="chat-close" onclick="toggleChat()">
+          <i data-lucide="x" style="width: 18px; height: 18px;"></i>
+        </button>
+      </div>
+      
+      <div class="chat-messages" id="chatMessages">
+        <div class="chat-message assistant">
+          <div class="chat-message-avatar">
+            <i data-lucide="bot" style="width: 16px; height: 16px;"></i>
+          </div>
+          <div class="chat-message-content">
+            Hi there! 👋 I'm your proposal assistant. I can answer questions about this proposal, pricing, features, or how everything works. What would you like to know?
+          </div>
+        </div>
+      </div>
+      
+      <div class="chat-input-wrapper">
+        <input type="text" class="chat-input" id="chatInput" placeholder="Ask a question..." onkeypress="handleChatKeypress(event)">
+        <button class="chat-send" onclick="sendChatMessage()" id="chatSend">
+          <i data-lucide="send" style="width: 18px; height: 18px;"></i>
+        </button>
+      </div>
+    </div>
+    
+    <button class="chat-button" onclick="toggleChat()" id="chatButton">
+      <i data-lucide="message-circle" style="width: 24px; height: 24px;"></i>
+    </button>
+  </div>
+  
+  <script>
+    // Initialize Lucide icons
+    lucide.createIcons();
+    
+    // ============================================
+    // THEME TOGGLE
+    // ============================================
+    const themeToggle = document.getElementById('themeToggle');
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    let currentTheme = localStorage.getItem('theme') || (prefersDark ? 'dark' : 'light');
+    
+    function setTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      localStorage.setItem('theme', theme);
+      currentTheme = theme;
+      
+      const darkIcon = document.querySelector('.theme-icon-dark');
+      const lightIcon = document.querySelector('.theme-icon-light');
+      
+      if (theme === 'dark') {
+        darkIcon.style.display = 'none';
+        lightIcon.style.display = 'block';
+      } else {
+        darkIcon.style.display = 'block';
+        lightIcon.style.display = 'none';
+      }
+    }
+    
+    setTheme(currentTheme);
+    
+    themeToggle.addEventListener('click', () => {
+      setTheme(currentTheme === 'dark' ? 'light' : 'dark');
+    });
+    
+    // ============================================
+    // FAQ TOGGLE
+    // ============================================
+    function toggleFaq(button) {
+      const item = button.closest('.faq-item');
+      const isActive = item.classList.contains('active');
+      
+      // Close all other items
+      document.querySelectorAll('.faq-item.active').forEach(el => {
+        el.classList.remove('active');
+      });
+      
+      // Toggle current item
+      if (!isActive) {
+        item.classList.add('active');
+      }
+      
+      // Reinitialize icons
+      lucide.createIcons();
+    }
+    
+    // ============================================
+    // SCROLL PROGRESS
+    // ============================================
+    const scrollProgress = document.getElementById('scrollProgress');
+    
+    window.addEventListener('scroll', () => {
+      const scrollTop = window.scrollY;
+      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+      const progress = (scrollTop / docHeight) * 100;
+      scrollProgress.style.width = progress + '%';
+    });
+    
+    // ============================================
+    // FADE-IN ANIMATIONS
+    // ============================================
+    const observerOptions = {
+      root: null,
+      rootMargin: '0px',
+      threshold: 0.1
+    };
+    
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, observerOptions);
+    
+    document.querySelectorAll('.fade-in').forEach(el => {
+      observer.observe(el);
+    });
+    
+    // ============================================
+    // CHAT WIDGET
+    // ============================================
+    let chatOpen = false;
+    
+    function toggleChat() {
+      const chatWindow = document.getElementById('chatWindow');
+      chatOpen = !chatOpen;
+      
+      if (chatOpen) {
+        chatWindow.classList.add('active');
+      } else {
+        chatWindow.classList.remove('active');
+      }
+      
+      lucide.createIcons();
+    }
+    
+    function handleChatKeypress(event) {
+      if (event.key === 'Enter') {
+        sendChatMessage();
+      }
+    }
+    
+    // Proposal context for AI responses
+    const proposalContext = {
+      company: {},
+      lead: {},
+      pricing: {"company_tier":"starter","scope":{"name":"Starter","subtitle":"Perfect for small agencies","setup_fee":997,"monthly_fee":197,"features":["Up to 20 proposals/month","Basic proposal templates","Your branding & colors","Mobile-responsive pages","Email notifications","Basic analytics"],"excluded":["AI assistant widget","Custom domain","Priority support"]},"all_scopes":{"starter":{"name":"Starter","subtitle":"Perfect for small agencies","setup_fee":997,"monthly_fee":197,"features":["Up to 20 proposals/month","Basic proposal templates","Your branding & colors","Mobile-responsive pages","Email notifications","Basic analytics"],"excluded":["AI assistant widget","Custom domain","Priority support"]},"professional":{"name":"Professional","subtitle":"Most popular for growing agencies","setup_fee":1997,"monthly_fee":397,"features":["Up to 50 proposals/month","Premium proposal templates","Full brand customization","AI proposal assistant","Custom domain support","Advanced analytics","CRM integrations","Priority email support"],"excluded":["Dedicated success manager","Custom integrations"],"recommended":true},"growth":{"name":"Growth","subtitle":"For high-volume agencies","setup_fee":2997,"monthly_fee":597,"features":["Unlimited proposals","All Professional features","Multiple team members","White-label option","API access","Dedicated success manager","Quarterly strategy calls","Custom template design"],"excluded":[]},"enterprise":{"name":"Enterprise","subtitle":"Custom solution for large agencies","setup_fee":"Custom","monthly_fee":"Custom","features":["Everything in Growth","Custom integrations","Dedicated infrastructure","SLA guarantee","On-demand support","Custom development","Multi-brand support","Advanced security"],"excluded":[],"contact_required":true}},"roi_analysis":{"proposals_per_month":8,"hours_saved_per_proposal":2.5,"monthly_hours_saved":20,"hourly_value":75,"monthly_value_saved":1500,"annual_value_saved":18000,"monthly_investment":197,"roi_percentage":761,"payback_period_months":0.13333333333333333}},
+      content: {"hero":{"headline":"Streamline Your Proposal Process Today","subheadline":"Automate your proposals to save time and boost accountability with our tailored solution.","cta_text":"Get Started Now"},"overview":{"title":"Why This Matters to Rocketship","intro":"In the competitive digital marketing landscape, efficiency and accountability are crucial. Our proposal solution is designed to address your specific challenges and enhance your client acquisition process.","bullets":["Reduce time spent on manual proposal tracking by 20 hours monthly.","Enhance client trust with transparent, data-driven reporting.","Increase proposal output to capture more leads consistently."]},"problem":{"title":"Identifying Your Challenges","description":"Rocketship faces significant hurdles in proposal generation that impact your growth potential. Let's explore these together.","pain_points":[{"title":"Competing with Larger Brands","description":"Struggling to stand out against bigger competitors can hinder your growth."},{"title":"Inconsistent Lead Generation","description":"Without a reliable proposal process, lead generation becomes unpredictable."},{"title":"Lack of Accountability","description":"Previous agency experiences may have left you skeptical about results."}]},"solution":{"title":"Our Tailored Proposal Solution","description":"Our proposal system is designed to streamline your workflow and deliver measurable results, helping Rocketship thrive in the digital marketing arena.","features":[{"title":"Up to 20 Proposals/Month","description":"Maximize your outreach without sacrificing quality.","icon":"rocket"},{"title":"Custom Branding & Colors","description":"Ensure every proposal reflects your unique brand identity.","icon":"clock"},{"title":"Mobile-Responsive Pages","description":"Reach clients on any device, enhancing accessibility and engagement.","icon":"chart"},{"title":"Basic Analytics","description":"Track performance easily to refine your strategies and improve outcomes.","icon":"shield"}]},"roi":{"title":"The Numbers Don't Lie","description":"Investing in our proposal solution yields significant returns for Rocketship.","metrics":[{"value":"8","label":"Proposals Generated Monthly"},{"value":"2.5","label":"Hours Saved Per Proposal"},{"value":"$1500","label":"Monthly Value Saved"},{"value":"$18000","label":"Annual Value Saved"}]},"process":{"title":"How It Works","steps":[{"number":"01","title":"Sign Up","description":"Join our platform with a simple setup process."},{"number":"02","title":"Customize Your Proposals","description":"Input your branding and preferences to tailor your proposals."},{"number":"03","title":"Automate Tracking","description":"Let our system handle metrics and analytics for you."},{"number":"04","title":"Generate Proposals","description":"Create and send proposals efficiently to capture more leads."}]},"testimonial":{"quote":"Using this proposal automation has transformed our client engagement and significantly reduced our workload.","author":"Jane D.","title":"Marketing Director at a Leading Agency"},"pricing":{"title":"Your Investment","description":"For just $197/month, unlock the potential of streamlined proposal generation without long-term commitments."},"faq":{"title":"Common Questions","items":[{"question":"How quickly can I start using the system?","answer":"You can start generating proposals within 48 hours of signing up."},{"question":"Are there any hidden fees?","answer":"No, we offer a transparent pricing model with no hidden fees."},{"question":"Can I upgrade my plan later?","answer":"Absolutely! You can upgrade at any time to access more features."},{"question":"Is training provided?","answer":"Yes, we offer comprehensive onboarding and support to ensure your success."}]},"cta":{"title":"Ready to Transform Your Proposal Process?","description":"Don't let inefficient proposals hold you back. Invest in your growth today.","button_text":"Start My Free Trial","urgency_text":"Limited time offer!"}},
+      intelligence: {"company_analysis":{"summary":"Rocketship is a digital marketing agency that specializes in helping small and mid-sized businesses grow through effective branding, web design, and go-to-market strategies. They focus on delivering measurable results and accountability in their marketing efforts.","primary_services":["Digital Marketing","Web Design","SEO","Content Creation","Advertising"],"target_market":"B2B Challenger Brands, particularly in Software/SaaS, Technical Services, and Manufacturing sectors","unique_selling_points":["Less than half the churn rate of other agencies","No long-term contracts","Data-driven approach with clear reporting"],"company_stage":"growing","brand_voice":"professional","estimated_project_value":"medium"},"pain_points":{"likely_challenges":["Difficulty in competing against larger brands","Inconsistent lead generation","Lack of accountability from previous agencies"],"proposal_bottlenecks":"Potential clients may have had negative experiences with agencies that overpromise and underdeliver, leading to skepticism.","time_wasters":"Manual tracking of marketing metrics and results that could be automated."},"opportunity_assessment":{"automation_readiness":7,"proposal_volume_estimate":"medium","deal_size_estimate":"$5k-15k","sales_cycle":"medium"},"fit_assessment":{"icp_fit_score":85,"priority_tier":"A","fit_reasons":["Strong alignment with B2B Challenger Brands","Proven track record of increasing client metrics","Focus on measurable results"],"potential_objections":["Skepticism about agency effectiveness","Concerns about costs versus ROI"]},"personalization_elements":{"company_nickname":"Rocketship","specific_service_to_highlight":"SEO that Drives Visibility","recent_achievement_or_stat":"175%+ Increase in Website Traffic","local_reference":"Seattle"},"email_ready_elements":{"personalization_line":"Hi [Contact Name], I noticed Rocketship's impressive results in driving website traffic.","pain_statement":"Many businesses struggle to generate consistent leads and compete with larger brands.","value_hook":"At Rocketship, we help businesses like yours build effective marketing strategies that deliver measurable results.","email_subject":"Unlock Your Growth Potential with Rocketship"}}
+    };
+    
+    // Simple response generator (replace with actual AI integration)
+    function generateResponse(question) {
+      const q = question.toLowerCase();
+      
+      // Pricing questions
+      if (q.includes('price') || q.includes('cost') || q.includes('pricing')) {
+        const scope = proposalContext.pricing.scope || {};
+        if (scope.monthly_fee) {
+          return `The ${scope.name} plan is $${scope.monthly_fee}/month with a $${scope.setup_fee} one-time setup fee. This includes: ${(scope.features || []).slice(0, 3).join(', ')}, and more. Would you like details on what's included?`;
+        }
+        return "For custom pricing, we'd love to schedule a call to understand your specific needs. Shall I help you set that up?";
+      }
+      
+      // ROI questions
+      if (q.includes('roi') || q.includes('return') || q.includes('save')) {
+        const roi = proposalContext.pricing.roi_analysis || {};
+        if (roi.monthly_value_saved) {
+          return `Based on your company profile, we estimate you could save approximately $${roi.monthly_value_saved} per month ($${roi.annual_value_saved} annually). That's about ${roi.monthly_hours_saved} hours saved monthly. The ROI is approximately ${roi.roi_percentage}%!`;
+        }
+        return "Most agencies see a 3-5x return on their investment through time savings alone. Want me to break down the numbers?";
+      }
+      
+      // Timeline questions
+      if (q.includes('long') || q.includes('time') || q.includes('setup') || q.includes('start')) {
+        return "Most agencies are up and running within 48 hours! The setup process is straightforward: we configure your branding, set up your templates, and you're ready to generate proposals. Want to schedule your onboarding?";
+      }
+      
+      // How it works
+      if (q.includes('how') || q.includes('work')) {
+        return "It's simple! 1) Fill out one form with prospect details, 2) Click generate, 3) Get a professional proposal link in minutes, 4) Send it to your prospect. The AI handles the writing, design, and hosting. Would you like a live demo?";
+      }
+      
+      // Features
+      if (q.includes('feature') || q.includes('include') || q.includes('what')) {
+        const scope = proposalContext.pricing.scope || {};
+        return `Key features include: ${(scope.features || ['Professional templates', 'AI-powered content', 'Mobile-responsive design', 'Analytics dashboard']).join(', ')}. Is there a specific feature you'd like to know more about?`;
+      }
+      
+      // Contract/commitment
+      if (q.includes('contract') || q.includes('cancel') || q.includes('commitment')) {
+        return "No long-term contracts! After the initial setup, you're on a month-to-month basis. Plus, there's a 30-day money-back guarantee. You can cancel anytime with no penalties.";
+      }
+      
+      // Demo/meeting
+      if (q.includes('demo') || q.includes('meet') || q.includes('call') || q.includes('talk')) {
+        return "I'd love to set you up with a personalized demo! You can reply to this proposal or email us directly. We'll show you exactly how the system works for your specific use case.";
+      }
+      
+      // Default response
+      return "That's a great question! While I can help with basic info about pricing, features, and how everything works, for more specific questions, I'd recommend scheduling a quick call. Would you like me to help arrange that?";
+    }
+    
+    function sendChatMessage() {
+      const input = document.getElementById('chatInput');
+      const messages = document.getElementById('chatMessages');
+      const message = input.value.trim();
+      
+      if (!message) return;
+      
+      // Add user message
+      const userMsg = document.createElement('div');
+      userMsg.className = 'chat-message user';
+      userMsg.innerHTML = `
+        <div class="chat-message-avatar">
+          <i data-lucide="user" style="width: 16px; height: 16px;"></i>
+        </div>
+        <div class="chat-message-content">${message}</div>
+      `;
+      messages.appendChild(userMsg);
+      
+      // Clear input
+      input.value = '';
+      
+      // Scroll to bottom
+      messages.scrollTop = messages.scrollHeight;
+      
+      // Simulate typing delay
+      setTimeout(() => {
+        const response = generateResponse(message);
+        
+        const assistantMsg = document.createElement('div');
+        assistantMsg.className = 'chat-message assistant';
+        assistantMsg.innerHTML = `
+          <div class="chat-message-avatar">
+            <i data-lucide="bot" style="width: 16px; height: 16px;"></i>
+          </div>
+          <div class="chat-message-content">${response}</div>
+        `;
+        messages.appendChild(assistantMsg);
+        
+        // Scroll to bottom
+        messages.scrollTop = messages.scrollHeight;
+        
+        // Reinitialize icons
+        lucide.createIcons();
+      }, 500 + Math.random() * 1000);
+      
+      // Reinitialize icons
+      lucide.createIcons();
+    }
+    
+    // ============================================
+    // SMOOTH SCROLL FOR ANCHOR LINKS
+    // ============================================
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+      anchor.addEventListener('click', function(e) {
+        e.preventDefault();
+        const target = document.querySelector(this.getAttribute('href'));
+        if (target) {
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      });
+    });
+  </script>
+</body>
+</html>
