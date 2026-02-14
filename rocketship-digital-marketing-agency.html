@@ -78,18 +78,6 @@
       color: var(--white);
     }
     
-    /* Particle Canvas */
-    #particleCanvas {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      pointer-events: none;
-      z-index: 1;
-    }
-    
-    /* Typography */
     h1, h2, h3, h4 {
       font-family: var(--font-display);
       font-weight: 600;
@@ -105,14 +93,11 @@
       text-decoration: none;
     }
     
-    /* Layout */
     .container {
       width: 100%;
       max-width: var(--max-width);
       margin: 0 auto;
       padding: 0 var(--space-md);
-      position: relative;
-      z-index: 2;
     }
     
     .container-narrow {
@@ -264,7 +249,6 @@
       color: var(--black);
     }
     
-    /* Live Date Badge */
     .live-date {
       display: inline-flex;
       align-items: center;
@@ -288,7 +272,6 @@
     .section {
       padding: var(--space-3xl) 0;
       position: relative;
-      z-index: 2;
     }
     
     .section-header {
@@ -717,12 +700,6 @@
     }
     
     /* Pricing */
-    .pricing-intro {
-      text-align: center;
-      max-width: 600px;
-      margin: 0 auto var(--space-xl);
-    }
-    
     .pricing-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -1472,7 +1449,7 @@
     
     /* Print */
     @media print {
-      .nav, .chat-widget, #particleCanvas { display: none !important; }
+      .nav, .chat-widget { display: none !important; }
       .hero { min-height: auto; padding: 3rem 0; }
       .section { padding: 2rem 0; }
       .reveal { opacity: 1; transform: none; }
@@ -1480,10 +1457,7 @@
   </style>
 </head>
 <body>
-  
-  <!-- Particle Canvas -->
-  <canvas id="particleCanvas"></canvas>
-  
+
   <nav class="nav" id="nav">
     <div class="container nav-inner">
       <a href="#" class="nav-logo">Rocketship | Digital Marketing Agency</a>
@@ -1958,115 +1932,6 @@
       el.textContent = now.toLocaleDateString('en-US', options);
     }
     updateLiveDate();
-    
-    // =====================
-    // PARTICLE SYSTEM WITH REPEL
-    // =====================
-    const canvas = document.getElementById('particleCanvas');
-    const ctx = canvas.getContext('2d');
-    let particles = [];
-    let mouse = { x: null, y: null, radius: 120 };
-    let animationId;
-    
-    function resizeCanvas() {
-      canvas.width = window.innerWidth;
-      canvas.height = window.innerHeight;
-    }
-    
-    class Particle {
-      constructor() {
-        this.x = Math.random() * canvas.width;
-        this.y = Math.random() * canvas.height;
-        this.baseX = this.x;
-        this.baseY = this.y;
-        this.size = Math.random() * 3 + 1;
-        this.density = Math.random() * 30 + 1;
-        this.opacity = Math.random() * 0.3 + 0.1;
-      }
-      
-      draw() {
-        ctx.fillStyle = 'rgba(0, 0, 0, ' + this.opacity + ')';
-        ctx.beginPath();
-        ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
-        ctx.closePath();
-        ctx.fill();
-      }
-      
-      update() {
-        let dx = mouse.x - this.x;
-        let dy = mouse.y - this.y;
-        let distance = Math.sqrt(dx * dx + dy * dy);
-        let forceDirectionX = dx / distance;
-        let forceDirectionY = dy / distance;
-        let maxDistance = mouse.radius;
-        let force = (maxDistance - distance) / maxDistance;
-        let directionX = forceDirectionX * force * this.density;
-        let directionY = forceDirectionY * force * this.density;
-        
-        if (distance < mouse.radius && mouse.x !== null) {
-          this.x -= directionX;
-          this.y -= directionY;
-        } else {
-          if (this.x !== this.baseX) {
-            let dx = this.x - this.baseX;
-            this.x -= dx / 10;
-          }
-          if (this.y !== this.baseY) {
-            let dy = this.y - this.baseY;
-            this.y -= dy / 10;
-          }
-        }
-      }
-    }
-    
-    function initParticles() {
-      particles = [];
-      let numberOfParticles = Math.floor((canvas.width * canvas.height) / 12000);
-      numberOfParticles = Math.min(numberOfParticles, 150);
-      for (let i = 0; i < numberOfParticles; i++) {
-        particles.push(new Particle());
-      }
-    }
-    
-    function animateParticles() {
-      ctx.clearRect(0, 0, canvas.width, canvas.height);
-      for (let i = 0; i < particles.length; i++) {
-        particles[i].draw();
-        particles[i].update();
-      }
-      animationId = requestAnimationFrame(animateParticles);
-    }
-    
-    function handleMouseMove(e) {
-      mouse.x = e.clientX;
-      mouse.y = e.clientY;
-    }
-    
-    function handleTouchMove(e) {
-      if (e.touches.length > 0) {
-        mouse.x = e.touches[0].clientX;
-        mouse.y = e.touches[0].clientY;
-      }
-    }
-    
-    function handleMouseLeave() {
-      mouse.x = null;
-      mouse.y = null;
-    }
-    
-    resizeCanvas();
-    initParticles();
-    animateParticles();
-    
-    window.addEventListener('resize', function() {
-      resizeCanvas();
-      initParticles();
-    });
-    
-    window.addEventListener('mousemove', handleMouseMove, { passive: true });
-    window.addEventListener('touchmove', handleTouchMove, { passive: true });
-    window.addEventListener('mouseleave', handleMouseLeave);
-    window.addEventListener('touchend', handleMouseLeave);
     
     // =====================
     // NAVIGATION
