@@ -6,11 +6,11 @@
   <meta name="robots" content="noindex, nofollow">
   <title>Proposal for Evergreen Wellness Center | Rocketship | Digital Marketing Agency</title>
   
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%23111'/><text x='16' y='22' font-family='system-ui' font-size='18' font-weight='600' fill='%23fff' text-anchor='middle'>R</text></svg>">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%23111'/><text x='16' y='21' font-family='system-ui' font-size='16' font-weight='600' fill='%23fff' text-anchor='middle'>R</text></svg>">
   
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
   
   <style>
     *, *::before, *::after {
@@ -21,9 +21,10 @@
     
     :root {
       --black: #0a0a0a;
-      --white: #fafafa;
-      --gray-50: #f7f7f7;
-      --gray-100: #e8e8e8;
+      --white: #ffffff;
+      --off-white: #fafafa;
+      --gray-50: #f5f5f5;
+      --gray-100: #e5e5e5;
       --gray-200: #d4d4d4;
       --gray-300: #a3a3a3;
       --gray-400: #737373;
@@ -31,13 +32,14 @@
       --gray-600: #404040;
       --gray-700: #262626;
       --gray-800: #171717;
-      --gray-900: #0f0f0f;
       
-      --accent: #2563eb;
-      --accent-dark: #1d4ed8;
+      --accent: #000000;
+      --accent-soft: #1a1a1a;
+      --success: #059669;
+      --success-soft: #ecfdf5;
       
-      --font-sans: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
-      --font-serif: 'IBM Plex Serif', Georgia, serif;
+      --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      --font-display: 'Playfair Display', Georgia, serif;
       
       --space-xs: 0.5rem;
       --space-sm: 1rem;
@@ -45,10 +47,15 @@
       --space-lg: 2.5rem;
       --space-xl: 4rem;
       --space-2xl: 6rem;
-      --space-3xl: 10rem;
+      --space-3xl: 8rem;
       
       --max-width: 1200px;
-      --content-width: 720px;
+      --content-width: 800px;
+      
+      --shadow-sm: 0 1px 2px rgba(0,0,0,0.04);
+      --shadow-md: 0 4px 12px rgba(0,0,0,0.06);
+      --shadow-lg: 0 12px 32px rgba(0,0,0,0.08);
+      --shadow-xl: 0 24px 48px rgba(0,0,0,0.12);
     }
     
     html {
@@ -61,26 +68,37 @@
       font-family: var(--font-sans);
       font-size: 16px;
       line-height: 1.6;
-      color: var(--gray-700);
+      color: var(--gray-600);
       background: var(--white);
+      overflow-x: hidden;
     }
     
     ::selection {
-      background: var(--accent);
+      background: var(--black);
       color: var(--white);
+    }
+    
+    /* Particle Canvas */
+    #particleCanvas {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+      z-index: 1;
     }
     
     /* Typography */
     h1, h2, h3, h4 {
-      font-family: var(--font-serif);
-      font-weight: 500;
+      font-family: var(--font-display);
+      font-weight: 600;
       color: var(--black);
       letter-spacing: -0.02em;
+      line-height: 1.2;
     }
     
-    p {
-      color: var(--gray-500);
-    }
+    p { color: var(--gray-500); }
     
     a {
       color: inherit;
@@ -93,6 +111,8 @@
       max-width: var(--max-width);
       margin: 0 auto;
       padding: 0 var(--space-md);
+      position: relative;
+      z-index: 2;
     }
     
     .container-narrow {
@@ -107,15 +127,16 @@
       right: 0;
       z-index: 100;
       padding: var(--space-md) 0;
-      background: rgba(250, 250, 250, 0.8);
-      backdrop-filter: blur(12px);
-      -webkit-backdrop-filter: blur(12px);
+      background: rgba(255,255,255,0.92);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
       border-bottom: 1px solid transparent;
-      transition: border-color 0.3s ease;
+      transition: all 0.3s ease;
     }
     
     .nav.scrolled {
       border-bottom-color: var(--gray-100);
+      padding: var(--space-sm) 0;
     }
     
     .nav-inner {
@@ -125,10 +146,11 @@
     }
     
     .nav-logo {
-      font-family: var(--font-serif);
-      font-size: 1.125rem;
+      font-family: var(--font-display);
+      font-size: 1.25rem;
       font-weight: 600;
       color: var(--black);
+      letter-spacing: -0.02em;
     }
     
     .nav-links {
@@ -139,27 +161,27 @@
     
     .nav-link {
       font-size: 0.875rem;
+      font-weight: 500;
       color: var(--gray-500);
       transition: color 0.2s ease;
     }
     
-    .nav-link:hover {
-      color: var(--black);
-    }
+    .nav-link:hover { color: var(--black); }
     
     .nav-cta {
       font-size: 0.875rem;
-      font-weight: 500;
+      font-weight: 600;
       color: var(--white);
       background: var(--black);
-      padding: 0.625rem 1.25rem;
+      padding: 10px 20px;
       border-radius: 6px;
-      transition: background 0.2s ease, transform 0.2s ease;
+      transition: all 0.2s ease;
     }
     
     .nav-cta:hover {
       background: var(--gray-800);
       transform: translateY(-1px);
+      box-shadow: var(--shadow-md);
     }
     
     @media (max-width: 768px) {
@@ -172,42 +194,52 @@
       display: flex;
       align-items: center;
       padding: var(--space-3xl) 0 var(--space-2xl);
-      background: var(--gray-50);
       position: relative;
+      background: linear-gradient(180deg, var(--off-white) 0%, var(--white) 100%);
     }
     
     .hero-content {
-      max-width: 800px;
+      max-width: 720px;
     }
     
-    .hero-label {
-      display: inline-block;
+    .hero-eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
       font-size: 0.75rem;
       font-weight: 600;
-      letter-spacing: 0.1em;
+      letter-spacing: 0.12em;
       text-transform: uppercase;
       color: var(--gray-400);
       margin-bottom: var(--space-lg);
     }
     
+    .hero-eyebrow::before {
+      content: '';
+      width: 24px;
+      height: 1px;
+      background: var(--gray-300);
+    }
+    
     .hero-title {
       font-size: clamp(2.5rem, 6vw, 4rem);
-      line-height: 1.1;
+      line-height: 1.08;
       margin-bottom: var(--space-md);
+      letter-spacing: -0.03em;
     }
     
     .hero-subtitle {
-      font-size: clamp(1.125rem, 2vw, 1.375rem);
-      line-height: 1.6;
+      font-size: clamp(1.125rem, 2vw, 1.25rem);
+      line-height: 1.7;
       color: var(--gray-500);
-      max-width: 600px;
+      max-width: 560px;
       margin-bottom: var(--space-xl);
     }
     
     .hero-meta {
       display: flex;
       flex-wrap: wrap;
-      gap: var(--space-lg);
+      gap: var(--space-xl);
       padding-top: var(--space-lg);
       border-top: 1px solid var(--gray-200);
     }
@@ -219,6 +251,117 @@
     }
     
     .hero-meta-label {
+      font-size: 0.6875rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--gray-400);
+    }
+    
+    .hero-meta-value {
+      font-size: 0.9375rem;
+      font-weight: 500;
+      color: var(--black);
+    }
+    
+    /* Live Date Badge */
+    .live-date {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    
+    .live-dot {
+      width: 6px;
+      height: 6px;
+      background: var(--success);
+      border-radius: 50%;
+      animation: pulse 2s ease-in-out infinite;
+    }
+    
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.6; transform: scale(0.9); }
+    }
+    
+    /* Section Base */
+    .section {
+      padding: var(--space-3xl) 0;
+      position: relative;
+      z-index: 2;
+    }
+    
+    .section-header {
+      margin-bottom: var(--space-xl);
+    }
+    
+    .section-eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.6875rem;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--gray-400);
+      margin-bottom: var(--space-sm);
+    }
+    
+    .section-title {
+      font-size: clamp(1.75rem, 4vw, 2.75rem);
+      letter-spacing: -0.02em;
+    }
+    
+    .section-desc {
+      margin-top: var(--space-md);
+      font-size: 1.0625rem;
+      max-width: 540px;
+      line-height: 1.7;
+    }
+    
+    .section-dark {
+      background: var(--black);
+      color: var(--white);
+    }
+    
+    .section-dark .section-eyebrow { color: var(--gray-400); }
+    .section-dark .section-title { color: var(--white); }
+    .section-dark .section-desc { color: var(--gray-400); }
+    .section-dark p { color: var(--gray-400); }
+    
+    .section-alt {
+      background: var(--off-white);
+    }
+    
+    /* Social Proof Bar */
+    .proof-bar {
+      padding: var(--space-lg) 0;
+      background: var(--black);
+      border-bottom: 1px solid var(--gray-800);
+    }
+    
+    .proof-inner {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: var(--space-2xl);
+      flex-wrap: wrap;
+    }
+    
+    .proof-item {
+      text-align: center;
+    }
+    
+    .proof-value {
+      font-family: var(--font-display);
+      font-size: 2rem;
+      font-weight: 600;
+      color: var(--white);
+      line-height: 1;
+      margin-bottom: 4px;
+    }
+    
+    .proof-label {
       font-size: 0.75rem;
       font-weight: 500;
       letter-spacing: 0.05em;
@@ -226,47 +369,51 @@
       color: var(--gray-400);
     }
     
-    .hero-meta-value {
-      font-size: 0.9375rem;
-      color: var(--black);
+    /* Value Props */
+    .value-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1px;
+      background: var(--gray-200);
+      border: 1px solid var(--gray-200);
+      border-radius: 12px;
+      overflow: hidden;
     }
     
-    /* Section Base */
-    .section {
-      padding: var(--space-3xl) 0;
+    .value-item {
+      padding: var(--space-lg);
+      background: var(--white);
+      display: flex;
+      align-items: flex-start;
+      gap: var(--space-md);
+      transition: background 0.2s ease;
     }
     
-    .section-header {
-      margin-bottom: var(--space-xl);
+    .value-item:hover {
+      background: var(--off-white);
     }
     
-    .section-label {
-      display: inline-block;
-      font-size: 0.75rem;
+    .value-number {
+      font-family: var(--font-display);
+      font-size: 1.25rem;
       font-weight: 600;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      color: var(--gray-400);
-      margin-bottom: var(--space-sm);
+      color: var(--gray-200);
+      flex-shrink: 0;
+      line-height: 1.4;
     }
     
-    .section-title {
-      font-size: clamp(1.75rem, 4vw, 2.5rem);
-      line-height: 1.2;
+    .value-text {
+      font-size: 0.9375rem;
+      color: var(--gray-600);
+      line-height: 1.6;
     }
     
-    .section-desc {
-      margin-top: var(--space-md);
-      font-size: 1.0625rem;
-      max-width: 600px;
-    }
-    
-    .section-alt {
-      background: var(--gray-50);
+    @media (max-width: 640px) {
+      .value-grid { grid-template-columns: 1fr; }
     }
     
     /* Overview */
-    .overview-content {
+    .overview-grid {
       display: grid;
       grid-template-columns: 1fr 1fr;
       gap: var(--space-2xl);
@@ -279,27 +426,26 @@
       margin-bottom: var(--space-md);
     }
     
-    .overview-text p:last-child {
-      margin-bottom: 0;
-    }
+    .overview-text p:last-child { margin-bottom: 0; }
     
     .overview-highlights {
       display: flex;
       flex-direction: column;
-      gap: var(--space-md);
+      gap: var(--space-sm);
     }
     
-    .highlight-item {
+    .highlight-card {
       padding: var(--space-md);
       background: var(--white);
       border: 1px solid var(--gray-100);
-      border-radius: 8px;
-      transition: border-color 0.2s ease, box-shadow 0.2s ease;
+      border-radius: 10px;
+      transition: all 0.25s ease;
     }
     
-    .highlight-item:hover {
+    .highlight-card:hover {
       border-color: var(--gray-200);
-      box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+      box-shadow: var(--shadow-md);
+      transform: translateY(-2px);
     }
     
     .highlight-title {
@@ -312,77 +458,68 @@
     
     .highlight-desc {
       font-size: 0.875rem;
-      color: var(--gray-400);
+      color: var(--gray-500);
       line-height: 1.5;
     }
     
     @media (max-width: 768px) {
-      .overview-content {
-        grid-template-columns: 1fr;
-        gap: var(--space-xl);
-      }
+      .overview-grid { grid-template-columns: 1fr; gap: var(--space-xl); }
     }
     
     /* Challenges */
-    .challenges-list {
+    .challenges-grid {
       display: grid;
-      gap: var(--space-md);
+      gap: var(--space-sm);
     }
     
-    .challenge-item {
+    .challenge-row {
       display: grid;
-      grid-template-columns: auto 1fr;
+      grid-template-columns: 60px 1fr;
       gap: var(--space-md);
-      padding: var(--space-lg);
+      padding: var(--space-md) var(--space-lg);
       background: var(--white);
       border: 1px solid var(--gray-100);
-      border-radius: 8px;
-      transition: border-color 0.2s ease;
+      border-radius: 10px;
+      align-items: center;
+      transition: all 0.25s ease;
     }
     
-    .challenge-item:hover {
+    .challenge-row:hover {
       border-color: var(--gray-200);
+      box-shadow: var(--shadow-sm);
     }
     
-    .challenge-number {
-      font-family: var(--font-serif);
+    .challenge-num {
+      font-family: var(--font-display);
       font-size: 1.5rem;
-      font-weight: 500;
-      color: var(--gray-200);
-      line-height: 1;
-    }
-    
-    .challenge-content h4 {
-      font-family: var(--font-sans);
-      font-size: 1rem;
       font-weight: 600;
-      margin-bottom: 8px;
+      color: var(--gray-200);
     }
     
-    .challenge-content p {
+    .challenge-text {
       font-size: 0.9375rem;
+      color: var(--gray-600);
       line-height: 1.6;
     }
     
     /* Services */
-    .services-grid {
-      display: grid;
+    .services-list {
+      display: flex;
+      flex-direction: column;
       gap: 1px;
       background: var(--gray-100);
       border: 1px solid var(--gray-100);
-      border-radius: 8px;
+      border-radius: 12px;
       overflow: hidden;
     }
     
     .service-item {
-      padding: var(--space-lg);
+      padding: var(--space-lg) var(--space-xl);
       background: var(--white);
       transition: background 0.2s ease;
     }
     
-    .service-item:hover {
-      background: var(--gray-50);
-    }
+    .service-item:hover { background: var(--off-white); }
     
     .service-header {
       display: flex;
@@ -392,8 +529,9 @@
     }
     
     .service-index {
-      font-family: var(--font-serif);
+      font-family: var(--font-display);
       font-size: 0.875rem;
+      font-weight: 500;
       color: var(--gray-300);
     }
     
@@ -407,12 +545,25 @@
       font-size: 0.9375rem;
       line-height: 1.7;
       margin-bottom: var(--space-md);
-      padding-left: calc(var(--space-md) + 2rem);
+      margin-left: calc(var(--space-md) + 1.75rem);
     }
     
     .service-deliverables {
+      margin-left: calc(var(--space-md) + 1.75rem);
+    }
+    
+    .deliverables-label {
+      display: block;
+      font-size: 0.6875rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--gray-400);
+      margin-bottom: var(--space-xs);
+    }
+    
+    .service-deliverables ul {
       list-style: none;
-      padding-left: calc(var(--space-md) + 2rem);
       display: flex;
       flex-wrap: wrap;
       gap: 8px;
@@ -421,13 +572,15 @@
     .service-deliverables li {
       font-size: 0.8125rem;
       color: var(--gray-500);
-      padding: 6px 12px;
-      background: var(--gray-50);
-      border-radius: 4px;
+      padding: 6px 14px;
+      background: var(--off-white);
+      border-radius: 6px;
+      transition: all 0.2s ease;
     }
     
     .service-item:hover .service-deliverables li {
       background: var(--white);
+      box-shadow: var(--shadow-sm);
     }
     
     /* Timeline */
@@ -435,32 +588,35 @@
       position: relative;
     }
     
-    .timeline-total {
+    .timeline-header {
       display: inline-flex;
       align-items: center;
-      gap: 8px;
-      padding: 10px 16px;
-      background: var(--gray-100);
-      border-radius: 6px;
-      font-size: 0.875rem;
-      color: var(--gray-600);
+      gap: var(--space-sm);
+      padding: 12px 20px;
+      background: var(--gray-800);
+      border-radius: 8px;
       margin-bottom: var(--space-xl);
     }
     
-    .timeline-total strong {
-      color: var(--black);
+    .timeline-header span {
+      font-size: 0.875rem;
+      color: var(--gray-300);
+    }
+    
+    .timeline-header strong {
+      color: var(--white);
+      font-weight: 600;
     }
     
     .phases {
       display: flex;
       flex-direction: column;
-      gap: 0;
     }
     
     .phase-item {
       display: grid;
-      grid-template-columns: 48px 1fr;
-      gap: var(--space-md);
+      grid-template-columns: 56px 1fr;
+      gap: var(--space-lg);
     }
     
     .phase-marker {
@@ -470,46 +626,40 @@
     }
     
     .phase-number {
-      width: 48px;
-      height: 48px;
+      width: 56px;
+      height: 56px;
       display: flex;
       align-items: center;
       justify-content: center;
       background: var(--white);
       border: 2px solid var(--gray-200);
       border-radius: 50%;
-      font-family: var(--font-serif);
-      font-size: 1rem;
-      font-weight: 500;
+      font-family: var(--font-display);
+      font-size: 1.125rem;
+      font-weight: 600;
       color: var(--black);
-      transition: border-color 0.2s ease, background 0.2s ease;
+      transition: all 0.25s ease;
     }
     
     .phase-item:hover .phase-number {
       border-color: var(--black);
       background: var(--black);
       color: var(--white);
+      transform: scale(1.05);
     }
     
-    .phase-marker::after {
-      content: '';
+    .phase-line {
       flex: 1;
       width: 2px;
-      background: var(--gray-200);
+      background: linear-gradient(to bottom, var(--gray-200), var(--gray-100));
       margin: 8px 0;
-    }
-    
-    .phase-item:last-child .phase-marker::after {
-      display: none;
     }
     
     .phase-content {
       padding-bottom: var(--space-xl);
     }
     
-    .phase-item:last-child .phase-content {
-      padding-bottom: 0;
-    }
+    .phase-item:last-child .phase-content { padding-bottom: 0; }
     
     .phase-header {
       display: flex;
@@ -526,11 +676,12 @@
     }
     
     .phase-duration {
-      font-size: 0.8125rem;
-      color: var(--gray-400);
-      padding: 4px 10px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--gray-500);
+      padding: 4px 12px;
       background: var(--gray-100);
-      border-radius: 4px;
+      border-radius: 20px;
     }
     
     .phase-desc {
@@ -547,28 +698,34 @@
     
     .milestone {
       font-size: 0.75rem;
-      color: var(--gray-500);
-      padding: 4px 10px;
+      font-weight: 500;
+      color: var(--gray-600);
+      padding: 5px 12px;
       background: var(--white);
       border: 1px solid var(--gray-100);
-      border-radius: 4px;
+      border-radius: 6px;
+      transition: all 0.2s ease;
+    }
+    
+    .phase-item:hover .milestone {
+      border-color: var(--gray-200);
     }
     
     @media (max-width: 640px) {
-      .phase-item {
-        grid-template-columns: 36px 1fr;
-      }
-      .phase-number {
-        width: 36px;
-        height: 36px;
-        font-size: 0.875rem;
-      }
+      .phase-item { grid-template-columns: 44px 1fr; gap: var(--space-md); }
+      .phase-number { width: 44px; height: 44px; font-size: 1rem; }
     }
     
     /* Pricing */
+    .pricing-intro {
+      text-align: center;
+      max-width: 600px;
+      margin: 0 auto var(--space-xl);
+    }
+    
     .pricing-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
       gap: var(--space-md);
     }
     
@@ -576,61 +733,80 @@
       padding: var(--space-lg);
       background: var(--white);
       border: 1px solid var(--gray-100);
-      border-radius: 8px;
+      border-radius: 12px;
       display: flex;
       flex-direction: column;
       position: relative;
-      transition: border-color 0.2s ease, box-shadow 0.2s ease;
+      transition: all 0.3s ease;
     }
     
     .tier-card:hover {
       border-color: var(--gray-200);
+      box-shadow: var(--shadow-lg);
+      transform: translateY(-4px);
     }
     
     .tier-featured {
       border-color: var(--black);
+      border-width: 2px;
+      box-shadow: var(--shadow-lg);
     }
     
     .tier-featured:hover {
       border-color: var(--black);
-      box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+      box-shadow: var(--shadow-xl);
     }
     
     .tier-badge {
       position: absolute;
-      top: var(--space-md);
-      right: var(--space-md);
+      top: -12px;
+      left: 50%;
+      transform: translateX(-50%);
       font-size: 0.6875rem;
-      font-weight: 600;
-      letter-spacing: 0.05em;
+      font-weight: 700;
+      letter-spacing: 0.08em;
       text-transform: uppercase;
       color: var(--white);
       background: var(--black);
-      padding: 4px 10px;
-      border-radius: 4px;
+      padding: 6px 16px;
+      border-radius: 20px;
+    }
+    
+    .tier-header {
+      padding-bottom: var(--space-md);
+      border-bottom: 1px solid var(--gray-100);
+      margin-bottom: var(--space-md);
     }
     
     .tier-name {
       font-family: var(--font-sans);
-      font-size: 1rem;
-      font-weight: 600;
-      margin-bottom: 8px;
+      font-size: 1.125rem;
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+    
+    .tier-tagline {
+      font-size: 0.875rem;
+      color: var(--gray-500);
+    }
+    
+    .tier-price-block {
+      margin-bottom: var(--space-md);
     }
     
     .tier-price {
-      font-family: var(--font-serif);
-      font-size: 2rem;
-      font-weight: 500;
+      font-family: var(--font-display);
+      font-size: 2.5rem;
+      font-weight: 600;
       color: var(--black);
-      margin-bottom: var(--space-sm);
+      line-height: 1;
+      display: block;
+      margin-bottom: 4px;
     }
     
-    .tier-desc {
-      font-size: 0.875rem;
+    .tier-period {
+      font-size: 0.8125rem;
       color: var(--gray-400);
-      margin-bottom: var(--space-md);
-      padding-bottom: var(--space-md);
-      border-bottom: 1px solid var(--gray-100);
     }
     
     .tier-features {
@@ -640,14 +816,36 @@
     }
     
     .tier-features li {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
       font-size: 0.9375rem;
       color: var(--gray-600);
-      padding: 8px 0;
+      padding: 10px 0;
       border-bottom: 1px solid var(--gray-50);
     }
     
-    .tier-features li:last-child {
-      border-bottom: none;
+    .tier-features li:last-child { border-bottom: none; }
+    
+    .check-icon {
+      flex-shrink: 0;
+      width: 18px;
+      height: 18px;
+      background: var(--success-soft);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 2px;
+    }
+    
+    .check-icon::after {
+      content: '';
+      width: 8px;
+      height: 5px;
+      border-left: 2px solid var(--success);
+      border-bottom: 2px solid var(--success);
+      transform: rotate(-45deg) translateY(-1px);
     }
     
     .tier-cta {
@@ -656,11 +854,11 @@
       padding: 14px;
       text-align: center;
       font-size: 0.9375rem;
-      font-weight: 500;
-      color: var(--black);
+      font-weight: 600;
+      color: var(--gray-700);
       background: var(--gray-100);
-      border-radius: 6px;
-      transition: background 0.2s ease;
+      border-radius: 8px;
+      transition: all 0.2s ease;
     }
     
     .tier-cta:hover {
@@ -674,93 +872,166 @@
     
     .tier-featured .tier-cta:hover {
       background: var(--gray-800);
+      transform: translateY(-1px);
     }
     
-    /* Cases */
+    /* Guarantee */
+    .guarantee-box {
+      display: flex;
+      align-items: flex-start;
+      gap: var(--space-lg);
+      padding: var(--space-lg);
+      background: var(--success-soft);
+      border: 1px solid rgba(5, 150, 105, 0.2);
+      border-radius: 12px;
+      margin-top: var(--space-xl);
+    }
+    
+    .guarantee-icon {
+      width: 48px;
+      height: 48px;
+      background: var(--white);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      box-shadow: var(--shadow-sm);
+    }
+    
+    .guarantee-icon svg {
+      width: 24px;
+      height: 24px;
+      color: var(--success);
+    }
+    
+    .guarantee-content h4 {
+      font-family: var(--font-sans);
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--gray-800);
+      margin-bottom: 6px;
+    }
+    
+    .guarantee-content p {
+      font-size: 0.9375rem;
+      color: var(--gray-600);
+      line-height: 1.6;
+    }
+    
+    @media (max-width: 640px) {
+      .guarantee-box { flex-direction: column; gap: var(--space-md); }
+    }
+        /* Cases */
     .cases-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
       gap: var(--space-md);
     }
     
     .case-item {
       padding: var(--space-lg);
-      background: var(--white);
-      border: 1px solid var(--gray-100);
-      border-radius: 8px;
-      transition: border-color 0.2s ease;
+      background: var(--gray-800);
+      border-radius: 12px;
+      position: relative;
+      transition: all 0.3s ease;
     }
     
     .case-item:hover {
-      border-color: var(--gray-200);
+      background: var(--gray-700);
+      transform: translateY(-4px);
     }
     
-    .case-title {
-      font-family: var(--font-sans);
-      font-size: 1rem;
-      font-weight: 600;
-      margin-bottom: 8px;
+    .case-quote {
+      font-family: var(--font-display);
+      font-size: 4rem;
+      line-height: 1;
+      color: var(--gray-600);
+      position: absolute;
+      top: var(--space-md);
+      left: var(--space-lg);
+      opacity: 0.5;
     }
     
     .case-context {
-      font-size: 0.9375rem;
-      line-height: 1.6;
+      font-size: 1rem;
+      line-height: 1.7;
+      color: var(--gray-300);
       margin-bottom: var(--space-md);
+      padding-top: var(--space-lg);
     }
     
     .case-result {
-      padding-top: var(--space-md);
-      border-top: 1px solid var(--gray-100);
+      padding: var(--space-md);
+      background: rgba(255,255,255,0.05);
+      border-radius: 8px;
+      margin-bottom: var(--space-sm);
     }
     
-    .case-label {
-      display: block;
-      font-size: 0.6875rem;
+    .result-value {
+      font-family: var(--font-display);
+      font-size: 1.25rem;
       font-weight: 600;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      color: var(--gray-400);
-      margin-bottom: 6px;
+      color: var(--white);
+      line-height: 1.4;
     }
     
-    .case-outcome {
-      font-size: 1rem;
-      font-weight: 500;
-      color: var(--black);
-      line-height: 1.5;
+    .case-title {
+      font-size: 0.8125rem;
+      font-weight: 600;
+      color: var(--gray-400);
     }
     
     /* CTA */
     .cta-section {
       padding: var(--space-3xl) 0;
       background: var(--black);
-      color: var(--white);
+      position: relative;
+      overflow: hidden;
+    }
+    
+    .cta-section::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--gray-700), transparent);
+    }
+    
+    .cta-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: var(--space-2xl);
+      align-items: center;
     }
     
     .cta-content {
-      max-width: 600px;
+      max-width: 480px;
     }
     
-    .cta-label {
+    .cta-eyebrow {
       display: inline-block;
-      font-size: 0.75rem;
-      font-weight: 600;
-      letter-spacing: 0.1em;
+      font-size: 0.6875rem;
+      font-weight: 700;
+      letter-spacing: 0.15em;
       text-transform: uppercase;
-      color: var(--gray-400);
+      color: var(--gray-500);
       margin-bottom: var(--space-sm);
     }
     
     .cta-title {
       font-size: clamp(1.75rem, 4vw, 2.5rem);
-      line-height: 1.2;
       color: var(--white);
       margin-bottom: var(--space-md);
+      letter-spacing: -0.02em;
     }
     
     .cta-desc {
       font-size: 1.0625rem;
       color: var(--gray-400);
+      line-height: 1.7;
       margin-bottom: var(--space-lg);
     }
     
@@ -773,33 +1044,44 @@
     .btn-primary {
       display: inline-flex;
       align-items: center;
-      gap: 8px;
-      padding: 14px 28px;
+      gap: 10px;
+      padding: 16px 28px;
       font-size: 0.9375rem;
-      font-weight: 500;
+      font-weight: 600;
       color: var(--black);
       background: var(--white);
-      border-radius: 6px;
-      transition: background 0.2s ease, transform 0.2s ease;
+      border-radius: 8px;
+      transition: all 0.25s ease;
     }
     
     .btn-primary:hover {
       background: var(--gray-100);
-      transform: translateY(-1px);
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(255,255,255,0.15);
+    }
+    
+    .btn-primary svg {
+      width: 16px;
+      height: 16px;
+      transition: transform 0.2s ease;
+    }
+    
+    .btn-primary:hover svg {
+      transform: translateX(3px);
     }
     
     .btn-secondary {
       display: inline-flex;
       align-items: center;
-      gap: 8px;
-      padding: 14px 28px;
+      gap: 10px;
+      padding: 16px 28px;
       font-size: 0.9375rem;
-      font-weight: 500;
-      color: var(--gray-300);
+      font-weight: 600;
+      color: var(--gray-400);
       background: transparent;
       border: 1px solid var(--gray-700);
-      border-radius: 6px;
-      transition: border-color 0.2s ease, color 0.2s ease;
+      border-radius: 8px;
+      transition: all 0.25s ease;
     }
     
     .btn-secondary:hover {
@@ -807,10 +1089,64 @@
       color: var(--white);
     }
     
+    .cta-summary {
+      background: var(--gray-900);
+      border: 1px solid var(--gray-800);
+      border-radius: 12px;
+      padding: var(--space-lg);
+    }
+    
+    .cta-summary-title {
+      font-family: var(--font-sans);
+      font-size: 0.875rem;
+      font-weight: 700;
+      color: var(--white);
+      margin-bottom: var(--space-md);
+      padding-bottom: var(--space-md);
+      border-bottom: 1px solid var(--gray-800);
+    }
+    
+    .cta-summary-list {
+      list-style: none;
+      margin-bottom: var(--space-md);
+    }
+    
+    .cta-summary-list li {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 0;
+      font-size: 0.9375rem;
+      color: var(--gray-400);
+      border-bottom: 1px solid var(--gray-800);
+    }
+    
+    .cta-summary-list li:last-child {
+      border-bottom: none;
+    }
+    
+    .cta-summary-list li::before {
+      content: '✓';
+      color: var(--success);
+      font-weight: 700;
+    }
+    
+    .cta-summary-note {
+      font-size: 0.8125rem;
+      color: var(--gray-500);
+      line-height: 1.5;
+      padding-top: var(--space-md);
+      border-top: 1px solid var(--gray-800);
+    }
+    
+    @media (max-width: 968px) {
+      .cta-grid { grid-template-columns: 1fr; gap: var(--space-xl); }
+    }
+    
     /* Footer */
     .footer {
       padding: var(--space-xl) 0;
-      background: var(--gray-50);
+      background: var(--off-white);
       border-top: 1px solid var(--gray-100);
     }
     
@@ -823,9 +1159,9 @@
     }
     
     .footer-brand {
-      font-family: var(--font-serif);
-      font-size: 1rem;
-      font-weight: 500;
+      font-family: var(--font-display);
+      font-size: 1.125rem;
+      font-weight: 600;
       color: var(--black);
     }
     
@@ -842,13 +1178,20 @@
     
     .footer-item a {
       color: var(--black);
+      font-weight: 500;
       transition: color 0.2s ease;
     }
     
     .footer-item a:hover {
-      color: var(--accent);
+      color: var(--gray-600);
     }
-        /* Chatbot */
+    
+    @media (max-width: 640px) {
+      .footer-inner { flex-direction: column; text-align: center; }
+      .footer-contact { justify-content: center; }
+    }
+    
+    /* Chatbot */
     .chat-widget {
       position: fixed;
       bottom: 24px;
@@ -867,36 +1210,37 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      box-shadow: 0 4px 16px rgba(0,0,0,0.12);
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      box-shadow: var(--shadow-lg);
+      transition: all 0.25s ease;
+      position: relative;
     }
     
     .chat-toggle:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 6px 20px rgba(0,0,0,0.16);
+      transform: scale(1.05);
+      box-shadow: var(--shadow-xl);
     }
     
     .chat-toggle svg {
-      width: 24px;
-      height: 24px;
+      width: 22px;
+      height: 22px;
       color: var(--white);
-      transition: opacity 0.2s ease, transform 0.2s ease;
+      transition: all 0.2s ease;
     }
     
     .chat-toggle .icon-close {
       position: absolute;
       opacity: 0;
-      transform: scale(0.8);
+      transform: rotate(-90deg) scale(0.5);
     }
     
     .chat-widget.open .chat-toggle .icon-chat {
       opacity: 0;
-      transform: scale(0.8);
+      transform: rotate(90deg) scale(0.5);
     }
     
     .chat-widget.open .chat-toggle .icon-close {
       opacity: 1;
-      transform: scale(1);
+      transform: rotate(0) scale(1);
     }
     
     .chat-panel {
@@ -905,47 +1249,47 @@
       right: 0;
       width: 380px;
       max-width: calc(100vw - 48px);
-      height: 480px;
+      height: 500px;
       max-height: calc(100vh - 120px);
       background: var(--white);
       border: 1px solid var(--gray-200);
-      border-radius: 12px;
-      box-shadow: 0 16px 48px rgba(0,0,0,0.12);
+      border-radius: 16px;
+      box-shadow: var(--shadow-xl);
       display: flex;
       flex-direction: column;
       overflow: hidden;
       opacity: 0;
       visibility: hidden;
-      transform: translateY(12px);
-      transition: opacity 0.25s ease, visibility 0.25s ease, transform 0.25s ease;
+      transform: translateY(16px) scale(0.96);
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     }
     
     .chat-widget.open .chat-panel {
       opacity: 1;
       visibility: visible;
-      transform: translateY(0);
+      transform: translateY(0) scale(1);
     }
     
     .chat-header {
       padding: 20px;
-      background: var(--gray-50);
+      background: var(--off-white);
       border-bottom: 1px solid var(--gray-100);
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: 14px;
     }
     
     .chat-avatar {
-      width: 40px;
-      height: 40px;
+      width: 44px;
+      height: 44px;
       background: var(--black);
-      border-radius: 8px;
+      border-radius: 10px;
       display: flex;
       align-items: center;
       justify-content: center;
-      font-family: var(--font-serif);
+      font-family: var(--font-display);
       font-weight: 600;
-      font-size: 1rem;
+      font-size: 1.125rem;
       color: var(--white);
     }
     
@@ -973,33 +1317,22 @@
     
     .chat-message {
       max-width: 85%;
-      animation: messageIn 0.3s ease;
+      animation: msgIn 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     }
     
-    @keyframes messageIn {
-      from {
-        opacity: 0;
-        transform: translateY(8px);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
+    @keyframes msgIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
     }
     
-    .chat-message.bot {
-      align-self: flex-start;
-    }
-    
-    .chat-message.user {
-      align-self: flex-end;
-    }
+    .chat-message.bot { align-self: flex-start; }
+    .chat-message.user { align-self: flex-end; }
     
     .chat-bubble {
-      padding: 12px 16px;
-      border-radius: 12px;
+      padding: 14px 18px;
+      border-radius: 16px;
       font-size: 0.9375rem;
-      line-height: 1.5;
+      line-height: 1.55;
     }
     
     .chat-message.bot .chat-bubble {
@@ -1016,100 +1349,99 @@
     
     .chat-typing {
       display: flex;
-      gap: 4px;
-      padding: 4px 0;
+      gap: 5px;
+      padding: 6px 0;
     }
     
     .chat-typing span {
-      width: 6px;
-      height: 6px;
+      width: 7px;
+      height: 7px;
       background: var(--gray-400);
       border-radius: 50%;
-      animation: typingDot 1.2s ease-in-out infinite;
+      animation: typeDot 1.4s ease-in-out infinite;
     }
     
-    .chat-typing span:nth-child(2) { animation-delay: 0.15s; }
-    .chat-typing span:nth-child(3) { animation-delay: 0.3s; }
+    .chat-typing span:nth-child(2) { animation-delay: 0.2s; }
+    .chat-typing span:nth-child(3) { animation-delay: 0.4s; }
     
-    @keyframes typingDot {
+    @keyframes typeDot {
       0%, 60%, 100% { transform: translateY(0); opacity: 0.4; }
-      30% { transform: translateY(-4px); opacity: 1; }
+      30% { transform: translateY(-5px); opacity: 1; }
     }
     
     .chat-quick-replies {
       display: flex;
       flex-wrap: wrap;
-      gap: 6px;
-      margin-top: 12px;
+      gap: 8px;
+      margin-top: 14px;
     }
     
     .quick-reply {
-      padding: 8px 14px;
+      padding: 9px 16px;
       background: var(--white);
       border: 1px solid var(--gray-200);
-      border-radius: 20px;
+      border-radius: 24px;
       font-size: 0.8125rem;
+      font-weight: 500;
       color: var(--gray-600);
       cursor: pointer;
-      transition: border-color 0.2s ease, color 0.2s ease;
+      transition: all 0.2s ease;
     }
     
     .quick-reply:hover {
       border-color: var(--black);
       color: var(--black);
+      background: var(--off-white);
     }
     
     .chat-input-area {
       padding: 16px;
       border-top: 1px solid var(--gray-100);
       display: flex;
-      gap: 10px;
+      gap: 12px;
       background: var(--white);
     }
     
     .chat-input {
       flex: 1;
-      padding: 12px 16px;
-      background: var(--gray-50);
+      padding: 14px 18px;
+      background: var(--off-white);
       border: 1px solid var(--gray-100);
-      border-radius: 8px;
+      border-radius: 12px;
       font-family: inherit;
       font-size: 0.9375rem;
       color: var(--black);
       outline: none;
-      transition: border-color 0.2s ease;
+      transition: border-color 0.2s ease, box-shadow 0.2s ease;
     }
     
-    .chat-input::placeholder {
-      color: var(--gray-400);
-    }
+    .chat-input::placeholder { color: var(--gray-400); }
     
     .chat-input:focus {
       border-color: var(--gray-300);
+      box-shadow: 0 0 0 3px rgba(0,0,0,0.04);
     }
     
     .chat-send {
-      width: 44px;
-      height: 44px;
+      width: 48px;
+      height: 48px;
       background: var(--black);
       border: none;
-      border-radius: 8px;
+      border-radius: 12px;
       cursor: pointer;
       display: flex;
       align-items: center;
       justify-content: center;
-      transition: background 0.2s ease;
+      transition: all 0.2s ease;
       flex-shrink: 0;
     }
     
     .chat-send:hover {
       background: var(--gray-800);
+      transform: scale(1.04);
     }
     
-    .chat-send:disabled {
-      opacity: 0.5;
-      cursor: not-allowed;
-    }
+    .chat-send:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
     
     .chat-send svg {
       width: 18px;
@@ -1118,22 +1450,15 @@
     }
     
     @media (max-width: 480px) {
-      .chat-widget {
-        bottom: 16px;
-        right: 16px;
-      }
-      .chat-panel {
-        width: calc(100vw - 32px);
-        right: 0;
-        height: 60vh;
-      }
+      .chat-widget { bottom: 16px; right: 16px; }
+      .chat-panel { width: calc(100vw - 32px); right: 0; height: 65vh; }
     }
     
-    /* Scroll animations */
+    /* Reveal animations */
     .reveal {
       opacity: 0;
-      transform: translateY(20px);
-      transition: opacity 0.6s ease, transform 0.6s ease;
+      transform: translateY(24px);
+      transition: opacity 0.7s cubic-bezier(0.4, 0, 0.2, 1), transform 0.7s cubic-bezier(0.4, 0, 0.2, 1);
     }
     
     .reveal.visible {
@@ -1141,32 +1466,33 @@
       transform: translateY(0);
     }
     
-    /* Responsive */
-    @media (max-width: 768px) {
-      :root {
-        --space-3xl: 6rem;
-        --space-2xl: 4rem;
-      }
-    }
+    .reveal-delay-1 { transition-delay: 0.1s; }
+    .reveal-delay-2 { transition-delay: 0.2s; }
+    .reveal-delay-3 { transition-delay: 0.3s; }
     
+    /* Print */
     @media print {
-      .nav, .chat-widget { display: none !important; }
-      .hero { min-height: auto; padding: 4rem 0; }
-      .section { padding: 3rem 0; }
+      .nav, .chat-widget, #particleCanvas { display: none !important; }
+      .hero { min-height: auto; padding: 3rem 0; }
+      .section { padding: 2rem 0; }
+      .reveal { opacity: 1; transform: none; }
     }
   </style>
 </head>
 <body>
+  
+  <!-- Particle Canvas -->
+  <canvas id="particleCanvas"></canvas>
   
   <nav class="nav" id="nav">
     <div class="container nav-inner">
       <a href="#" class="nav-logo">Rocketship | Digital Marketing Agency</a>
       <div class="nav-links">
         <a href="#overview" class="nav-link">Overview</a>
-        <a href="#services" class="nav-link">Services</a>
+        <a href="#approach" class="nav-link">Approach</a>
         <a href="#timeline" class="nav-link">Timeline</a>
-        <a href="#pricing" class="nav-link">Investment</a>
-        <a href="mailto:shannon@getrocketship.com" class="nav-cta">Get in Touch</a>
+        <a href="#investment" class="nav-link">Investment</a>
+        <a href="mailto:shannon@getrocketship.com" class="nav-cta">Let's Talk</a>
       </div>
     </div>
   </nav>
@@ -1174,7 +1500,7 @@
   <section class="hero">
     <div class="container">
       <div class="hero-content">
-        <span class="hero-label">Proposal</span>
+        <span class="hero-eyebrow">Proposal</span>
         <h1 class="hero-title">Elevating Evergreen Wellness Center's Digital Presence</h1>
         <p class="hero-subtitle">Customized Strategies for Sustainable Growth</p>
         <div class="hero-meta">
@@ -1184,68 +1510,128 @@
           </div>
           <div class="hero-meta-item">
             <span class="hero-meta-label">Prepared by</span>
-            <span class="hero-meta-value">Rocketship | Digital Marketing Agency</span>
+            <span class="hero-meta-value">Shannon Zastrow</span>
           </div>
           <div class="hero-meta-item">
             <span class="hero-meta-label">Date</span>
-            <span class="hero-meta-value">October 10, 2023</span>
+            <span class="hero-meta-value">
+              <span class="live-date">
+                <span class="live-dot"></span>
+                <span id="liveDate"></span>
+              </span>
+            </span>
           </div>
         </div>
       </div>
     </div>
   </section>
+
+  <div class="proof-bar">
+    <div class="container">
+      <div class="proof-inner">
+        <div class="proof-item">
+          <div class="proof-value">150+</div>
+          <div class="proof-label">Projects Delivered</div>
+        </div>
+        <div class="proof-item">
+          <div class="proof-value">98%</div>
+          <div class="proof-label">Client Satisfaction</div>
+        </div>
+        <div class="proof-item">
+          <div class="proof-value">12+</div>
+          <div class="proof-label">Years Experience</div>
+        </div>
+        <div class="proof-item">
+          <div class="proof-value">3.2x</div>
+          <div class="proof-label">Average ROI</div>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <section class="section section-alt" id="overview">
     <div class="container">
-      <div class="overview-content">
+      <div class="overview-grid">
         <div class="overview-text reveal">
-          <span class="section-label">Overview</span>
+          <span class="section-eyebrow">Overview</span>
           <h2 class="section-title">Understanding Your Business</h2>
           <p>Evergreen Wellness Center is dedicated to promoting holistic health and wellness in the local community. With services ranging from acupuncture to nutritional counseling, you have built a loyal client base. However, as the wellness industry continues to grow, you recognize the need to enhance your online presence to attract new clients and communicate your unique value propositions effectively. Your goal is to leverage digital marketing to increase awareness of your services and drive client engagement.</p>
         </div>
-        <div class="overview-highlights reveal">
-          <div class="highlight-item">
-            <h4 class="highlight-title">Strategic Alignment</h4>
-            <p class="highlight-desc">Every recommendation is tailored to your specific goals and market position.</p>
+        <div class="overview-highlights">
+          <div class="highlight-card reveal reveal-delay-1">
+            <h4 class="highlight-title">Tailored Strategy</h4>
+            <p class="highlight-desc">Every recommendation is built specifically for your unique goals, challenges, and market position.</p>
           </div>
-          <div class="highlight-item">
-            <h4 class="highlight-title">Measurable Outcomes</h4>
-            <p class="highlight-desc">Clear KPIs and regular reporting to track progress and ROI.</p>
+          <div class="highlight-card reveal reveal-delay-2">
+            <h4 class="highlight-title">Measurable Results</h4>
+            <p class="highlight-desc">Clear KPIs, regular reporting, and transparent tracking so you always know your ROI.</p>
           </div>
-          <div class="highlight-item">
-            <h4 class="highlight-title">Dedicated Partnership</h4>
-            <p class="highlight-desc">Direct access to senior team members throughout our engagement.</p>
+          <div class="highlight-card reveal reveal-delay-3">
+            <h4 class="highlight-title">Senior Partnership</h4>
+            <p class="highlight-desc">Work directly with experienced strategists, not account managers or juniors.</p>
           </div>
         </div>
       </div>
     </div>
   </section>
 
-  <section class="section" id="challenges">
+  
+  <section class="section">
+    <div class="container">
+      <header class="section-header reveal">
+        <span class="section-eyebrow">Why Us</span>
+        <h2 class="section-title">What Sets Us Apart</h2>
+      </header>
+      <div class="value-grid">
+        
+  <div class="value-item reveal">
+    <span class="value-number">01</span>
+    <p class="value-text">Custom digital marketing solutions aligned with business objectives</p>
+  </div>
+
+  <div class="value-item reveal">
+    <span class="value-number">02</span>
+    <p class="value-text">Well-trained team of niche specialists delivering high-quality output</p>
+  </div>
+
+  <div class="value-item reveal">
+    <span class="value-number">03</span>
+    <p class="value-text">Transparent processes with measurable results</p>
+  </div>
+
+  <div class="value-item reveal">
+    <span class="value-number">04</span>
+    <p class="value-text">Less than half the churn rate of other agencies</p>
+  </div>
+
+      </div>
+    </div>
+  </section>
+  
+
+  <section class="section section-alt" id="challenges">
     <div class="container container-narrow">
       <header class="section-header reveal">
-        <span class="section-label">The Challenge</span>
-        <h2 class="section-title">Current Obstacles</h2>
+        <span class="section-eyebrow">The Challenge</span>
+        <h2 class="section-title">What's Holding You Back</h2>
+        <p class="section-desc">We've identified the key obstacles standing between you and your growth goals.</p>
       </header>
-      <div class="challenges-list">
+      <div class="challenges-grid">
         
-          <div class="challenge-item reveal">
-            <span class="challenge-number">01</span>
-            <div class="challenge-content">
-              <h4>Challenge 1</h4>
-              <p>Despite your expertise and dedication to holistic health, Evergreen Wellness Center faces challenges in reaching potential clients. Your current website lacks modern design elements and is not optimized for search engines, limiting visibility and engagement. Additionally, your social media presence is minimal, resulting in missed opportunities to connect with a broader audience. Without a cohesive digital marketing strategy, you risk falling behind competitors who are more effectively leveraging online channels.</p>
-            </div>
+          <div class="challenge-row reveal">
+            <span class="challenge-num">01</span>
+            <p class="challenge-text">Despite your expertise and dedication to holistic health, Evergreen Wellness Center faces challenges in reaching potential clients. Your current website lacks modern design elements and is not optimized for search engines, limiting visibility and engagement. Additionally, your social media presence is minimal, resulting in missed opportunities to connect with a broader audience. Without a cohesive digital marketing strategy, you risk falling behind competitors who are more effectively leveraging online channels.</p>
           </div>
         
       </div>
     </div>
   </section>
 
-  <section class="section section-alt" id="opportunity">
+  <section class="section" id="opportunity">
     <div class="container container-narrow">
       <header class="section-header reveal">
-        <span class="section-label">The Opportunity</span>
-        <h2 class="section-title">The Path Forward</h2>
+        <span class="section-eyebrow">The Opportunity</span>
+        <h2 class="section-title">Your Path to Growth</h2>
       </header>
       <div class="overview-text reveal">
         <p>The wellness industry is booming, and there's a significant opportunity for Evergreen Wellness Center to enhance its digital footprint. By implementing a targeted digital marketing strategy, you can not only attract more clients but also build a community around your brand. Our approach will focus on creating a user-friendly website, optimizing your content for search engines, and leveraging social media to foster engagement. These efforts will lead to measurable growth in website traffic, client inquiries, and overall brand visibility.</p>
@@ -1253,67 +1639,78 @@
     </div>
   </section>
 
-  <section class="section" id="services">
+  <section class="section section-alt" id="approach">
     <div class="container">
       <header class="section-header reveal">
-        <span class="section-label">Our Approach</span>
-        <h2 class="section-title">Recommended Services</h2>
-        <p class="section-desc">A focused strategy designed to address your challenges and capitalize on opportunities.</p>
+        <span class="section-eyebrow">Our Approach</span>
+        <h2 class="section-title">What We'll Deliver</h2>
+        <p class="section-desc">A comprehensive solution designed to overcome your challenges and unlock growth.</p>
       </header>
-      <div class="services-grid reveal">
+      <div class="services-list">
         
-    <article class="service-item">
-      <header class="service-header">
+    <article class="service-item reveal">
+      <div class="service-header">
         <span class="service-index">01</span>
         <h3 class="service-title">Website Redesign & SEO Optimization</h3>
-      </header>
+      </div>
       <p class="service-desc">Revamping your website to improve user experience and optimize it for search engines will ensure potential clients can easily find you. This service will include keyword research, content optimization, and mobile responsiveness.</p>
-      <ul class="service-deliverables">
-        <li>Fully redesigned website</li><li>On-page SEO optimization</li><li>Mobile-friendly design</li><li>Content strategy development</li><li>Analytics setup and reporting</li>
-      </ul>
+      <div class="service-deliverables">
+        <span class="deliverables-label">What's included:</span>
+        <ul>
+          <li>Fully redesigned website</li><li>On-page SEO optimization</li><li>Mobile-friendly design</li><li>Content strategy development</li><li>Analytics setup and reporting</li>
+        </ul>
+      </div>
     </article>
   
-    <article class="service-item">
-      <header class="service-header">
+    <article class="service-item reveal">
+      <div class="service-header">
         <span class="service-index">02</span>
         <h3 class="service-title">Social Media Management</h3>
-      </header>
+      </div>
       <p class="service-desc">A robust social media strategy will enhance your online presence and foster community engagement. We will create and manage content that resonates with your audience, encouraging interaction and brand loyalty.</p>
-      <ul class="service-deliverables">
-        <li>Content calendar</li><li>Monthly social media posts</li><li>Engagement tracking and reporting</li><li>Targeted ad campaigns</li><li>Brand voice guidelines</li>
-      </ul>
+      <div class="service-deliverables">
+        <span class="deliverables-label">What's included:</span>
+        <ul>
+          <li>Content calendar</li><li>Monthly social media posts</li><li>Engagement tracking and reporting</li><li>Targeted ad campaigns</li><li>Brand voice guidelines</li>
+        </ul>
+      </div>
     </article>
   
-    <article class="service-item">
-      <header class="service-header">
+    <article class="service-item reveal">
+      <div class="service-header">
         <span class="service-index">03</span>
         <h3 class="service-title">Content Marketing Strategy</h3>
-      </header>
+      </div>
       <p class="service-desc">Creating valuable content that speaks to your audience's needs and interests will position Evergreen Wellness Center as an authority in the wellness space. This includes blog posts, newsletters, and case studies.</p>
-      <ul class="service-deliverables">
-        <li>Monthly blog posts</li><li>Email newsletter design and management</li><li>Client case studies</li><li>Content performance analysis</li><li>SEO content strategy</li>
-      </ul>
+      <div class="service-deliverables">
+        <span class="deliverables-label">What's included:</span>
+        <ul>
+          <li>Monthly blog posts</li><li>Email newsletter design and management</li><li>Client case studies</li><li>Content performance analysis</li><li>SEO content strategy</li>
+        </ul>
+      </div>
     </article>
   
       </div>
     </div>
   </section>
 
-  <section class="section section-alt" id="timeline">
+  <section class="section" id="timeline">
     <div class="container container-narrow">
       <header class="section-header reveal">
-        <span class="section-label">Implementation</span>
-        <h2 class="section-title">Project Timeline</h2>
+        <span class="section-eyebrow">Timeline</span>
+        <h2 class="section-title">How We'll Get There</h2>
       </header>
       <div class="timeline reveal">
-        <div class="timeline-total">
-          Total Duration: <strong>10 weeks</strong>
+        <div class="timeline-header">
+          <span>Total project duration:</span>
+          <strong>10 weeks</strong>
         </div>
         <div class="phases">
           
-    <div class="phase-item">
+    <div class="phase-item reveal">
       <div class="phase-marker">
         <span class="phase-number">1</span>
+        <div class="phase-line"></div>
       </div>
       <div class="phase-content">
         <div class="phase-header">
@@ -1327,9 +1724,10 @@
       </div>
     </div>
   
-    <div class="phase-item">
+    <div class="phase-item reveal">
       <div class="phase-marker">
         <span class="phase-number">2</span>
+        <div class="phase-line"></div>
       </div>
       <div class="phase-content">
         <div class="phase-header">
@@ -1343,9 +1741,10 @@
       </div>
     </div>
   
-    <div class="phase-item">
+    <div class="phase-item reveal">
       <div class="phase-marker">
         <span class="phase-number">3</span>
+        
       </div>
       <div class="phase-content">
         <div class="phase-header">
@@ -1364,68 +1763,95 @@
     </div>
   </section>
 
-  <section class="section" id="pricing">
+  <section class="section section-alt" id="investment">
     <div class="container">
-      <header class="section-header reveal">
-        <span class="section-label">Investment</span>
-        <h2 class="section-title">Engagement Options</h2>
-        <p class="section-desc">Choose the level of engagement that best fits your needs.</p>
+      <header class="section-header reveal" style="text-align: center;">
+        <span class="section-eyebrow">Investment</span>
+        <h2 class="section-title">Choose Your Path Forward</h2>
+        <p class="section-desc" style="margin-left: auto; margin-right: auto;">Select the engagement level that fits your needs. All options include our commitment to results.</p>
       </header>
-      <div class="pricing-grid reveal">
+      <div class="pricing-grid">
         
-    <div class="tier-card ">
+    <div class="tier-card  reveal">
       
-      <h3 class="tier-name">Foundation</h3>
-      <div class="tier-price">$6,000</div>
-      <p class="tier-desc">This tier includes essential website redesign and basic SEO services.</p>
+      <div class="tier-header">
+        <h3 class="tier-name">Foundation</h3>
+        <p class="tier-tagline">This tier includes essential website redesign and basic SEO services.</p>
+      </div>
+      <div class="tier-price-block">
+        <span class="tier-price">$6,000</span>
+        <span class="tier-period">one-time investment</span>
+      </div>
       <ul class="tier-features">
-        <li>Website redesign</li><li>Basic on-page SEO</li><li>Mobile optimization</li>
+        <li><span class="check-icon"></span>Website redesign</li><li><span class="check-icon"></span>Basic on-page SEO</li><li><span class="check-icon"></span>Mobile optimization</li>
       </ul>
-      <a href="mailto:shannon@getrocketship.com?subject=Interested in Foundation" class="tier-cta">Get Started</a>
+      <a href="mailto:shannon@getrocketship.com?subject=Let's proceed with Foundation" class="tier-cta">Select Foundation</a>
     </div>
   
-    <div class="tier-card tier-featured">
-      <span class="tier-badge">Recommended</span>
-      <h3 class="tier-name">Growth</h3>
-      <div class="tier-price">$12,000</div>
-      <p class="tier-desc">This tier provides comprehensive web and social media management, including advanced SEO.</p>
+    <div class="tier-card tier-featured reveal">
+      <div class="tier-badge">Most Popular</div>
+      <div class="tier-header">
+        <h3 class="tier-name">Growth</h3>
+        <p class="tier-tagline">This tier provides comprehensive web and social media management, including advanced SEO.</p>
+      </div>
+      <div class="tier-price-block">
+        <span class="tier-price">$12,000</span>
+        <span class="tier-period">one-time investment</span>
+      </div>
       <ul class="tier-features">
-        <li>Website redesign</li><li>Advanced on-page SEO</li><li>Social media management</li><li>Content marketing strategy</li><li>Monthly analytics reports</li>
+        <li><span class="check-icon"></span>Website redesign</li><li><span class="check-icon"></span>Advanced on-page SEO</li><li><span class="check-icon"></span>Social media management</li><li><span class="check-icon"></span>Content marketing strategy</li><li><span class="check-icon"></span>Monthly analytics reports</li>
       </ul>
-      <a href="mailto:shannon@getrocketship.com?subject=Interested in Growth" class="tier-cta">Get Started</a>
+      <a href="mailto:shannon@getrocketship.com?subject=Let's proceed with Growth" class="tier-cta">Select Growth</a>
     </div>
   
-    <div class="tier-card ">
+    <div class="tier-card  reveal">
       
-      <h3 class="tier-name">Scale</h3>
-      <div class="tier-price">$20,000</div>
-      <p class="tier-desc">This tier offers a complete digital marketing solution with ongoing support and optimization.</p>
+      <div class="tier-header">
+        <h3 class="tier-name">Scale</h3>
+        <p class="tier-tagline">This tier offers a complete digital marketing solution with ongoing support and optimization.</p>
+      </div>
+      <div class="tier-price-block">
+        <span class="tier-price">$20,000</span>
+        <span class="tier-period">one-time investment</span>
+      </div>
       <ul class="tier-features">
-        <li>Website redesign with e-commerce integration</li><li>Comprehensive SEO strategy</li><li>Full social media management</li><li>In-depth content marketing</li><li>Ongoing support and analytics</li>
+        <li><span class="check-icon"></span>Website redesign with e-commerce integration</li><li><span class="check-icon"></span>Comprehensive SEO strategy</li><li><span class="check-icon"></span>Full social media management</li><li><span class="check-icon"></span>In-depth content marketing</li><li><span class="check-icon"></span>Ongoing support and analytics</li>
       </ul>
-      <a href="mailto:shannon@getrocketship.com?subject=Interested in Scale" class="tier-cta">Get Started</a>
+      <a href="mailto:shannon@getrocketship.com?subject=Let's proceed with Scale" class="tier-cta">Select Scale</a>
     </div>
   
+      </div>
+      <div class="guarantee-box reveal">
+        <div class="guarantee-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+            <path d="M9 12l2 2 4-4"/>
+          </svg>
+        </div>
+        <div class="guarantee-content">
+          <h4>Our Satisfaction Guarantee</h4>
+          <p>We're confident in our work. If you're not completely satisfied with the results after the first 30 days, we'll work with you until you are — at no additional cost.</p>
+        </div>
       </div>
     </div>
   </section>
 
   
-  <section class="section section-alt" id="results">
+  <section class="section section-dark" id="results">
     <div class="container">
       <header class="section-header reveal">
-        <span class="section-label">Track Record</span>
-        <h2 class="section-title">Previous Results</h2>
+        <span class="section-eyebrow">Results</span>
+        <h2 class="section-title">What Our Clients Achieve</h2>
       </header>
-      <div class="cases-grid reveal">
+      <div class="cases-grid">
         
-    <div class="case-item">
-      <h4 class="case-title">Success with Wellness Works</h4>
+    <div class="case-item reveal">
+      <div class="case-quote">"</div>
       <p class="case-context">We helped a similar wellness center redesign their website and implement a content strategy.</p>
       <div class="case-result">
-        <span class="case-label">Result</span>
-        <p class="case-outcome">Achieved a 150% increase in site traffic and a 300% increase in client inquiries within six months.</p>
+        <span class="result-value">Achieved a 150% increase in site traffic and a 300% increase in client inquiries within six months.</span>
       </div>
+      <p class="case-title">Success with Wellness Works</p>
     </div>
   
       </div>
@@ -1435,18 +1861,31 @@
 
   <section class="cta-section">
     <div class="container">
-      <div class="cta-content reveal">
-        <span class="cta-label">Next Steps</span>
-        <h2 class="cta-title">Ready to Elevate Your Wellness Brand?</h2>
-        <p class="cta-desc">Let’s discuss how we can transform Evergreen Wellness Center’s digital presence and drive sustainable growth. We’re excited to partner with you!</p>
-        <div class="cta-buttons">
-          <a href="mailto:shannon@getrocketship.com?subject=Re: Proposal for Evergreen Wellness Center" class="btn-primary">
-            Schedule a Call
-            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2">
-              <path d="M3 8h10M9 4l4 4-4 4"/>
-            </svg>
-          </a>
-          <a href="#pricing" class="btn-secondary">Review Pricing</a>
+      <div class="cta-grid">
+        <div class="cta-content reveal">
+          <span class="cta-eyebrow">Next Steps</span>
+          <h2 class="cta-title">Ready to Elevate Your Wellness Brand?</h2>
+          <p class="cta-desc">Let’s discuss how we can transform Evergreen Wellness Center’s digital presence and drive sustainable growth. We’re excited to partner with you!</p>
+          <div class="cta-buttons">
+            <a href="mailto:shannon@getrocketship.com?subject=Let's Move Forward — Evergreen Wellness Center" class="btn-primary">
+              Schedule a Call
+              <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M3 8h10M9 4l4 4-4 4"/>
+              </svg>
+            </a>
+            <a href="#investment" class="btn-secondary">Review Options</a>
+          </div>
+        </div>
+        <div class="cta-summary reveal reveal-delay-1">
+          <h4 class="cta-summary-title">What You Get</h4>
+          <ul class="cta-summary-list">
+            <li>Dedicated project team</li>
+            <li>Regular progress updates</li>
+            <li>Measurable outcomes</li>
+            <li>30-day satisfaction guarantee</li>
+            <li>Ongoing support included</li>
+          </ul>
+          <p class="cta-summary-note">Questions? Reply to this proposal or reach out directly. We typically respond within 2 hours.</p>
         </div>
       </div>
     </div>
@@ -1456,7 +1895,7 @@
     <div class="container footer-inner">
       <span class="footer-brand">Rocketship | Digital Marketing Agency</span>
       <div class="footer-contact">
-        <span class="footer-item">Shannon Zastrow, Owner / Chief Strategist</span>
+        <span class="footer-item">Shannon Zastrow</span>
         <span class="footer-item"><a href="mailto:shannon@getrocketship.com">shannon@getrocketship.com</a></span>
         <span class="footer-item">(555) 123-4567</span>
       </div>
@@ -1470,23 +1909,23 @@
         <div class="chat-avatar">R</div>
         <div class="chat-header-info">
           <h4>Rocketship | Digital Marketing Agency</h4>
-          <p>Ask us anything about this proposal</p>
+          <p>Ask anything about this proposal</p>
         </div>
       </div>
       <div class="chat-messages" id="chatMessages">
         <div class="chat-message bot">
           <div class="chat-bubble">
-            Hello! I'm here to answer any questions you have about this proposal. What would you like to know?
+            Hi! I'm here to answer any questions about this proposal. What would you like to know?
             <div class="chat-quick-replies">
-              <button class="quick-reply" data-msg="Tell me more about the pricing">Pricing details</button>
-              <button class="quick-reply" data-msg="What's the expected timeline?">Timeline</button>
+              <button class="quick-reply" data-msg="What's included in the pricing?">Pricing details</button>
+              <button class="quick-reply" data-msg="How long will this take?">Timeline</button>
               <button class="quick-reply" data-msg="How do we get started?">Next steps</button>
             </div>
           </div>
         </div>
       </div>
       <div class="chat-input-area">
-        <input type="text" class="chat-input" id="chatInput" placeholder="Type a question..." autocomplete="off">
+        <input type="text" class="chat-input" id="chatInput" placeholder="Ask a question..." autocomplete="off">
         <button class="chat-send" id="chatSend">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
             <path d="M22 2L11 13M22 2l-7 20-4-9-9-4 20-7z"/>
@@ -1508,21 +1947,141 @@
   (function() {
     'use strict';
     
-    // Navigation scroll effect
+    // =====================
+    // REAL-TIME DATE
+    // =====================
+    function updateLiveDate() {
+      const el = document.getElementById('liveDate');
+      if (!el) return;
+      const now = new Date();
+      const options = { day: 'numeric', month: 'long', year: 'numeric' };
+      el.textContent = now.toLocaleDateString('en-US', options);
+    }
+    updateLiveDate();
+    
+    // =====================
+    // PARTICLE SYSTEM WITH REPEL
+    // =====================
+    const canvas = document.getElementById('particleCanvas');
+    const ctx = canvas.getContext('2d');
+    let particles = [];
+    let mouse = { x: null, y: null, radius: 120 };
+    let animationId;
+    
+    function resizeCanvas() {
+      canvas.width = window.innerWidth;
+      canvas.height = window.innerHeight;
+    }
+    
+    class Particle {
+      constructor() {
+        this.x = Math.random() * canvas.width;
+        this.y = Math.random() * canvas.height;
+        this.baseX = this.x;
+        this.baseY = this.y;
+        this.size = Math.random() * 3 + 1;
+        this.density = Math.random() * 30 + 1;
+        this.opacity = Math.random() * 0.3 + 0.1;
+      }
+      
+      draw() {
+        ctx.fillStyle = 'rgba(0, 0, 0, ' + this.opacity + ')';
+        ctx.beginPath();
+        ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+        ctx.closePath();
+        ctx.fill();
+      }
+      
+      update() {
+        let dx = mouse.x - this.x;
+        let dy = mouse.y - this.y;
+        let distance = Math.sqrt(dx * dx + dy * dy);
+        let forceDirectionX = dx / distance;
+        let forceDirectionY = dy / distance;
+        let maxDistance = mouse.radius;
+        let force = (maxDistance - distance) / maxDistance;
+        let directionX = forceDirectionX * force * this.density;
+        let directionY = forceDirectionY * force * this.density;
+        
+        if (distance < mouse.radius && mouse.x !== null) {
+          this.x -= directionX;
+          this.y -= directionY;
+        } else {
+          if (this.x !== this.baseX) {
+            let dx = this.x - this.baseX;
+            this.x -= dx / 10;
+          }
+          if (this.y !== this.baseY) {
+            let dy = this.y - this.baseY;
+            this.y -= dy / 10;
+          }
+        }
+      }
+    }
+    
+    function initParticles() {
+      particles = [];
+      let numberOfParticles = Math.floor((canvas.width * canvas.height) / 12000);
+      numberOfParticles = Math.min(numberOfParticles, 150);
+      for (let i = 0; i < numberOfParticles; i++) {
+        particles.push(new Particle());
+      }
+    }
+    
+    function animateParticles() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      for (let i = 0; i < particles.length; i++) {
+        particles[i].draw();
+        particles[i].update();
+      }
+      animationId = requestAnimationFrame(animateParticles);
+    }
+    
+    function handleMouseMove(e) {
+      mouse.x = e.clientX;
+      mouse.y = e.clientY;
+    }
+    
+    function handleTouchMove(e) {
+      if (e.touches.length > 0) {
+        mouse.x = e.touches[0].clientX;
+        mouse.y = e.touches[0].clientY;
+      }
+    }
+    
+    function handleMouseLeave() {
+      mouse.x = null;
+      mouse.y = null;
+    }
+    
+    resizeCanvas();
+    initParticles();
+    animateParticles();
+    
+    window.addEventListener('resize', function() {
+      resizeCanvas();
+      initParticles();
+    });
+    
+    window.addEventListener('mousemove', handleMouseMove, { passive: true });
+    window.addEventListener('touchmove', handleTouchMove, { passive: true });
+    window.addEventListener('mouseleave', handleMouseLeave);
+    window.addEventListener('touchend', handleMouseLeave);
+    
+    // =====================
+    // NAVIGATION
+    // =====================
     const nav = document.getElementById('nav');
-    let lastScroll = 0;
     
     window.addEventListener('scroll', function() {
-      const currentScroll = window.scrollY;
-      if (currentScroll > 50) {
+      if (window.scrollY > 60) {
         nav.classList.add('scrolled');
       } else {
         nav.classList.remove('scrolled');
       }
-      lastScroll = currentScroll;
     }, { passive: true });
     
-    // Smooth scroll for anchor links
+    // Smooth scroll
     document.querySelectorAll('a[href^="#"]').forEach(function(anchor) {
       anchor.addEventListener('click', function(e) {
         e.preventDefault();
@@ -1535,7 +2094,9 @@
       });
     });
     
-    // Reveal animations on scroll
+    // =====================
+    // REVEAL ANIMATIONS
+    // =====================
     const revealElements = document.querySelectorAll('.reveal');
     
     const revealObserver = new IntersectionObserver(function(entries) {
@@ -1547,7 +2108,7 @@
       });
     }, {
       root: null,
-      rootMargin: '0px 0px -60px 0px',
+      rootMargin: '0px 0px -80px 0px',
       threshold: 0.1
     });
     
@@ -1555,8 +2116,10 @@
       revealObserver.observe(el);
     });
     
-    // Chatbot
-    const WEBHOOK_URL = 'https://your-n8n-domain.com/webhook/proposal-chat';
+    // =====================
+    // CHATBOT
+    // =====================
+    const WEBHOOK_URL = 'https://n8n.srv1019904.hstgr.cloud/webhook/proposal-chat';
     const PROPOSAL_ID = 'rocketship-digital-marketing-agency';
     
     const chatWidget = document.getElementById('chatWidget');
@@ -1572,7 +2135,6 @@
       chatWidget.classList.toggle('open');
       if (chatWidget.classList.contains('open')) {
         chatInput.focus();
-        // Track view
         fetch(WEBHOOK_URL, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
@@ -1630,13 +2192,13 @@
         const data = await res.json();
         hideTyping();
         
-        const reply = data.reply || data.message || "I apologize, but I'm having trouble responding. Please try again.";
+        const reply = data.reply || data.message || "I apologize, I'm having trouble responding. Please try again.";
         addMessage(reply, 'bot');
         history.push({ role: 'assistant', content: reply });
         
       } catch (err) {
         hideTyping();
-        addMessage("I'm having trouble connecting. Please try again in a moment.", 'bot');
+        addMessage("Connection issue. Please try again.", 'bot');
       }
       
       sending = false;
@@ -1655,7 +2217,6 @@
       }
     });
     
-    // Quick replies
     document.addEventListener('click', function(e) {
       if (e.target.classList.contains('quick-reply')) {
         const msg = e.target.getAttribute('data-msg');
