@@ -2,878 +2,1667 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-  <meta name="description" content="Strategic proposal for Evergreen Wellness Center by Rocketship | Digital Marketing Agency">
-  <meta name="theme-color" content="#0a0a1a">
-  <title>Rocketship | Digital Marketing Agency — Proposal for Evergreen Wellness Center</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Proposal for Evergreen Wellness Center | Rocketship | Digital Marketing Agency</title>
   
-  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><defs><linearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'><stop offset='0%25' stop-color='%236366f1'/><stop offset='100%25' stop-color='%2306b6d4'/></linearGradient></defs><rect width='100' height='100' rx='20' fill='url(%23g)'/><text x='50' y='68' font-family='Arial' font-size='50' font-weight='bold' fill='white' text-anchor='middle'>P</text></svg>">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%23111'/><text x='16' y='22' font-family='system-ui' font-size='18' font-weight='600' fill='%23fff' text-anchor='middle'>R</text></svg>">
   
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@400;500;600&display=swap" rel="stylesheet">
   
   <style>
-    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    *, *::before, *::after {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
     
     :root {
-      --bg-primary: #0a0a1a;
-      --bg-secondary: #0f0f2d;
-      --bg-tertiary: #151538;
-      --bg-card: rgba(255, 255, 255, 0.03);
-      --bg-card-hover: rgba(255, 255, 255, 0.06);
-      --text-primary: #ffffff;
-      --text-secondary: rgba(255, 255, 255, 0.7);
-      --text-tertiary: rgba(255, 255, 255, 0.5);
-      --accent-primary: #6366f1;
-      --accent-secondary: #8b5cf6;
-      --accent-tertiary: #06b6d4;
-      --accent-gradient: linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #06b6d4 100%);
-      --accent-glow: rgba(99, 102, 241, 0.4);
-      --success: #10b981;
-      --warning: #f59e0b;
-      --error: #ef4444;
-      --border-color: rgba(255, 255, 255, 0.08);
-      --border-hover: rgba(255, 255, 255, 0.15);
-      --section-padding: clamp(80px, 12vw, 160px);
-      --container-width: 1400px;
-      --container-padding: clamp(20px, 5vw, 80px);
-      --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-      --font-display: 'Space Grotesk', sans-serif;
-      --radius-sm: 8px;
-      --radius-md: 16px;
-      --radius-lg: 24px;
-      --radius-xl: 32px;
-      --radius-full: 9999px;
-      --shadow-glow: 0 0 60px rgba(99, 102, 241, 0.3);
-      --transition-fast: 0.15s cubic-bezier(0.4, 0, 0.2, 1);
-      --transition-base: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-      --transition-slow: 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+      --black: #0a0a0a;
+      --white: #fafafa;
+      --gray-50: #f7f7f7;
+      --gray-100: #e8e8e8;
+      --gray-200: #d4d4d4;
+      --gray-300: #a3a3a3;
+      --gray-400: #737373;
+      --gray-500: #525252;
+      --gray-600: #404040;
+      --gray-700: #262626;
+      --gray-800: #171717;
+      --gray-900: #0f0f0f;
+      
+      --accent: #2563eb;
+      --accent-dark: #1d4ed8;
+      
+      --font-sans: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      --font-serif: 'IBM Plex Serif', Georgia, serif;
+      
+      --space-xs: 0.5rem;
+      --space-sm: 1rem;
+      --space-md: 1.5rem;
+      --space-lg: 2.5rem;
+      --space-xl: 4rem;
+      --space-2xl: 6rem;
+      --space-3xl: 10rem;
+      
+      --max-width: 1200px;
+      --content-width: 720px;
     }
     
-    html { scroll-behavior: smooth; scrollbar-width: thin; scrollbar-color: var(--accent-primary) var(--bg-primary); }
-    html::-webkit-scrollbar { width: 8px; }
-    html::-webkit-scrollbar-track { background: var(--bg-primary); }
-    html::-webkit-scrollbar-thumb { background: var(--accent-primary); border-radius: 4px; }
-    
-    body {
-      font-family: var(--font-primary);
-      background: var(--bg-primary);
-      color: var(--text-primary);
-      line-height: 1.7;
-      font-size: 16px;
+    html {
+      scroll-behavior: smooth;
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
-      overflow-x: hidden;
     }
     
-    /* Loader */
-    .loader {
-      position: fixed; inset: 0; background: var(--bg-primary); z-index: 99999;
-      display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 24px;
-      transition: opacity 0.6s ease, visibility 0.6s ease;
+    body {
+      font-family: var(--font-sans);
+      font-size: 16px;
+      line-height: 1.6;
+      color: var(--gray-700);
+      background: var(--white);
     }
-    .loader.hidden { opacity: 0; visibility: hidden; }
-    .loader-logo { width: 80px; height: 80px; }
-    .loader-logo svg { width: 100%; height: 100%; animation: pulse-logo 2s ease-in-out infinite; }
-    @keyframes pulse-logo { 0%, 100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.1); opacity: 0.8; } }
-    .loader-bar { width: 200px; height: 3px; background: var(--border-color); border-radius: 3px; overflow: hidden; }
-    .loader-bar::after { content: ''; display: block; width: 40%; height: 100%; background: var(--accent-gradient); border-radius: 3px; animation: loader-slide 1s ease-in-out infinite; }
-    @keyframes loader-slide { 0% { transform: translateX(-100%); } 100% { transform: translateX(350%); } }
     
-    /* Cursor */
-    .cursor { width: 20px; height: 20px; border: 2px solid var(--accent-primary); border-radius: 50%; position: fixed; pointer-events: none; z-index: 99998; transition: transform 0.15s ease, width 0.3s ease, height 0.3s ease; transform: translate(-50%, -50%); mix-blend-mode: difference; }
-    .cursor.hover { width: 50px; height: 50px; border-color: var(--accent-tertiary); }
-    .cursor-dot { width: 6px; height: 6px; background: var(--accent-primary); border-radius: 50%; position: fixed; pointer-events: none; z-index: 99999; transform: translate(-50%, -50%); }
-    @media (max-width: 1024px) { .cursor, .cursor-dot { display: none; } }
+    ::selection {
+      background: var(--accent);
+      color: var(--white);
+    }
     
-    /* Scroll Progress */
-    .scroll-progress { position: fixed; top: 0; left: 0; width: 0%; height: 3px; background: var(--accent-gradient); z-index: 9999; transition: width 0.1s linear; }
+    /* Typography */
+    h1, h2, h3, h4 {
+      font-family: var(--font-serif);
+      font-weight: 500;
+      color: var(--black);
+      letter-spacing: -0.02em;
+    }
+    
+    p {
+      color: var(--gray-500);
+    }
+    
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+    
+    /* Layout */
+    .container {
+      width: 100%;
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: 0 var(--space-md);
+    }
+    
+    .container-narrow {
+      max-width: var(--content-width);
+    }
     
     /* Navigation */
-    .nav { position: fixed; top: 0; left: 0; right: 0; padding: 20px var(--container-padding); z-index: 1000; transition: all var(--transition-base); }
-    .nav.scrolled { background: rgba(10, 10, 26, 0.9); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); border-bottom: 1px solid var(--border-color); padding: 15px var(--container-padding); }
-    .nav-inner { max-width: var(--container-width); margin: 0 auto; display: flex; align-items: center; justify-content: space-between; }
-    .nav-logo { font-family: var(--font-display); font-size: 1.5rem; font-weight: 700; color: var(--text-primary); text-decoration: none; display: flex; align-items: center; gap: 12px; }
-    .nav-logo-icon { width: 40px; height: 40px; background: var(--accent-gradient); border-radius: var(--radius-sm); display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.2rem; }
-    .nav-links { display: flex; gap: 8px; }
-    .nav-link { padding: 10px 20px; color: var(--text-secondary); text-decoration: none; font-size: 0.9rem; font-weight: 500; border-radius: var(--radius-full); transition: all var(--transition-base); }
-    .nav-link:hover { color: var(--text-primary); background: var(--bg-card); }
-    .nav-cta { padding: 12px 24px; background: var(--accent-gradient); color: white; text-decoration: none; font-size: 0.9rem; font-weight: 600; border-radius: var(--radius-full); transition: all var(--transition-base); box-shadow: 0 4px 15px var(--accent-glow); }
-    .nav-cta:hover { transform: translateY(-2px); box-shadow: 0 8px 25px var(--accent-glow); }
-    @media (max-width: 768px) { .nav-links { display: none; } }
+    .nav {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 100;
+      padding: var(--space-md) 0;
+      background: rgba(250, 250, 250, 0.8);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid transparent;
+      transition: border-color 0.3s ease;
+    }
+    
+    .nav.scrolled {
+      border-bottom-color: var(--gray-100);
+    }
+    
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    
+    .nav-logo {
+      font-family: var(--font-serif);
+      font-size: 1.125rem;
+      font-weight: 600;
+      color: var(--black);
+    }
+    
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: var(--space-lg);
+    }
+    
+    .nav-link {
+      font-size: 0.875rem;
+      color: var(--gray-500);
+      transition: color 0.2s ease;
+    }
+    
+    .nav-link:hover {
+      color: var(--black);
+    }
+    
+    .nav-cta {
+      font-size: 0.875rem;
+      font-weight: 500;
+      color: var(--white);
+      background: var(--black);
+      padding: 0.625rem 1.25rem;
+      border-radius: 6px;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+    
+    .nav-cta:hover {
+      background: var(--gray-800);
+      transform: translateY(-1px);
+    }
+    
+    @media (max-width: 768px) {
+      .nav-links { display: none; }
+    }
     
     /* Hero */
-    .hero { min-height: 100vh; display: flex; align-items: center; justify-content: center; position: relative; overflow: hidden; padding: 120px var(--container-padding) 80px; }
-    .hero-bg { position: absolute; inset: 0; overflow: hidden; }
-    .hero-gradient { position: absolute; inset: 0; background: radial-gradient(ellipse 80% 50% at 50% -20%, rgba(99, 102, 241, 0.3), transparent), radial-gradient(ellipse 60% 40% at 80% 60%, rgba(139, 92, 246, 0.2), transparent), radial-gradient(ellipse 50% 30% at 20% 80%, rgba(6, 182, 212, 0.15), transparent); }
-    .hero-grid { position: absolute; inset: 0; background-image: linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px); background-size: 60px 60px; mask-image: radial-gradient(ellipse at center, black 30%, transparent 70%); -webkit-mask-image: radial-gradient(ellipse at center, black 30%, transparent 70%); }
-    .hero-orbs { position: absolute; inset: 0; overflow: hidden; }
-    .hero-orb { position: absolute; border-radius: 50%; filter: blur(80px); animation: float-orb 20s ease-in-out infinite; }
-    .hero-orb-1 { width: 600px; height: 600px; background: rgba(99, 102, 241, 0.15); top: -20%; right: -10%; }
-    .hero-orb-2 { width: 400px; height: 400px; background: rgba(139, 92, 246, 0.12); bottom: 10%; left: -5%; animation-delay: -5s; }
-    .hero-orb-3 { width: 300px; height: 300px; background: rgba(6, 182, 212, 0.1); top: 50%; left: 60%; animation-delay: -10s; }
-    @keyframes float-orb { 0%, 100% { transform: translate(0, 0) scale(1); } 25% { transform: translate(30px, -30px) scale(1.05); } 50% { transform: translate(-20px, 20px) scale(0.95); } 75% { transform: translate(20px, 10px) scale(1.02); } }
-    .hero-particles { position: absolute; inset: 0; }
-    .particle { position: absolute; width: 4px; height: 4px; background: var(--accent-primary); border-radius: 50%; opacity: 0.3; animation: particle-float 15s linear infinite; }
-    @keyframes particle-float { 0% { transform: translateY(100vh) rotate(0deg); opacity: 0; } 10% { opacity: 0.3; } 90% { opacity: 0.3; } 100% { transform: translateY(-100vh) rotate(720deg); opacity: 0; } }
-    .hero-content { position: relative; z-index: 2; max-width: 1000px; text-align: center; }
-    .hero-badge { display: inline-flex; align-items: center; gap: 8px; padding: 8px 20px; background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-full); font-size: 0.85rem; font-weight: 500; color: var(--text-secondary); margin-bottom: 32px; animation: fade-in-up 0.8s ease forwards; opacity: 0; }
-    .hero-badge-dot { width: 8px; height: 8px; background: var(--success); border-radius: 50%; animation: pulse-dot 2s ease-in-out infinite; }
-    @keyframes pulse-dot { 0%, 100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.5); opacity: 0.5; } }
-    .hero-title { font-family: var(--font-display); font-size: clamp(2.5rem, 8vw, 5rem); font-weight: 700; line-height: 1.1; letter-spacing: -0.03em; margin-bottom: 24px; animation: fade-in-up 0.8s ease 0.1s forwards; opacity: 0; }
-    .hero-title-gradient { background: var(--accent-gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
-    .hero-subtitle { font-size: clamp(1.1rem, 2vw, 1.35rem); color: var(--text-secondary); max-width: 650px; margin: 0 auto 48px; animation: fade-in-up 0.8s ease 0.2s forwards; opacity: 0; }
-    .hero-meta { display: flex; align-items: center; justify-content: center; gap: 32px; flex-wrap: wrap; animation: fade-in-up 0.8s ease 0.3s forwards; opacity: 0; }
-    .hero-meta-item { display: flex; align-items: center; gap: 10px; font-size: 0.95rem; color: var(--text-tertiary); }
-    .hero-meta-icon { width: 20px; height: 20px; color: var(--accent-primary); }
-    .hero-scroll { position: absolute; bottom: 40px; left: 50%; transform: translateX(-50%); display: flex; flex-direction: column; align-items: center; gap: 8px; color: var(--text-tertiary); font-size: 0.8rem; animation: fade-in-up 0.8s ease 0.5s forwards; opacity: 0; }
-    .hero-scroll-mouse { width: 24px; height: 40px; border: 2px solid var(--border-color); border-radius: 12px; position: relative; }
-    .hero-scroll-mouse::before { content: ''; position: absolute; top: 8px; left: 50%; transform: translateX(-50%); width: 3px; height: 8px; background: var(--accent-primary); border-radius: 3px; animation: scroll-indicator 2s ease-in-out infinite; }
-    @keyframes scroll-indicator { 0%, 100% { transform: translateX(-50%) translateY(0); opacity: 1; } 50% { transform: translateX(-50%) translateY(10px); opacity: 0; } }
-    @keyframes fade-in-up { from { opacity: 0; transform: translateY(30px); } to { opacity: 1; transform: translateY(0); } }
+    .hero {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      padding: var(--space-3xl) 0 var(--space-2xl);
+      background: var(--gray-50);
+      position: relative;
+    }
     
-    /* Sections */
-    .section { padding: var(--section-padding) var(--container-padding); position: relative; overflow: hidden; }
-    .section-inner { max-width: var(--container-width); margin: 0 auto; }
-    .section-header { text-align: center; max-width: 800px; margin: 0 auto 60px; }
-    .section-label { display: inline-flex; align-items: center; gap: 8px; padding: 6px 16px; background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-full); font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 1.5px; color: var(--accent-primary); margin-bottom: 20px; }
-    .section-title { font-family: var(--font-display); font-size: clamp(2rem, 5vw, 3.5rem); font-weight: 700; line-height: 1.2; letter-spacing: -0.02em; margin-bottom: 20px; }
-    .section-desc { font-size: 1.1rem; color: var(--text-secondary); line-height: 1.8; }
+    .hero-content {
+      max-width: 800px;
+    }
+    
+    .hero-label {
+      display: inline-block;
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--gray-400);
+      margin-bottom: var(--space-lg);
+    }
+    
+    .hero-title {
+      font-size: clamp(2.5rem, 6vw, 4rem);
+      line-height: 1.1;
+      margin-bottom: var(--space-md);
+    }
+    
+    .hero-subtitle {
+      font-size: clamp(1.125rem, 2vw, 1.375rem);
+      line-height: 1.6;
+      color: var(--gray-500);
+      max-width: 600px;
+      margin-bottom: var(--space-xl);
+    }
+    
+    .hero-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: var(--space-lg);
+      padding-top: var(--space-lg);
+      border-top: 1px solid var(--gray-200);
+    }
+    
+    .hero-meta-item {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    
+    .hero-meta-label {
+      font-size: 0.75rem;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: var(--gray-400);
+    }
+    
+    .hero-meta-value {
+      font-size: 0.9375rem;
+      color: var(--black);
+    }
+    
+    /* Section Base */
+    .section {
+      padding: var(--space-3xl) 0;
+    }
+    
+    .section-header {
+      margin-bottom: var(--space-xl);
+    }
+    
+    .section-label {
+      display: inline-block;
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--gray-400);
+      margin-bottom: var(--space-sm);
+    }
+    
+    .section-title {
+      font-size: clamp(1.75rem, 4vw, 2.5rem);
+      line-height: 1.2;
+    }
+    
+    .section-desc {
+      margin-top: var(--space-md);
+      font-size: 1.0625rem;
+      max-width: 600px;
+    }
+    
+    .section-alt {
+      background: var(--gray-50);
+    }
     
     /* Overview */
-    .overview { background: var(--bg-secondary); }
-    .overview-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: center; }
-    .overview-content { font-size: 1.1rem; color: var(--text-secondary); line-height: 1.9; }
-    .overview-content p { margin-bottom: 20px; }
-    .overview-visual { position: relative; height: 400px; }
-    .overview-card { position: absolute; background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 24px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); transition: all var(--transition-base); }
-    .overview-card:hover { transform: translateY(-5px); border-color: var(--accent-primary); box-shadow: var(--shadow-glow); }
-    .overview-card-1 { top: 0; left: 0; width: 220px; animation: float-card 6s ease-in-out infinite; }
-    .overview-card-2 { top: 30%; right: 0; width: 240px; animation: float-card 6s ease-in-out infinite 2s; }
-    .overview-card-3 { bottom: 0; left: 20%; width: 200px; animation: float-card 6s ease-in-out infinite 4s; }
-    @keyframes float-card { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-15px); } }
-    .overview-card-icon { width: 48px; height: 48px; background: var(--accent-gradient); border-radius: var(--radius-md); display: flex; align-items: center; justify-content: center; margin-bottom: 16px; }
-    .overview-card-icon svg { width: 24px; height: 24px; color: white; }
-    .overview-card h4 { font-size: 1rem; font-weight: 600; margin-bottom: 8px; }
-    .overview-card p { font-size: 0.85rem; color: var(--text-tertiary); }
-    @media (max-width: 968px) { .overview-grid { grid-template-columns: 1fr; gap: 40px; } .overview-visual { display: none; } }
+    .overview-content {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: var(--space-2xl);
+      align-items: start;
+    }
+    
+    .overview-text p {
+      font-size: 1.0625rem;
+      line-height: 1.8;
+      margin-bottom: var(--space-md);
+    }
+    
+    .overview-text p:last-child {
+      margin-bottom: 0;
+    }
+    
+    .overview-highlights {
+      display: flex;
+      flex-direction: column;
+      gap: var(--space-md);
+    }
+    
+    .highlight-item {
+      padding: var(--space-md);
+      background: var(--white);
+      border: 1px solid var(--gray-100);
+      border-radius: 8px;
+      transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+    
+    .highlight-item:hover {
+      border-color: var(--gray-200);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+    }
+    
+    .highlight-title {
+      font-family: var(--font-sans);
+      font-size: 0.9375rem;
+      font-weight: 600;
+      color: var(--black);
+      margin-bottom: 6px;
+    }
+    
+    .highlight-desc {
+      font-size: 0.875rem;
+      color: var(--gray-400);
+      line-height: 1.5;
+    }
+    
+    @media (max-width: 768px) {
+      .overview-content {
+        grid-template-columns: 1fr;
+        gap: var(--space-xl);
+      }
+    }
     
     /* Challenges */
-    .challenges { position: relative; }
-    .challenges-bg { position: absolute; inset: 0; background: radial-gradient(ellipse 50% 50% at 0% 50%, rgba(239, 68, 68, 0.08), transparent), radial-gradient(ellipse 50% 50% at 100% 50%, rgba(245, 158, 11, 0.08), transparent); }
-    .challenges-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; }
-    .challenge-card { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 32px; position: relative; overflow: hidden; transition: all var(--transition-base); }
-    .challenge-card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, var(--error), var(--warning)); transform: scaleX(0); transform-origin: left; transition: transform var(--transition-base); }
-    .challenge-card:hover { border-color: var(--border-hover); transform: translateY(-5px); }
-    .challenge-card:hover::before { transform: scaleX(1); }
-    .challenge-icon { width: 56px; height: 56px; background: rgba(239, 68, 68, 0.1); border-radius: var(--radius-md); display: flex; align-items: center; justify-content: center; margin-bottom: 20px; }
-    .challenge-icon svg { width: 28px; height: 28px; color: var(--error); }
-    .challenge-card h4 { font-size: 1.2rem; font-weight: 600; margin-bottom: 12px; }
-    .challenge-card p { color: var(--text-secondary); font-size: 0.95rem; line-height: 1.7; }
+    .challenges-list {
+      display: grid;
+      gap: var(--space-md);
+    }
     
-    /* Opportunity */
-    .opportunity { background: var(--bg-secondary); }
-    .opportunity-content { display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center; }
-    .opportunity-text { font-size: 1.1rem; color: var(--text-secondary); line-height: 1.9; }
-    .opportunity-text p { margin-bottom: 24px; }
-    .opportunity-stats { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; }
-    .stat-card { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 32px; text-align: center; position: relative; overflow: hidden; transition: all var(--transition-base); }
-    .stat-card::after { content: ''; position: absolute; inset: 0; background: var(--accent-gradient); opacity: 0; transition: opacity var(--transition-base); }
-    .stat-card:hover { transform: translateY(-8px) scale(1.02); border-color: var(--accent-primary); }
-    .stat-card:hover::after { opacity: 0.05; }
-    .stat-card > * { position: relative; z-index: 1; }
-    .stat-value { font-family: var(--font-display); font-size: 3rem; font-weight: 700; background: var(--accent-gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; line-height: 1; margin-bottom: 8px; }
-    .stat-label { font-size: 0.9rem; color: var(--text-tertiary); font-weight: 500; }
-    @media (max-width: 968px) { .opportunity-content { grid-template-columns: 1fr; gap: 40px; } }
-        /* Services */
-    .services { position: relative; }
-    .services-bg { position: absolute; inset: 0; background: radial-gradient(ellipse 60% 40% at 50% 0%, rgba(99, 102, 241, 0.08), transparent); }
-    .services-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 24px; }
-    .service-card { perspective: 1000px; }
-    .service-card-inner { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-xl); padding: 40px; position: relative; overflow: hidden; transition: all var(--transition-slow); transform-style: preserve-3d; }
-    .service-card:hover .service-card-inner { border-color: var(--accent-primary); transform: translateY(-10px); box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.4), 0 0 60px rgba(99, 102, 241, 0.15); }
-    .service-glow { position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: conic-gradient(from 0deg, transparent, var(--accent-primary), transparent, transparent, var(--accent-tertiary), transparent); opacity: 0; transition: opacity var(--transition-slow); animation: rotate-glow 4s linear infinite paused; }
-    .service-card:hover .service-glow { opacity: 0.1; animation-play-state: running; }
-    @keyframes rotate-glow { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
-    .service-hover-bg { position: absolute; inset: 1px; background: var(--bg-primary); border-radius: calc(var(--radius-xl) - 1px); z-index: 0; }
-    .service-card-inner > *:not(.service-glow):not(.service-hover-bg) { position: relative; z-index: 1; }
-    .service-number { font-family: var(--font-display); font-size: 4rem; font-weight: 800; background: linear-gradient(135deg, rgba(99, 102, 241, 0.3), rgba(6, 182, 212, 0.1)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; line-height: 1; margin-bottom: 24px; transition: all var(--transition-base); }
-    .service-card:hover .service-number { transform: scale(1.1); }
-    .service-card h3 { font-family: var(--font-display); font-size: 1.5rem; font-weight: 600; margin-bottom: 16px; transition: color var(--transition-base); }
-    .service-card:hover h3 { color: var(--accent-primary); }
-    .service-card-inner > p { color: var(--text-secondary); font-size: 1rem; line-height: 1.7; margin-bottom: 28px; }
-    .deliverables { list-style: none; display: flex; flex-direction: column; gap: 12px; }
-    .deliverables li { display: flex; align-items: flex-start; gap: 12px; font-size: 0.95rem; color: var(--text-secondary); padding: 12px 16px; background: rgba(255, 255, 255, 0.02); border-radius: var(--radius-md); border: 1px solid transparent; transition: all var(--transition-base); }
-    .deliverables li:hover { background: rgba(99, 102, 241, 0.05); border-color: rgba(99, 102, 241, 0.2); transform: translateX(8px); }
-    .check-icon { flex-shrink: 0; width: 20px; height: 20px; background: var(--accent-gradient); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-top: 2px; }
-    .check-icon::after { content: ''; width: 8px; height: 5px; border-left: 2px solid white; border-bottom: 2px solid white; transform: rotate(-45deg) translateY(-1px); }
+    .challenge-item {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: var(--space-md);
+      padding: var(--space-lg);
+      background: var(--white);
+      border: 1px solid var(--gray-100);
+      border-radius: 8px;
+      transition: border-color 0.2s ease;
+    }
+    
+    .challenge-item:hover {
+      border-color: var(--gray-200);
+    }
+    
+    .challenge-number {
+      font-family: var(--font-serif);
+      font-size: 1.5rem;
+      font-weight: 500;
+      color: var(--gray-200);
+      line-height: 1;
+    }
+    
+    .challenge-content h4 {
+      font-family: var(--font-sans);
+      font-size: 1rem;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+    
+    .challenge-content p {
+      font-size: 0.9375rem;
+      line-height: 1.6;
+    }
+    
+    /* Services */
+    .services-grid {
+      display: grid;
+      gap: 1px;
+      background: var(--gray-100);
+      border: 1px solid var(--gray-100);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    
+    .service-item {
+      padding: var(--space-lg);
+      background: var(--white);
+      transition: background 0.2s ease;
+    }
+    
+    .service-item:hover {
+      background: var(--gray-50);
+    }
+    
+    .service-header {
+      display: flex;
+      align-items: baseline;
+      gap: var(--space-md);
+      margin-bottom: var(--space-sm);
+    }
+    
+    .service-index {
+      font-family: var(--font-serif);
+      font-size: 0.875rem;
+      color: var(--gray-300);
+    }
+    
+    .service-title {
+      font-family: var(--font-sans);
+      font-size: 1.125rem;
+      font-weight: 600;
+    }
+    
+    .service-desc {
+      font-size: 0.9375rem;
+      line-height: 1.7;
+      margin-bottom: var(--space-md);
+      padding-left: calc(var(--space-md) + 2rem);
+    }
+    
+    .service-deliverables {
+      list-style: none;
+      padding-left: calc(var(--space-md) + 2rem);
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    
+    .service-deliverables li {
+      font-size: 0.8125rem;
+      color: var(--gray-500);
+      padding: 6px 12px;
+      background: var(--gray-50);
+      border-radius: 4px;
+    }
+    
+    .service-item:hover .service-deliverables li {
+      background: var(--white);
+    }
     
     /* Timeline */
-    .timeline-section { background: var(--bg-secondary); position: relative; }
-    .timeline-wrapper { max-width: 900px; margin: 0 auto; }
-    .timeline-total { text-align: center; margin-bottom: 60px; }
-    .timeline-total-badge { display: inline-flex; align-items: center; gap: 12px; padding: 16px 32px; background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-full); font-size: 1.1rem; font-weight: 600; }
-    .timeline-total-badge svg { width: 24px; height: 24px; color: var(--accent-primary); }
-    .timeline-items { display: flex; flex-direction: column; gap: 0; }
-    .timeline-item { display: flex; gap: 32px; position: relative; }
-    .timeline-connector { display: flex; flex-direction: column; align-items: center; flex-shrink: 0; width: 60px; }
-    .timeline-dot { width: 60px; height: 60px; background: var(--bg-tertiary); border: 3px solid var(--accent-primary); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: var(--font-display); font-size: 1.2rem; font-weight: 700; color: var(--accent-primary); position: relative; z-index: 2; transition: all var(--transition-base); }
-    .timeline-item:hover .timeline-dot { background: var(--accent-primary); color: white; transform: scale(1.1); box-shadow: 0 0 30px var(--accent-glow); }
-    .pulse-ring { position: absolute; inset: -8px; border: 2px solid var(--accent-primary); border-radius: 50%; opacity: 0; animation: pulse-ring 2s ease-out infinite; }
-    @keyframes pulse-ring { 0% { transform: scale(0.8); opacity: 0.8; } 100% { transform: scale(1.4); opacity: 0; } }
-    .timeline-line { flex: 1; width: 3px; background: linear-gradient(to bottom, var(--accent-primary), var(--accent-tertiary)); margin: 8px 0; border-radius: 3px; position: relative; overflow: hidden; }
-    .timeline-line::after { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 30px; background: linear-gradient(to bottom, white, transparent); animation: line-flow 2s ease-in-out infinite; }
-    @keyframes line-flow { 0% { transform: translateY(-100%); opacity: 0; } 50% { opacity: 0.5; } 100% { transform: translateY(400%); opacity: 0; } }
-    .timeline-content { flex: 1; background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 32px; margin-bottom: 32px; transition: all var(--transition-base); }
-    .timeline-item:hover .timeline-content { border-color: var(--accent-primary); transform: translateX(10px); box-shadow: var(--shadow-glow); }
-    .timeline-header { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 16px; flex-wrap: wrap; }
-    .timeline-content h4 { font-family: var(--font-display); font-size: 1.3rem; font-weight: 600; }
-    .duration-badge { padding: 6px 16px; background: var(--accent-gradient); border-radius: var(--radius-full); font-size: 0.85rem; font-weight: 600; color: white; }
-    .timeline-content > p { color: var(--text-secondary); font-size: 1rem; line-height: 1.7; margin-bottom: 20px; }
-    .milestones { display: flex; flex-wrap: wrap; gap: 8px; }
-    .milestone-chip { padding: 8px 16px; background: rgba(99, 102, 241, 0.1); border: 1px solid rgba(99, 102, 241, 0.2); border-radius: var(--radius-full); font-size: 0.85rem; color: var(--accent-primary); font-weight: 500; transition: all var(--transition-base); }
-    .milestone-chip:hover { background: rgba(99, 102, 241, 0.2); transform: translateY(-2px); }
-    @media (max-width: 768px) { .timeline-item { flex-direction: column; gap: 16px; } .timeline-connector { flex-direction: row; width: 100%; justify-content: flex-start; } .timeline-line { display: none; } .timeline-content { margin-bottom: 24px; } .timeline-item:hover .timeline-content { transform: none; } }
+    .timeline {
+      position: relative;
+    }
+    
+    .timeline-total {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 16px;
+      background: var(--gray-100);
+      border-radius: 6px;
+      font-size: 0.875rem;
+      color: var(--gray-600);
+      margin-bottom: var(--space-xl);
+    }
+    
+    .timeline-total strong {
+      color: var(--black);
+    }
+    
+    .phases {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+    }
+    
+    .phase-item {
+      display: grid;
+      grid-template-columns: 48px 1fr;
+      gap: var(--space-md);
+    }
+    
+    .phase-marker {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .phase-number {
+      width: 48px;
+      height: 48px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--white);
+      border: 2px solid var(--gray-200);
+      border-radius: 50%;
+      font-family: var(--font-serif);
+      font-size: 1rem;
+      font-weight: 500;
+      color: var(--black);
+      transition: border-color 0.2s ease, background 0.2s ease;
+    }
+    
+    .phase-item:hover .phase-number {
+      border-color: var(--black);
+      background: var(--black);
+      color: var(--white);
+    }
+    
+    .phase-marker::after {
+      content: '';
+      flex: 1;
+      width: 2px;
+      background: var(--gray-200);
+      margin: 8px 0;
+    }
+    
+    .phase-item:last-child .phase-marker::after {
+      display: none;
+    }
+    
+    .phase-content {
+      padding-bottom: var(--space-xl);
+    }
+    
+    .phase-item:last-child .phase-content {
+      padding-bottom: 0;
+    }
+    
+    .phase-header {
+      display: flex;
+      align-items: center;
+      gap: var(--space-md);
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+    
+    .phase-title {
+      font-family: var(--font-sans);
+      font-size: 1.0625rem;
+      font-weight: 600;
+    }
+    
+    .phase-duration {
+      font-size: 0.8125rem;
+      color: var(--gray-400);
+      padding: 4px 10px;
+      background: var(--gray-100);
+      border-radius: 4px;
+    }
+    
+    .phase-desc {
+      font-size: 0.9375rem;
+      line-height: 1.7;
+      margin-bottom: var(--space-sm);
+    }
+    
+    .phase-milestones {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+    
+    .milestone {
+      font-size: 0.75rem;
+      color: var(--gray-500);
+      padding: 4px 10px;
+      background: var(--white);
+      border: 1px solid var(--gray-100);
+      border-radius: 4px;
+    }
+    
+    @media (max-width: 640px) {
+      .phase-item {
+        grid-template-columns: 36px 1fr;
+      }
+      .phase-number {
+        width: 36px;
+        height: 36px;
+        font-size: 0.875rem;
+      }
+    }
     
     /* Pricing */
-    .pricing { position: relative; overflow: visible; }
-    .pricing-bg { position: absolute; inset: 0; background: radial-gradient(ellipse 80% 50% at 50% 100%, rgba(99, 102, 241, 0.1), transparent); }
-    .pricing-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 24px; align-items: stretch; }
-    .pricing-card { position: relative; }
-    .pricing-card-inner { height: 100%; background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-xl); padding: 40px 32px; display: flex; flex-direction: column; position: relative; overflow: hidden; transition: all var(--transition-slow); }
-    .pricing-card:hover .pricing-card-inner { transform: translateY(-10px); border-color: var(--border-hover); }
-    .pricing-card.featured .pricing-card-inner { background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(139, 92, 246, 0.05)); border-color: var(--accent-primary); box-shadow: 0 0 0 1px var(--accent-primary), 0 25px 50px -12px rgba(99, 102, 241, 0.25); }
-    .pricing-card.featured:hover .pricing-card-inner { transform: translateY(-15px) scale(1.02); box-shadow: 0 0 0 2px var(--accent-primary), 0 35px 60px -15px rgba(99, 102, 241, 0.35); }
-    .pricing-glow { position: absolute; top: 0; left: 50%; transform: translateX(-50%); width: 80%; height: 1px; background: var(--accent-gradient); box-shadow: 0 0 20px 10px var(--accent-glow); opacity: 0; transition: opacity var(--transition-base); }
-    .pricing-card.featured .pricing-glow, .pricing-card:hover .pricing-glow { opacity: 1; }
-    .featured-ribbon { position: absolute; top: 20px; right: -35px; background: var(--accent-gradient); color: white; padding: 8px 40px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; transform: rotate(45deg); box-shadow: 0 4px 15px rgba(99, 102, 241, 0.4); }
-    .pricing-header { text-align: center; padding-bottom: 32px; border-bottom: 1px solid var(--border-color); margin-bottom: 32px; }
-    .pricing-header h3 { font-family: var(--font-display); font-size: 1.3rem; font-weight: 600; margin-bottom: 20px; color: var(--text-primary); }
-    .price-wrapper { margin-bottom: 16px; }
-    .price { font-family: var(--font-display); font-size: 3.5rem; font-weight: 800; background: var(--accent-gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; line-height: 1; }
-    .tier-desc { font-size: 0.95rem; color: var(--text-tertiary); line-height: 1.6; }
-    .pricing-features { flex: 1; }
-    .pricing-features ul { list-style: none; display: flex; flex-direction: column; gap: 16px; }
-    .pricing-features li { display: flex; align-items: flex-start; gap: 14px; font-size: 0.95rem; color: var(--text-secondary); }
-    .feature-check { flex-shrink: 0; width: 24px; height: 24px; background: rgba(16, 185, 129, 0.15); border-radius: 50%; display: flex; align-items: center; justify-content: center; }
-    .feature-check svg { width: 14px; height: 14px; stroke: var(--success); stroke-width: 3; fill: none; }
-    .pricing-cta { margin-top: 32px; }
-    .btn-select { display: block; width: 100%; padding: 16px 24px; background: var(--bg-tertiary); border: 1px solid var(--border-color); border-radius: var(--radius-md); color: var(--text-primary); font-size: 1rem; font-weight: 600; text-decoration: none; text-align: center; transition: all var(--transition-base); }
-    .btn-select:hover { background: var(--bg-card-hover); border-color: var(--accent-primary); transform: translateY(-2px); }
-    .pricing-card.featured .btn-select { background: var(--accent-gradient); border: none; box-shadow: 0 4px 15px var(--accent-glow); }
-    .pricing-card.featured .btn-select:hover { transform: translateY(-3px); box-shadow: 0 8px 25px var(--accent-glow); }
+    .pricing-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: var(--space-md);
+    }
+    
+    .tier-card {
+      padding: var(--space-lg);
+      background: var(--white);
+      border: 1px solid var(--gray-100);
+      border-radius: 8px;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+    
+    .tier-card:hover {
+      border-color: var(--gray-200);
+    }
+    
+    .tier-featured {
+      border-color: var(--black);
+    }
+    
+    .tier-featured:hover {
+      border-color: var(--black);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+    }
+    
+    .tier-badge {
+      position: absolute;
+      top: var(--space-md);
+      right: var(--space-md);
+      font-size: 0.6875rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: var(--white);
+      background: var(--black);
+      padding: 4px 10px;
+      border-radius: 4px;
+    }
+    
+    .tier-name {
+      font-family: var(--font-sans);
+      font-size: 1rem;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+    
+    .tier-price {
+      font-family: var(--font-serif);
+      font-size: 2rem;
+      font-weight: 500;
+      color: var(--black);
+      margin-bottom: var(--space-sm);
+    }
+    
+    .tier-desc {
+      font-size: 0.875rem;
+      color: var(--gray-400);
+      margin-bottom: var(--space-md);
+      padding-bottom: var(--space-md);
+      border-bottom: 1px solid var(--gray-100);
+    }
+    
+    .tier-features {
+      list-style: none;
+      flex: 1;
+      margin-bottom: var(--space-lg);
+    }
+    
+    .tier-features li {
+      font-size: 0.9375rem;
+      color: var(--gray-600);
+      padding: 8px 0;
+      border-bottom: 1px solid var(--gray-50);
+    }
+    
+    .tier-features li:last-child {
+      border-bottom: none;
+    }
+    
+    .tier-cta {
+      display: block;
+      width: 100%;
+      padding: 14px;
+      text-align: center;
+      font-size: 0.9375rem;
+      font-weight: 500;
+      color: var(--black);
+      background: var(--gray-100);
+      border-radius: 6px;
+      transition: background 0.2s ease;
+    }
+    
+    .tier-cta:hover {
+      background: var(--gray-200);
+    }
+    
+    .tier-featured .tier-cta {
+      color: var(--white);
+      background: var(--black);
+    }
+    
+    .tier-featured .tier-cta:hover {
+      background: var(--gray-800);
+    }
     
     /* Cases */
-    .cases { background: var(--bg-secondary); position: relative; }
-    .cases-bg { position: absolute; inset: 0; background: radial-gradient(ellipse 40% 40% at 20% 20%, rgba(16, 185, 129, 0.08), transparent), radial-gradient(ellipse 40% 40% at 80% 80%, rgba(99, 102, 241, 0.08), transparent); }
-    .cases-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; }
-    .case-card { perspective: 1000px; }
-    .case-card-inner { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-xl); padding: 36px; height: 100%; position: relative; overflow: hidden; transition: all var(--transition-slow); transform-style: preserve-3d; }
-    .case-card:hover .case-card-inner { border-color: var(--success); transform: translateY(-8px) rotateX(2deg); box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.3), 0 0 40px rgba(16, 185, 129, 0.1); }
-    .case-icon { width: 64px; height: 64px; background: linear-gradient(135deg, rgba(16, 185, 129, 0.2), rgba(6, 182, 212, 0.1)); border-radius: var(--radius-lg); display: flex; align-items: center; justify-content: center; margin-bottom: 24px; transition: all var(--transition-base); }
-    .case-card:hover .case-icon { transform: scale(1.1) rotate(5deg); }
-    .case-icon svg { width: 32px; height: 32px; color: var(--success); }
-    .case-card h4 { font-family: var(--font-display); font-size: 1.3rem; font-weight: 600; margin-bottom: 12px; }
-    .case-context { color: var(--text-tertiary); font-size: 0.95rem; line-height: 1.7; margin-bottom: 24px; }
-    .case-result { display: flex; align-items: flex-start; gap: 16px; padding-top: 24px; border-top: 1px solid var(--border-color); }
-    .result-indicator { width: 4px; height: 100%; min-height: 60px; background: var(--accent-gradient); border-radius: 4px; flex-shrink: 0; }
-    .result-content { flex: 1; }
-    .result-label { display: inline-block; padding: 4px 12px; background: rgba(16, 185, 129, 0.15); border-radius: var(--radius-full); font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--success); margin-bottom: 8px; }
-    .case-result p { font-size: 1.1rem; font-weight: 600; color: var(--text-primary); line-height: 1.5; }
+    .cases-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: var(--space-md);
+    }
+    
+    .case-item {
+      padding: var(--space-lg);
+      background: var(--white);
+      border: 1px solid var(--gray-100);
+      border-radius: 8px;
+      transition: border-color 0.2s ease;
+    }
+    
+    .case-item:hover {
+      border-color: var(--gray-200);
+    }
+    
+    .case-title {
+      font-family: var(--font-sans);
+      font-size: 1rem;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+    
+    .case-context {
+      font-size: 0.9375rem;
+      line-height: 1.6;
+      margin-bottom: var(--space-md);
+    }
+    
+    .case-result {
+      padding-top: var(--space-md);
+      border-top: 1px solid var(--gray-100);
+    }
+    
+    .case-label {
+      display: block;
+      font-size: 0.6875rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--gray-400);
+      margin-bottom: 6px;
+    }
+    
+    .case-outcome {
+      font-size: 1rem;
+      font-weight: 500;
+      color: var(--black);
+      line-height: 1.5;
+    }
     
     /* CTA */
-    .cta-section { position: relative; padding: var(--section-padding) var(--container-padding); overflow: hidden; }
-    .cta-bg { position: absolute; inset: 0; background: var(--accent-gradient); opacity: 0.05; }
-    .cta-glow { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 600px; height: 600px; background: radial-gradient(circle, var(--accent-glow), transparent 70%); filter: blur(60px); }
-    .cta-content { position: relative; z-index: 2; max-width: 700px; margin: 0 auto; text-align: center; }
-    .cta-title { font-family: var(--font-display); font-size: clamp(2rem, 5vw, 3.5rem); font-weight: 700; line-height: 1.2; margin-bottom: 20px; }
-    .cta-desc { font-size: 1.2rem; color: var(--text-secondary); margin-bottom: 40px; }
-    .cta-buttons { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
-    .btn-primary { display: inline-flex; align-items: center; gap: 12px; padding: 18px 36px; background: var(--accent-gradient); color: white; text-decoration: none; font-size: 1.1rem; font-weight: 600; border-radius: var(--radius-full); transition: all var(--transition-base); box-shadow: 0 8px 30px var(--accent-glow); position: relative; overflow: hidden; }
-    .btn-primary::before { content: ''; position: absolute; inset: 0; background: linear-gradient(135deg, rgba(255,255,255,0.2), transparent); opacity: 0; transition: opacity var(--transition-base); }
-    .btn-primary:hover { transform: translateY(-4px) scale(1.02); box-shadow: 0 15px 40px var(--accent-glow); }
-    .btn-primary:hover::before { opacity: 1; }
-    .btn-primary svg { width: 20px; height: 20px; transition: transform var(--transition-base); }
-    .btn-primary:hover svg { transform: translateX(4px); }
-    .btn-secondary { display: inline-flex; align-items: center; gap: 12px; padding: 18px 36px; background: transparent; border: 2px solid var(--border-color); color: var(--text-primary); text-decoration: none; font-size: 1.1rem; font-weight: 600; border-radius: var(--radius-full); transition: all var(--transition-base); }
-    .btn-secondary:hover { border-color: var(--accent-primary); background: rgba(99, 102, 241, 0.1); transform: translateY(-2px); }
+    .cta-section {
+      padding: var(--space-3xl) 0;
+      background: var(--black);
+      color: var(--white);
+    }
     
-    /* Contact */
-    .contact-section { background: var(--bg-secondary); padding: 60px var(--container-padding); border-top: 1px solid var(--border-color); }
-    .contact-inner { max-width: var(--container-width); margin: 0 auto; display: flex; justify-content: space-between; align-items: center; gap: 40px; flex-wrap: wrap; }
-    .contact-brand { display: flex; align-items: center; gap: 16px; }
-    .contact-logo { width: 48px; height: 48px; background: var(--accent-gradient); border-radius: var(--radius-md); display: flex; align-items: center; justify-content: center; font-family: var(--font-display); font-weight: 800; font-size: 1.5rem; color: white; }
-    .contact-brand h3 { font-family: var(--font-display); font-size: 1.3rem; font-weight: 700; }
-    .contact-info { display: flex; gap: 48px; flex-wrap: wrap; }
-    .contact-item { text-align: left; }
-    .contact-item-label { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; color: var(--text-tertiary); margin-bottom: 6px; }
-    .contact-item-value { font-size: 1rem; font-weight: 500; color: var(--text-primary); }
-    .contact-item-value a { color: var(--accent-primary); text-decoration: none; transition: color var(--transition-base); }
-    .contact-item-value a:hover { color: var(--accent-tertiary); }
-    @media (max-width: 768px) { .contact-inner { flex-direction: column; text-align: center; } .contact-info { justify-content: center; } .contact-item { text-align: center; } }
+    .cta-content {
+      max-width: 600px;
+    }
     
-    /* Chatbot */
-    .chat-widget { position: fixed; bottom: 24px; right: 24px; z-index: 9998; font-family: var(--font-primary); }
-    .chat-toggle { width: 64px; height: 64px; border-radius: 50%; background: var(--accent-gradient); border: none; cursor: pointer; display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 32px var(--accent-glow), 0 0 0 0 rgba(99, 102, 241, 0.4); transition: all var(--transition-base); position: relative; overflow: hidden; animation: chat-pulse 3s ease-in-out infinite; }
-    @keyframes chat-pulse { 0%, 100% { box-shadow: 0 8px 32px var(--accent-glow), 0 0 0 0 rgba(99, 102, 241, 0.4); } 50% { box-shadow: 0 8px 32px var(--accent-glow), 0 0 0 15px rgba(99, 102, 241, 0); } }
-    .chat-toggle:hover { transform: scale(1.1); animation: none; box-shadow: 0 12px 40px var(--accent-glow); }
-    .chat-toggle svg { width: 28px; height: 28px; color: white; transition: all var(--transition-base); }
-    .chat-toggle .icon-close { position: absolute; opacity: 0; transform: rotate(-90deg) scale(0.5); }
-    .chat-widget.open .chat-toggle .icon-chat { opacity: 0; transform: rotate(90deg) scale(0.5); }
-    .chat-widget.open .chat-toggle .icon-close { opacity: 1; transform: rotate(0) scale(1); }
-    .chat-panel { position: absolute; bottom: 80px; right: 0; width: 400px; max-width: calc(100vw - 48px); height: 550px; max-height: calc(100vh - 150px); background: var(--bg-primary); border: 1px solid var(--border-color); border-radius: var(--radius-xl); box-shadow: 0 25px 80px -12px rgba(0, 0, 0, 0.5), 0 0 60px rgba(99, 102, 241, 0.1); display: flex; flex-direction: column; overflow: hidden; opacity: 0; visibility: hidden; transform: translateY(20px) scale(0.95); transition: all var(--transition-base); }
-    .chat-widget.open .chat-panel { opacity: 1; visibility: visible; transform: translateY(0) scale(1); }
-    .chat-header { padding: 20px 24px; background: linear-gradient(135deg, var(--bg-secondary), var(--bg-tertiary)); border-bottom: 1px solid var(--border-color); display: flex; align-items: center; gap: 14px; }
-    .chat-avatar { width: 44px; height: 44px; background: var(--accent-gradient); border-radius: var(--radius-md); display: flex; align-items: center; justify-content: center; font-family: var(--font-display); font-weight: 800; font-size: 1.1rem; color: white; flex-shrink: 0; }
-    .chat-header-info h4 { font-size: 1rem; font-weight: 600; margin-bottom: 2px; }
-    .chat-header-info p { font-size: 0.8rem; color: var(--text-tertiary); display: flex; align-items: center; gap: 6px; }
-    .chat-status-dot { width: 8px; height: 8px; background: var(--success); border-radius: 50%; animation: pulse-dot 2s ease-in-out infinite; }
-    .chat-messages { flex: 1; overflow-y: auto; padding: 20px; display: flex; flex-direction: column; gap: 16px; scrollbar-width: thin; scrollbar-color: var(--accent-primary) transparent; }
-    .chat-messages::-webkit-scrollbar { width: 4px; }
-    .chat-messages::-webkit-scrollbar-thumb { background: var(--accent-primary); border-radius: 4px; }
-    .chat-message { max-width: 85%; animation: message-in 0.3s ease forwards; }
-    @keyframes message-in { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
-    .chat-message.bot { align-self: flex-start; }
-    .chat-message.user { align-self: flex-end; }
-    .chat-bubble { padding: 14px 18px; border-radius: var(--radius-lg); font-size: 0.95rem; line-height: 1.6; position: relative; }
-    .chat-message.bot .chat-bubble { background: var(--bg-card); border: 1px solid var(--border-color); border-bottom-left-radius: 6px; color: var(--text-secondary); }
-    .chat-message.user .chat-bubble { background: var(--accent-gradient); border-bottom-right-radius: 6px; color: white; }
-    .chat-typing { display: flex; gap: 6px; padding: 18px; }
-    .chat-typing span { width: 8px; height: 8px; background: var(--text-tertiary); border-radius: 50%; animation: typing-bounce 1.4s ease-in-out infinite; }
+    .cta-label {
+      display: inline-block;
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--gray-400);
+      margin-bottom: var(--space-sm);
+    }
+    
+    .cta-title {
+      font-size: clamp(1.75rem, 4vw, 2.5rem);
+      line-height: 1.2;
+      color: var(--white);
+      margin-bottom: var(--space-md);
+    }
+    
+    .cta-desc {
+      font-size: 1.0625rem;
+      color: var(--gray-400);
+      margin-bottom: var(--space-lg);
+    }
+    
+    .cta-buttons {
+      display: flex;
+      gap: var(--space-sm);
+      flex-wrap: wrap;
+    }
+    
+    .btn-primary {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 14px 28px;
+      font-size: 0.9375rem;
+      font-weight: 500;
+      color: var(--black);
+      background: var(--white);
+      border-radius: 6px;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+    
+    .btn-primary:hover {
+      background: var(--gray-100);
+      transform: translateY(-1px);
+    }
+    
+    .btn-secondary {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 14px 28px;
+      font-size: 0.9375rem;
+      font-weight: 500;
+      color: var(--gray-300);
+      background: transparent;
+      border: 1px solid var(--gray-700);
+      border-radius: 6px;
+      transition: border-color 0.2s ease, color 0.2s ease;
+    }
+    
+    .btn-secondary:hover {
+      border-color: var(--gray-500);
+      color: var(--white);
+    }
+    
+    /* Footer */
+    .footer {
+      padding: var(--space-xl) 0;
+      background: var(--gray-50);
+      border-top: 1px solid var(--gray-100);
+    }
+    
+    .footer-inner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: var(--space-md);
+    }
+    
+    .footer-brand {
+      font-family: var(--font-serif);
+      font-size: 1rem;
+      font-weight: 500;
+      color: var(--black);
+    }
+    
+    .footer-contact {
+      display: flex;
+      gap: var(--space-lg);
+      flex-wrap: wrap;
+    }
+    
+    .footer-item {
+      font-size: 0.875rem;
+      color: var(--gray-500);
+    }
+    
+    .footer-item a {
+      color: var(--black);
+      transition: color 0.2s ease;
+    }
+    
+    .footer-item a:hover {
+      color: var(--accent);
+    }
+        /* Chatbot */
+    .chat-widget {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      z-index: 1000;
+      font-family: var(--font-sans);
+    }
+    
+    .chat-toggle {
+      width: 56px;
+      height: 56px;
+      border-radius: 50%;
+      background: var(--black);
+      border: none;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    
+    .chat-toggle:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(0,0,0,0.16);
+    }
+    
+    .chat-toggle svg {
+      width: 24px;
+      height: 24px;
+      color: var(--white);
+      transition: opacity 0.2s ease, transform 0.2s ease;
+    }
+    
+    .chat-toggle .icon-close {
+      position: absolute;
+      opacity: 0;
+      transform: scale(0.8);
+    }
+    
+    .chat-widget.open .chat-toggle .icon-chat {
+      opacity: 0;
+      transform: scale(0.8);
+    }
+    
+    .chat-widget.open .chat-toggle .icon-close {
+      opacity: 1;
+      transform: scale(1);
+    }
+    
+    .chat-panel {
+      position: absolute;
+      bottom: 72px;
+      right: 0;
+      width: 380px;
+      max-width: calc(100vw - 48px);
+      height: 480px;
+      max-height: calc(100vh - 120px);
+      background: var(--white);
+      border: 1px solid var(--gray-200);
+      border-radius: 12px;
+      box-shadow: 0 16px 48px rgba(0,0,0,0.12);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      opacity: 0;
+      visibility: hidden;
+      transform: translateY(12px);
+      transition: opacity 0.25s ease, visibility 0.25s ease, transform 0.25s ease;
+    }
+    
+    .chat-widget.open .chat-panel {
+      opacity: 1;
+      visibility: visible;
+      transform: translateY(0);
+    }
+    
+    .chat-header {
+      padding: 20px;
+      background: var(--gray-50);
+      border-bottom: 1px solid var(--gray-100);
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    
+    .chat-avatar {
+      width: 40px;
+      height: 40px;
+      background: var(--black);
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-serif);
+      font-weight: 600;
+      font-size: 1rem;
+      color: var(--white);
+    }
+    
+    .chat-header-info h4 {
+      font-family: var(--font-sans);
+      font-size: 0.9375rem;
+      font-weight: 600;
+      color: var(--black);
+      margin-bottom: 2px;
+    }
+    
+    .chat-header-info p {
+      font-size: 0.75rem;
+      color: var(--gray-400);
+    }
+    
+    .chat-messages {
+      flex: 1;
+      overflow-y: auto;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+    
+    .chat-message {
+      max-width: 85%;
+      animation: messageIn 0.3s ease;
+    }
+    
+    @keyframes messageIn {
+      from {
+        opacity: 0;
+        transform: translateY(8px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    
+    .chat-message.bot {
+      align-self: flex-start;
+    }
+    
+    .chat-message.user {
+      align-self: flex-end;
+    }
+    
+    .chat-bubble {
+      padding: 12px 16px;
+      border-radius: 12px;
+      font-size: 0.9375rem;
+      line-height: 1.5;
+    }
+    
+    .chat-message.bot .chat-bubble {
+      background: var(--gray-100);
+      color: var(--gray-700);
+      border-bottom-left-radius: 4px;
+    }
+    
+    .chat-message.user .chat-bubble {
+      background: var(--black);
+      color: var(--white);
+      border-bottom-right-radius: 4px;
+    }
+    
+    .chat-typing {
+      display: flex;
+      gap: 4px;
+      padding: 4px 0;
+    }
+    
+    .chat-typing span {
+      width: 6px;
+      height: 6px;
+      background: var(--gray-400);
+      border-radius: 50%;
+      animation: typingDot 1.2s ease-in-out infinite;
+    }
+    
     .chat-typing span:nth-child(2) { animation-delay: 0.15s; }
     .chat-typing span:nth-child(3) { animation-delay: 0.3s; }
-    @keyframes typing-bounce { 0%, 60%, 100% { transform: translateY(0); } 30% { transform: translateY(-8px); } }
-    .chat-input-area { padding: 16px 20px; border-top: 1px solid var(--border-color); display: flex; gap: 12px; background: var(--bg-secondary); }
-    .chat-input { flex: 1; padding: 14px 18px; background: var(--bg-primary); border: 1px solid var(--border-color); border-radius: var(--radius-full); color: var(--text-primary); font-size: 0.95rem; font-family: inherit; outline: none; transition: all var(--transition-base); }
-    .chat-input::placeholder { color: var(--text-tertiary); }
-    .chat-input:focus { border-color: var(--accent-primary); box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.15); }
-    .chat-send { width: 48px; height: 48px; background: var(--accent-gradient); border: none; border-radius: 50%; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all var(--transition-base); flex-shrink: 0; }
-    .chat-send:hover { transform: scale(1.08); box-shadow: 0 4px 15px var(--accent-glow); }
-    .chat-send:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
-    .chat-send svg { width: 20px; height: 20px; color: white; transform: translateX(1px); }
-    .chat-quick-replies { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
-    .quick-reply { padding: 8px 16px; background: rgba(99, 102, 241, 0.1); border: 1px solid rgba(99, 102, 241, 0.3); border-radius: var(--radius-full); color: var(--accent-primary); font-size: 0.85rem; cursor: pointer; transition: all var(--transition-base); }
-    .quick-reply:hover { background: rgba(99, 102, 241, 0.2); transform: translateY(-2px); }
-    @media (max-width: 480px) { .chat-widget { bottom: 16px; right: 16px; } .chat-panel { width: calc(100vw - 32px); right: -8px; height: 70vh; } }
     
-    /* Animations */
-    [data-animate] { opacity: 0; transition: all 0.8s cubic-bezier(0.4, 0, 0.2, 1); }
-    [data-animate="fade-up"] { transform: translateY(40px); }
-    [data-animate="fade-right"] { transform: translateX(-40px); }
-    [data-animate="fade-left"] { transform: translateX(40px); }
-    [data-animate="zoom-in"] { transform: scale(0.9); }
-    [data-animate].animated { opacity: 1; transform: none; }
-    [data-delay="100"] { transition-delay: 0.1s; }
-    [data-delay="150"] { transition-delay: 0.15s; }
-    [data-delay="200"] { transition-delay: 0.2s; }
-    [data-delay="250"] { transition-delay: 0.25s; }
-    [data-delay="300"] { transition-delay: 0.3s; }
-    [data-delay="400"] { transition-delay: 0.4s; }
-    [data-delay="450"] { transition-delay: 0.45s; }
+    @keyframes typingDot {
+      0%, 60%, 100% { transform: translateY(0); opacity: 0.4; }
+      30% { transform: translateY(-4px); opacity: 1; }
+    }
+    
+    .chat-quick-replies {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 12px;
+    }
+    
+    .quick-reply {
+      padding: 8px 14px;
+      background: var(--white);
+      border: 1px solid var(--gray-200);
+      border-radius: 20px;
+      font-size: 0.8125rem;
+      color: var(--gray-600);
+      cursor: pointer;
+      transition: border-color 0.2s ease, color 0.2s ease;
+    }
+    
+    .quick-reply:hover {
+      border-color: var(--black);
+      color: var(--black);
+    }
+    
+    .chat-input-area {
+      padding: 16px;
+      border-top: 1px solid var(--gray-100);
+      display: flex;
+      gap: 10px;
+      background: var(--white);
+    }
+    
+    .chat-input {
+      flex: 1;
+      padding: 12px 16px;
+      background: var(--gray-50);
+      border: 1px solid var(--gray-100);
+      border-radius: 8px;
+      font-family: inherit;
+      font-size: 0.9375rem;
+      color: var(--black);
+      outline: none;
+      transition: border-color 0.2s ease;
+    }
+    
+    .chat-input::placeholder {
+      color: var(--gray-400);
+    }
+    
+    .chat-input:focus {
+      border-color: var(--gray-300);
+    }
+    
+    .chat-send {
+      width: 44px;
+      height: 44px;
+      background: var(--black);
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.2s ease;
+      flex-shrink: 0;
+    }
+    
+    .chat-send:hover {
+      background: var(--gray-800);
+    }
+    
+    .chat-send:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+    
+    .chat-send svg {
+      width: 18px;
+      height: 18px;
+      color: var(--white);
+    }
+    
+    @media (max-width: 480px) {
+      .chat-widget {
+        bottom: 16px;
+        right: 16px;
+      }
+      .chat-panel {
+        width: calc(100vw - 32px);
+        right: 0;
+        height: 60vh;
+      }
+    }
+    
+    /* Scroll animations */
+    .reveal {
+      opacity: 0;
+      transform: translateY(20px);
+      transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+    
+    .reveal.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
     
     /* Responsive */
-    @media (max-width: 1200px) { :root { --section-padding: clamp(60px, 10vw, 120px); } }
-    @media (max-width: 768px) { :root { --section-padding: clamp(50px, 8vw, 80px); --container-padding: 20px; } .hero-title { font-size: clamp(2rem, 10vw, 3rem); } .section-title { font-size: clamp(1.8rem, 6vw, 2.5rem); } .pricing-grid, .services-grid, .cases-grid { grid-template-columns: 1fr; } .hero-meta { flex-direction: column; gap: 16px; } .cta-buttons { flex-direction: column; align-items: center; } .btn-primary, .btn-secondary { width: 100%; max-width: 300px; justify-content: center; } }
-    @media print { .nav, .chat-widget, .cursor, .cursor-dot, .scroll-progress, .loader { display: none !important; } body { background: white; color: black; } .section { page-break-inside: avoid; } }
+    @media (max-width: 768px) {
+      :root {
+        --space-3xl: 6rem;
+        --space-2xl: 4rem;
+      }
+    }
+    
+    @media print {
+      .nav, .chat-widget { display: none !important; }
+      .hero { min-height: auto; padding: 4rem 0; }
+      .section { padding: 3rem 0; }
+    }
   </style>
 </head>
 <body>
-  <div class="loader" id="loader">
-    <div class="loader-logo">
-      <svg viewBox="0 0 100 100" fill="none">
-        <defs><linearGradient id="loader-grad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#6366f1"/><stop offset="100%" stop-color="#06b6d4"/></linearGradient></defs>
-        <rect width="100" height="100" rx="20" fill="url(#loader-grad)"/>
-        <text x="50" y="65" font-family="Arial" font-size="45" font-weight="bold" fill="white" text-anchor="middle">P</text>
-      </svg>
-    </div>
-    <div class="loader-bar"></div>
-  </div>
-  
-  <div class="cursor" id="cursor"></div>
-  <div class="cursor-dot" id="cursor-dot"></div>
-  <div class="scroll-progress" id="scroll-progress"></div>
   
   <nav class="nav" id="nav">
-    <div class="nav-inner">
-      <a href="#" class="nav-logo">
-        <div class="nav-logo-icon">R</div>
-        <span>Rocketship | Digital Marketing Agency</span>
-      </a>
+    <div class="container nav-inner">
+      <a href="#" class="nav-logo">Rocketship | Digital Marketing Agency</a>
       <div class="nav-links">
         <a href="#overview" class="nav-link">Overview</a>
         <a href="#services" class="nav-link">Services</a>
         <a href="#timeline" class="nav-link">Timeline</a>
         <a href="#pricing" class="nav-link">Investment</a>
+        <a href="mailto:shannon@getrocketship.com" class="nav-cta">Get in Touch</a>
       </div>
-      <a href="mailto:shannon@getrocketship.com?subject=Re: Proposal" class="nav-cta">Get Started</a>
     </div>
   </nav>
-  
-  <section class="hero" id="hero">
-    <div class="hero-bg">
-      <div class="hero-gradient"></div>
-      <div class="hero-grid"></div>
-      <div class="hero-orbs">
-        <div class="hero-orb hero-orb-1"></div>
-        <div class="hero-orb hero-orb-2"></div>
-        <div class="hero-orb hero-orb-3"></div>
-      </div>
-      <div class="hero-particles" id="particles"></div>
-    </div>
-    <div class="hero-content">
-      <div class="hero-badge"><span class="hero-badge-dot"></span>Strategic Proposal</div>
-      <h1 class="hero-title">Elevating Evergreen Wellness Center's Digital Presence</h1>
-      <p class="hero-subtitle">Customized Strategies for Sustainable Growth</p>
-      <div class="hero-meta">
-        <div class="hero-meta-item">
-          <svg class="hero-meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
-          <span>Prepared for Evergreen Wellness Center</span>
-        </div>
-        <div class="hero-meta-item">
-          <svg class="hero-meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
-          <span>October 10, 2023</span>
-        </div>
-        <div class="hero-meta-item">
-          <svg class="hero-meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
-          <span>United States</span>
+
+  <section class="hero">
+    <div class="container">
+      <div class="hero-content">
+        <span class="hero-label">Proposal</span>
+        <h1 class="hero-title">Elevating Evergreen Wellness Center's Digital Presence</h1>
+        <p class="hero-subtitle">Customized Strategies for Sustainable Growth</p>
+        <div class="hero-meta">
+          <div class="hero-meta-item">
+            <span class="hero-meta-label">Prepared for</span>
+            <span class="hero-meta-value">Evergreen Wellness Center</span>
+          </div>
+          <div class="hero-meta-item">
+            <span class="hero-meta-label">Prepared by</span>
+            <span class="hero-meta-value">Rocketship | Digital Marketing Agency</span>
+          </div>
+          <div class="hero-meta-item">
+            <span class="hero-meta-label">Date</span>
+            <span class="hero-meta-value">October 10, 2023</span>
+          </div>
         </div>
       </div>
     </div>
-    <div class="hero-scroll"><div class="hero-scroll-mouse"></div><span>Scroll to explore</span></div>
   </section>
-  
-  <section class="section overview" id="overview">
-    <div class="section-inner">
-      <div class="overview-grid">
-        <div class="overview-content" data-animate="fade-right">
-          <div class="section-label">Client Overview</div>
+
+  <section class="section section-alt" id="overview">
+    <div class="container">
+      <div class="overview-content">
+        <div class="overview-text reveal">
+          <span class="section-label">Overview</span>
           <h2 class="section-title">Understanding Your Business</h2>
           <p>Evergreen Wellness Center is dedicated to promoting holistic health and wellness in the local community. With services ranging from acupuncture to nutritional counseling, you have built a loyal client base. However, as the wellness industry continues to grow, you recognize the need to enhance your online presence to attract new clients and communicate your unique value propositions effectively. Your goal is to leverage digital marketing to increase awareness of your services and drive client engagement.</p>
         </div>
-        <div class="overview-visual" data-animate="fade-left">
-          <div class="overview-card overview-card-1">
-            <div class="overview-card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></div>
-            <h4>Strategic Focus</h4><p>Aligned with your goals</p>
+        <div class="overview-highlights reveal">
+          <div class="highlight-item">
+            <h4 class="highlight-title">Strategic Alignment</h4>
+            <p class="highlight-desc">Every recommendation is tailored to your specific goals and market position.</p>
           </div>
-          <div class="overview-card overview-card-2">
-            <div class="overview-card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="20" x2="12" y2="10"/><line x1="18" y1="20" x2="18" y2="4"/><line x1="6" y1="20" x2="6" y2="16"/></svg></div>
-            <h4>Data-Driven</h4><p>Measurable outcomes</p>
+          <div class="highlight-item">
+            <h4 class="highlight-title">Measurable Outcomes</h4>
+            <p class="highlight-desc">Clear KPIs and regular reporting to track progress and ROI.</p>
           </div>
-          <div class="overview-card overview-card-3">
-            <div class="overview-card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></div>
-            <h4>Efficient Delivery</h4><p>On time, every time</p>
+          <div class="highlight-item">
+            <h4 class="highlight-title">Dedicated Partnership</h4>
+            <p class="highlight-desc">Direct access to senior team members throughout our engagement.</p>
           </div>
         </div>
       </div>
     </div>
   </section>
-  
-  <section class="section challenges" id="challenges">
-    <div class="challenges-bg"></div>
-    <div class="section-inner">
-      <div class="section-header" data-animate="fade-up">
-        <div class="section-label">The Challenge</div>
-        <h2 class="section-title">Current Obstacles We'll Address</h2>
-      </div>
-      <div class="challenges-grid">
-    <div class="challenge-card" data-animate="fade-up" data-delay="100">
-      <div class="challenge-icon">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <circle cx="12" cy="12" r="10"/>
-          <line x1="12" y1="8" x2="12" y2="12"/>
-          <line x1="12" y1="16" x2="12.01" y2="16"/>
-        </svg>
-      </div>
-      <h4>Challenge 1</h4>
-      <p>Despite your expertise and dedication to holistic health, Evergreen Wellness Center faces challenges in reaching potential clients. Your current website lacks modern design elements and is not optimized for search engines, limiting visibility and engagement. Additionally, your social media presence is minimal, resulting in missed opportunities to connect with a broader audience. Without a cohesive digital marketing strategy, you risk falling behind competitors who are more effectively leveraging online channels.</p>
-    </div>
-  </div>
-    </div>
-  </section>
-  
-  <section class="section opportunity" id="opportunity">
-    <div class="section-inner">
-      <div class="opportunity-content">
-        <div class="opportunity-text" data-animate="fade-right">
-          <div class="section-label">The Opportunity</div>
-          <h2 class="section-title">The Path Forward</h2>
-          <p>The wellness industry is booming, and there's a significant opportunity for Evergreen Wellness Center to enhance its digital footprint. By implementing a targeted digital marketing strategy, you can not only attract more clients but also build a community around your brand. Our approach will focus on creating a user-friendly website, optimizing your content for search engines, and leveraging social media to foster engagement. These efforts will lead to measurable growth in website traffic, client inquiries, and overall brand visibility.</p>
-        </div>
-        <div class="opportunity-stats" data-animate="fade-left" data-delay="200">
-          <div class="stat-card"><div class="stat-value">10x</div><div class="stat-label">ROI Potential</div></div>
-          <div class="stat-card"><div class="stat-value">3mo</div><div class="stat-label">To First Results</div></div>
-          <div class="stat-card"><div class="stat-value">24/7</div><div class="stat-label">Dedicated Support</div></div>
-          <div class="stat-card"><div class="stat-value">100%</div><div class="stat-label">Commitment</div></div>
-        </div>
+
+  <section class="section" id="challenges">
+    <div class="container container-narrow">
+      <header class="section-header reveal">
+        <span class="section-label">The Challenge</span>
+        <h2 class="section-title">Current Obstacles</h2>
+      </header>
+      <div class="challenges-list">
+        
+          <div class="challenge-item reveal">
+            <span class="challenge-number">01</span>
+            <div class="challenge-content">
+              <h4>Challenge 1</h4>
+              <p>Despite your expertise and dedication to holistic health, Evergreen Wellness Center faces challenges in reaching potential clients. Your current website lacks modern design elements and is not optimized for search engines, limiting visibility and engagement. Additionally, your social media presence is minimal, resulting in missed opportunities to connect with a broader audience. Without a cohesive digital marketing strategy, you risk falling behind competitors who are more effectively leveraging online channels.</p>
+            </div>
+          </div>
+        
       </div>
     </div>
   </section>
-  
-  <section class="section services" id="services">
-    <div class="services-bg"></div>
-    <div class="section-inner">
-      <div class="section-header" data-animate="fade-up">
-        <div class="section-label">Our Approach</div>
+
+  <section class="section section-alt" id="opportunity">
+    <div class="container container-narrow">
+      <header class="section-header reveal">
+        <span class="section-label">The Opportunity</span>
+        <h2 class="section-title">The Path Forward</h2>
+      </header>
+      <div class="overview-text reveal">
+        <p>The wellness industry is booming, and there's a significant opportunity for Evergreen Wellness Center to enhance its digital footprint. By implementing a targeted digital marketing strategy, you can not only attract more clients but also build a community around your brand. Our approach will focus on creating a user-friendly website, optimizing your content for search engines, and leveraging social media to foster engagement. These efforts will lead to measurable growth in website traffic, client inquiries, and overall brand visibility.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="services">
+    <div class="container">
+      <header class="section-header reveal">
+        <span class="section-label">Our Approach</span>
         <h2 class="section-title">Recommended Services</h2>
-        <p class="section-desc">A tailored strategy designed specifically for your business goals.</p>
-      </div>
-      <div class="services-grid">
-    <div class="service-card" data-animate="fade-up" data-delay="0">
-      <div class="service-card-inner">
-        <div class="service-glow"></div>
-        <div class="service-number">01</div>
-        <h3>Website Redesign & SEO Optimization</h3>
-        <p>Revamping your website to improve user experience and optimize it for search engines will ensure potential clients can easily find you. This service will include keyword research, content optimization, and mobile responsiveness.</p>
-        <ul class="deliverables">
-          <li><span class="check-icon"></span>Fully redesigned website</li><li><span class="check-icon"></span>On-page SEO optimization</li><li><span class="check-icon"></span>Mobile-friendly design</li><li><span class="check-icon"></span>Content strategy development</li><li><span class="check-icon"></span>Analytics setup and reporting</li>
-        </ul>
-        <div class="service-hover-bg"></div>
-      </div>
-    </div>
-  
-    <div class="service-card" data-animate="fade-up" data-delay="100">
-      <div class="service-card-inner">
-        <div class="service-glow"></div>
-        <div class="service-number">02</div>
-        <h3>Social Media Management</h3>
-        <p>A robust social media strategy will enhance your online presence and foster community engagement. We will create and manage content that resonates with your audience, encouraging interaction and brand loyalty.</p>
-        <ul class="deliverables">
-          <li><span class="check-icon"></span>Content calendar</li><li><span class="check-icon"></span>Monthly social media posts</li><li><span class="check-icon"></span>Engagement tracking and reporting</li><li><span class="check-icon"></span>Targeted ad campaigns</li><li><span class="check-icon"></span>Brand voice guidelines</li>
-        </ul>
-        <div class="service-hover-bg"></div>
-      </div>
-    </div>
-  
-    <div class="service-card" data-animate="fade-up" data-delay="200">
-      <div class="service-card-inner">
-        <div class="service-glow"></div>
-        <div class="service-number">03</div>
-        <h3>Content Marketing Strategy</h3>
-        <p>Creating valuable content that speaks to your audience's needs and interests will position Evergreen Wellness Center as an authority in the wellness space. This includes blog posts, newsletters, and case studies.</p>
-        <ul class="deliverables">
-          <li><span class="check-icon"></span>Monthly blog posts</li><li><span class="check-icon"></span>Email newsletter design and management</li><li><span class="check-icon"></span>Client case studies</li><li><span class="check-icon"></span>Content performance analysis</li><li><span class="check-icon"></span>SEO content strategy</li>
-        </ul>
-        <div class="service-hover-bg"></div>
-      </div>
-    </div>
-  </div>
-    </div>
-  </section>
-  
-  <section class="section timeline-section" id="timeline">
-    <div class="section-inner">
-      <div class="section-header" data-animate="fade-up">
-        <div class="section-label">Implementation</div>
-        <h2 class="section-title">Project Roadmap</h2>
-      </div>
-      <div class="timeline-wrapper">
-        <div class="timeline-total" data-animate="fade-up">
-          <div class="timeline-total-badge">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-            <span>Total Duration: <strong>10 weeks</strong></span>
-          </div>
-        </div>
-        <div class="timeline-items">
-    <div class="timeline-item" data-animate="fade-up" data-delay="0">
-      <div class="timeline-connector">
-        <div class="timeline-dot">
-          <span>1</span>
-          <div class="pulse-ring"></div>
-        </div>
-        <div class="timeline-line"></div>
-      </div>
-      <div class="timeline-content">
-        <div class="timeline-header">
-          <h4>Discovery & Strategy Development</h4>
-          <span class="duration-badge">Weeks 1-2</span>
-        </div>
-        <p>We will conduct a thorough analysis of your current digital presence and define your marketing objectives. This phase includes stakeholder interviews and competitive analysis.</p>
-        <div class="milestones">
-          <span class="milestone-chip">Completion of stakeholder interviews</span><span class="milestone-chip">Delivery of competitive analysis report</span><span class="milestone-chip">Finalization of marketing objectives</span>
-        </div>
-      </div>
-    </div>
-  
-    <div class="timeline-item" data-animate="fade-up" data-delay="150">
-      <div class="timeline-connector">
-        <div class="timeline-dot">
-          <span>2</span>
-          <div class="pulse-ring"></div>
-        </div>
-        <div class="timeline-line"></div>
-      </div>
-      <div class="timeline-content">
-        <div class="timeline-header">
-          <h4>Execution of Web and Social Strategies</h4>
-          <span class="duration-badge">Weeks 3-6</span>
-        </div>
-        <p>We will begin the redesign of your website and implement the social media strategy. This phase includes content creation, SEO optimization, and establishing a social media presence.</p>
-        <div class="milestones">
-          <span class="milestone-chip">Launch of redesigned website</span><span class="milestone-chip">First month of social media content published</span><span class="milestone-chip">Initial SEO optimization completed</span>
-        </div>
-      </div>
-    </div>
-  
-    <div class="timeline-item" data-animate="fade-up" data-delay="300">
-      <div class="timeline-connector">
-        <div class="timeline-dot">
-          <span>3</span>
-          <div class="pulse-ring"></div>
-        </div>
+        <p class="section-desc">A focused strategy designed to address your challenges and capitalize on opportunities.</p>
+      </header>
+      <div class="services-grid reveal">
         
-      </div>
-      <div class="timeline-content">
-        <div class="timeline-header">
-          <h4>Monitoring & Optimization</h4>
-          <span class="duration-badge">Weeks 7-10</span>
-        </div>
-        <p>We will monitor the performance of all strategies implemented and make necessary adjustments to ensure optimal results. This phase includes detailed analytics reporting.</p>
-        <div class="milestones">
-          <span class="milestone-chip">Completion of performance analytics report</span><span class="milestone-chip">Adjustments based on data insights</span><span class="milestone-chip">Final review meeting with Evergreen Wellness Center</span>
-        </div>
-      </div>
-    </div>
-  </div>
+    <article class="service-item">
+      <header class="service-header">
+        <span class="service-index">01</span>
+        <h3 class="service-title">Website Redesign & SEO Optimization</h3>
+      </header>
+      <p class="service-desc">Revamping your website to improve user experience and optimize it for search engines will ensure potential clients can easily find you. This service will include keyword research, content optimization, and mobile responsiveness.</p>
+      <ul class="service-deliverables">
+        <li>Fully redesigned website</li><li>On-page SEO optimization</li><li>Mobile-friendly design</li><li>Content strategy development</li><li>Analytics setup and reporting</li>
+      </ul>
+    </article>
+  
+    <article class="service-item">
+      <header class="service-header">
+        <span class="service-index">02</span>
+        <h3 class="service-title">Social Media Management</h3>
+      </header>
+      <p class="service-desc">A robust social media strategy will enhance your online presence and foster community engagement. We will create and manage content that resonates with your audience, encouraging interaction and brand loyalty.</p>
+      <ul class="service-deliverables">
+        <li>Content calendar</li><li>Monthly social media posts</li><li>Engagement tracking and reporting</li><li>Targeted ad campaigns</li><li>Brand voice guidelines</li>
+      </ul>
+    </article>
+  
+    <article class="service-item">
+      <header class="service-header">
+        <span class="service-index">03</span>
+        <h3 class="service-title">Content Marketing Strategy</h3>
+      </header>
+      <p class="service-desc">Creating valuable content that speaks to your audience's needs and interests will position Evergreen Wellness Center as an authority in the wellness space. This includes blog posts, newsletters, and case studies.</p>
+      <ul class="service-deliverables">
+        <li>Monthly blog posts</li><li>Email newsletter design and management</li><li>Client case studies</li><li>Content performance analysis</li><li>SEO content strategy</li>
+      </ul>
+    </article>
+  
       </div>
     </div>
   </section>
-  
-  <section class="section pricing" id="pricing">
-    <div class="pricing-bg"></div>
-    <div class="section-inner">
-      <div class="section-header" data-animate="fade-up">
-        <div class="section-label">Investment</div>
-        <h2 class="section-title">Choose Your Plan</h2>
-        <p class="section-desc">Flexible options designed to fit your needs and budget.</p>
+
+  <section class="section section-alt" id="timeline">
+    <div class="container container-narrow">
+      <header class="section-header reveal">
+        <span class="section-label">Implementation</span>
+        <h2 class="section-title">Project Timeline</h2>
+      </header>
+      <div class="timeline reveal">
+        <div class="timeline-total">
+          Total Duration: <strong>10 weeks</strong>
+        </div>
+        <div class="phases">
+          
+    <div class="phase-item">
+      <div class="phase-marker">
+        <span class="phase-number">1</span>
       </div>
-      <div class="pricing-grid">
-    <div class="pricing-card " data-animate="zoom-in" data-delay="0">
-      <div class="pricing-card-inner">
+      <div class="phase-content">
+        <div class="phase-header">
+          <h4 class="phase-title">Discovery & Strategy Development</h4>
+          <span class="phase-duration">Weeks 1-2</span>
+        </div>
+        <p class="phase-desc">We will conduct a thorough analysis of your current digital presence and define your marketing objectives. This phase includes stakeholder interviews and competitive analysis.</p>
+        <div class="phase-milestones">
+          <span class="milestone">Completion of stakeholder interviews</span><span class="milestone">Delivery of competitive analysis report</span><span class="milestone">Finalization of marketing objectives</span>
+        </div>
+      </div>
+    </div>
+  
+    <div class="phase-item">
+      <div class="phase-marker">
+        <span class="phase-number">2</span>
+      </div>
+      <div class="phase-content">
+        <div class="phase-header">
+          <h4 class="phase-title">Execution of Web and Social Strategies</h4>
+          <span class="phase-duration">Weeks 3-6</span>
+        </div>
+        <p class="phase-desc">We will begin the redesign of your website and implement the social media strategy. This phase includes content creation, SEO optimization, and establishing a social media presence.</p>
+        <div class="phase-milestones">
+          <span class="milestone">Launch of redesigned website</span><span class="milestone">First month of social media content published</span><span class="milestone">Initial SEO optimization completed</span>
+        </div>
+      </div>
+    </div>
+  
+    <div class="phase-item">
+      <div class="phase-marker">
+        <span class="phase-number">3</span>
+      </div>
+      <div class="phase-content">
+        <div class="phase-header">
+          <h4 class="phase-title">Monitoring & Optimization</h4>
+          <span class="phase-duration">Weeks 7-10</span>
+        </div>
+        <p class="phase-desc">We will monitor the performance of all strategies implemented and make necessary adjustments to ensure optimal results. This phase includes detailed analytics reporting.</p>
+        <div class="phase-milestones">
+          <span class="milestone">Completion of performance analytics report</span><span class="milestone">Adjustments based on data insights</span><span class="milestone">Final review meeting with Evergreen Wellness Center</span>
+        </div>
+      </div>
+    </div>
+  
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="pricing">
+    <div class="container">
+      <header class="section-header reveal">
+        <span class="section-label">Investment</span>
+        <h2 class="section-title">Engagement Options</h2>
+        <p class="section-desc">Choose the level of engagement that best fits your needs.</p>
+      </header>
+      <div class="pricing-grid reveal">
         
-        <div class="pricing-header">
-          <h3>Foundation</h3>
-          <div class="price-wrapper">
-            <span class="price">$6,000</span>
-          </div>
-          <p class="tier-desc">This tier includes essential website redesign and basic SEO services.</p>
-        </div>
-        <div class="pricing-features">
-          <ul>
-            <li><div class="feature-check"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></div><span>Website redesign</span></li><li><div class="feature-check"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></div><span>Basic on-page SEO</span></li><li><div class="feature-check"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></div><span>Mobile optimization</span></li>
-          </ul>
-        </div>
-        <div class="pricing-cta">
-          <a href="mailto:shannon@getrocketship.com?subject=Interested in Foundation Package" class="btn-select">Select This Plan</a>
-        </div>
-        <div class="pricing-glow"></div>
-      </div>
+    <div class="tier-card ">
+      
+      <h3 class="tier-name">Foundation</h3>
+      <div class="tier-price">$6,000</div>
+      <p class="tier-desc">This tier includes essential website redesign and basic SEO services.</p>
+      <ul class="tier-features">
+        <li>Website redesign</li><li>Basic on-page SEO</li><li>Mobile optimization</li>
+      </ul>
+      <a href="mailto:shannon@getrocketship.com?subject=Interested in Foundation" class="tier-cta">Get Started</a>
     </div>
   
-    <div class="pricing-card featured" data-animate="zoom-in" data-delay="100">
-      <div class="pricing-card-inner">
-        <div class="featured-ribbon"><span>★ RECOMMENDED</span></div>
-        <div class="pricing-header">
-          <h3>Growth</h3>
-          <div class="price-wrapper">
-            <span class="price">$12,000</span>
-          </div>
-          <p class="tier-desc">This tier provides comprehensive web and social media management, including advanced SEO.</p>
-        </div>
-        <div class="pricing-features">
-          <ul>
-            <li><div class="feature-check"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></div><span>Website redesign</span></li><li><div class="feature-check"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></div><span>Advanced on-page SEO</span></li><li><div class="feature-check"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></div><span>Social media management</span></li><li><div class="feature-check"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></div><span>Content marketing strategy</span></li><li><div class="feature-check"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></div><span>Monthly analytics reports</span></li>
-          </ul>
-        </div>
-        <div class="pricing-cta">
-          <a href="mailto:shannon@getrocketship.com?subject=Interested in Growth Package" class="btn-select">Select This Plan</a>
-        </div>
-        <div class="pricing-glow"></div>
-      </div>
+    <div class="tier-card tier-featured">
+      <span class="tier-badge">Recommended</span>
+      <h3 class="tier-name">Growth</h3>
+      <div class="tier-price">$12,000</div>
+      <p class="tier-desc">This tier provides comprehensive web and social media management, including advanced SEO.</p>
+      <ul class="tier-features">
+        <li>Website redesign</li><li>Advanced on-page SEO</li><li>Social media management</li><li>Content marketing strategy</li><li>Monthly analytics reports</li>
+      </ul>
+      <a href="mailto:shannon@getrocketship.com?subject=Interested in Growth" class="tier-cta">Get Started</a>
     </div>
   
-    <div class="pricing-card " data-animate="zoom-in" data-delay="200">
-      <div class="pricing-card-inner">
+    <div class="tier-card ">
+      
+      <h3 class="tier-name">Scale</h3>
+      <div class="tier-price">$20,000</div>
+      <p class="tier-desc">This tier offers a complete digital marketing solution with ongoing support and optimization.</p>
+      <ul class="tier-features">
+        <li>Website redesign with e-commerce integration</li><li>Comprehensive SEO strategy</li><li>Full social media management</li><li>In-depth content marketing</li><li>Ongoing support and analytics</li>
+      </ul>
+      <a href="mailto:shannon@getrocketship.com?subject=Interested in Scale" class="tier-cta">Get Started</a>
+    </div>
+  
+      </div>
+    </div>
+  </section>
+
+  
+  <section class="section section-alt" id="results">
+    <div class="container">
+      <header class="section-header reveal">
+        <span class="section-label">Track Record</span>
+        <h2 class="section-title">Previous Results</h2>
+      </header>
+      <div class="cases-grid reveal">
         
-        <div class="pricing-header">
-          <h3>Scale</h3>
-          <div class="price-wrapper">
-            <span class="price">$20,000</span>
-          </div>
-          <p class="tier-desc">This tier offers a complete digital marketing solution with ongoing support and optimization.</p>
-        </div>
-        <div class="pricing-features">
-          <ul>
-            <li><div class="feature-check"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></div><span>Website redesign with e-commerce integration</span></li><li><div class="feature-check"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></div><span>Comprehensive SEO strategy</span></li><li><div class="feature-check"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></div><span>Full social media management</span></li><li><div class="feature-check"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></div><span>In-depth content marketing</span></li><li><div class="feature-check"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></div><span>Ongoing support and analytics</span></li>
-          </ul>
-        </div>
-        <div class="pricing-cta">
-          <a href="mailto:shannon@getrocketship.com?subject=Interested in Scale Package" class="btn-select">Select This Plan</a>
-        </div>
-        <div class="pricing-glow"></div>
+    <div class="case-item">
+      <h4 class="case-title">Success with Wellness Works</h4>
+      <p class="case-context">We helped a similar wellness center redesign their website and implement a content strategy.</p>
+      <div class="case-result">
+        <span class="case-label">Result</span>
+        <p class="case-outcome">Achieved a 150% increase in site traffic and a 300% increase in client inquiries within six months.</p>
       </div>
     </div>
-  </div>
-    </div>
-  </section>
   
-  
-  <section class="section cases" id="cases">
-    <div class="cases-bg"></div>
-    <div class="section-inner">
-      <div class="section-header" data-animate="fade-up">
-        <div class="section-label">Track Record</div>
-        <h2 class="section-title">Proven Results</h2>
-      </div>
-      <div class="cases-grid">
-    <div class="case-card" data-animate="fade-up" data-delay="0">
-      <div class="case-card-inner">
-        <div class="case-icon">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
-          </svg>
-        </div>
-        <h4>Success with Wellness Works</h4>
-        <p class="case-context">We helped a similar wellness center redesign their website and implement a content strategy.</p>
-        <div class="case-result">
-          <div class="result-indicator"></div>
-          <div class="result-content">
-            <span class="result-label">Result</span>
-            <p>Achieved a 150% increase in site traffic and a 300% increase in client inquiries within six months.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-    </div>
-  </section>
-  
-  
-  <section class="section cta-section" id="cta">
-    <div class="cta-bg"></div>
-    <div class="cta-glow"></div>
-    <div class="cta-content" data-animate="zoom-in">
-      <div class="section-label">Next Steps</div>
-      <h2 class="cta-title">Ready to Elevate Your Wellness Brand?</h2>
-      <p class="cta-desc">Let’s discuss how we can transform Evergreen Wellness Center’s digital presence and drive sustainable growth. We’re excited to partner with you!</p>
-      <div class="cta-buttons">
-        <a href="mailto:shannon@getrocketship.com?subject=Let's Get Started" class="btn-primary">
-          Schedule a Call
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
-        </a>
-        <a href="#pricing" class="btn-secondary">View Pricing</a>
       </div>
     </div>
   </section>
   
-  <footer class="contact-section">
-    <div class="contact-inner">
-      <div class="contact-brand">
-        <div class="contact-logo">R</div>
-        <h3>Rocketship | Digital Marketing Agency</h3>
+
+  <section class="cta-section">
+    <div class="container">
+      <div class="cta-content reveal">
+        <span class="cta-label">Next Steps</span>
+        <h2 class="cta-title">Ready to Elevate Your Wellness Brand?</h2>
+        <p class="cta-desc">Let’s discuss how we can transform Evergreen Wellness Center’s digital presence and drive sustainable growth. We’re excited to partner with you!</p>
+        <div class="cta-buttons">
+          <a href="mailto:shannon@getrocketship.com?subject=Re: Proposal for Evergreen Wellness Center" class="btn-primary">
+            Schedule a Call
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M3 8h10M9 4l4 4-4 4"/>
+            </svg>
+          </a>
+          <a href="#pricing" class="btn-secondary">Review Pricing</a>
+        </div>
       </div>
-      <div class="contact-info">
-        <div class="contact-item"><div class="contact-item-label">Contact</div><div class="contact-item-value">Shannon Zastrow</div></div>
-        <div class="contact-item"><div class="contact-item-label">Email</div><div class="contact-item-value"><a href="mailto:shannon@getrocketship.com">shannon@getrocketship.com</a></div></div>
-        <div class="contact-item"><div class="contact-item-label">Phone</div><div class="contact-item-value">(555) 123-4567</div></div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <span class="footer-brand">Rocketship | Digital Marketing Agency</span>
+      <div class="footer-contact">
+        <span class="footer-item">Shannon Zastrow, Owner / Chief Strategist</span>
+        <span class="footer-item"><a href="mailto:shannon@getrocketship.com">shannon@getrocketship.com</a></span>
+        <span class="footer-item">(555) 123-4567</span>
       </div>
     </div>
   </footer>
-  
-  <div class="chat-widget" id="chat-widget">
+
+  <!-- Chat Widget -->
+  <div class="chat-widget" id="chatWidget">
     <div class="chat-panel">
       <div class="chat-header">
         <div class="chat-avatar">R</div>
-        <div class="chat-header-info"><h4>Rocketship | Digital Marketing Agency</h4><p><span class="chat-status-dot"></span>Online now</p></div>
+        <div class="chat-header-info">
+          <h4>Rocketship | Digital Marketing Agency</h4>
+          <p>Ask us anything about this proposal</p>
+        </div>
       </div>
-      <div class="chat-messages" id="chat-messages">
+      <div class="chat-messages" id="chatMessages">
         <div class="chat-message bot">
           <div class="chat-bubble">
-            👋 Hi there! I'm here to answer any questions about this proposal. What would you like to know?
+            Hello! I'm here to answer any questions you have about this proposal. What would you like to know?
             <div class="chat-quick-replies">
-              <button class="quick-reply" data-message="Tell me about the pricing options">Pricing</button>
-              <button class="quick-reply" data-message="What's the timeline?">Timeline</button>
-              <button class="quick-reply" data-message="What services do you offer?">Services</button>
+              <button class="quick-reply" data-msg="Tell me more about the pricing">Pricing details</button>
+              <button class="quick-reply" data-msg="What's the expected timeline?">Timeline</button>
+              <button class="quick-reply" data-msg="How do we get started?">Next steps</button>
             </div>
           </div>
         </div>
       </div>
       <div class="chat-input-area">
-        <input type="text" class="chat-input" id="chat-input" placeholder="Type your question..." autocomplete="off">
-        <button class="chat-send" id="chat-send"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg></button>
+        <input type="text" class="chat-input" id="chatInput" placeholder="Type a question..." autocomplete="off">
+        <button class="chat-send" id="chatSend">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M22 2L11 13M22 2l-7 20-4-9-9-4 20-7z"/>
+          </svg>
+        </button>
       </div>
     </div>
-    <button class="chat-toggle" id="chat-toggle">
-      <svg class="icon-chat" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
-      <svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+    <button class="chat-toggle" id="chatToggle">
+      <svg class="icon-chat" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/>
+      </svg>
+      <svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M18 6L6 18M6 6l12 12"/>
+      </svg>
     </button>
   </div>
 
   <script>
   (function() {
     'use strict';
-    window.addEventListener('load', function() { setTimeout(function() { document.getElementById('loader').classList.add('hidden'); }, 800); });
     
-    const cursor = document.getElementById('cursor');
-    const cursorDot = document.getElementById('cursor-dot');
-    if (cursor && window.innerWidth > 1024) {
-      let mouseX = 0, mouseY = 0, cursorX = 0, cursorY = 0;
-      document.addEventListener('mousemove', function(e) { mouseX = e.clientX; mouseY = e.clientY; cursorDot.style.left = mouseX + 'px'; cursorDot.style.top = mouseY + 'px'; });
-      function animateCursor() { cursorX += (mouseX - cursorX) * 0.15; cursorY += (mouseY - cursorY) * 0.15; cursor.style.left = cursorX + 'px'; cursor.style.top = cursorY + 'px'; requestAnimationFrame(animateCursor); }
-      animateCursor();
-      document.querySelectorAll('a, button, .pricing-card, .service-card').forEach(function(el) { el.addEventListener('mouseenter', function() { cursor.classList.add('hover'); }); el.addEventListener('mouseleave', function() { cursor.classList.remove('hover'); }); });
-    }
-    
-    const progressBar = document.getElementById('scroll-progress');
+    // Navigation scroll effect
     const nav = document.getElementById('nav');
+    let lastScroll = 0;
+    
     window.addEventListener('scroll', function() {
-      const scrollTop = window.scrollY;
-      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
-      progressBar.style.width = (scrollTop / docHeight) * 100 + '%';
-      if (scrollTop > 100) { nav.classList.add('scrolled'); } else { nav.classList.remove('scrolled'); }
+      const currentScroll = window.scrollY;
+      if (currentScroll > 50) {
+        nav.classList.add('scrolled');
+      } else {
+        nav.classList.remove('scrolled');
+      }
+      lastScroll = currentScroll;
+    }, { passive: true });
+    
+    // Smooth scroll for anchor links
+    document.querySelectorAll('a[href^="#"]').forEach(function(anchor) {
+      anchor.addEventListener('click', function(e) {
+        e.preventDefault();
+        const target = document.querySelector(this.getAttribute('href'));
+        if (target) {
+          const offset = 80;
+          const top = target.getBoundingClientRect().top + window.scrollY - offset;
+          window.scrollTo({ top: top, behavior: 'smooth' });
+        }
+      });
     });
     
-    document.querySelectorAll('a[href^="#"]').forEach(function(anchor) { anchor.addEventListener('click', function(e) { e.preventDefault(); const target = document.querySelector(this.getAttribute('href')); if (target) { target.scrollIntoView({ behavior: 'smooth', block: 'start' }); } }); });
+    // Reveal animations on scroll
+    const revealElements = document.querySelectorAll('.reveal');
     
-    const animatedElements = document.querySelectorAll('[data-animate]');
-    const observer = new IntersectionObserver(function(entries) { entries.forEach(function(entry) { if (entry.isIntersecting) { entry.target.classList.add('animated'); observer.unobserve(entry.target); } }); }, { root: null, rootMargin: '0px 0px -10% 0px', threshold: 0.1 });
-    animatedElements.forEach(function(el) { observer.observe(el); });
+    const revealObserver = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          revealObserver.unobserve(entry.target);
+        }
+      });
+    }, {
+      root: null,
+      rootMargin: '0px 0px -60px 0px',
+      threshold: 0.1
+    });
     
-    const particlesContainer = document.getElementById('particles');
-    if (particlesContainer) { for (let i = 0; i < 30; i++) { const particle = document.createElement('div'); particle.className = 'particle'; particle.style.left = Math.random() * 100 + '%'; particle.style.animationDelay = Math.random() * 15 + 's'; particle.style.animationDuration = (10 + Math.random() * 20) + 's'; particlesContainer.appendChild(particle); } }
+    revealElements.forEach(function(el) {
+      revealObserver.observe(el);
+    });
     
-    const WEBHOOK = 'https://n8n.srv1019904.hstgr.cloud/webhook/proposal-chat';
+    // Chatbot
+    const WEBHOOK_URL = 'https://your-n8n-domain.com/webhook/proposal-chat';
     const PROPOSAL_ID = 'rocketship-digital-marketing-agency';
-    const chatWidget = document.getElementById('chat-widget');
-    const chatToggle = document.getElementById('chat-toggle');
-    const chatInput = document.getElementById('chat-input');
-    const chatSend = document.getElementById('chat-send');
-    const chatMessages = document.getElementById('chat-messages');
-    let chatHistory = [];
-    let isSending = false;
     
-    chatToggle.addEventListener('click', function() { chatWidget.classList.toggle('open'); if (chatWidget.classList.contains('open')) { chatInput.focus(); fetch(WEBHOOK, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ proposal_id: PROPOSAL_ID, type: 'view' }) }).catch(function() {}); } });
+    const chatWidget = document.getElementById('chatWidget');
+    const chatToggle = document.getElementById('chatToggle');
+    const chatInput = document.getElementById('chatInput');
+    const chatSend = document.getElementById('chatSend');
+    const chatMessages = document.getElementById('chatMessages');
     
-    function addMessage(text, role) { const msg = document.createElement('div'); msg.className = 'chat-message ' + role; msg.innerHTML = '<div class="chat-bubble">' + text + '</div>'; chatMessages.appendChild(msg); chatMessages.scrollTop = chatMessages.scrollHeight; }
-    function showTyping() { const typing = document.createElement('div'); typing.className = 'chat-message bot'; typing.id = 'typing'; typing.innerHTML = '<div class="chat-bubble"><div class="chat-typing"><span></span><span></span><span></span></div></div>'; chatMessages.appendChild(typing); chatMessages.scrollTop = chatMessages.scrollHeight; }
-    function hideTyping() { const typing = document.getElementById('typing'); if (typing) typing.remove(); }
+    let history = [];
+    let sending = false;
     
-    async function sendMessage(text) {
-      if (!text.trim() || isSending) return;
-      isSending = true; chatSend.disabled = true; chatInput.value = '';
-      addMessage(text, 'user'); chatHistory.push({ role: 'user', content: text }); showTyping();
-      try {
-        const res = await fetch(WEBHOOK, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ proposal_id: PROPOSAL_ID, message: text, history: chatHistory.slice(-10), type: 'chat' }) });
-        const data = await res.json(); hideTyping();
-        const reply = data.reply || data.message || "I'm sorry, I couldn't process that. Please try again.";
-        addMessage(reply, 'bot'); chatHistory.push({ role: 'assistant', content: reply });
-      } catch (err) { hideTyping(); addMessage("I'm having trouble connecting. Please try again.", 'bot'); }
-      isSending = false; chatSend.disabled = false; chatInput.focus();
+    chatToggle.addEventListener('click', function() {
+      chatWidget.classList.toggle('open');
+      if (chatWidget.classList.contains('open')) {
+        chatInput.focus();
+        // Track view
+        fetch(WEBHOOK_URL, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ proposal_id: PROPOSAL_ID, type: 'view' })
+        }).catch(function() {});
+      }
+    });
+    
+    function addMessage(text, role) {
+      const msg = document.createElement('div');
+      msg.className = 'chat-message ' + role;
+      msg.innerHTML = '<div class="chat-bubble">' + text + '</div>';
+      chatMessages.appendChild(msg);
+      chatMessages.scrollTop = chatMessages.scrollHeight;
     }
     
-    chatSend.addEventListener('click', function() { sendMessage(chatInput.value); });
-    chatInput.addEventListener('keydown', function(e) { if (e.key === 'Enter') sendMessage(chatInput.value); });
-    document.addEventListener('click', function(e) { if (e.target.classList.contains('quick-reply')) { sendMessage(e.target.dataset.message); } });
+    function showTyping() {
+      const msg = document.createElement('div');
+      msg.className = 'chat-message bot';
+      msg.id = 'typingIndicator';
+      msg.innerHTML = '<div class="chat-bubble"><div class="chat-typing"><span></span><span></span><span></span></div></div>';
+      chatMessages.appendChild(msg);
+      chatMessages.scrollTop = chatMessages.scrollHeight;
+    }
+    
+    function hideTyping() {
+      const el = document.getElementById('typingIndicator');
+      if (el) el.remove();
+    }
+    
+    async function sendMessage(text) {
+      if (!text.trim() || sending) return;
+      
+      sending = true;
+      chatSend.disabled = true;
+      chatInput.value = '';
+      
+      addMessage(text, 'user');
+      history.push({ role: 'user', content: text });
+      
+      showTyping();
+      
+      try {
+        const res = await fetch(WEBHOOK_URL, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            proposal_id: PROPOSAL_ID,
+            message: text,
+            history: history.slice(-10),
+            type: 'chat'
+          })
+        });
+        
+        const data = await res.json();
+        hideTyping();
+        
+        const reply = data.reply || data.message || "I apologize, but I'm having trouble responding. Please try again.";
+        addMessage(reply, 'bot');
+        history.push({ role: 'assistant', content: reply });
+        
+      } catch (err) {
+        hideTyping();
+        addMessage("I'm having trouble connecting. Please try again in a moment.", 'bot');
+      }
+      
+      sending = false;
+      chatSend.disabled = false;
+      chatInput.focus();
+    }
+    
+    chatSend.addEventListener('click', function() {
+      sendMessage(chatInput.value);
+    });
+    
+    chatInput.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter' && !e.shiftKey) {
+        e.preventDefault();
+        sendMessage(chatInput.value);
+      }
+    });
+    
+    // Quick replies
+    document.addEventListener('click', function(e) {
+      if (e.target.classList.contains('quick-reply')) {
+        const msg = e.target.getAttribute('data-msg');
+        if (msg) sendMessage(msg);
+      }
+    });
+    
   })();
   </script>
 </body>
