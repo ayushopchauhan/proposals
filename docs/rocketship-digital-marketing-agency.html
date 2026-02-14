@@ -1,0 +1,879 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rocketship | Digital Marketing Agency — Proposal for HealthWise Nutrition</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    :root {
+      --primary: #1a1a2e;
+      --accent: #4361ee;
+      --accent-light: #4cc9f0;
+      --text: #2d2d2d;
+      --text-light: #6b7280;
+      --bg: #ffffff;
+      --bg-alt: #f8f9fa;
+      --bg-dark: #0f0f23;
+      --border: #e5e7eb;
+      --success: #10b981;
+      --radius: 12px;
+    }
+    
+    html { scroll-behavior: smooth; }
+    
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      color: var(--text);
+      background: var(--bg);
+      line-height: 1.7;
+      font-size: 16px;
+      -webkit-font-smoothing: antialiased;
+    }
+    
+    /* === COVER SECTION === */
+    .cover {
+      min-height: 100vh;
+      background: linear-gradient(135deg, var(--bg-dark) 0%, #16213e 50%, #1a1a2e 100%);
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 60px 24px;
+      position: relative;
+      overflow: hidden;
+    }
+    .cover::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      left: -50%;
+      width: 200%;
+      height: 200%;
+      background: radial-gradient(circle at 30% 50%, rgba(67,97,238,0.08) 0%, transparent 50%),
+                  radial-gradient(circle at 70% 80%, rgba(76,201,240,0.06) 0%, transparent 50%);
+      animation: coverShift 20s ease-in-out infinite;
+    }
+    @keyframes coverShift {
+      0%, 100% { transform: translate(0, 0); }
+      50% { transform: translate(-2%, -1%); }
+    }
+    .cover-content { position: relative; z-index: 1; max-width: 800px; }
+    .cover-badge {
+      display: inline-block;
+      padding: 8px 20px;
+      background: rgba(67,97,238,0.15);
+      border: 1px solid rgba(67,97,238,0.3);
+      border-radius: 50px;
+      font-size: 13px;
+      font-weight: 500;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      margin-bottom: 32px;
+      color: var(--accent-light);
+    }
+    .cover h1 {
+      font-size: clamp(2.2rem, 5vw, 3.8rem);
+      font-weight: 800;
+      line-height: 1.15;
+      margin-bottom: 20px;
+      letter-spacing: -0.02em;
+    }
+    .cover .subtitle {
+      font-size: clamp(1rem, 2vw, 1.25rem);
+      color: rgba(255,255,255,0.7);
+      font-weight: 300;
+      max-width: 600px;
+      margin: 0 auto 40px;
+    }
+    .cover-meta {
+      display: flex;
+      gap: 32px;
+      justify-content: center;
+      flex-wrap: wrap;
+      font-size: 14px;
+      color: rgba(255,255,255,0.5);
+    }
+    .cover-meta span { display: flex; align-items: center; gap: 8px; }
+    
+    /* === SECTION BASE === */
+    .section {
+      padding: 100px 24px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .section-alt {
+      background: var(--bg-alt);
+    }
+    .section-dark {
+      background: var(--bg-dark);
+      color: #fff;
+    }
+    .section-full {
+      max-width: 100%;
+    }
+    .section-inner {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .section-label {
+      font-size: 13px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      color: var(--accent);
+      margin-bottom: 16px;
+    }
+    .section-dark .section-label { color: var(--accent-light); }
+    .section h2 {
+      font-size: clamp(1.8rem, 3vw, 2.5rem);
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 24px;
+      letter-spacing: -0.01em;
+    }
+    .section p {
+      color: var(--text-light);
+      font-size: 1.05rem;
+      margin-bottom: 16px;
+    }
+    .section-dark p { color: rgba(255,255,255,0.7); }
+    
+    /* === SERVICES GRID === */
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      margin-top: 48px;
+    }
+    .service-card {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 32px;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 40px rgba(0,0,0,0.08);
+    }
+    .service-number {
+      font-size: 36px;
+      font-weight: 800;
+      color: var(--accent);
+      opacity: 0.3;
+      margin-bottom: 16px;
+    }
+    .service-card h3 {
+      font-size: 1.2rem;
+      font-weight: 600;
+      margin-bottom: 12px;
+      color: var(--text);
+    }
+    .service-card p {
+      font-size: 0.95rem;
+      margin-bottom: 16px;
+    }
+    .deliverables {
+      list-style: none;
+      padding: 0;
+    }
+    .deliverables li {
+      padding: 6px 0;
+      font-size: 0.9rem;
+      color: var(--text-light);
+      border-bottom: 1px solid var(--border);
+    }
+    .deliverables li:last-child { border-bottom: none; }
+    .deliverables li::before {
+      content: '→ ';
+      color: var(--accent);
+      font-weight: 600;
+    }
+    
+    /* === TIMELINE === */
+    .timeline {
+      margin-top: 48px;
+      position: relative;
+      padding-left: 40px;
+    }
+    .timeline::before {
+      content: '';
+      position: absolute;
+      left: 15px;
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      background: linear-gradient(to bottom, var(--accent), var(--accent-light));
+    }
+    .timeline-item {
+      position: relative;
+      margin-bottom: 40px;
+    }
+    .timeline-marker {
+      position: absolute;
+      left: -40px;
+      top: 4px;
+    }
+    .phase-num {
+      display: inline-block;
+      width: 32px;
+      height: 32px;
+      background: var(--accent);
+      color: #fff;
+      border-radius: 50%;
+      font-size: 10px;
+      font-weight: 700;
+      line-height: 32px;
+      text-align: center;
+    }
+    .timeline-content h4 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+    .timeline-content .duration {
+      font-size: 0.85rem;
+      color: var(--accent);
+      font-weight: 500;
+      display: inline-block;
+      margin-bottom: 8px;
+    }
+    .timeline-content p {
+      font-size: 0.95rem;
+      margin-bottom: 12px;
+    }
+    .milestones { display: flex; gap: 8px; flex-wrap: wrap; }
+    .milestone-tag {
+      display: inline-block;
+      padding: 4px 12px;
+      background: rgba(67,97,238,0.08);
+      color: var(--accent);
+      border-radius: 50px;
+      font-size: 0.8rem;
+      font-weight: 500;
+    }
+    
+    /* === PRICING === */
+    .pricing-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 24px;
+      margin-top: 48px;
+    }
+    .pricing-card {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 36px 28px;
+      position: relative;
+      transition: transform 0.2s;
+    }
+    .pricing-card:hover { transform: translateY(-4px); }
+    .pricing-card.recommended {
+      border-color: var(--accent);
+      box-shadow: 0 8px 30px rgba(67,97,238,0.12);
+    }
+    .recommended-badge {
+      position: absolute;
+      top: -12px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: var(--accent);
+      color: #fff;
+      padding: 4px 16px;
+      border-radius: 50px;
+      font-size: 12px;
+      font-weight: 600;
+    }
+    .pricing-card h3 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 8px;
+      color: var(--text);
+    }
+    .price {
+      font-size: 2.2rem;
+      font-weight: 800;
+      color: var(--text);
+      margin-bottom: 12px;
+    }
+    .tier-desc {
+      font-size: 0.9rem;
+      color: var(--text-light);
+      margin-bottom: 24px;
+    }
+    .tier-features {
+      list-style: none;
+      padding: 0;
+    }
+    .tier-features li {
+      padding: 8px 0;
+      font-size: 0.9rem;
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .tier-features li svg { color: var(--success); flex-shrink: 0; }
+    
+    /* === CASES === */
+    .cases-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      margin-top: 48px;
+    }
+    .case-card {
+      border-radius: var(--radius);
+      padding: 32px;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+    }
+    .case-card h4 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 12px;
+    }
+    .case-context {
+      font-size: 0.95rem;
+      color: rgba(255,255,255,0.6);
+      margin-bottom: 16px;
+    }
+    .case-result {
+      padding-top: 16px;
+      border-top: 1px solid rgba(255,255,255,0.1);
+    }
+    .result-label {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--accent-light);
+      font-weight: 600;
+    }
+    .case-result p {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #fff;
+      margin-top: 4px;
+    }
+    
+    /* === CTA === */
+    .cta-section {
+      text-align: center;
+      padding: 100px 24px;
+    }
+    .cta-section h2 {
+      font-size: clamp(1.8rem, 3vw, 2.5rem);
+      margin-bottom: 16px;
+    }
+    .cta-section p {
+      max-width: 500px;
+      margin: 0 auto 32px;
+    }
+    .cta-button {
+      display: inline-block;
+      padding: 16px 40px;
+      background: var(--accent);
+      color: #fff;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 1rem;
+      transition: background 0.2s, transform 0.2s;
+    }
+    .cta-button:hover {
+      background: #3451d1;
+      transform: translateY(-2px);
+    }
+    
+    /* === CONTACT === */
+    .contact-section {
+      padding: 60px 24px;
+      background: var(--bg-alt);
+      text-align: center;
+    }
+    .contact-info {
+      display: flex;
+      justify-content: center;
+      gap: 40px;
+      flex-wrap: wrap;
+      margin-top: 24px;
+    }
+    .contact-item {
+      font-size: 0.95rem;
+      color: var(--text-light);
+    }
+    .contact-item strong {
+      display: block;
+      color: var(--text);
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+    
+    /* === CHATBOT === */
+    #chat-toggle {
+      position: fixed;
+      bottom: 28px;
+      right: 28px;
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      background: var(--accent);
+      color: #fff;
+      border: none;
+      cursor: pointer;
+      box-shadow: 0 6px 20px rgba(67,97,238,0.35);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    #chat-toggle:hover {
+      transform: scale(1.08);
+      box-shadow: 0 8px 28px rgba(67,97,238,0.45);
+    }
+    #chat-panel {
+      position: fixed;
+      bottom: 100px;
+      right: 28px;
+      width: 380px;
+      max-height: 520px;
+      background: #fff;
+      border-radius: 16px;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.15);
+      display: none;
+      flex-direction: column;
+      z-index: 9998;
+      overflow: hidden;
+      border: 1px solid var(--border);
+    }
+    #chat-panel.open { display: flex; }
+    .chat-header {
+      padding: 18px 20px;
+      background: var(--primary);
+      color: #fff;
+    }
+    .chat-header h4 { font-size: 0.95rem; font-weight: 600; }
+    .chat-header p { font-size: 0.78rem; opacity: 0.7; margin-top: 2px; }
+    .chat-messages {
+      flex: 1;
+      overflow-y: auto;
+      padding: 16px;
+      max-height: 340px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .chat-msg {
+      max-width: 85%;
+      padding: 10px 14px;
+      border-radius: 12px;
+      font-size: 0.88rem;
+      line-height: 1.5;
+      word-wrap: break-word;
+    }
+    .chat-msg.bot {
+      background: var(--bg-alt);
+      color: var(--text);
+      align-self: flex-start;
+      border-bottom-left-radius: 4px;
+    }
+    .chat-msg.user {
+      background: var(--accent);
+      color: #fff;
+      align-self: flex-end;
+      border-bottom-right-radius: 4px;
+    }
+    .chat-msg.typing {
+      background: var(--bg-alt);
+      align-self: flex-start;
+      border-bottom-left-radius: 4px;
+    }
+    .typing-dots { display: flex; gap: 4px; padding: 4px 0; }
+    .typing-dots span {
+      width: 6px; height: 6px;
+      background: var(--text-light);
+      border-radius: 50%;
+      animation: typingBounce 1.2s ease-in-out infinite;
+    }
+    .typing-dots span:nth-child(2) { animation-delay: 0.15s; }
+    .typing-dots span:nth-child(3) { animation-delay: 0.3s; }
+    @keyframes typingBounce {
+      0%, 60%, 100% { transform: translateY(0); }
+      30% { transform: translateY(-6px); }
+    }
+    .chat-input-area {
+      display: flex;
+      padding: 12px;
+      border-top: 1px solid var(--border);
+      gap: 8px;
+    }
+    .chat-input-area input {
+      flex: 1;
+      padding: 10px 14px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      font-size: 0.88rem;
+      font-family: inherit;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .chat-input-area input:focus { border-color: var(--accent); }
+    .chat-input-area button {
+      padding: 10px 16px;
+      background: var(--accent);
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      font-weight: 600;
+      font-size: 0.85rem;
+      transition: background 0.2s;
+    }
+    .chat-input-area button:hover { background: #3451d1; }
+    .chat-input-area button:disabled { opacity: 0.5; cursor: not-allowed; }
+    
+    @media (max-width: 480px) {
+      #chat-panel { right: 12px; left: 12px; width: auto; bottom: 90px; }
+      #chat-toggle { bottom: 16px; right: 16px; }
+    }
+    
+    /* === RESPONSIVE === */
+    @media (max-width: 768px) {
+      .section { padding: 60px 20px; }
+      .cover { padding: 40px 20px; }
+      .cover-meta { flex-direction: column; gap: 12px; }
+      .contact-info { flex-direction: column; gap: 16px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- COVER -->
+  <section class="cover">
+    <div class="cover-content">
+      <div class="cover-badge">Strategic Proposal</div>
+      <h1>Empowering HealthWise Nutrition's Digital Growth</h1>
+      <p class="subtitle">Strategic Marketing Solutions for Lasting Impact</p>
+      <div class="cover-meta">
+        <span>Prepared for HealthWise Nutrition</span>
+        <span>By Rocketship | Digital Marketing Agency</span>
+        <span>October 10, 2023</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- CLIENT OVERVIEW -->
+  <section class="section">
+    <div class="section-label">Client Overview</div>
+    <h2>Understanding Your Business</h2>
+    <p>HealthWise Nutrition has established itself as a trusted provider of nutrition consulting services in the community, but they face challenges in reaching new clients amid increasing competition. Their current digital presence is minimal, relying primarily on word-of-mouth referrals, which limits their growth potential. With a desire to expand their reach, they recognize the need for an engaging website and a robust digital marketing strategy to attract and retain clients effectively.</p><p>The firm is focused on creating personalized experiences for their clients and believes that a strong online presence will enhance their credibility and visibility. They are seeking to leverage digital channels to not only promote their services but also to share valuable content that establishes them as thought leaders in the health and wellness sector. Their ultimate goal is to increase client acquisition by 30% over the next year, ensuring sustainable growth for their business.</p>
+  </section>
+
+  <!-- PROBLEM ANALYSIS -->
+  <section class="section section-alt">
+    <div class="section-label">Challenge</div>
+    <h2>Current Challenges</h2>
+    <p>HealthWise Nutrition currently faces several challenges that hinder their growth. Firstly, their website lacks user engagement and is not optimized for search engines, making it difficult for potential clients to discover their services online. Without a compelling digital presence, they miss out on opportunities to connect with individuals actively seeking nutrition consulting.</p><p>Additionally, their marketing efforts are inconsistent and unfocused. They have limited social media engagement and do not leverage email marketing to nurture leads and maintain relationships with existing clients. This lack of a cohesive strategy not only affects their visibility but also their ability to convert inquiries into appointments, ultimately impacting their revenue.</p>
+  </section>
+
+  <!-- OPPORTUNITY -->
+  <section class="section">
+    <div class="section-label">Opportunity</div>
+    <h2>The Path Forward</h2>
+    <p>The opportunity for HealthWise Nutrition lies in developing a comprehensive digital marketing strategy that aligns with their business objectives. By creating a user-friendly website that showcases their services and expertise, we can enhance their online presence and attract more clients. Our approach will include optimizing their website for search engines, ensuring they rank higher for relevant keywords, thereby increasing organic traffic.</p><p>Moreover, by implementing a content marketing strategy that includes informative blog posts and engaging social media content, HealthWise Nutrition can position itself as a go-to resource for nutrition advice. This not only builds trust with potential clients but also encourages existing clients to refer others. Our tailored strategy will focus on measurable outcomes, ensuring that HealthWise Nutrition sees a clear return on investment as they grow their client base and enhance their reputation in the community.</p>
+  </section>
+
+  <!-- RECOMMENDED SERVICES -->
+  <section class="section section-alt section-full">
+    <div class="section-inner">
+      <div class="section-label">Recommended Approach</div>
+      <h2>How We'll Get You There</h2>
+      <div class="services-grid">
+        
+    <div class="service-card">
+      <div class="service-number">01</div>
+      <h3>Website Design & SEO Optimization</h3>
+      <p>We'll create a visually appealing, user-friendly website optimized for search engines to enhance online visibility. This service will ensure that potential clients can easily find and engage with HealthWise Nutrition.</p>
+      <ul class="deliverables">
+        <li>Custom website design</li><li>SEO keyword research and implementation</li><li>User experience enhancements</li><li>Mobile optimization</li><li>Content management system integration</li>
+      </ul>
+    </div>
+  
+    <div class="service-card">
+      <div class="service-number">02</div>
+      <h3>Content Marketing & Social Media Strategy</h3>
+      <p>Our team will develop a content marketing strategy that positions HealthWise Nutrition as an authority in the health and wellness space. We will manage social media accounts to increase engagement and reach.</p>
+      <ul class="deliverables">
+        <li>Monthly blog content creation</li><li>Social media content calendar</li><li>Engagement strategy across platforms</li><li>Performance analytics and reporting</li><li>Email newsletter template and management</li>
+      </ul>
+    </div>
+  
+      </div>
+    </div>
+  </section>
+
+  <!-- IMPLEMENTATION & TIMELINE -->
+  <section class="section">
+    <div class="section-label">Implementation</div>
+    <h2>Project Roadmap</h2>
+    <p>Estimated total duration: <strong>10 weeks</strong></p>
+    <div class="timeline">
+      
+    <div class="timeline-item">
+      <div class="timeline-marker">
+        <span class="phase-num">Phase 1</span>
+      </div>
+      <div class="timeline-content">
+        <h4>Discovery & Strategy Development</h4>
+        <span class="duration">Weeks 1-2</span>
+        <p>In this phase, we will conduct a thorough analysis of HealthWise Nutrition's current digital presence and identify key areas for improvement. We will collaborate with your team to define goals and develop a tailored marketing strategy.</p>
+        <div class="milestones">
+          <span class="milestone-tag">Completion of the website audit</span><span class="milestone-tag">Finalization of the marketing strategy</span>
+        </div>
+      </div>
+    </div>
+  
+    <div class="timeline-item">
+      <div class="timeline-marker">
+        <span class="phase-num">Phase 2</span>
+      </div>
+      <div class="timeline-content">
+        <h4>Design & Development</h4>
+        <span class="duration">Weeks 3-6</span>
+        <p>We will begin the design and development of the new website, incorporating SEO best practices and user experience enhancements. Simultaneously, we will develop the content marketing and social media strategies.</p>
+        <div class="milestones">
+          <span class="milestone-tag">Website design mockups approved</span><span class="milestone-tag">Content calendar finalized</span>
+        </div>
+      </div>
+    </div>
+  
+    <div class="timeline-item">
+      <div class="timeline-marker">
+        <span class="phase-num">Phase 3</span>
+      </div>
+      <div class="timeline-content">
+        <h4>Launch & Optimization</h4>
+        <span class="duration">Weeks 7-10</span>
+        <p>The new website will go live, and we will initiate the content marketing and social media strategies. We will monitor performance and make necessary adjustments to maximize results.</p>
+        <div class="milestones">
+          <span class="milestone-tag">Website launch</span><span class="milestone-tag">First month of content published</span>
+        </div>
+      </div>
+    </div>
+  
+    </div>
+  </section>
+
+  <!-- PRICING -->
+  <section class="section section-alt section-full">
+    <div class="section-inner">
+      <div class="section-label">Investment</div>
+      <h2>Engagement Options</h2>
+      <div class="pricing-grid">
+        
+    <div class="pricing-card ">
+      
+      <h3>Foundation</h3>
+      <div class="price">$5,000</div>
+      <p class="tier-desc">Basic website design with foundational SEO elements and limited content creation.</p>
+      <ul class="tier-features">
+        <li><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M13.3 4.3L6 11.6L2.7 8.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Basic website design</li><li><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M13.3 4.3L6 11.6L2.7 8.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>SEO setup</li><li><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M13.3 4.3L6 11.6L2.7 8.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>1 blog post per month</li><li><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M13.3 4.3L6 11.6L2.7 8.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Social media account setup</li>
+      </ul>
+    </div>
+  
+    <div class="pricing-card recommended">
+      <div class="recommended-badge">Recommended</div>
+      <h3>Growth</h3>
+      <div class="price">$10,500</div>
+      <p class="tier-desc">Comprehensive website design, SEO optimization, and a robust content marketing strategy.</p>
+      <ul class="tier-features">
+        <li><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M13.3 4.3L6 11.6L2.7 8.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Custom website design</li><li><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M13.3 4.3L6 11.6L2.7 8.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>SEO optimization</li><li><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M13.3 4.3L6 11.6L2.7 8.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>4 blog posts per month</li><li><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M13.3 4.3L6 11.6L2.7 8.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Social media management</li><li><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M13.3 4.3L6 11.6L2.7 8.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Monthly performance reports</li>
+      </ul>
+    </div>
+  
+    <div class="pricing-card ">
+      
+      <h3>Scale</h3>
+      <div class="price">$15,000</div>
+      <p class="tier-desc">Advanced digital marketing package including extensive content creation and targeted advertising.</p>
+      <ul class="tier-features">
+        <li><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M13.3 4.3L6 11.6L2.7 8.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Custom website design with advanced features</li><li><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M13.3 4.3L6 11.6L2.7 8.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Full SEO services</li><li><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M13.3 4.3L6 11.6L2.7 8.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>8 blog posts per month</li><li><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M13.3 4.3L6 11.6L2.7 8.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Social media management with ads</li><li><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M13.3 4.3L6 11.6L2.7 8.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Comprehensive analytics and reporting</li>
+      </ul>
+    </div>
+  
+      </div>
+    </div>
+  </section>
+
+  <!-- CASE EXAMPLES -->
+  <section class="section section-dark section-full">
+    <div class="section-inner">
+      <div class="section-label">Track Record</div>
+      <h2>Previous Results</h2>
+      <div class="cases-grid">
+        
+    <div class="case-card">
+      <h4>175%+ Increase in Website Traffic for Pur Skin Clinic</h4>
+      <p class="case-context">After redesigning their website and implementing a focused SEO strategy, Pur Skin Clinic saw a dramatic increase in their online traffic.</p>
+      <div class="case-result">
+        <span class="result-label">Result</span>
+        <p>This led to a 40% increase in new client inquiries within three months.</p>
+      </div>
+    </div>
+  
+    <div class="case-card">
+      <h4>41% YoY Increase in Open House Attendance for Northshore Christian Academy</h4>
+      <p class="case-context">Through targeted social media campaigns and a revamped content strategy, Northshore Christian Academy effectively boosted attendance.</p>
+      <div class="case-result">
+        <span class="result-label">Result</span>
+        <p>This resulted in a significant increase in enrollment inquiries.</p>
+      </div>
+    </div>
+  
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="cta-section">
+    <div class="section-label">Next Steps</div>
+    <h2>Let's Elevate HealthWise Nutrition Together!</h2>
+    <p>We’re excited about the opportunity to partner with you and drive your digital marketing efforts to new heights. Let’s schedule a call to discuss how we can make this vision a reality.</p>
+    <a href="mailto:shannon@getrocketship.com?subject=Re: Proposal for HealthWise Nutrition" class="cta-button">Schedule a Call</a>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact-section">
+    <h3>Rocketship | Digital Marketing Agency</h3>
+    <div class="contact-info">
+      <div class="contact-item">
+        <strong>Shannon Zastrow</strong>
+        Owner / Chief Strategist
+      </div>
+      <div class="contact-item">
+        <strong>Email</strong>
+        shannon@getrocketship.com
+      </div>
+      <div class="contact-item"><strong>Phone</strong>(555) 123-4567</div>
+    </div>
+  </section>
+
+  <!-- CHATBOT WIDGET -->
+  <button id="chat-toggle" aria-label="Open chat">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+    </svg>
+  </button>
+
+  <div id="chat-panel">
+    <div class="chat-header">
+      <h4>Rocketship | Digital Marketing Agency</h4>
+      <p>Ask us anything about this proposal</p>
+    </div>
+    <div class="chat-messages" id="chat-messages">
+      <div class="chat-msg bot">Hi there! I can answer any questions you have about this proposal — services, pricing, timeline, or anything else. How can I help?</div>
+    </div>
+    <div class="chat-input-area">
+      <input type="text" id="chat-input" placeholder="Type your question..." autocomplete="off">
+      <button id="chat-send">Send</button>
+    </div>
+  </div>
+
+  <script>
+  (function() {
+    const WEBHOOK = 'https://your-n8n-domain.com/webhook/proposal-chat';
+    const PROPOSAL_ID = 'rocketship-digital-marketing-agency';
+    const toggle = document.getElementById('chat-toggle');
+    const panel = document.getElementById('chat-panel');
+    const input = document.getElementById('chat-input');
+    const sendBtn = document.getElementById('chat-send');
+    const messagesEl = document.getElementById('chat-messages');
+    let history = [];
+    let sending = false;
+
+    toggle.addEventListener('click', function() {
+      panel.classList.toggle('open');
+      if (panel.classList.contains('open')) {
+        input.focus();
+        // Track view
+        fetch(WEBHOOK, {
+          method: 'POST',
+          headers: {'Content-Type':'application/json'},
+          body: JSON.stringify({proposal_id: PROPOSAL_ID, type: 'view'})
+        }).catch(function(){});
+      }
+    });
+
+    function addMessage(text, role) {
+      const div = document.createElement('div');
+      div.className = 'chat-msg ' + role;
+      div.textContent = text;
+      messagesEl.appendChild(div);
+      messagesEl.scrollTop = messagesEl.scrollHeight;
+    }
+
+    function showTyping() {
+      const div = document.createElement('div');
+      div.className = 'chat-msg typing';
+      div.id = 'typing-indicator';
+      div.innerHTML = '<div class="typing-dots"><span></span><span></span><span></span></div>';
+      messagesEl.appendChild(div);
+      messagesEl.scrollTop = messagesEl.scrollHeight;
+    }
+
+    function hideTyping() {
+      const el = document.getElementById('typing-indicator');
+      if (el) el.remove();
+    }
+
+    async function sendMessage() {
+      const text = input.value.trim();
+      if (!text || sending) return;
+      sending = true;
+      sendBtn.disabled = true;
+      input.value = '';
+      addMessage(text, 'user');
+      history.push({role: 'user', content: text});
+      showTyping();
+
+      try {
+        const res = await fetch(WEBHOOK, {
+          method: 'POST',
+          headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify({
+            proposal_id: PROPOSAL_ID,
+            message: text,
+            history: history.slice(-10),
+            type: 'chat'
+          })
+        });
+        const data = await res.json();
+        hideTyping();
+        const reply = data.reply || data.message || "I'm sorry, I couldn't process that. Please try again.";
+        addMessage(reply, 'bot');
+        history.push({role: 'assistant', content: reply});
+      } catch(err) {
+        hideTyping();
+        addMessage("I'm having trouble connecting. Please try again in a moment.", 'bot');
+      }
+      sending = false;
+      sendBtn.disabled = false;
+      input.focus();
+    }
+
+    sendBtn.addEventListener('click', sendMessage);
+    input.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') sendMessage();
+    });
+  })();
+  </script>
+
+</body>
+</html>
