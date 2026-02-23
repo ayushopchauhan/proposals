@@ -1,0 +1,175 @@
+{
+  "slug": "atom",
+  "companyName": "Atom ",
+  "contactName": "Tom",
+  "contactEmail": "tom@atomcreate.com",
+  "generationTime": 45,
+  "createdAt": "2026-02-23T16:41:35.629Z",
+  "brandStyle": {
+    "primaryColor": "#9e3b1b",
+    "secondaryColor": "#000000",
+    "accentColor": "#116dff",
+    "headingFont": "arp-display",
+    "bodyFont": "helvetica-w01-roman"
+  },
+  "proposal": {
+    "fictionalClientName": "EcoLiving Solutions",
+    "fictionalClientIndustry": "Sustainable Home Products",
+    "fictionalClientDescription": "EcoLiving Solutions is a UK-based company dedicated to providing eco-friendly home products that promote sustainable living. With a growing customer base, they aim to expand their brand visibility and establish themselves as a leader in the sustainable home market.",
+    "coverHeadline": "Elevate Your Brand with Purpose-Driven Design",
+    "coverSubheadline": "Transforming Your Vision into a Distinctive Brand Identity",
+    "coverDate": "February 23, 2026",
+    "clientOverview": "EcoLiving Solutions has been making strides in the sustainable home products sector, offering everything from biodegradable cleaning supplies to energy-efficient appliances. As consumer interest in eco-friendly options continues to rise, you recognize the need to enhance your brand's visibility and resonate more deeply with your target audience. With a mission to promote sustainable living, you aim to position your brand not just as a product provider, but as a trusted partner in eco-conscious living.",
+    "problemAnalysis": "Despite your innovative product offerings, EcoLiving Solutions faces challenges in brand recognition and customer engagement. Many potential customers are unaware of your full range of products and the unique benefits they offer. Additionally, your current branding lacks a cohesive strategy that communicates your core values and mission effectively. This disconnect can lead to missed opportunities for customer loyalty and market share in a competitive landscape.",
+    "opportunitySection": "This presents a significant opportunity for EcoLiving Solutions to redefine its brand identity and strengthen its market position. By collaborating with us at Atom, we can craft a compelling brand narrative that highlights your commitment to sustainability while establishing a distinctive visual identity. Our approach focuses on creating emotional connections with your audience, ensuring that your brand stands out in the crowded sustainable products marketplace. Together, we can enhance your marketing efforts, ultimately driving sales and fostering a loyal customer base.",
+    "recommendedServices": [
+      {
+        "name": "Brand Identity Development",
+        "description": "We will create a cohesive brand identity that reflects your commitment to sustainability and resonates with your target audience. This includes logo design, typography, color palettes, and visual guidelines.",
+        "deliverables": [
+          "Logo design",
+          "Brand color palette",
+          "Typography guidelines",
+          "Brand style guide"
+        ]
+      },
+      {
+        "name": "Case Study Creation",
+        "description": "Showcasing your products' impact through compelling case studies will help demonstrate their value to potential customers. We will develop engaging narratives that highlight customer success stories.",
+        "deliverables": [
+          "Two detailed case studies",
+          "Visual infographics",
+          "Customer testimonials",
+          "Digital and print-ready formats"
+        ]
+      },
+      {
+        "name": "Ongoing Support",
+        "description": "Our partnership doesn't end with project completion. We offer ongoing support to ensure your branding remains fresh and relevant as your business grows.",
+        "deliverables": [
+          "Quarterly brand audits",
+          "Monthly design updates",
+          "Consultations for new campaigns"
+        ]
+      }
+    ],
+    "implementationPhases": [
+      {
+        "phaseNumber": 1,
+        "phaseName": "Discovery & Strategy",
+        "duration": "Weeks 1-2",
+        "description": "In this phase, we will conduct a thorough assessment of your current brand and gather insights on your target audience. This is critical for developing a strategic approach tailored to your needs.",
+        "milestones": [
+          "Completion of brand audit",
+          "Stakeholder interviews",
+          "Development of strategic brand brief"
+        ]
+      },
+      {
+        "phaseNumber": 2,
+        "phaseName": "Design & Development",
+        "duration": "Weeks 3-6",
+        "description": "Our team will create the visual elements of your brand identity, including logos and brand guidelines, and develop case studies that showcase your products’ effectiveness.",
+        "milestones": [
+          "Presentation of initial design concepts",
+          "Approval of final brand identity",
+          "Delivery of completed case studies"
+        ]
+      },
+      {
+        "phaseNumber": 3,
+        "phaseName": "Launch & Support",
+        "duration": "Weeks 7-8",
+        "description": "We will assist you in launching your new brand identity and case studies across your marketing channels, ensuring a smooth transition and ongoing support.",
+        "milestones": [
+          "Launch of new branding",
+          "Distribution of case studies",
+          "Implementation of ongoing support plan"
+        ]
+      }
+    ],
+    "timelineTotal": "8 weeks",
+    "pricingTiers": [
+      {
+        "tierName": "Foundation",
+        "price": "$5,000",
+        "description": "Includes brand identity development and initial case study creation.",
+        "features": [
+          "Logo design",
+          "Color palette",
+          "Two case studies",
+          "Basic brand style guide"
+        ],
+        "recommended": false
+      },
+      {
+        "tierName": "Growth",
+        "price": "$9,500",
+        "description": "Comprehensive branding package that includes all aspects of brand identity development and ongoing support.",
+        "features": [
+          "Logo design",
+          "Complete brand style guide",
+          "Two detailed case studies",
+          "Ongoing support for 6 months"
+        ],
+        "recommended": true
+      },
+      {
+        "tierName": "Scale",
+        "price": "$15,000",
+        "description": "Full-service branding solution, including extensive market analysis and additional case studies.",
+        "features": [
+          "Logo design",
+          "Comprehensive brand style guide",
+          "Four detailed case studies",
+          "Ongoing support for 12 months"
+        ],
+        "recommended": false
+      }
+    ],
+    "caseExamples": [
+      {
+        "title": "Brand Transformation for GreenTech Innovations",
+        "context": "We helped a tech company specializing in renewable energy redefine their brand identity.",
+        "result": "Achieved a 40% increase in customer inquiries within three months of launching the new brand."
+      },
+      {
+        "title": "Successful Case Study Campaign for PureAir",
+        "context": "Developed engaging case studies for a company focused on air purification systems.",
+        "result": "Increased online engagement by 60% and boosted sales by 25%."
+      }
+    ],
+    "ctaHeadline": "Let’s Craft a Sustainable Brand Together",
+    "ctaBody": "We believe that a well-defined brand can make a significant impact on your business. Let’s discuss how we can bring your vision to life.",
+    "ctaButtonText": "Schedule a Call",
+    "contactName": "Tom Mccrorie",
+    "contactTitle": "Owner",
+    "contactEmail": "tom@atomcreate.com",
+    "contactPhone": "+44 1234 567890"
+  },
+  "enriched": {
+    "tone": "honest, straightforward, creative, passionate, approachable",
+    "positioning": "Atom positions itself as a personal, in-house creative director for businesses seeking authentic and strategic branding solutions.",
+    "serviceList": [
+      "Case Study Creation",
+      "Newsletter Management",
+      "Branding",
+      "Brand Strategy",
+      "Brand Identity",
+      "Illustration",
+      "Ongoing Support"
+    ],
+    "valuePropositions": [
+      "Direct collaboration with the owner for personalized service",
+      "Purpose-driven creativity tailored to client needs",
+      "Unique insights and strategies that stand out",
+      "Cost-effective design without compromising quality",
+      "Commitment to honesty and integrity throughout the design process"
+    ],
+    "differentiators": [
+      "No middlemen; clients work directly with the designer.",
+      "Focus on emotional connection and human touch in design.",
+      "Strategic and thoughtful approach to branding that avoids generic solutions."
+    ]
+  }
+}
