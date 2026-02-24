@@ -3,8 +3,8 @@
   "companyName": "Atom ",
   "contactName": "Tom",
   "contactEmail": "tom@atomcreate.com",
-  "generationTime": 45,
-  "createdAt": "2026-02-23T16:41:35.629Z",
+  "generationTime": 55,
+  "createdAt": "2026-02-24T12:44:06.052Z",
   "brandStyle": {
     "primaryColor": "#9e3b1b",
     "secondaryColor": "#000000",
@@ -13,163 +13,189 @@
     "bodyFont": "helvetica-w01-roman"
   },
   "proposal": {
-    "fictionalClientName": "EcoLiving Solutions",
-    "fictionalClientIndustry": "Sustainable Home Products",
-    "fictionalClientDescription": "EcoLiving Solutions is a UK-based company dedicated to providing eco-friendly home products that promote sustainable living. With a growing customer base, they aim to expand their brand visibility and establish themselves as a leader in the sustainable home market.",
-    "coverHeadline": "Elevate Your Brand with Purpose-Driven Design",
-    "coverSubheadline": "Transforming Your Vision into a Distinctive Brand Identity",
-    "coverDate": "February 23, 2026",
-    "clientOverview": "EcoLiving Solutions has been making strides in the sustainable home products sector, offering everything from biodegradable cleaning supplies to energy-efficient appliances. As consumer interest in eco-friendly options continues to rise, you recognize the need to enhance your brand's visibility and resonate more deeply with your target audience. With a mission to promote sustainable living, you aim to position your brand not just as a product provider, but as a trusted partner in eco-conscious living.",
-    "problemAnalysis": "Despite your innovative product offerings, EcoLiving Solutions faces challenges in brand recognition and customer engagement. Many potential customers are unaware of your full range of products and the unique benefits they offer. Additionally, your current branding lacks a cohesive strategy that communicates your core values and mission effectively. This disconnect can lead to missed opportunities for customer loyalty and market share in a competitive landscape.",
-    "opportunitySection": "This presents a significant opportunity for EcoLiving Solutions to redefine its brand identity and strengthen its market position. By collaborating with us at Atom, we can craft a compelling brand narrative that highlights your commitment to sustainability while establishing a distinctive visual identity. Our approach focuses on creating emotional connections with your audience, ensuring that your brand stands out in the crowded sustainable products marketplace. Together, we can enhance your marketing efforts, ultimately driving sales and fostering a loyal customer base.",
+    "fictionalClientName": "Green Horizons Landscapes Ltd.",
+    "fictionalClientIndustry": "Landscape Design & Environmental Services",
+    "fictionalClientDescription": "Green Horizons Landscapes Ltd. is a fast-growing landscape design and environmental consultancy based in Edinburgh, serving both commercial and residential clients across Scotland. With a focus on sustainable outdoor spaces, they are recognised for their innovative, eco-friendly projects and community engagement.",
+    "coverHeadline": "Distinctive Branding for Scotland’s Sustainable Landscape Leaders",
+    "coverSubheadline": "A tailored design partnership to elevate Green Horizons’ identity and drive growth",
+    "coverDate": "February 24, 2026",
+    "clientOverview": "Green Horizons Landscapes Ltd. has quickly established itself as one of Scotland’s most ambitious and innovative landscape design consultancies. You’ve built a reputation for transforming public parks, urban green spaces, and private gardens with a unique blend of sustainability, creativity, and technical expertise. Your recent expansion into commercial contracts and public sector projects highlights your strong growth trajectory and the increasing recognition of your work.\n\nAs you look to the next phase of your journey, you’ve identified a need to bring cohesion and impact to your brand presence—both online and offline. With a diverse client base and growing team, you’re seeking a design partner who can help you articulate your values, tell your story, and create a visual identity as memorable as your projects.",
+    "problemAnalysis": "Despite your innovative portfolio and reputation for quality, your current branding lacks the consistency and punch needed to stand out in a competitive market. Your existing logo and marketing collateral feel dated and do not reflect your commitment to sustainability or your forward-thinking approach. You’ve also noticed that your brand messaging varies across touchpoints, making it harder for new prospects to quickly understand what sets you apart.\n\nAs you pursue larger contracts and more public-facing work, this lack of a unified, professional brand presence risks undermining your credibility. Internally, your team needs clear, practical brand guidelines to ensure every client interaction—whether a proposal, a newsletter, or a site sign—reinforces your values and expertise.",
+    "opportunitySection": "This is a pivotal moment to invest in a brand identity that captures the unique spirit and ambition of Green Horizons. By collaborating closely, we can craft a strategic, purpose-led brand that not only looks the part but also drives growth and deeper client engagement. Our approach is highly personal and pragmatic: we’ll work directly with your leadership and key team members to uncover your story, define your values, and translate them into a visual and verbal identity you can be proud of.\n\nA refreshed brand will empower you to approach new markets with confidence, win higher-value contracts, and attract top talent. With clear, practical brand assets and ongoing support, your team can deliver a consistent, standout experience—whether you’re presenting to a city council or launching a community initiative.",
     "recommendedServices": [
       {
-        "name": "Brand Identity Development",
-        "description": "We will create a cohesive brand identity that reflects your commitment to sustainability and resonates with your target audience. This includes logo design, typography, color palettes, and visual guidelines.",
+        "name": "Brand Strategy Workshop",
+        "description": "A hands-on session to clarify Green Horizons’ mission, values, and unique market position. We’ll uncover what makes you different and build a practical roadmap for your brand.",
         "deliverables": [
-          "Logo design",
-          "Brand color palette",
-          "Typography guidelines",
-          "Brand style guide"
+          "Half-day on-site or virtual workshop",
+          "Brand positioning statement",
+          "Audience personas and competitor mapping",
+          "Actionable brand strategy summary"
         ]
       },
       {
-        "name": "Case Study Creation",
-        "description": "Showcasing your products' impact through compelling case studies will help demonstrate their value to potential customers. We will develop engaging narratives that highlight customer success stories.",
+        "name": "Brand Identity Design",
+        "description": "We’ll design a fresh, versatile visual identity that reflects your sustainable ethos and ambitious vision, including logo, colour palette, and typography.",
         "deliverables": [
-          "Two detailed case studies",
-          "Visual infographics",
-          "Customer testimonials",
-          "Digital and print-ready formats"
+          "Primary and secondary logo suite",
+          "Colour palette and typography guide",
+          "Sample applications: business cards, site signage, social media",
+          "Brand usage guidelines"
         ]
       },
       {
-        "name": "Ongoing Support",
-        "description": "Our partnership doesn't end with project completion. We offer ongoing support to ensure your branding remains fresh and relevant as your business grows.",
+        "name": "Marketing Collateral & Case Study Templates",
+        "description": "We’ll create practical, beautifully designed templates for your key client-facing materials, making it easy for your team to share your best work and win new business.",
         "deliverables": [
-          "Quarterly brand audits",
-          "Monthly design updates",
-          "Consultations for new campaigns"
+          "Customisable case study template (print & digital)",
+          "Proposal and presentation deck template",
+          "Newsletter layout",
+          "Print-ready brochure design"
+        ]
+      },
+      {
+        "name": "Ongoing Design Support",
+        "description": "Direct access to our creative director for ongoing tweaks, new collateral, and advice as your brand evolves.",
+        "deliverables": [
+          "Monthly design support hours (retainer)",
+          "Quick-turnaround for urgent collateral",
+          "Quarterly brand check-ins"
         ]
       }
     ],
     "implementationPhases": [
       {
         "phaseNumber": 1,
-        "phaseName": "Discovery & Strategy",
+        "phaseName": "Discovery & Brand Strategy",
         "duration": "Weeks 1-2",
-        "description": "In this phase, we will conduct a thorough assessment of your current brand and gather insights on your target audience. This is critical for developing a strategic approach tailored to your needs.",
+        "description": "We’ll kick off with a collaborative workshop and stakeholder interviews to define your brand’s core. Research, competitor analysis, and positioning work will set the foundation.",
         "milestones": [
-          "Completion of brand audit",
-          "Stakeholder interviews",
-          "Development of strategic brand brief"
+          "Brand strategy workshop completed",
+          "Brand positioning statement delivered"
         ]
       },
       {
         "phaseNumber": 2,
-        "phaseName": "Design & Development",
-        "duration": "Weeks 3-6",
-        "description": "Our team will create the visual elements of your brand identity, including logos and brand guidelines, and develop case studies that showcase your products’ effectiveness.",
+        "phaseName": "Brand Identity Creation",
+        "duration": "Weeks 3-5",
+        "description": "We’ll develop initial creative concepts and refine your visual identity through a hands-on, iterative process. You’ll have direct input at every stage.",
         "milestones": [
-          "Presentation of initial design concepts",
-          "Approval of final brand identity",
-          "Delivery of completed case studies"
+          "Logo and visual identity concepts presented",
+          "Final brand identity approved"
         ]
       },
       {
         "phaseNumber": 3,
-        "phaseName": "Launch & Support",
-        "duration": "Weeks 7-8",
-        "description": "We will assist you in launching your new brand identity and case studies across your marketing channels, ensuring a smooth transition and ongoing support.",
+        "phaseName": "Collateral Development",
+        "duration": "Weeks 6-7",
+        "description": "We’ll design and deliver your key marketing materials and case study templates, ensuring they’re practical and on-brand.",
         "milestones": [
-          "Launch of new branding",
-          "Distribution of case studies",
-          "Implementation of ongoing support plan"
+          "Collateral templates delivered",
+          "Brand guidelines finalised"
+        ]
+      },
+      {
+        "phaseNumber": 4,
+        "phaseName": "Launch & Ongoing Support",
+        "duration": "Week 8 and onwards",
+        "description": "We’ll support your internal rollout and provide ongoing design support to keep your brand fresh and consistent.",
+        "milestones": [
+          "Brand launch support",
+          "First monthly support session"
         ]
       }
     ],
-    "timelineTotal": "8 weeks",
+    "timelineTotal": "8-10 weeks",
     "pricingTiers": [
       {
         "tierName": "Foundation",
-        "price": "$5,000",
-        "description": "Includes brand identity development and initial case study creation.",
+        "price": "£4,800",
+        "description": "Core brand strategy and identity essentials for smaller teams or those early in their growth journey.",
         "features": [
-          "Logo design",
-          "Color palette",
-          "Two case studies",
-          "Basic brand style guide"
+          "Brand strategy workshop",
+          "Logo and basic visual identity",
+          "Mini brand guidelines"
         ],
         "recommended": false
       },
       {
         "tierName": "Growth",
-        "price": "$9,500",
-        "description": "Comprehensive branding package that includes all aspects of brand identity development and ongoing support.",
+        "price": "£8,700",
+        "description": "Comprehensive brand identity, collateral, and templates, plus direct access to ongoing support. Ideal for ambitious teams ready to scale.",
         "features": [
-          "Logo design",
-          "Complete brand style guide",
-          "Two detailed case studies",
-          "Ongoing support for 6 months"
+          "Full brand strategy & positioning",
+          "Complete visual identity suite",
+          "Collateral and case study templates",
+          "First month of ongoing design support"
         ],
         "recommended": true
       },
       {
         "tierName": "Scale",
-        "price": "$15,000",
-        "description": "Full-service branding solution, including extensive market analysis and additional case studies.",
+        "price": "£13,500",
+        "description": "Everything in Growth, plus expanded collateral, in-person workshops, and three months of priority design support for larger teams or multi-location rollouts.",
         "features": [
-          "Logo design",
-          "Comprehensive brand style guide",
-          "Four detailed case studies",
-          "Ongoing support for 12 months"
+          "All Growth features",
+          "On-site workshops and training",
+          "Expanded marketing collateral set",
+          "Three months of design retainer",
+          "Quarterly brand audits"
         ],
         "recommended": false
       }
     ],
     "caseExamples": [
       {
-        "title": "Brand Transformation for GreenTech Innovations",
-        "context": "We helped a tech company specializing in renewable energy redefine their brand identity.",
-        "result": "Achieved a 40% increase in customer inquiries within three months of launching the new brand."
+        "title": "Appreciate Group’s Cultural Rebrand",
+        "context": "We partnered with Appreciate Group to support their transformation programme, embedding their new values and purpose across all visual communications.",
+        "result": "Created a suite of creative assets that became the visual shorthand for their culture, boosting internal engagement and external recognition."
       },
       {
-        "title": "Successful Case Study Campaign for PureAir",
-        "context": "Developed engaging case studies for a company focused on air purification systems.",
-        "result": "Increased online engagement by 60% and boosted sales by 25%."
+        "title": "BASF Wolman GmbH Promotional Suite",
+        "context": "BASF Wolman GmbH needed a cost-effective yet professional set of promotional materials for a global audience.",
+        "result": "Delivered a consistent, on-brand collateral package that enhanced their market presence and was delivered ahead of schedule."
       }
     ],
-    "ctaHeadline": "Let’s Craft a Sustainable Brand Together",
-    "ctaBody": "We believe that a well-defined brand can make a significant impact on your business. Let’s discuss how we can bring your vision to life.",
+    "ctaHeadline": "Let’s Build a Brand as Inspiring as Your Landscapes",
+    "ctaBody": "We’d love to help Green Horizons become the go-to name in sustainable landscape design. Let’s set up a call to discuss your vision and tailor the perfect package for your team.",
     "ctaButtonText": "Schedule a Call",
     "contactName": "Tom Mccrorie",
     "contactTitle": "Owner",
     "contactEmail": "tom@atomcreate.com",
-    "contactPhone": "+44 1234 567890"
+    "contactPhone": "+44 1292 475 956"
   },
   "enriched": {
-    "tone": "honest, straightforward, creative, passionate, approachable",
-    "positioning": "Atom positions itself as a personal, in-house creative director for businesses seeking authentic and strategic branding solutions.",
+    "tone": "honest, creative, pragmatic, approachable, passionate",
+    "positioning": "Atom positions itself as a small, highly-focused design studio led by an experienced creative director, offering strategic, authentic, and cost-effective branding and design solutions with a personal touch.",
     "serviceList": [
-      "Case Study Creation",
-      "Newsletter Management",
-      "Branding",
       "Brand Strategy",
       "Brand Identity",
+      "Logo Design",
+      "Brand Systems",
+      "Case Study Creation",
+      "Newsletter Management",
       "Illustration",
-      "Ongoing Support"
+      "Ongoing Support",
+      "Print Design",
+      "Web Design",
+      "Design Consultancy",
+      "Promotional Material Design",
+      "Marketing Collateral",
+      "Design Audit"
     ],
     "valuePropositions": [
-      "Direct collaboration with the owner for personalized service",
-      "Purpose-driven creativity tailored to client needs",
-      "Unique insights and strategies that stand out",
-      "Cost-effective design without compromising quality",
-      "Commitment to honesty and integrity throughout the design process"
+      "Direct collaboration with an experienced creative director throughout the project",
+      "Cost-effective, high-quality design without agency overhead",
+      "Purpose-driven, original, and lasting brand solutions",
+      "Honest, transparent communication and process",
+      "Human-centered creativity that stands out from AI-generated or template-based work"
     ],
     "differentiators": [
-      "No middlemen; clients work directly with the designer.",
-      "Focus on emotional connection and human touch in design.",
-      "Strategic and thoughtful approach to branding that avoids generic solutions."
+      "Direct access to and collaboration with the lead creative, not a faceless team",
+      "No agency fluff or unnecessary overhead—clients pay for expertise, not fancy offices",
+      "Emphasis on human creativity and emotional connection over AI or template solutions",
+      "Transparent, honest process with clear communication",
+      "Tailored, purpose-led design that is both strategic and creative"
     ]
   }
 }
