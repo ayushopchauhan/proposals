@@ -1,0 +1,207 @@
+{
+  "slug": "tg",
+  "companyName": "TG",
+  "contactName": "Sam",
+  "contactEmail": "sam.newton@tophamguerin.com",
+  "generationTime": 49,
+  "createdAt": "2026-02-24T18:14:48.570Z",
+  "brandStyle": {
+    "primaryColor": "#f44336",
+    "secondaryColor": "#7d55ff",
+    "accentColor": "#f44336",
+    "headingFont": "Inter",
+    "bodyFont": "Inter"
+  },
+  "proposal": {
+    "fictionalClientName": "Australian Clean Energy Association (ACEA)",
+    "fictionalClientIndustry": "Advocacy / Non-Profit (Energy Sector)",
+    "fictionalClientDescription": "ACEA is Australia’s leading coalition of clean energy providers, industry innovators, and environmental advocates. The association unites over 120 member organizations with a mission to accelerate the transition to renewable energy and shape public policy for a sustainable future.",
+    "coverHeadline": "Igniting a Digital Movement for Clean Energy in Australia",
+    "coverSubheadline": "A bold digital strategy to mobilize Australians and amplify ACEA’s influence",
+    "coverDate": "February 24, 2026",
+    "clientOverview": "The Australian Clean Energy Association (ACEA) stands at the forefront of the nation’s renewable energy movement, representing a dynamic alliance of industry leaders, innovators, and passionate advocates. With Australia’s energy conversation at a tipping point, ACEA’s voice is needed more than ever to drive legislative progress, foster public understanding, and mobilize grassroots support for a cleaner, greener future. \n\nACEA’s current focus is to champion the Clean Energy Now initiative—a nationwide campaign designed to influence public opinion, shape policy, and engage millions of Australians in meaningful action. However, achieving this ambitious vision requires more than advocacy—it demands a digital-first strategy that cuts through the noise, builds trust, and inspires real-world impact. \n\nYou have a compelling story and a critical mission. Now, it’s time to amplify your message and unite the nation under the banner of clean energy.",
+    "problemAnalysis": "Despite strong momentum within the clean energy sector, ACEA faces several critical challenges. Public perception is fragmented, with misinformation and political debate clouding the narrative around renewables. Competing voices—both for and against clean energy—are dominating digital channels, making it increasingly difficult for ACEA’s message to break through and resonate at scale. \n\nYour digital presence is currently spread across multiple platforms with inconsistent messaging and limited engagement. Existing web assets are not optimized for rapid mobilization or campaign agility, and paid media efforts have yet to unlock their full potential. Most importantly, the opportunity to build a vibrant, interactive community of supporters and industry stakeholders remains largely untapped. \n\nTo win hearts, minds, and policy battles, ACEA needs a bold digital campaign that drives measurable engagement, shapes public discourse, and positions the association as Australia’s undisputed clean energy authority.",
+    "opportunitySection": "This is a pivotal moment for ACEA to seize the digital stage and lead the national conversation on clean energy. By leveraging Topham Guerin’s proven expertise in high-stakes advocacy campaigns, we can transform your digital footprint into a powerhouse of influence—mobilizing supporters, engaging policymakers, and driving legislative outcomes. \n\nOur approach combines bold creative content, precision-targeted paid media, and a commanding web presence to maximize organic reach and spark nationwide participation. Through interactive storytelling, gamified engagement, and data-driven strategy, we’ll turn passive audiences into passionate advocates and policy influencers. \n\nTogether, we have the opportunity to not only shift public opinion but to ignite a movement—delivering real results for ACEA, your members, and the future of Australian energy.",
+    "recommendedServices": [
+      {
+        "name": "Digital Campaign Strategy & Channel Audit",
+        "description": "We’ll conduct a comprehensive audit of ACEA’s current digital presence and craft a robust, outcome-driven campaign strategy tailored for maximum impact. This includes identifying key audiences, mapping influence networks, and defining clear campaign objectives.",
+        "deliverables": [
+          "Digital channel audit & benchmark report",
+          "Audience segmentation & persona development",
+          "Campaign strategy blueprint",
+          "Key performance indicator (KPI) framework"
+        ]
+      },
+      {
+        "name": "Creative Content Production",
+        "description": "Our team will develop bold, shareable content designed to cut through the noise and inspire action. This includes video storytelling, interactive infographics, and social-first creative assets that make the clean energy movement impossible to ignore.",
+        "deliverables": [
+          "Video concepting & production (flagship campaign video + social clips)",
+          "Interactive infographic series",
+          "Visual asset library for web & social",
+          "Copywriting for campaign messaging"
+        ]
+      },
+      {
+        "name": "Paid Media Planning & Execution",
+        "description": "We’ll design and execute a digital media plan that maximizes reach and engagement across relevant platforms. Our approach ensures every dollar works harder, targeting key demographics and driving measurable results.",
+        "deliverables": [
+          "Paid media strategy & budget allocation",
+          "Cross-platform ad creative & copy",
+          "Ongoing media buying & optimization",
+          "Performance analysis & reporting"
+        ]
+      },
+      {
+        "name": "Website Redesign & Campaign Hub",
+        "description": "We’ll transform your website into a dynamic campaign hub—optimized for conversion, advocacy, and community-building. The new site will feature interactive tools, campaign updates, and easy pathways for users to take action.",
+        "deliverables": [
+          "UX/UI design for campaign landing pages",
+          "Development of advocacy & sign-up tools",
+          "Integration with CRM/email marketing",
+          "Analytics setup for real-time tracking"
+        ]
+      }
+    ],
+    "implementationPhases": [
+      {
+        "phaseNumber": 1,
+        "phaseName": "Discovery & Digital Audit",
+        "duration": "Weeks 1-2",
+        "description": "We kick off with a deep-dive discovery workshop and a full audit of ACEA’s current digital assets, audience touchpoints, and content performance.",
+        "milestones": [
+          "Discovery workshop completed",
+          "Digital audit & benchmark report delivered"
+        ]
+      },
+      {
+        "phaseNumber": 2,
+        "phaseName": "Strategy & Creative Development",
+        "duration": "Weeks 3-5",
+        "description": "Our strategists and creative team collaborate to develop the campaign blueprint, creative concepts, and content calendar—ensuring every asset is aligned for maximum impact.",
+        "milestones": [
+          "Campaign strategy & KPI framework signed off",
+          "Creative concepts approved"
+        ]
+      },
+      {
+        "phaseNumber": 3,
+        "phaseName": "Production & Platform Build",
+        "duration": "Weeks 6-8",
+        "description": "We produce all creative assets, build out the new website campaign hub, and prepare paid media campaigns for launch.",
+        "milestones": [
+          "Website redesign & campaign hub launched",
+          "Creative assets delivered"
+        ]
+      },
+      {
+        "phaseNumber": 4,
+        "phaseName": "Campaign Launch & Optimization",
+        "duration": "Weeks 9-12",
+        "description": "The campaign goes live across all channels. We monitor, optimize, and adapt in real-time, delivering weekly performance reports and actionable insights.",
+        "milestones": [
+          "Campaign launch",
+          "First performance report delivered"
+        ]
+      }
+    ],
+    "timelineTotal": "12 weeks",
+    "pricingTiers": [
+      {
+        "tierName": "Foundation",
+        "price": "$38,000",
+        "description": "Essential campaign strategy, creative content, and paid media management for a focused, high-impact launch.",
+        "features": [
+          "Digital channel audit & campaign strategy",
+          "Core video & social content production",
+          "Paid media planning (up to $10,000 ad spend)",
+          "Website campaign landing page"
+        ],
+        "recommended": false
+      },
+      {
+        "tierName": "Growth",
+        "price": "$69,000",
+        "description": "Comprehensive campaign execution, including expanded creative, multi-platform paid media, and a fully-featured campaign hub.",
+        "features": [
+          "All Foundation features",
+          "Flagship video & interactive infographics",
+          "Full website redesign & advocacy tools",
+          "Advanced media buying (up to $25,000 ad spend)",
+          "Weekly performance reporting"
+        ],
+        "recommended": true
+      },
+      {
+        "tierName": "Scale",
+        "price": "$120,000",
+        "description": "For organizations seeking maximum influence: nationwide campaign, influencer partnerships, custom gamified content, and always-on optimization.",
+        "features": [
+          "All Growth features",
+          "Nationwide influencer activation",
+          "Custom gamified campaign tools",
+          "24/7 monitoring & rapid response",
+          "Monthly strategic workshops"
+        ],
+        "recommended": false
+      }
+    ],
+    "caseExamples": [
+      {
+        "title": "New Zealand National Party: Election Win Through Digital Engagement",
+        "context": "We developed and executed a multi-platform digital campaign for the NZ National Party, utilizing interactive content and bold video storytelling.",
+        "result": "Achieved 17M+ TikTok video views, 60,000 new followers, and a successful election win."
+      },
+      {
+        "title": "Cure Our Ovarian Cancer: Global Awareness Campaign",
+        "context": "We brought global attention to ovarian cancer symptoms through a creative digital campaign for World Ovarian Cancer Day.",
+        "result": "Secured worldwide media coverage and drove record-breaking engagement across digital channels."
+      },
+      {
+        "title": "Lloyds Bank: Audience Growth via Social Activation",
+        "context": "We launched a photo competition to attract new audiences and increase engagement for Lloyds Bank.",
+        "result": "Delivered a measurable uptick in brand sentiment and user-generated content."
+      }
+    ],
+    "ctaHeadline": "Let’s Make Clean Energy the Heartbeat of Australia",
+    "ctaBody": "Ready to lead the conversation and ignite real change? Let’s build a digital movement that puts ACEA—and clean energy—front and centre. Reach out today and let’s set the plan in motion.",
+    "ctaButtonText": "Schedule a Strategy Session",
+    "contactName": "Sam Newton",
+    "contactTitle": "Managing Director",
+    "contactEmail": "sam.newton@tophamguerin.com",
+    "contactPhone": "+61 2 8005 1234"
+  },
+  "enriched": {
+    "tone": "bold, innovative, energetic, results-driven, confident",
+    "positioning": "Topham Guerin positions itself as a global influence agency that combines digital innovation and creativity to deliver impactful results for clients across politics, business, and social causes.",
+    "serviceList": [
+      "Web Design",
+      "Paid Advertising",
+      "Digital Strategy",
+      "Channel audits",
+      "Creative content concepting and production",
+      "Digital media planning, buying, analysis and reporting",
+      "Campaign strategy",
+      "Media distribution",
+      "[inferred] Social media strategy",
+      "[inferred] Content marketing",
+      "[inferred] Video production",
+      "[inferred] Reputation management"
+    ],
+    "valuePropositions": [
+      "Expertise in crafting digital campaigns that drive real-world influence and measurable results",
+      "Proven track record in high-stakes environments such as political campaigns and major brand initiatives",
+      "Innovative use of emerging platforms and interactive content to maximize organic reach and engagement",
+      "Global reach with local insights, operating across New York, London, Sydney, and Auckland",
+      "Bold, creative thinking that challenges conventional approaches and sets new benchmarks"
+    ],
+    "differentiators": [
+      "Unique blend of political campaign expertise and brand marketing know-how",
+      "Ability to drive massive organic reach without relying solely on paid advertising",
+      "Pioneers in using interactive and gamified content for audience engagement",
+      "Global presence with cross-market experience and insights",
+      "Results-first mindset prioritizing client outcomes over industry awards"
+    ]
+  }
+}
