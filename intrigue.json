@@ -1,0 +1,227 @@
+{
+  "slug": "intrigue",
+  "companyName": "Intrigue",
+  "contactName": "Robert",
+  "contactEmail": "robert@intrigueme.ca",
+  "generationTime": 56,
+  "createdAt": "2026-02-24T14:05:29.766Z",
+  "brandStyle": {
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#cccccc",
+    "accentColor": "#0099db",
+    "headingFont": "Roboto Slab",
+    "bodyFont": "Noto Sans"
+  },
+  "proposal": {
+    "fictionalClientName": "Green Horizon Landscapes",
+    "fictionalClientIndustry": "Landscaping Services",
+    "fictionalClientDescription": "Green Horizon Landscapes is a full-service landscape design, build, and maintenance company serving residential and commercial clients throughout the Greater Toronto Area. With a team of 35, they are known for exceptional craftsmanship, eco-friendly practices, and award-winning outdoor living spaces.",
+    "coverHeadline": "Growth-Driven Marketing Solutions for Green Horizon Landscapes",
+    "coverSubheadline": "Empowering Your Team to Reach New Heights in Lead Generation and Community Impact",
+    "coverDate": "February 24, 2026",
+    "clientOverview": "Green Horizon Landscapes has cultivated a strong reputation for excellence in the Greater Toronto Area over the past 18 years. Your team’s commitment to environmentally responsible landscaping and stunning outdoor transformations has positioned you as a leader in both residential and commercial markets. With a growing portfolio of high-end residential projects and a long-standing roster of commercial maintenance contracts, you are ready to take your business to the next level.\n\nYour leadership has identified two primary growth goals for 2024: (1) increase qualified residential design/build leads in targeted high-value neighbourhoods, and (2) expand your commercial maintenance division’s visibility among property managers and developers. In support of these goals, you are seeking a trusted marketing partner who understands the unique seasonality, local competition, and high-touch service expectations of the landscaping industry.",
+    "problemAnalysis": "Despite your history of client satisfaction and strong word-of-mouth referrals, Green Horizon Landscapes faces increasing competition from both established firms and new market entrants. Your current website is visually appealing but lacks the conversion optimization and local SEO focus needed to consistently attract qualified leads. Additionally, your digital marketing efforts have been fragmented—social media activity is sporadic, blog content is infrequent, and there is limited tracking of which channels are truly driving inquiries.\n\nYou have noticed a plateau in inbound leads, particularly for larger residential design/build projects. Your commercial division relies heavily on networking and personal relationships, but lacks a cohesive online presence that speaks directly to property managers and developers. Finally, your team is stretched thin managing multiple marketing vendors, resulting in inconsistent messaging and missed opportunities to nurture prospects throughout the year.",
+    "opportunitySection": "With an integrated, landscaping-specific marketing strategy, Green Horizon Landscapes can leverage your outstanding reputation to build a sustainable pipeline of high-value leads. By modernizing your web presence, implementing targeted local SEO, and launching consistent, educational content, you will stand out in a crowded market and drive more inquiries from your ideal clients.\n\nIntrigue Media’s industry expertise and proven track record with landscaping businesses across North America make us uniquely positioned to help you achieve your growth goals. Our transparent, data-driven approach ensures you always know where your marketing dollars are going—and which tactics are delivering results. Together, we can empower your team to focus on what you do best, while we handle the end-to-end marketing that drives business growth and strengthens your impact in the community.",
+    "recommendedServices": [
+      {
+        "name": "Website Revamp & Conversion Optimization",
+        "description": "We’ll redesign your website to showcase your portfolio, highlight your unique selling points, and drive more qualified leads through strategic calls to action and user experience improvements.",
+        "deliverables": [
+          "Custom website design and development",
+          "Conversion-focused landing pages for residential and commercial services",
+          "Mobile optimization and fast load times",
+          "Integrated lead capture forms"
+        ]
+      },
+      {
+        "name": "Local SEO & Google Business Profile Management",
+        "description": "Boost your visibility in high-value neighborhoods and commercial districts with robust local SEO, citation building, and ongoing management of your Google Business Profile.",
+        "deliverables": [
+          "Local keyword research and implementation",
+          "Google Business Profile optimization",
+          "Citation and directory management",
+          "Monthly performance reporting"
+        ]
+      },
+      {
+        "name": "Content Marketing & Blog Strategy",
+        "description": "Position your team as thought leaders with monthly blog posts, case studies, and educational resources that attract, inform, and nurture both residential and commercial prospects.",
+        "deliverables": [
+          "Editorial calendar and content planning",
+          "Monthly blog post creation",
+          "Quarterly case study development",
+          "Content distribution across social media and email"
+        ]
+      },
+      {
+        "name": "Social Media Management & Paid Advertising",
+        "description": "Expand your reach and drive targeted traffic with professionally managed social campaigns and strategic paid advertising on platforms most relevant to your audience.",
+        "deliverables": [
+          "Content creation and scheduling for Facebook, Instagram, and LinkedIn",
+          "Community engagement and comment moderation",
+          "Geo-targeted paid advertising campaigns",
+          "Monthly analytics and strategy sessions"
+        ]
+      },
+      {
+        "name": "Lead Tracking, Reporting & Ongoing Consulting",
+        "description": "Gain total visibility into what’s working, with transparent lead tracking, custom dashboards, and ongoing strategic support from our dedicated account managers.",
+        "deliverables": [
+          "CRM integration and conversion tracking setup",
+          "Custom reporting dashboard",
+          "Monthly performance reviews",
+          "Quarterly strategic planning sessions"
+        ]
+      }
+    ],
+    "implementationPhases": [
+      {
+        "phaseNumber": 1,
+        "phaseName": "Discovery & Strategy Alignment",
+        "duration": "Weeks 1-2",
+        "description": "We’ll conduct in-depth interviews with your leadership and sales teams, review existing marketing assets, and analyze your competitive landscape. Together, we’ll finalize KPIs and set clear success benchmarks.",
+        "milestones": [
+          "Stakeholder interviews completed",
+          "Marketing audit delivered",
+          "Strategic roadmap approved"
+        ]
+      },
+      {
+        "phaseNumber": 2,
+        "phaseName": "Website & SEO Foundation",
+        "duration": "Weeks 3-6",
+        "description": "Our team will design and develop your new website, implement local SEO best practices, and optimize your Google Business Profile for maximum visibility.",
+        "milestones": [
+          "Website wireframes and design approved",
+          "Website launched",
+          "Local SEO and Google Business Profile live"
+        ]
+      },
+      {
+        "phaseNumber": 3,
+        "phaseName": "Content & Campaign Launch",
+        "duration": "Weeks 7-10",
+        "description": "We’ll roll out your content marketing program, launch social campaigns, and begin targeted paid advertising. Tracking and reporting tools are set up for full visibility.",
+        "milestones": [
+          "First blog post and case study published",
+          "Social and paid campaigns live",
+          "Reporting dashboard delivered"
+        ]
+      },
+      {
+        "phaseNumber": 4,
+        "phaseName": "Ongoing Optimization & Support",
+        "duration": "Months 3+",
+        "description": "Our team provides continuous support, monthly reporting, and quarterly strategy reviews to ensure we’re meeting your growth goals and adjusting tactics as needed.",
+        "milestones": [
+          "Monthly performance reviews",
+          "Quarterly strategy sessions",
+          "Continuous campaign optimization"
+        ]
+      }
+    ],
+    "timelineTotal": "10 weeks for initial launch, ongoing support thereafter",
+    "pricingTiers": [
+      {
+        "tierName": "Foundation",
+        "price": "$8,500",
+        "description": "Best for landscaping businesses seeking a strong digital foundation and essential lead generation tools.",
+        "features": [
+          "Custom website redesign (up to 8 pages)",
+          "Basic local SEO setup",
+          "1 blog post per month",
+          "Google Business Profile management"
+        ],
+        "recommended": false
+      },
+      {
+        "tierName": "Growth",
+        "price": "$16,500",
+        "description": "Ideal for teams ready to accelerate lead generation with multi-channel marketing, robust content, and advanced reporting.",
+        "features": [
+          "All Foundation features",
+          "Advanced local SEO & citation management",
+          "2 blog posts and 1 case study per month",
+          "Full social media management (3 platforms)",
+          "Lead tracking and custom dashboards"
+        ],
+        "recommended": true
+      },
+      {
+        "tierName": "Scale",
+        "price": "$28,000",
+        "description": "For ambitious firms seeking market leadership, brand authority, and ongoing strategic partnership.",
+        "features": [
+          "All Growth features",
+          "Quarterly video case studies and podcast production",
+          "Expanded paid advertising (Google, Facebook, LinkedIn)",
+          "Quarterly in-person strategy workshops",
+          "Dedicated marketing consultant"
+        ],
+        "recommended": false
+      }
+    ],
+    "caseExamples": [
+      {
+        "title": "Sun Valley Landscaping: Website & SEO Overhaul",
+        "context": "Sun Valley partnered with us to modernize their digital presence and attract more residential design/build leads.",
+        "result": "2,500% increase in site traffic and a 2,000% jump in organic search leads within 12 months."
+      },
+      {
+        "title": "Gelderman Landscape Services: Multi-Channel Growth",
+        "context": "We developed a multi-channel strategy for Gelderman, combining web, content, and social to support new client acquisition.",
+        "result": "Doubled their residential division and achieved hundreds of new qualified leads in the first year."
+      },
+      {
+        "title": "Custom Outdoor Kitchen Concepts: Content-Driven Expansion",
+        "context": "A boutique outdoor living specialist looking to grow market share through educational content and targeted advertising.",
+        "result": "Achieved 70% year-over-year business growth and expanded into new neighbourhoods."
+      }
+    ],
+    "ctaHeadline": "Ready to Grow Your Legacy?",
+    "ctaBody": "Let’s build a marketing partnership that delivers measurable growth and strengthens your impact in the community. We’re excited to help Green Horizon Landscapes lead the way.",
+    "ctaButtonText": "Schedule Your Discovery Call",
+    "contactName": "Robert Murray",
+    "contactTitle": "CEO & Co-founder",
+    "contactEmail": "robert@intrigueme.ca",
+    "contactPhone": "+1 (519) 590-5790"
+  },
+  "enriched": {
+    "tone": "supportive, transparent, knowledgeable, results-driven, approachable",
+    "positioning": "Intrigue Media positions itself as a purpose-driven digital marketing agency specializing in helping landscaping businesses across North America grow through tailored, transparent, and industry-specific marketing solutions.",
+    "serviceList": [
+      "Web Development",
+      "SEO",
+      "Local SEO",
+      "Content Marketing",
+      "Blog Content",
+      "Podcast Production",
+      "Case Study Creation",
+      "Social Media Management",
+      "Newsletter Management",
+      "Marketing Consulting",
+      "CRM Integration",
+      "Lead Generation",
+      "Reporting & Dashboards",
+      "Tracking & Attribution",
+      "Ongoing Support",
+      "Online Advertising",
+      "Leadership Consulting",
+      "Conversion Tracking"
+    ],
+    "valuePropositions": [
+      "Industry-specific marketing strategies tailored for landscapers",
+      "Transparent, data-driven reporting and clear communication",
+      "Proven track record of delivering qualified leads and measurable growth",
+      "Dedicated account management and ongoing support",
+      "Purpose-driven approach focused on empowering leaders and strengthening communities"
+    ],
+    "differentiators": [
+      "Exclusive focus on the landscaping industry with deep expertise",
+      "Certified B Corporation status reflecting commitment to social and environmental impact",
+      "Purpose-driven mission to empower leaders and strengthen communities",
+      "Transparent, line-item billing and a 'do what we say or you don’t pay' guarantee",
+      "Proprietary Landscape CRM built specifically for landscapers"
+    ]
+  }
+}
