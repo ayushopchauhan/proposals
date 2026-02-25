@@ -1,0 +1,213 @@
+{
+  "slug": "ld2",
+  "companyName": "LD2",
+  "contactName": "Niall",
+  "contactEmail": "niall@ld2.com",
+  "generationTime": 63,
+  "createdAt": "2026-02-25T14:02:45.671Z",
+  "brandStyle": {
+    "primaryColor": "#ff6900",
+    "secondaryColor": "#cf2e2e",
+    "accentColor": "#fcb900",
+    "headingFont": "Inter",
+    "bodyFont": "Inter"
+  },
+  "proposal": {
+    "fictionalClientName": "Heritage Craft Collective",
+    "fictionalClientIndustry": "Artisan Retail & E-Commerce",
+    "fictionalClientDescription": "Heritage Craft Collective is a UK-based retailer championing traditional British crafts, offering curated artisan goods both online and through their flagship London store. Their growing digital presence is central to their mission to connect modern consumers with time-honoured craftsmanship.",
+    "coverHeadline": "Elevating Heritage Craft Collective: A Modern Identity for Timeless Craft",
+    "coverSubheadline": "A practical partnership to build your brand and digital presence",
+    "coverDate": "February 25, 2026",
+    "clientOverview": "Heritage Craft Collective is at a pivotal stage in its journey. Having established a respected name in the artisan retail sector, you have successfully launched a flagship location in Shoreditch and built a loyal following among craft enthusiasts. Your curated selection of handmade ceramics, textiles, and woodwork has resonated with a discerning audience seeking authenticity and quality.\n\nHowever, as your customer base expands beyond your physical store, your current digital brand and e-commerce platform are struggling to keep pace. You have ambitions to become the leading online destination for British craft, but your existing identity and online experience do not fully communicate your values or showcase your products’ unique stories. You have identified the need for a cohesive brand refresh, improved digital storytelling, and a robust e-commerce solution to support your next phase of growth.",
+    "problemAnalysis": "Your current brand identity, developed in-house several years ago, lacks the clarity and flexibility needed to stand out in a competitive market. The visual language is inconsistent across digital and print touchpoints, making it harder to communicate your values of authenticity, sustainability, and craftsmanship. This inconsistency risks diluting your message as you reach new audiences through digital channels and national press partnerships.\n\nOn the e-commerce front, your website is not optimised for mobile users and does not provide a seamless shopping experience. Product stories and artisan profiles, which are central to your brand, are difficult to access and do not translate into compelling calls to action. As a result, online conversion rates remain below industry benchmarks, and repeat purchases are limited by a lack of engaging content and community features. Without a unified brand and digital strategy, you risk missing out on the growing market for premium, story-driven retail experiences.",
+    "opportunitySection": "There is a clear opportunity to position Heritage Craft Collective as the authority in British craft retail, both online and offline. By developing a distinctive brand identity and a user-focused digital platform, you will not only attract new customers but also deepen engagement with your existing community. A refreshed visual identity and cohesive messaging will support your PR and partnership efforts, while an improved e-commerce experience will drive sales and loyalty.\n\nOur approach is grounded in practical, collaborative design. We will work closely with your leadership and in-store teams to capture the spirit of your collective and translate it into every customer interaction, from packaging to digital campaigns. By integrating compelling storytelling, illustration, and seamless e-commerce functionality, we will help you build a brand that empowers your artisans and inspires your customers.",
+    "recommendedServices": [
+      {
+        "name": "Brand Identity & Visual Refresh",
+        "description": "We will create a cohesive, flexible visual identity that reflects your mission and appeals to both your core audience and new customers. This includes logo refinement, colour palette, typography, and a comprehensive set of brand guidelines.",
+        "deliverables": [
+          "Refined logo and visual identity suite",
+          "Brand guidelines document",
+          "Application examples for print and digital",
+          "Packaging and collateral mockups"
+        ]
+      },
+      {
+        "name": "E-Commerce Website Redesign",
+        "description": "We will design and build a responsive, user-friendly website with integrated e-commerce functionality, prioritising product storytelling and conversion. The site will be optimised for mobile, SEO, and customer retention.",
+        "deliverables": [
+          "UX and UI design for key pages",
+          "Fully responsive e-commerce build",
+          "Product and artisan story templates",
+          "Integrated blog and community features",
+          "SEO and analytics setup"
+        ]
+      },
+      {
+        "name": "Copywriting & Content Strategy",
+        "description": "Our team will develop clear, engaging copy for your website, product pages, and marketing materials, ensuring a consistent tone of voice that inspires trust and drives action.",
+        "deliverables": [
+          "Website and product copy",
+          "Brand story and messaging framework",
+          "Artisan profiles and feature content",
+          "Editorial calendar for blog and email"
+        ]
+      },
+      {
+        "name": "Illustration & Visual Storytelling",
+        "description": "We will create bespoke illustrations and visual assets to bring your brand and products to life across digital and print platforms, reinforcing your unique story.",
+        "deliverables": [
+          "Custom illustrations for website and packaging",
+          "Visual assets for social and email campaigns",
+          "Store signage concepts",
+          "Asset library for future use"
+        ]
+      }
+    ],
+    "implementationPhases": [
+      {
+        "phaseNumber": 1,
+        "phaseName": "Discovery & Strategy",
+        "duration": "Weeks 1-2",
+        "description": "We begin with in-depth workshops to clarify your goals, audience, and brand values. We audit current assets and map out the customer journey across all touchpoints.",
+        "milestones": [
+          "Stakeholder workshops completed",
+          "Brand audit and competitor analysis delivered"
+        ]
+      },
+      {
+        "phaseNumber": 2,
+        "phaseName": "Brand Identity Design",
+        "duration": "Weeks 3-5",
+        "description": "We develop and refine your visual identity, including logo, colour palette, and typography, iterating closely with your team for feedback.",
+        "milestones": [
+          "Initial visual identity concepts presented",
+          "Final brand guidelines approved"
+        ]
+      },
+      {
+        "phaseNumber": 3,
+        "phaseName": "Website & Content Development",
+        "duration": "Weeks 6-10",
+        "description": "We design and build the new e-commerce platform, create compelling copy and illustrations, and prepare your content for launch.",
+        "milestones": [
+          "Website wireframes and UI approved",
+          "Content and illustration assets delivered",
+          "Beta site ready for review"
+        ]
+      },
+      {
+        "phaseNumber": 4,
+        "phaseName": "Launch & Support",
+        "duration": "Weeks 11-12",
+        "description": "We launch the new brand and website, provide training for your in-house team, and monitor performance closely to ensure a smooth transition.",
+        "milestones": [
+          "Website and brand assets live",
+          "Team training session completed",
+          "Post-launch review and optimisation"
+        ]
+      }
+    ],
+    "timelineTotal": "12 weeks",
+    "pricingTiers": [
+      {
+        "tierName": "Foundation",
+        "price": "£13,500",
+        "description": "Essential brand and digital refresh for ambitious artisan retailers.",
+        "features": [
+          "Logo and brand identity refresh",
+          "One-page e-commerce site design and build",
+          "Core product and brand copywriting"
+        ],
+        "recommended": false
+      },
+      {
+        "tierName": "Growth",
+        "price": "£21,000",
+        "description": "Comprehensive rebrand and e-commerce solution with enhanced storytelling.",
+        "features": [
+          "Full brand identity suite and guidelines",
+          "Multi-page e-commerce website with blog",
+          "Artisan profiles and product storytelling",
+          "Custom illustration assets"
+        ],
+        "recommended": true
+      },
+      {
+        "tierName": "Scale",
+        "price": "£32,000",
+        "description": "Complete brand transformation, advanced digital features, and ongoing support.",
+        "features": [
+          "All Growth tier features",
+          "Community features and loyalty integration",
+          "In-depth content strategy and editorial calendar",
+          "Advanced analytics and SEO setup",
+          "3 months’ post-launch support"
+        ],
+        "recommended": false
+      }
+    ],
+    "caseExamples": [
+      {
+        "title": "McKeever Sports: Brand and Digital Growth",
+        "context": "We partnered with McKeever Sports to refresh their brand identity and develop a new e-commerce platform for their growing online presence.",
+        "result": "Achieved a 42% increase in online sales and a 29% boost in repeat customer rate within six months."
+      },
+      {
+        "title": "GAA NOW: Digital Brand Launch",
+        "context": "We created a digital-first brand for GAA NOW, complementing their established presence in Irish sport.",
+        "result": "Drove 60,000+ new digital subscribers in the first year post-launch."
+      }
+    ],
+    "ctaHeadline": "Let’s Build the Next Chapter of Heritage Craft Collective",
+    "ctaBody": "We’re ready to help you create a brand and digital experience that does justice to your artisans and inspires your customers. Let’s start a conversation about your ambitions and how we can help you achieve them.",
+    "ctaButtonText": "Schedule a Consultation",
+    "contactName": "Niall Laird",
+    "contactTitle": "Managing Director",
+    "contactEmail": "niall@ld2.com",
+    "contactPhone": "+44 20 7123 4567"
+  },
+  "enriched": {
+    "tone": "practical, collaborative, direct, empowering, personable",
+    "positioning": "LD2 positions itself as a flexible, relationship-driven creative agency that partners with ambitious brands to deliver practical, problem-solving design across digital and traditional channels.",
+    "serviceList": [
+      "E-Commerce",
+      "Copywriting",
+      "Branding",
+      "Brand Identity",
+      "Illustration",
+      "Graphic Design",
+      "Design Strategy",
+      "Responsive Web Design",
+      "Social Media Management",
+      "Digital Marketing",
+      "Content Management Systems",
+      "Digital Campaigns",
+      "Advertising",
+      "Print Management",
+      "Creative Consulting",
+      "Promotional Materials",
+      "Marketing Strategy",
+      "Event Branding",
+      "Project Management",
+      "Visual Storytelling",
+      "Video Content",
+      "Collateral Design"
+    ],
+    "valuePropositions": [
+      "Long-term client relationships built on partnership, not transactions",
+      "Direct access to creative leads with no middlemen",
+      "Flexible, jargon-free, and practical approach to design and strategy",
+      "25 years of experience adapting to changing trends and technologies",
+      "Focus on empowering clients to achieve their ambitions"
+    ],
+    "differentiators": [
+      "Relationship-driven approach with many clients retained over a decade",
+      "Direct collaboration with creative leads, eliminating unnecessary layers",
+      "No-nonsense, flexible process tailored to client needs",
+      "Emphasis on partnership over traditional client/vendor dynamics",
+      "Proven track record across diverse sectors and project types"
+    ]
+  }
+}
