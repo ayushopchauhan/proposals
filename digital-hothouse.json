@@ -1,0 +1,195 @@
+{
+  "slug": "digital-hothouse",
+  "companyName": "Digital Hothouse",
+  "contactName": "Paul",
+  "contactEmail": "paul@digitalhothouse.co.nz",
+  "generationTime": 69,
+  "createdAt": "2026-02-25T15:38:16.675Z",
+  "brandStyle": {
+    "primaryColor": "#e60574",
+    "secondaryColor": "#eae2ff",
+    "accentColor": "#b9beff",
+    "headingFont": "Inter",
+    "bodyFont": "slick"
+  },
+  "proposal": {
+    "fictionalClientName": "StyleMakers Online Ltd",
+    "fictionalClientIndustry": "E-commerce Fashion Retail",
+    "fictionalClientDescription": "StyleMakers Online Ltd is a UK-based, fast-growing e-commerce retailer specialising in sustainable, trend-driven fashion for women aged 18-35. They have established a loyal customer base through social media and influencer collaborations and are now looking to drive greater online visibility and conversion to support their next stage of growth.",
+    "coverHeadline": "Unlocking Sustainable Growth for StyleMakers Online",
+    "coverSubheadline": "A Bespoke Digital Strategy to Boost Your Brand, Traffic, and Sales",
+    "coverDate": "February 25, 2026",
+    "clientOverview": "StyleMakers Online Ltd has rapidly carved out a niche in the competitive UK fashion e-commerce sector by championing sustainability, ethical sourcing, and on-trend designs. With a Shopify-powered website, an engaged Instagram following, and a growing catalogue of influencer partnerships, your brand is well-placed to capture even more market share among digitally-savvy, eco-conscious shoppers. \n\nAs you prepare to scale, your focus is shifting from organic growth to strategic, sustainable expansion. You’ve identified the need to amplify your online presence, streamline your customer journey, and maximise the impact of every marketing pound. StyleMakers Online’s leadership is clear: future growth depends on measurable increases in qualified site traffic, higher conversion rates, and building a reputation as a go-to destination for sustainable fashion.",
+    "problemAnalysis": "Despite your early success, StyleMakers Online faces several challenges typical of ambitious e-commerce brands. Your organic search visibility is not yet matching your competitors, particularly for high-intent keywords like 'sustainable dresses UK' and 'eco-friendly fashion online.' While your Instagram engagement is strong, it’s not consistently translating into website visits or sales, suggesting a gap between social and site experience.\n\nAdditionally, your current Google Ads campaigns are delivering some results, but cost-per-acquisition is higher than industry benchmarks, and you’re not seeing the full benefit of remarketing or shopping ads. On the technical front, your Shopify site has grown quickly, but there are signs of missed SEO opportunities: slow-loading category pages, thin product descriptions, and a lack of structured content. These factors are limiting your ability to capitalise on growing consumer demand for sustainable fashion.",
+    "opportunitySection": "With a focused, joined-up digital strategy, StyleMakers Online can outpace larger competitors and become the top-of-mind choice for eco-conscious shoppers. By enhancing your SEO foundations, improving your paid media efficiency, and integrating content marketing with social campaigns, there is significant scope to increase both site traffic and conversion rates. \n\nOur approach is all about practical, measurable gains. We’ll work closely with you to prioritise the highest-impact opportunities—whether that’s optimising your Shopify store for search, refining your Google Ads targeting, or developing authoritative, shareable content that positions you as a leader in sustainable fashion. \n\nUltimately, our goal is simple: to help StyleMakers Online achieve sustainable, profitable growth without locking you into restrictive contracts or generic strategies. We’ll deliver transparent reporting, actionable insights, and ongoing optimisation to ensure every channel supports your wider business ambitions.",
+    "recommendedServices": [
+      {
+        "name": "SEO & Technical Optimisation",
+        "description": "We will audit and optimise your Shopify site to improve organic visibility, focusing on both on-page enhancements and technical SEO fixes. This will help you rank higher for key product and category terms, driving more qualified traffic.",
+        "deliverables": [
+          "Comprehensive SEO audit and prioritised action plan",
+          "On-page optimisation of core product and category pages",
+          "Technical fixes (site speed, structured data, mobile usability)",
+          "Keyword research tailored to sustainable fashion",
+          "Monthly performance reporting"
+        ]
+      },
+      {
+        "name": "Google Ads Management & Optimisation",
+        "description": "Our team will restructure and manage your Google Ads account to reduce acquisition costs and increase ROI, focusing on high-intent search, shopping, and remarketing campaigns.",
+        "deliverables": [
+          "Account audit and campaign rebuild",
+          "Targeted Search and Shopping ad campaigns",
+          "Remarketing setup and creative refresh",
+          "Ongoing bid and budget optimisation",
+          "Transparent monthly reporting"
+        ]
+      },
+      {
+        "name": "Content Marketing & Social Integration",
+        "description": "We’ll develop and execute a content calendar designed to educate, inspire, and convert—bridging the gap between your social channels and website, and building authority around your sustainability mission.",
+        "deliverables": [
+          "Monthly blog content and case studies",
+          "Shareable guides and lookbooks",
+          "Influencer collaboration strategy",
+          "Social-to-site content integration",
+          "Performance tracking and reporting"
+        ]
+      }
+    ],
+    "implementationPhases": [
+      {
+        "phaseNumber": 1,
+        "phaseName": "Discovery & Strategy Alignment",
+        "duration": "Weeks 1-2",
+        "description": "We’ll kick off with a strategy workshop to align on your business goals, review analytics, and prioritise quick wins. This phase includes a thorough audit of your website, SEO, and paid media accounts.",
+        "milestones": [
+          "Strategy alignment workshop",
+          "SEO & PPC audits delivered"
+        ]
+      },
+      {
+        "phaseNumber": 2,
+        "phaseName": "Foundational Optimisation",
+        "duration": "Weeks 3-6",
+        "description": "We’ll implement priority SEO fixes, rebuild your Google Ads campaigns, and roll out the first wave of optimised content. Technical improvements and tracking enhancements will be completed.",
+        "milestones": [
+          "Technical SEO improvements live",
+          "Rebuilt Google Ads campaigns launched",
+          "First blog and content assets published"
+        ]
+      },
+      {
+        "phaseNumber": 3,
+        "phaseName": "Growth & Continuous Optimisation",
+        "duration": "Weeks 7-12",
+        "description": "We’ll focus on scaling your campaigns, expanding content production, and ongoing optimisation. Reporting and review sessions will ensure you have full transparency and input at every stage.",
+        "milestones": [
+          "Monthly reporting delivered",
+          "Content calendar in motion",
+          "Quarterly strategy review"
+        ]
+      }
+    ],
+    "timelineTotal": "12 weeks",
+    "pricingTiers": [
+      {
+        "tierName": "Foundation",
+        "price": "£3,500",
+        "description": "Best for brands looking to address core SEO and paid media basics with a targeted approach.",
+        "features": [
+          "SEO audit and 10 page optimisations",
+          "Google Ads account audit and restructure",
+          "2 blog posts per month",
+          "Monthly reporting"
+        ],
+        "recommended": false
+      },
+      {
+        "tierName": "Growth",
+        "price": "£6,500",
+        "description": "Our most popular plan, combining advanced SEO, full Google Ads management, and integrated content marketing.",
+        "features": [
+          "Full SEO and technical optimisation",
+          "Google Ads management (Search, Shopping, Remarketing)",
+          "4 blog posts or guides per month",
+          "Influencer collaboration strategy",
+          "Bi-weekly reporting & strategy calls"
+        ],
+        "recommended": true
+      },
+      {
+        "tierName": "Scale",
+        "price": "£11,000",
+        "description": "For ambitious brands ready to accelerate growth with comprehensive digital strategy, content, and ongoing optimisation.",
+        "features": [
+          "All Growth features plus:",
+          "Advanced content (lookbooks, case studies, video scripts)",
+          "Social media management",
+          "Conversion rate optimisation",
+          "Weekly reporting & strategy sessions"
+        ],
+        "recommended": false
+      }
+    ],
+    "caseExamples": [
+      {
+        "title": "Driving Organic Revenue for EcoWear UK",
+        "context": "EcoWear UK, a sustainable apparel brand, needed to improve their search rankings and reduce reliance on paid ads.",
+        "result": "Increased organic traffic by 68% and online revenue by 42% within 6 months."
+      },
+      {
+        "title": "Reducing CPA for LuxeLinen",
+        "context": "LuxeLinen’s Google Ads campaigns were underperforming, with high acquisition costs and low conversion rates.",
+        "result": "Reduced cost-per-acquisition by 37% and doubled Google Ads ROI in 4 months."
+      }
+    ],
+    "ctaHeadline": "Ready to Take StyleMakers Online to the Next Level?",
+    "ctaBody": "Let’s work together to build a smarter, more profitable digital presence for your brand. We’d love to discuss your goals and map out the best path forward—on your terms.",
+    "ctaButtonText": "Book Your Strategy Call",
+    "contactName": "Paul Thornton",
+    "contactTitle": "Managing Director",
+    "contactEmail": "paul@digitalhothouse.co.nz",
+    "contactPhone": "+44 20 3286 6275"
+  },
+  "enriched": {
+    "tone": "straightforward, client-focused, transparent, knowledgeable, approachable",
+    "positioning": "Digital Hothouse positions itself as a client-first digital agency delivering bespoke, results-driven online marketing strategies without restrictive contracts.",
+    "serviceList": [
+      "Shopify Development",
+      "WordPress Development",
+      "SEO",
+      "Technical SEO",
+      "Local SEO",
+      "Keyword Research",
+      "Google Ads Management",
+      "Content Marketing",
+      "Content Creation",
+      "Blog Content",
+      "Case Study Creation",
+      "Social Media Management",
+      "Marketing Strategy",
+      "Digital Strategy",
+      "Website Maintenance",
+      "SEO Auditing",
+      "AI Optimisation",
+      "Link Outreach & Prospecting",
+      "Website Migration Strategy",
+      "Design & Development"
+    ],
+    "valuePropositions": [
+      "Client-first, bespoke approach with no lengthy contracts",
+      "Full suite of digital marketing services under one roof",
+      "Expertise in both traditional and AI-driven SEO strategies",
+      "Transparent, actionable insights and reporting",
+      "Focus on delivering genuine, measurable results"
+    ],
+    "differentiators": [
+      "No restrictive or lengthy contracts; clients have freedom and flexibility",
+      "Combination of traditional SEO and cutting-edge AI optimisation",
+      "Highly personalized service with close client collaboration",
+      "Transparent pricing and reporting with no high margins",
+      "Rebuilding industry trust by focusing on genuine results and relationships"
+    ]
+  }
+}
