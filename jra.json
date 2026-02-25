@@ -1,0 +1,239 @@
+{
+  "slug": "jra",
+  "companyName": "JRA",
+  "contactName": "Neil",
+  "contactEmail": "neil@jamesrossadvertising.com",
+  "generationTime": 43,
+  "createdAt": "2026-02-25T16:27:13.211Z",
+  "brandStyle": {
+    "primaryColor": "#112337",
+    "secondaryColor": "#ffffff",
+    "accentColor": "#f5f5f5",
+    "headingFont": "Inter",
+    "bodyFont": "Inter"
+  },
+  "proposal": {
+    "fictionalClientName": "BlueWave Marine Group",
+    "fictionalClientIndustry": "Marine & Yachting",
+    "fictionalClientDescription": "BlueWave Marine Group is a Florida-based luxury yacht brokerage specializing in new and pre-owned vessels from leading international brands. With a 20-year legacy, they serve an elite clientele seeking tailored experiences and world-class service.",
+    "coverHeadline": "Elevate Your Brand. Command the Market.",
+    "coverSubheadline": "A bold, integrated strategy to position BlueWave Marine Group as Florida’s premier luxury yacht brokerage.",
+    "coverDate": "February 25, 2026",
+    "clientOverview": "BlueWave Marine Group has established itself as a trusted name in luxury yacht brokerage, representing premium brands and catering to discerning clients across the southeastern United States. Your team’s expertise, deep industry relationships, and commitment to white-glove service have fueled steady growth, even in a competitive market. \n\nAs digital behaviors evolve and the marine industry embraces new technologies, you recognize the need to modernize your brand presence and marketing approach. Your vision is clear: to transform BlueWave into the region’s most sought-after brokerage for both buyers and sellers, amplifying your reach, reputation, and sales pipeline.",
+    "problemAnalysis": "Despite your stellar reputation and loyal client base, BlueWave faces several key challenges. Your current website does not reflect the caliber of your inventory or the sophistication of your service, resulting in missed opportunities with high-net-worth prospects. Organic search visibility is limited, and digital lead generation relies heavily on outdated tactics, creating a gap between your offline reputation and your online presence.\n\nAdditionally, your brand identity—while respected among industry insiders—lacks the clarity and polish needed to differentiate BlueWave from aggressive national competitors. This has made it more difficult to attract new listings, engage younger buyers, and position your team as thought leaders in the luxury marine space.",
+    "opportunitySection": "This is a pivotal moment for BlueWave Marine Group. By investing in a comprehensive brand and digital transformation, you have the opportunity to redefine your market position and accelerate growth. A revitalized web presence and targeted marketing campaigns will not only capture more qualified leads but also reinforce your status as a trusted advisor to both buyers and sellers.\n\nOur approach integrates bold creative, strategic messaging, and data-driven marketing to deliver measurable results. By aligning every touchpoint—from your website and digital ads to your brand narrative and content strategy—we’ll help you command attention, drive engagement, and convert more high-value opportunities.",
+    "recommendedServices": [
+      {
+        "name": "Brand Identity Refresh",
+        "description": "We will revitalize your brand identity to reflect BlueWave’s premium positioning, including logo, color palette, and messaging platform. This will ensure instant recognition and consistency across all channels.",
+        "deliverables": [
+          "New visual identity (logo, color system, typography)",
+          "Brand messaging platform and tone-of-voice guidelines",
+          "Comprehensive brand style guide"
+        ]
+      },
+      {
+        "name": "Luxury Website Redesign & Development",
+        "description": "A visually stunning, conversion-optimized website that showcases your inventory, expertise, and unique value proposition. Built for both performance and elegance, with seamless mobile experience.",
+        "deliverables": [
+          "Custom website design tailored for luxury brokerage",
+          "Advanced yacht listings with dynamic search/filter",
+          "Lead capture forms and CRM integration",
+          "Professional photography and video integration"
+        ]
+      },
+      {
+        "name": "Search Engine Optimization (SEO) & Paid Media",
+        "description": "A comprehensive SEO and paid media strategy to drive qualified traffic, improve search rankings, and generate high-value leads. Includes ongoing campaign management and reporting.",
+        "deliverables": [
+          "Keyword research and on-page SEO optimization",
+          "Google Ads and retargeting campaign setup",
+          "Monthly performance analytics and reporting"
+        ]
+      },
+      {
+        "name": "Content Creation & Thought Leadership",
+        "description": "Strategic content that positions your team as industry leaders and trusted advisors, including blog articles, video spotlights, and social media assets.",
+        "deliverables": [
+          "Monthly editorial calendar",
+          "Three long-form articles per month",
+          "Quarterly video production (interviews, yacht tours)",
+          "Social media content packages"
+        ]
+      }
+    ],
+    "implementationPhases": [
+      {
+        "phaseNumber": 1,
+        "phaseName": "Discovery & Strategy",
+        "duration": "Weeks 1-2",
+        "description": "We conduct in-depth stakeholder interviews, competitor analysis, and audience research to inform our strategy, creative direction, and KPIs.",
+        "milestones": [
+          "Kickoff meeting",
+          "Stakeholder interviews",
+          "Strategy presentation"
+        ]
+      },
+      {
+        "phaseNumber": 2,
+        "phaseName": "Brand Identity & Messaging",
+        "duration": "Weeks 3-4",
+        "description": "Our creative team develops your new brand identity and messaging platform, with collaborative feedback rounds.",
+        "milestones": [
+          "Brand concept presentation",
+          "Finalized brand style guide"
+        ]
+      },
+      {
+        "phaseNumber": 3,
+        "phaseName": "Website Design & Development",
+        "duration": "Weeks 5-9",
+        "description": "We design and build your new website, integrating advanced yacht listings, lead capture, and CRM. Includes photography and video production.",
+        "milestones": [
+          "Design approval",
+          "Website build",
+          "Content integration",
+          "User testing"
+        ]
+      },
+      {
+        "phaseNumber": 4,
+        "phaseName": "SEO & Paid Media Launch",
+        "duration": "Weeks 8-10",
+        "description": "We implement on-page SEO, launch paid media campaigns, and begin ongoing analytics and optimization.",
+        "milestones": [
+          "SEO audit and optimization",
+          "Paid media campaigns live",
+          "First analytics dashboard"
+        ]
+      },
+      {
+        "phaseNumber": 5,
+        "phaseName": "Content & Thought Leadership Activation",
+        "duration": "Weeks 10-12 (and ongoing)",
+        "description": "We execute the editorial calendar, publish thought leadership content, and maintain ongoing campaign management and reporting.",
+        "milestones": [
+          "First content drop",
+          "Quarterly video published",
+          "Monthly performance review"
+        ]
+      }
+    ],
+    "timelineTotal": "12 weeks (with ongoing support and optimization options)",
+    "pricingTiers": [
+      {
+        "tierName": "Foundation",
+        "price": "$38,000",
+        "description": "Core brand and website transformation for immediate impact.",
+        "features": [
+          "Brand identity refresh",
+          "Custom website design and development (up to 12 pages)",
+          "Basic on-page SEO"
+        ],
+        "recommended": false
+      },
+      {
+        "tierName": "Growth",
+        "price": "$62,000",
+        "description": "Comprehensive digital transformation with ongoing optimization.",
+        "features": [
+          "All Foundation features",
+          "Advanced website functionality (dynamic yacht listings, CRM integration)",
+          "Full SEO strategy and Google Ads setup",
+          "Monthly analytics and reporting",
+          "Quarterly content creation package"
+        ],
+        "recommended": true
+      },
+      {
+        "tierName": "Scale",
+        "price": "$95,000",
+        "description": "Full-service brand and marketing partnership for market leadership.",
+        "features": [
+          "All Growth features",
+          "Ongoing paid media and retargeting management",
+          "Monthly video production and premium content",
+          "Expanded website (up to 25 pages, multi-language support)",
+          "Dedicated account manager and strategic consulting"
+        ],
+        "recommended": false
+      }
+    ],
+    "caseExamples": [
+      {
+        "title": "Virgin Voyages Brand Launch",
+        "context": "Developed and executed a full brand identity and launch campaign for a new cruise line targeting millennial travelers.",
+        "result": "Drove 40,000+ qualified leads in the first 90 days and established Virgin Voyages as a category innovator."
+      },
+      {
+        "title": "Italian Yacht Group Website & Digital Campaign",
+        "context": "Redesigned the website and managed digital marketing for a luxury yacht retailer seeking U.S. market growth.",
+        "result": "Increased organic traffic by 185% and generated $12M in new listings within 6 months."
+      },
+      {
+        "title": "Private Equity Client Collateral Refresh",
+        "context": "Overhauled brand collateral and web presence for a national investment firm.",
+        "result": "Enhanced investor engagement and secured ongoing partnership, driving multi-million-dollar impact."
+      }
+    ],
+    "ctaHeadline": "Ready to Own the Luxury Marine Market?",
+    "ctaBody": "Let’s set a new standard for BlueWave Marine Group. Connect with us to discuss your vision and begin your transformation.",
+    "ctaButtonText": "Schedule Your Consultation",
+    "contactName": "Neil Ross",
+    "contactTitle": "Chief Executive Officer",
+    "contactEmail": "neil@jamesrossadvertising.com",
+    "contactPhone": "561-555-2387"
+  },
+  "enriched": {
+    "tone": "strategic, bold, data-driven, collaborative, results-oriented",
+    "positioning": "James Ross Advertising positions itself as a full-service, insight-led agency blending creative excellence with advanced technology to deliver measurable growth and market leadership for ambitious brands.",
+    "serviceList": [
+      "Web Design",
+      "Web Development",
+      "UI/UX Design",
+      "Landing Page Design",
+      "E-Commerce",
+      "Shopify Development",
+      "WordPress Development",
+      "SEO",
+      "PPC Management",
+      "Google Ads Management",
+      "Search Engine Marketing",
+      "Paid Media",
+      "Retargeting",
+      "Content Creation",
+      "Copywriting",
+      "Video Production",
+      "Branding",
+      "Brand Identity",
+      "Digital Strategy",
+      "Marketing Consulting",
+      "CRM Integration",
+      "HubSpot Management",
+      "Analytics & Reporting",
+      "Reporting & Dashboards",
+      "Tracking & Attribution",
+      "Photography",
+      "Website Maintenance",
+      "Ongoing Support",
+      "Email Marketing",
+      "Social Media Marketing",
+      "Tradeshow and Print Collateral",
+      "SMS Marketing"
+    ],
+    "valuePropositions": [
+      "Integrated, full-service marketing and advertising solutions under one roof",
+      "Data-driven, insight-led strategies tailored to each client",
+      "Proven track record of delivering measurable business growth and multi-million-dollar impact",
+      "Blending creative excellence with advanced AI and technology for smarter, faster results",
+      "Long-term partnership mindset with high client retention and accountability"
+    ],
+    "differentiators": [
+      "Combines creative excellence with advanced AI and data-driven insights",
+      "Full-service capabilities spanning strategy, creative, web, and media",
+      "Proven ability to deliver both B2B and B2C solutions across diverse industries",
+      "Long-term client relationships and a true partnership approach",
+      "Custom, non-templated solutions engineered for measurable performance"
+    ]
+  }
+}
