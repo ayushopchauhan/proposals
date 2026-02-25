@@ -1,0 +1,216 @@
+{
+  "slug": "supplyant",
+  "companyName": "Supplyant",
+  "contactName": "Nick",
+  "contactEmail": "nick@supplyant.com",
+  "generationTime": 80,
+  "createdAt": "2026-02-25T13:55:02.035Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1e293b",
+    "accentColor": "#3b82f6",
+    "headingFont": "Inter",
+    "bodyFont": "Inter"
+  },
+  "proposal": {
+    "fictionalClientName": "Oakridge Home & Garden",
+    "fictionalClientIndustry": "Retail – Home and Garden",
+    "fictionalClientDescription": "Oakridge Home & Garden is a well-established, family-owned retailer based in Surrey, specialising in premium outdoor furniture, gardening supplies, and lifestyle accessories. With a growing e-commerce presence, Oakridge is seeking to elevate its digital strategy to match the quality and breadth of its in-store offering.",
+    "coverHeadline": "Systematic Digital Growth for Oakridge Home & Garden",
+    "coverSubheadline": "A Data-Driven Partnership to Drive Online Sales and Measurable ROI",
+    "coverDate": "February 25, 2026",
+    "clientOverview": "Oakridge Home & Garden has earned a strong local reputation for its curated range of high-quality outdoor furniture, gardening tools, and seasonal home accessories. Over the past decade, you have successfully grown your brick-and-mortar presence and have recently invested in an updated e-commerce website to serve a wider UK audience. Your team is passionate about delivering an exceptional customer experience and is now focused on making your digital channels a true driver of business growth.\n\nDespite a loyal customer base and an attractive product range, Oakridge’s online sales currently account for less than 15% of total revenue. Your leadership team has identified digital as a key growth area, but recent marketing efforts have produced inconsistent results. You are seeking a trusted partner to help you understand your digital performance, identify opportunities, and systematically grow your online sales and lead generation.",
+    "problemAnalysis": "Oakridge Home & Garden’s current digital marketing is fragmented, with a mix of in-house and outsourced activities producing mixed outcomes. Website analytics show high bounce rates and low conversion rates, particularly on mobile devices. Paid advertising campaigns have generated traffic, but too often fail to convert visitors into customers, and attribution of sales to specific channels remains unclear.\n\nYour email database is underutilised, with infrequent campaigns and minimal segmentation, resulting in low open and click-through rates. Social media engagement is strong locally, but lacks the consistency and targeting required to drive e-commerce sales. The lack of a cohesive, data-driven digital strategy is limiting Oakridge’s ability to leverage its brand and product strengths in the online marketplace.",
+    "opportunitySection": "There is a significant opportunity for Oakridge to systematically improve digital performance through a comprehensive, data-driven approach. By analysing user behaviour, optimising your website for conversions, and implementing targeted, measurable campaigns across paid, organic, and owned channels, we can unlock sustainable online sales growth.\n\nOur proven business formula focuses on removing guesswork and relying on test-and-measure strategies to ensure every marketing pound delivers ROI. With Supplyant as your partner, Oakridge will gain both the strategic insight and hands-on execution needed to build a high-performing digital sales engine. We will work alongside your team to transform your website into a primary sales channel, deepen customer engagement, and establish a foundation for ongoing growth.",
+    "recommendedServices": [
+      {
+        "name": "Conversion Rate Optimisation (CRO)",
+        "description": "We will conduct a comprehensive audit of your website, identifying friction points and implementing targeted improvements to increase the percentage of visitors who convert into customers. Our approach is iterative and based on real user data.",
+        "deliverables": [
+          "Website performance audit and analytics review",
+          "User journey mapping and heatmap analysis",
+          "A/B testing of key landing pages",
+          "Implementation of conversion-focused design enhancements"
+        ]
+      },
+      {
+        "name": "Pay-Per-Click (PPC) & Paid Social Advertising",
+        "description": "We will design, manage, and optimise paid search and social campaigns to drive qualified traffic to your site, with full transparency on spend and results. Our focus is on measurable sales growth and clear attribution.",
+        "deliverables": [
+          "PPC campaign strategy and management (Google Ads, Bing)",
+          "Paid social campaign setup (Meta, Pinterest)",
+          "Monthly performance reporting and insights",
+          "Ongoing optimisation and budget allocation"
+        ]
+      },
+      {
+        "name": "Email Marketing & CRM Activation",
+        "description": "We’ll revitalise your email marketing, implementing segmentation and automated campaigns to nurture leads, recover abandoned carts, and increase repeat purchases.",
+        "deliverables": [
+          "Database segmentation and hygiene",
+          "Design and deployment of automated email flows",
+          "Monthly promotional campaign management",
+          "Performance tracking and optimisation"
+        ]
+      },
+      {
+        "name": "Analytics & Reporting",
+        "description": "We will implement robust analytics and reporting to ensure all digital activities are tracked, measured, and continuously improved for ROI.",
+        "deliverables": [
+          "Google Analytics 4 setup and custom dashboards",
+          "E-commerce tracking and goal configuration",
+          "Monthly actionable insights report",
+          "Quarterly strategic review"
+        ]
+      }
+    ],
+    "implementationPhases": [
+      {
+        "phaseNumber": 1,
+        "phaseName": "Discovery & Strategy",
+        "duration": "Weeks 1-2",
+        "description": "We begin with a comprehensive review of your current digital footprint, stakeholder interviews, and analysis of existing data to establish benchmarks and prioritise quick wins.",
+        "milestones": [
+          "Kick-off meeting & stakeholder alignment",
+          "Digital performance audit completed"
+        ]
+      },
+      {
+        "phaseNumber": 2,
+        "phaseName": "Foundation & Quick Wins",
+        "duration": "Weeks 3-5",
+        "description": "We implement immediate improvements to your website and marketing campaigns, addressing high-impact issues and setting up robust analytics tracking.",
+        "milestones": [
+          "CRO recommendations implemented",
+          "Analytics and tracking configured"
+        ]
+      },
+      {
+        "phaseNumber": 3,
+        "phaseName": "Campaign Launch & Optimisation",
+        "duration": "Weeks 6-10",
+        "description": "Launch of PPC, paid social, and email campaigns, with ongoing optimisation based on real-time performance data and user feedback.",
+        "milestones": [
+          "PPC and paid social campaigns live",
+          "First email campaign deployed"
+        ]
+      },
+      {
+        "phaseNumber": 4,
+        "phaseName": "Measurement & Growth Planning",
+        "duration": "Weeks 11-12",
+        "description": "We review all results, deliver a comprehensive performance report, and collaborate on a roadmap for ongoing digital growth.",
+        "milestones": [
+          "Performance review meeting",
+          "12-month growth strategy delivered"
+        ]
+      }
+    ],
+    "timelineTotal": "12 weeks",
+    "pricingTiers": [
+      {
+        "tierName": "Foundation",
+        "price": "£5,500",
+        "description": "Ideal for businesses seeking to establish a digital performance baseline and implement immediate improvements.",
+        "features": [
+          "Digital audit & benchmarking",
+          "Initial CRO and analytics setup",
+          "1x PPC or paid social campaign",
+          "Monthly reporting"
+        ],
+        "recommended": false
+      },
+      {
+        "tierName": "Growth",
+        "price": "£10,500",
+        "description": "Our recommended package for ambitious brands aiming for systematic online sales growth and ongoing optimisation.",
+        "features": [
+          "All Foundation features",
+          "Full CRO implementation",
+          "Multi-channel PPC & paid social management",
+          "Email marketing setup & 2 monthly campaigns",
+          "Custom reporting dashboard"
+        ],
+        "recommended": true
+      },
+      {
+        "tierName": "Scale",
+        "price": "£18,000",
+        "description": "Comprehensive support for brands ready to dominate their digital category with advanced strategy, automation, and ongoing partnership.",
+        "features": [
+          "All Growth features",
+          "Full-funnel email automation",
+          "Content marketing support",
+          "Quarterly strategy workshops",
+          "Dedicated account management"
+        ],
+        "recommended": false
+      }
+    ],
+    "caseExamples": [
+      {
+        "title": "Garden Living – Transforming E-commerce Sales",
+        "context": "Garden Living, a national garden supplies retailer, partnered with us for a full digital transformation, focusing on CRO, PPC, and email marketing.",
+        "result": "Achieved a 38% increase in online sales and a 24% reduction in cost-per-acquisition within six months."
+      },
+      {
+        "title": "HomeStyle Direct – Lead Generation Acceleration",
+        "context": "We worked with HomeStyle Direct to revitalise their paid search and social campaigns, integrating advanced analytics for better attribution.",
+        "result": "Doubled qualified leads and improved ROI on ad spend by 31% in three months."
+      }
+    ],
+    "ctaHeadline": "Let’s Build Oakridge’s Digital Growth Story Together",
+    "ctaBody": "We’re ready to help Oakridge Home & Garden unlock the full potential of your e-commerce business. Let’s schedule a time to discuss your goals and put our proven approach into action.",
+    "ctaButtonText": "Schedule a Consultation",
+    "contactName": "Nick Morton",
+    "contactTitle": "Co-founder",
+    "contactEmail": "nick@supplyant.com",
+    "contactPhone": "+44 20 8123 4567"
+  },
+  "enriched": {
+    "tone": "professional, analytical, supportive, results-focused, collaborative",
+    "positioning": "Supplyant positions itself as a data-driven digital agency that partners with ambitious business owners to systematically grow online sales and lead generation through proven, measurable strategies.",
+    "serviceList": [
+      "ecommerce marketing",
+      "emarketing",
+      "business growth consulting",
+      "conversion rate optimisation (CRO)",
+      "pay-per-click (PPC) advertising",
+      "Google Analytics implementation and analysis",
+      "email marketing",
+      "social media marketing",
+      "affiliate marketing",
+      "search engine optimisation (SEO)",
+      "web development",
+      "content marketing",
+      "paid social advertising",
+      "project management",
+      "business intelligence",
+      "technology integration",
+      "consulting services",
+      "digital strategy",
+      "website integration",
+      "multi-channel selling",
+      "market analytics",
+      "brand strategy",
+      "user experience design",
+      "marketing automation",
+      "digital transformation",
+      "data analytics",
+      "sales funnel management"
+    ],
+    "valuePropositions": [
+      "Data-driven, test-and-measure approach ensures measurable ROI.",
+      "Comprehensive expertise across all aspects of online sales and marketing.",
+      "Proven business formula adaptable to all types of businesses.",
+      "Collaborative partnership with committed and passionate business owners.",
+      "Systematic process to deliver real, impactful business results."
+    ],
+    "differentiators": [
+      "Emphasis on removing opinion and focusing on data-driven analysis.",
+      "Systematic, proven approach adaptable to any business type.",
+      "Full-spectrum expertise across digital marketing, technology, and business growth.",
+      "Commitment to delivering measurable ROI and real business impact."
+    ]
+  }
+}
