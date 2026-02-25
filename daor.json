@@ -1,0 +1,208 @@
+{
+  "slug": "daor",
+  "companyName": "Daor",
+  "contactName": "Paul",
+  "contactEmail": "paul@daordesign.com",
+  "generationTime": 42,
+  "createdAt": "2026-02-25T14:20:11.493Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1e293b",
+    "accentColor": "#3b82f6",
+    "headingFont": "Inter",
+    "bodyFont": "Inter"
+  },
+  "proposal": {
+    "fictionalClientName": "Heartland Family Dentistry",
+    "fictionalClientIndustry": "Dental Healthcare",
+    "fictionalClientDescription": "Heartland Family Dentistry is a family-owned dental practice located in Springfield, Missouri, serving the local community with comprehensive dental care. Led by Dr. Emily Carter, the practice is known for its patient-centered approach and commitment to modern, gentle dentistry.",
+    "coverHeadline": "Elevate Your Dental Brand: A Comprehensive Design & Marketing Proposal for Heartland Family Dentistry",
+    "coverSubheadline": "Building a Distinctive, Trustworthy Presence for Your Family Dental Practice",
+    "coverDate": "February 25, 2026",
+    "clientOverview": "Heartland Family Dentistry has been a staple in the Springfield community for over a decade, earning a loyal patient base through exceptional care and a welcoming atmosphere. As a family-owned practice, you pride yourselves on creating a comfortable, trustworthy environment for patients of all ages. With Dr. Carter at the helm, your team delivers the latest in dental technology and compassionate service to families, children, and seniors alike.\n\nRecently, you’ve recognized the need to refresh your brand identity and digital presence to better reflect your values and attract new families in a competitive market. You’re seeking a partner who understands small business dynamics and can deliver a cohesive, approachable brand experience—both online and offline. Your goals include increasing new patient inquiries, enhancing patient loyalty, and positioning Heartland Family Dentistry as the go-to dental provider in the region.",
+    "problemAnalysis": "While Heartland Family Dentistry is well-regarded locally, your current branding and website no longer capture the warmth or professionalism that set you apart. Your logo and marketing materials feel dated, and your website is not optimized for mobile devices, making it challenging for prospective patients to find information or book appointments easily. Local competitors have begun investing in more modern branding and digital marketing, which has started to impact your new patient growth.\n\nAdditionally, your online presence lacks consistency across digital channels. Social media pages are infrequently updated, and your search engine rankings have slipped, making it harder for new families to discover your practice. These challenges hinder your ability to showcase your expertise, highlight patient testimonials, and build trust with new visitors before they ever walk through your doors.",
+    "opportunitySection": "This is a pivotal moment to revitalize Heartland Family Dentistry’s brand and digital footprint. By investing in a comprehensive brand refresh, user-friendly website, and strategic marketing support, you can create a unified, memorable experience that resonates with both existing and prospective patients. A modern, welcoming logo and cohesive visual identity will set you apart from competitors and communicate trustworthiness from the first impression.\n\nOur relationship-based approach ensures that every aspect of your branding and marketing is tailored to your practice’s unique story, values, and goals. Through a blend of thoughtful design, practical marketing, and ongoing support, we’ll help you attract new families, enhance patient loyalty, and position your practice as a leader in Springfield’s dental community. The result: measurable growth, stronger community connections, and a brand you’ll be proud to share.",
+    "recommendedServices": [
+      {
+        "name": "Brand Refresh & Visual Identity",
+        "description": "We’ll craft a modern, approachable logo and visual identity that reflect your practice’s warmth and professionalism. This foundation will ensure every touchpoint—from your signage to your website—builds trust and recognition.",
+        "deliverables": [
+          "New logo design with multiple concepts and revisions",
+          "Comprehensive brand style guide",
+          "Business card and stationery design",
+          "Updated signage and print collateral templates"
+        ]
+      },
+      {
+        "name": "Website Design & Development",
+        "description": "A user-friendly, mobile-optimized website designed to convert visitors into patients. We’ll make it easy for families to learn about your services, meet your team, and schedule appointments online.",
+        "deliverables": [
+          "Custom website design (up to 8 pages)",
+          "Mobile and tablet optimization",
+          "Online appointment request integration",
+          "SEO best practices implementation",
+          "Website training and support"
+        ]
+      },
+      {
+        "name": "Digital Marketing & SEO",
+        "description": "We’ll build your online presence through targeted local SEO, content creation, and social media management—ensuring consistent, engaging communication with your community.",
+        "deliverables": [
+          "Keyword research and on-page SEO optimization",
+          "Google Business Profile setup and optimization",
+          "Monthly blog and content creation",
+          "Social media content calendar and posting (Facebook & Instagram)",
+          "Performance reporting and recommendations"
+        ]
+      }
+    ],
+    "implementationPhases": [
+      {
+        "phaseNumber": 1,
+        "phaseName": "Discovery & Brand Strategy",
+        "duration": "Weeks 1-2",
+        "description": "We’ll kick off with a collaborative workshop to understand your practice, vision, and goals. This phase includes a full brand audit and strategy development to set the foundation for all creative work.",
+        "milestones": [
+          "Brand discovery workshop completed",
+          "Brand audit and competitive analysis delivered"
+        ]
+      },
+      {
+        "phaseNumber": 2,
+        "phaseName": "Brand Identity Development",
+        "duration": "Weeks 3-4",
+        "description": "Our team will present logo concepts and refine your visual identity, ensuring your new look is modern, approachable, and uniquely yours. We’ll finalize your brand style guide for consistent application.",
+        "milestones": [
+          "Logo concepts presented",
+          "Final logo and brand style guide delivered"
+        ]
+      },
+      {
+        "phaseNumber": 3,
+        "phaseName": "Website Design & Build",
+        "duration": "Weeks 5-8",
+        "description": "We’ll design and develop your new website, focusing on usability, visual appeal, and SEO best practices. Content will be created and integrated to showcase your services and team.",
+        "milestones": [
+          "Website wireframes and design approved",
+          "Website launched and tested across devices"
+        ]
+      },
+      {
+        "phaseNumber": 4,
+        "phaseName": "Digital Marketing Launch",
+        "duration": "Weeks 9-10",
+        "description": "We’ll implement your SEO improvements, launch your social media content, and provide training for ongoing updates. Performance reporting will track the initial impact.",
+        "milestones": [
+          "SEO and local listing optimization complete",
+          "Social media calendar launched"
+        ]
+      }
+    ],
+    "timelineTotal": "10 weeks",
+    "pricingTiers": [
+      {
+        "tierName": "Foundation",
+        "price": "$5,800",
+        "description": "Ideal for practices seeking a refreshed brand and basic online presence.",
+        "features": [
+          "Logo design and brand style guide",
+          "Business card and print collateral templates",
+          "Basic 5-page website design and launch"
+        ],
+        "recommended": false
+      },
+      {
+        "tierName": "Growth",
+        "price": "$9,800",
+        "description": "Our most popular package, covering a full brand refresh, comprehensive website, and foundational digital marketing.",
+        "features": [
+          "All Foundation features",
+          "Custom 8-page website with appointment integration",
+          "SEO optimization and Google Business Profile setup",
+          "Social media content calendar (1 month)",
+          "Website training and launch support"
+        ],
+        "recommended": true
+      },
+      {
+        "tierName": "Scale",
+        "price": "$15,500",
+        "description": "For practices ready to lead their market with ongoing marketing and advanced brand management.",
+        "features": [
+          "All Growth features",
+          "Monthly blog and content creation (3 months)",
+          "Ongoing social media management (3 months)",
+          "Quarterly performance reporting",
+          "Brand collateral update package"
+        ],
+        "recommended": false
+      }
+    ],
+    "caseExamples": [
+      {
+        "title": "Modernizing Maple Avenue Pediatrics",
+        "context": "We partnered with a local pediatric clinic to refresh their brand, redesign their website, and launch a new social media strategy.",
+        "result": "Increased new patient inquiries by 40% and improved Google search rankings to the top 3 for local pediatricians within 6 months."
+      },
+      {
+        "title": "Brand Refresh for Oak Street Family Chiropractic",
+        "context": "A family chiropractic practice needed a cohesive visual identity and more effective digital marketing.",
+        "result": "Drove a 30% rise in website traffic and doubled social media engagement in the first quarter post-launch."
+      }
+    ],
+    "ctaHeadline": "Let’s Build a Brand Your Patients Will Trust",
+    "ctaBody": "We’d love to help Heartland Family Dentistry shine in the Springfield community. Let’s schedule a call to discuss your goals and map out the best path forward—together.",
+    "ctaButtonText": "Schedule a Consultation",
+    "contactName": "Paul Harkleroad",
+    "contactTitle": "Co-founder",
+    "contactEmail": "paul@daordesign.com",
+    "contactPhone": "417-555-2378"
+  },
+  "enriched": {
+    "tone": "friendly, approachable, practical, supportive, professional",
+    "positioning": "Daor Design positions itself as a trusted, relationship-driven agency specializing in comprehensive brand management for small businesses.",
+    "serviceList": [
+      "graphic design",
+      "branding",
+      "logo design",
+      "website design",
+      "marketing",
+      "SEO",
+      "comprehensive brand management",
+      "brand strategy",
+      "content creation",
+      "social media marketing",
+      "social media management",
+      "email marketing",
+      "print design",
+      "branding consultation",
+      "tailored marketing plans",
+      "project management",
+      "visual identity",
+      "lead generation strategy",
+      "performance reporting",
+      "keyword optimization",
+      "brand refresh",
+      "branding audits",
+      "web maintenance services",
+      "website audit",
+      "style guide design",
+      "business cards",
+      "marketing materials"
+    ],
+    "valuePropositions": [
+      "Relationship-based approach with deep client collaboration",
+      "Comprehensive brand management tailored to small businesses",
+      "User-friendly, practical, and functional design solutions",
+      "Proven design process with transparent reporting",
+      "Flexible service packages to fit diverse small business needs"
+    ],
+    "differentiators": [
+      "Relationship-driven, going deeper with fewer clients",
+      "Specialized focus on small businesses",
+      "Comprehensive brand management from design to marketing",
+      "Owner-operated with a small, trusted team",
+      "Emphasis on practical, user-friendly design"
+    ]
+  }
+}
