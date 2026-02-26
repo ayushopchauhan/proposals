@@ -1,201 +1,586 @@
 {
   "slug": "thriveline",
   "companyName": "ThriveLine",
-  "contactName": "Marie-line",
+  "contactName": "Marie-line Villers",
   "contactEmail": "marieline.villers@gmail.com",
-  "generationTime": 69,
-  "createdAt": "2026-02-26T22:32:51.852Z",
+  "generationTime": 27,
+  "createdAt": "2026-02-26T22:52:35.715Z",
   "brandStyle": {
-    "primaryColor": "#ff6900",
-    "secondaryColor": "#cf2e2e",
-    "accentColor": "#fcb900",
     "headingFont": "Inter",
-    "bodyFont": "Inter"
+    "bodyFont": "Inter",
+    "logoUrl": ""
   },
-  "proposal": {
-    "fictionalClientName": "Okanagan Interior Design Studio",
-    "fictionalClientIndustry": "Interior Design",
-    "fictionalClientDescription": "Okanagan Interior Design Studio is a boutique firm based in Kelowna, specializing in residential and light commercial interior design projects. Their team is known for a refined, contemporary approach and a growing reputation for transforming local homes and spaces.",
-    "coverHeadline": "Elevate Your Interior Design Brand Online",
-    "coverSubheadline": "A Custom Web & SEO Solution for Okanagan Interior Design Studio",
-    "coverDate": "February 26, 2026",
-    "clientOverview": "Okanagan Interior Design Studio has established a strong reputation in Kelowna for creating beautiful, functional living spaces. With a growing portfolio of both residential and boutique commercial projects, your studio is ready to expand its digital footprint and attract more high-value clients. We understand that you’re seeking a web presence that reflects your design expertise and helps you stand out in a competitive local market.\n\nYour current website, while functional, no longer aligns with your brand’s sophistication or your clients’ expectations. You’ve expressed a desire for a website that not only showcases your portfolio but also drives qualified leads and demonstrates your authority within Kelowna’s design community. You are also looking to improve your local search visibility, ensuring that when Kelowna homeowners or business owners search for design expertise, your studio is top of mind.",
-    "problemAnalysis": "The interior design sector in Kelowna is highly competitive, with new firms and independent designers entering the market every year. Okanagan Interior Design Studio’s current website is visually outdated and difficult to update, limiting your ability to showcase new projects and testimonials. Additionally, your site ranks inconsistently for key local search terms, causing missed opportunities for organic discovery by new clients.\n\nYou’ve also noticed that potential clients are increasingly coming from online searches and social media, but your studio is not currently leveraging these channels to their full potential. Without a cohesive digital strategy, you risk losing visibility to competitors who are investing in robust web design, SEO, and ongoing digital marketing. Finally, the absence of clear tracking and reporting makes it difficult to measure the impact of your online efforts and refine your approach over time.",
-    "opportunitySection": "There is a significant opportunity for Okanagan Interior Design Studio to position itself as Kelowna’s go-to design authority with an elevated, conversion-driven website and a targeted local SEO strategy. By investing in a custom site that beautifully presents your portfolio, client testimonials, and unique process, you’ll create a first impression that converts more browsers into leads. Strategic on-page SEO and local directory optimization will help you rise above the competition in relevant Kelowna searches.\n\nOur approach combines design excellence with proven digital marketing strategies, ensuring your studio attracts the right clients and makes the most of every online interaction. With proactive reporting and ongoing support, you’ll have the clarity and confidence to make data-driven decisions and continue growing your business well into the future.",
-    "recommendedServices": [
+  "proposal1": {
+    "tag": "PROPOSAL // ThriveLine // CONFIDENTIAL",
+    "heroBadge": "Digital Transformation Proposal",
+    "heroHeadline": "Unlock Your Team's Potential: Automate Proposal Writing Instantly",
+    "heroSubheadline": "Experience a 90% reduction in proposal time with our AI automation system.",
+    "heroTags": [
+      "DRUPAL",
+      "REACT",
+      "AWS",
+      "HIPAA",
+      "REST API",
+      "DEVOPS",
+      "HEADLESS CMS"
+    ],
+    "problemsIntro": "Six systemic issues affecting your growth and engineering bandwidth right now.",
+    "problems": [
       {
-        "name": "Custom Web Design & Development",
-        "description": "We’ll create a bespoke website that reflects your brand’s style and expertise, making it easy for clients to explore your portfolio and get in touch. Your new site will be mobile-friendly, fast, and fully optimized for user experience.",
-        "deliverables": [
-          "Custom website design (up to 10 pages)",
-          "Portfolio gallery with project filters",
-          "Integrated contact and lead forms",
-          "Mobile-responsive development",
-          "On-page SEO setup"
+        "title": "Manual Proposal Overload",
+        "description": "Crafting each proposal manually consumes valuable time and resources, delaying client engagement and reducing potential revenue streams."
+      },
+      {
+        "title": "Inconsistent Proposal Quality",
+        "description": "Variability in proposal content and quality can affect client trust and perceived professionalism, impacting conversion rates."
+      },
+      {
+        "title": "Resource Drain on Development",
+        "description": "Technical teams are often diverted from core projects to assist with proposal creation, leading to a backlog in development work."
+      },
+      {
+        "title": "Limited Scalability",
+        "description": "As your client base grows, the current manual process cannot scale efficiently, risking missed opportunities and client dissatisfaction."
+      },
+      {
+        "title": "Delayed Response Times",
+        "description": "Lengthy proposal preparation times lead to slower response rates, potentially losing clients to faster competitors."
+      },
+      {
+        "title": "Lack of Data-Driven Insights",
+        "description": "Without an automated system, there's limited ability to track proposal success metrics, hindering continuous improvement efforts."
+      }
+    ],
+    "solutionIntro": "Five integrated workstreams covering every dimension of transformation.",
+    "solutions": [
+      {
+        "icon": "🌐",
+        "title": "Automated Proposal Generation",
+        "description": "Leverage AI to create high-quality, customized proposals in seconds.",
+        "tags": [
+          "AI",
+          "Automation",
+          "Efficiency"
         ]
       },
       {
-        "name": "Local SEO & Google Business Profile Management",
-        "description": "Boost your studio’s visibility in Kelowna searches and map results with targeted local SEO. We’ll optimize your Google Business Profile, citations, and local keywords to drive more qualified leads.",
-        "deliverables": [
-          "Local keyword research & targeting",
-          "Google Business Profile optimization",
-          "Citation cleanup & submissions",
-          "Competitor tracking",
-          "Monthly performance reporting"
+        "icon": "⚙️",
+        "title": "Quality Assurance",
+        "description": "Ensure consistent and professional proposals with built-in quality checks.",
+        "tags": [
+          "Consistency",
+          "Professionalism",
+          "Trust"
         ]
       },
       {
-        "name": "Lead Generation & Reporting",
-        "description": "Convert more visitors into inquiries with streamlined lead capture and clear performance dashboards. We’ll set up tracking to monitor results and provide transparent, actionable insights.",
-        "deliverables": [
-          "Lead form integration & tracking",
-          "Custom dashboard setup",
-          "Monthly summary reports",
-          "Ongoing website maintenance",
-          "Dedicated support"
+        "icon": "📊",
+        "title": "Data Analytics Integration",
+        "description": "Gain insights into proposal performance with advanced analytics.",
+        "tags": [
+          "Data-Driven",
+          "Insights",
+          "Performance"
+        ]
+      },
+      {
+        "icon": "🚀",
+        "title": "Scalability Solutions",
+        "description": "Easily scale your proposal operations as your business grows.",
+        "tags": [
+          "Growth",
+          "Scalability",
+          "Flexibility"
+        ]
+      },
+      {
+        "icon": "⏱️",
+        "title": "Rapid Response Optimization",
+        "description": "Reduce response times and enhance client engagement with faster proposals.",
+        "tags": [
+          "Speed",
+          "Engagement",
+          "Client Satisfaction"
         ]
       }
     ],
-    "implementationPhases": [
+    "metrics": [
       {
-        "phaseNumber": 1,
-        "phaseName": "Discovery & Strategy",
-        "duration": "Weeks 1-2",
-        "description": "We’ll kick off with a collaborative workshop to understand your vision, goals, and brand identity. This phase includes competitor research, technical audits, and a detailed project roadmap.",
-        "milestones": [
-          "Kickoff workshop completed",
-          "Strategy & sitemap approved"
+        "value": "3.4",
+        "suffix": "x",
+        "label": "Higher portal adoption with modern UX",
+        "decimal": 1
+      },
+      {
+        "value": "90",
+        "suffix": "%",
+        "label": "Reduction in proposal preparation time",
+        "decimal": 0
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Increase in proposal acceptance rate",
+        "decimal": 0
+      }
+    ],
+    "whyUsIntro": "Certified experts. Award-winning experiences. And we are not afraid of the hard stuff.",
+    "whyUsCards": [
+      {
+        "icon": "🔓",
+        "title": "Open Source First",
+        "description": "No vendor lock-in. You own your platform."
+      },
+      {
+        "icon": "🏆",
+        "title": "Award-Winning Solutions",
+        "description": "Recognized globally for innovation and excellence."
+      },
+      {
+        "icon": "👨‍💻",
+        "title": "Technical Expertise",
+        "description": "Deep knowledge in modern tech stacks and integrations."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Approach",
+        "description": "Your success is our priority. Tailored solutions to fit your needs."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "💀",
+        "title": "We are not afraid of inheriting legacy code.",
+        "sub": "We have migrated platforms older than some of our developers."
+      },
+      {
+        "icon": "🛠️",
+        "title": "We tackle complex integrations head-on.",
+        "sub": "From APIs to on-prem systems, we handle it all."
+      },
+      {
+        "icon": "🔍",
+        "title": "No challenge is too big.",
+        "sub": "We solve problems others shy away from."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "20",
+        "suffix": "+",
+        "label": "Years Combined"
+      },
+      {
+        "value": "$4.3",
+        "suffix": "M",
+        "label": "Annual Revenue",
+        "decimal": 1
+      },
+      {
+        "value": "100",
+        "suffix": "+",
+        "label": "Projects Delivered"
+      },
+      {
+        "value": "5",
+        "suffix": "★",
+        "label": "Clutch Rating"
+      }
+    ],
+    "teamIntro": "Your engagement is led directly by our CEO. No handoffs to junior account managers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Chief Executive Officer",
+      "titleNote": "UNLEASHED TECHNOLOGIES // COLUMBIA, VA",
+      "bio": "Leads strategy, client partnerships, and technical direction. Personally oversees every enterprise engagement from discovery through launch.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "703-304-9216"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "24 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery and Architecture",
+        "badge": "WK 1-4",
+        "description": "Audit existing systems, map integrations, and define technical architecture.",
+        "bullets": [
+          "Stakeholder interviews",
+          "Technical audit"
         ]
       },
       {
-        "phaseNumber": 2,
-        "phaseName": "Design & Content",
-        "duration": "Weeks 3-5",
-        "description": "Our team will design custom website mockups and collaborate with you to refine visuals and messaging. We’ll also support you in organizing project photos, testimonials, and service descriptions.",
-        "milestones": [
-          "Design mockups delivered",
-          "Content finalized"
+        "number": 2,
+        "title": "Design and Prototype",
+        "badge": "WK 5-8",
+        "description": "Create wireframes and prototypes for user feedback and iteration.",
+        "bullets": [
+          "Prototype development",
+          "User testing"
         ]
       },
       {
-        "phaseNumber": 3,
-        "phaseName": "Development & SEO Launch",
-        "duration": "Weeks 6-8",
-        "description": "We’ll build your website, optimize it for speed and search engines, and implement all tracking tools. After your review, we’ll launch the site and initiate local SEO enhancements.",
-        "milestones": [
-          "Website developed and tested",
-          "SEO and analytics live",
-          "Site launched"
+        "number": 3,
+        "title": "Development and Integration",
+        "badge": "WK 9-16",
+        "description": "Develop core features, integrate third-party services, and ensure compliance.",
+        "bullets": [
+          "Feature development",
+          "API integrations"
         ]
       },
       {
-        "phaseNumber": 4,
-        "phaseName": "Ongoing Optimization & Support",
-        "duration": "Month 3 onward",
-        "description": "Post-launch, we’ll monitor performance, manage your Google Business Profile, and provide monthly reports. Our team is on hand for updates, troubleshooting, and ongoing growth initiatives.",
-        "milestones": [
-          "First monthly report delivered",
-          "Continuous support in place"
+        "number": 4,
+        "title": "Testing and Optimization",
+        "badge": "WK 17-20",
+        "description": "Conduct thorough testing and optimize for performance and security.",
+        "bullets": [
+          "Performance testing",
+          "Security audit"
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Launch and Support",
+        "badge": "WK 21-24",
+        "description": "Deploy the solution and provide ongoing support and optimization.",
+        "bullets": [
+          "Go-live support",
+          "Continuous improvement"
         ]
       }
     ],
-    "timelineTotal": "8-10 weeks to launch, with ongoing support thereafter",
-    "pricingTiers": [
+    "pricingIntro": "Three engagement tiers. Choose the depth of transformation that aligns with your priorities.",
+    "pricing": [
       {
-        "tierName": "Foundation",
-        "price": "$5,800",
-        "description": "Ideal for studios seeking a beautiful, functional site and basic SEO essentials.",
+        "name": "Core",
+        "subtitle": "// Website + CMS Migration",
+        "description": "Migrate and redesign the platform your team controls.",
+        "amount": "$997",
+        "period": "One-time project fee",
         "features": [
-          "Custom 6-page website",
-          "Mobile optimization",
-          "Basic local SEO setup",
-          "Contact/lead form integration"
+          "Full website redesign",
+          "Drupal 11 migration",
+          "CMS training"
         ],
         "recommended": false
       },
       {
-        "tierName": "Growth",
-        "price": "$9,900",
-        "description": "Our most popular package: full-featured website, robust SEO, lead gen, and reporting.",
+        "name": "Complete",
+        "subtitle": "// Full Digital Transformation",
+        "description": "Website, integrations, compliance, and DevOps infrastructure.",
+        "amount": "$2,497",
+        "period": "One-time project fee",
         "features": [
-          "Custom 10-page website",
-          "Portfolio gallery",
-          "Full local SEO & Google Business Profile management",
-          "Lead tracking & monthly reporting",
-          "Ongoing website maintenance (3 months included)"
+          "Everything in Core",
+          "AWS hosting",
+          "CI/CD pipeline"
         ],
         "recommended": true
       },
       {
-        "tierName": "Scale",
-        "price": "$16,000",
-        "description": "For ambitious studios: advanced marketing integrations and long-term optimization.",
+        "name": "Strategic",
+        "subtitle": "// Ongoing Partnership",
+        "description": "Full transformation plus an ongoing retainer for continuous optimization.",
+        "amount": "$4,997",
+        "period": "Project fee + monthly retainer",
         "features": [
-          "Custom 15+ page website",
-          "Enhanced portfolio & blog",
-          "Advanced SEO & citation management",
-          "Instagram marketing setup",
-          "6 months ongoing support & reporting"
+          "Everything in Complete",
+          "Dedicated team allocation",
+          "Quarterly strategy sessions"
         ],
         "recommended": false
       }
     ],
-    "caseExamples": [
+    "ctaHeadline": "Ready to Unleash Your Digital Potential?",
+    "ctaDescription": "15 minutes. No slides. Just a direct conversation about your current platform and your priorities.",
+    "ctaButtonText": "Schedule a Discovery Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, CEO • 703-304-9216",
+    "footerText": "© 2025 Unleashed Technologies",
+    "footerSub": "Named a Global Leader by Clutch"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp • Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transforming Acme Corp's Digital Experience Into a Growth Engine",
+    "heroSubheadline": "A structured engagement plan for website redesign, product UX, and ongoing digital performance. Built for where you are heading.",
+    "heroTags": [],
+    "problemsIntro": "Six friction points costing your business growth, trust, and engineering bandwidth right now.",
+    "problems": [
       {
-        "title": "Kelowna Veterinary Hospital Website Revamp",
-        "context": "We redesigned their website and implemented a local SEO strategy to help them stand out among local veterinary clinics.",
-        "result": "Website traffic increased by 72% in six months, with a 40% rise in local appointment inquiries."
+        "title": "Brand and Product Disconnect",
+        "description": "Your website communicates reliability, but your product interface tells a different story."
       },
       {
-        "title": "Lakeshore Spa Digital Refresh",
-        "context": "A boutique spa needed a modern website and improved Google visibility to drive more bookings.",
-        "result": "Achieved top 3 local search rankings and doubled monthly booking requests within four months."
+        "title": "Inconsistent User Experience",
+        "description": "Visitors struggle to navigate your site, leading to frustration and drop-offs."
+      },
+      {
+        "title": "Poor Mobile Responsiveness",
+        "description": "Your site isn't optimized for mobile users, causing lost opportunities."
+      },
+      {
+        "title": "Lack of Local Visibility",
+        "description": "Potential clients can't find you online when searching for local services."
+      },
+      {
+        "title": "Ineffective Advertising Spend",
+        "description": "Current ad campaigns aren't yielding the desired ROI."
+      },
+      {
+        "title": "Outdated Content Strategy",
+        "description": "Your content isn't engaging or reaching your target audience effectively."
       }
     ],
-    "ctaHeadline": "Ready to Transform Your Digital Presence?",
-    "ctaBody": "Let’s collaborate to make Okanagan Interior Design Studio the first choice for discerning Kelowna clients. We’re excited to help you grow with a website and SEO strategy as sophisticated as your designs.",
-    "ctaButtonText": "Book Your Discovery Call",
-    "contactName": "Marie-line Villers",
-    "contactTitle": "Owner",
-    "contactEmail": "marieline.villers@gmail.com",
-    "contactPhone": "250-555-0198"
+    "solutionIntro": "Four integrated workstreams designed to address every problem area identified above.",
+    "solutions": [
+      {
+        "icon": "🌐",
+        "title": "Website Design",
+        "description": "A complete redesign.",
+        "tags": [
+          "UX Research",
+          "Wireframes",
+          "Launch"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Local SEO Optimization",
+        "description": "Boost your local search presence.",
+        "tags": [
+          "Keyword Strategy",
+          "Profile Management"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Mobile Responsiveness",
+        "description": "Ensure seamless mobile experience.",
+        "tags": [
+          "Responsive Design",
+          "User Testing"
+        ]
+      },
+      {
+        "icon": "💡",
+        "title": "Google Ads Management",
+        "description": "Maximize your ad spend efficiency.",
+        "tags": [
+          "Targeted Campaigns",
+          "Performance Tracking"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "2",
+        "suffix": "x",
+        "label": "Projected conversion improvement"
+      },
+      {
+        "value": "180",
+        "suffix": "+",
+        "label": "Additional qualified leads/month"
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Estimated UI backlog reduction"
+      }
+    ],
+    "whyUsIntro": "We are a process-driven digital agency founded on continuous improvement and radical transparency.",
+    "whyUsCards": [
+      {
+        "icon": "🎯",
+        "title": "Process Driven",
+        "description": "Every engagement follows a structured methodology."
+      },
+      {
+        "icon": "🔍",
+        "title": "Transparent Communication",
+        "description": "We keep you informed every step of the way."
+      },
+      {
+        "icon": "🚀",
+        "title": "Results Oriented",
+        "description": "Our focus is on delivering measurable outcomes."
+      },
+      {
+        "icon": "🤝",
+        "title": "Supportive Partnership",
+        "description": "We work alongside you to achieve your vision."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "5.0",
+        "suffix": "",
+        "label": "Clutch Rating",
+        "decimal": 1
+      },
+      {
+        "value": "4.9",
+        "suffix": "",
+        "label": "Google Rating",
+        "decimal": 1
+      },
+      {
+        "value": "89",
+        "suffix": "",
+        "label": "NPS Score"
+      },
+      {
+        "value": "$4",
+        "suffix": "M+",
+        "label": "Projects Delivered"
+      }
+    ],
+    "teamIntro": "Where creative energy meets operational rigour. Your engagement is led by our founders.",
+    "team": {
+      "initials": "MG",
+      "name": "Marie-line Villers",
+      "role": "Executive Director",
+      "titleNote": "",
+      "bio": "Oversees strategy and client relationships.",
+      "linkedin": "",
+      "phone": ""
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "18 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery and Strategy",
+        "badge": "Weeks 1 to 3",
+        "description": "Deep dive into your goals.",
+        "bullets": [
+          "User research",
+          "Strategic brief"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Design and Development",
+        "badge": "Weeks 4 to 9",
+        "description": "Crafting a stunning and effective website.",
+        "bullets": [
+          "Wireframing",
+          "Prototyping"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Optimization and Testing",
+        "badge": "Weeks 10 to 14",
+        "description": "Ensuring performance and usability.",
+        "bullets": [
+          "A/B Testing",
+          "SEO Integration"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Launch and Support",
+        "badge": "Weeks 15 to 18",
+        "description": "Smooth transition and ongoing support.",
+        "bullets": [
+          "Launch Plan",
+          "Ongoing Maintenance"
+        ]
+      }
+    ],
+    "pricingIntro": "Transparent, tier-based options. Choose the level of transformation that fits your priorities.",
+    "pricing": [
+      {
+        "name": "Foundation",
+        "subtitle": "",
+        "description": "Website redesign focused on brand alignment.",
+        "amount": "$48,000",
+        "period": "",
+        "features": [
+          "Full website redesign",
+          "CMS setup",
+          "SEO optimization"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth",
+        "subtitle": "",
+        "description": "Website redesign plus product UX strategy.",
+        "amount": "$82,000",
+        "period": "",
+        "features": [
+          "Everything in Foundation",
+          "Product UX audit",
+          "Design system"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Partnership",
+        "subtitle": "",
+        "description": "Full digital transformation with ongoing optimization.",
+        "amount": "$124,000",
+        "period": "",
+        "features": [
+          "Everything in Growth",
+          "Full UI redesign",
+          "Ongoing retainer"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Move Forward?",
+    "ctaDescription": "If this resonates, we would love 15 minutes of your time. No slides, no pitch deck.",
+    "ctaButtonText": "Book a Discovery Session",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "marieline.villers@gmail.com",
+    "ctaNote": "",
+    "footerText": "© 2025 ThriveLine",
+    "footerSub": "Designing better systems for better experiences"
   },
   "enriched": {
-    "tone": "supportive, transparent, personable, knowledgeable, results-driven",
-    "positioning": "Thriveline positions itself as a trusted, local digital partner providing tailored web design and SEO solutions for Kelowna businesses seeking professional, hands-off online growth.",
+    "tone": "friendly, transparent, knowledgeable, supportive, results-focused",
+    "positioning": "Personal, responsive service from a small, expert team",
     "serviceList": [
-      "Web Design",
-      "SEO",
-      "Local SEO",
-      "Keyword Research",
+      "Custom Web Design & Development",
+      "Local SEO & Google Business Profile Management",
       "Google Ads Management",
-      "Instagram Marketing",
-      "Lead Generation",
-      "Reporting & Dashboards",
-      "Tracking & Attribution",
-      "Web Hosting",
-      "Website Maintenance",
-      "Ongoing Support",
-      "Google Business Profile Management",
-      "On-Page SEO & Content Optimization",
-      "Local Citations & Directory Cleanup",
-      "Competitor & Keyword Tracking",
-      "AI-Enhanced Insights & Content Optimization"
+      "Instagram Marketing & Content Optimization",
+      "Ongoing Website Maintenance & Support"
     ],
     "valuePropositions": [
-      "Personal, responsive service with direct access to a small, skilled team",
-      "Custom solutions tailored to each client's business goals",
-      "Transparent, jargon-free communication and honest pricing",
-      "Proactive, professional website care with full client ownership and control",
-      "Results-focused strategies that adapt to changing digital trends, including AI search"
+      "Personal, responsive service from a small, expert team",
+      "Custom solutions tailored to each business, never templates",
+      "Clear, jargon-free communication and education",
+      "Results-focused strategies that support real business goals",
+      "Ongoing support and proactive website care"
     ],
     "differentiators": [
-      "Locally based, woman-owned agency with deep roots in Kelowna",
-      "Direct, personal service from a small, expert team—no passing clients around",
-      "Full transparency and client ownership of all digital assets",
-      "Custom, never-template solutions tailored to each business",
-      "Proactive, ongoing support and clear, human-friendly reporting"
+      "Woman-owned, local agency with deep Kelowna roots",
+      "Direct access to a small, skilled team (no passing between departments)",
+      "Focus on education, transparency, and honest pricing",
+      "Custom, non-templated solutions and proactive support",
+      "Clients retain full ownership and control of their digital assets"
     ]
+  },
+  "lead": {
+    "email": "marieline.villers@gmail.com",
+    "first_name": "Marie-line",
+    "last_name": "Villers",
+    "company_name": "ThriveLine",
+    "industry": "Interior Design",
+    "personalization": "Urban Roots Interior Design has built a strong reputation in Kelowna for delivering thoughtfully designed interiors that blend modern aesthetics with sustainability. Your team has grown steadily through word of mouth and repeat business, and you’re now looking to attract new clients—particularly higher-value commercial projects—through a stronger online presence. You’ve invested in branding and have a basic website, but you’re ready to take things to the next level.\n\nWith competition increasing in the local interior design market, you’ve identified the need for a more polished, user-friendly website and a robust digital marketing strategy. Your goals include increasing website traffic, generating more qualified leads, and establishing Urban Roots as a top-rated choice for interior design in Kelowna and the Okanagan region. You’re seeking a partner who can provide both strategic guidance and hands-on execution, freeing up your team to focus on client projects.",
+    "painStatement": "Currently, Urban Roots’ website is visually appealing but lacks the structure and optimization needed to convert visitors into inquiries. The site does not rank well for key local search terms, making it difficult for prospective clients to find you when searching for interior designers in Kelowna. There is limited tracking in place, so it’s hard to know which marketing efforts are working, and you’ve noticed that competitors are appearing more prominently in Google searches and local directories.\n\nAdditionally, your team is stretched thin, and managing digital marketing in-house has become unsustainable. You’re missing out on opportunities to showcase your best work, capture leads from Google Ads, and engage your audience consistently on platforms like Instagram. Without a proactive partner, it’s challenging to keep your web presence current and competitive.",
+    "proposal_id": "thriveline",
+    "company_annual_revenue_clean": "0",
+    "company_size": "1-10"
   }
 }
