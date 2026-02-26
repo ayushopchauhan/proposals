@@ -1,0 +1,211 @@
+{
+  "slug": "tennis",
+  "companyName": "Tennis",
+  "contactName": "Marcello",
+  "contactEmail": "marcello@designtennis.com",
+  "generationTime": 58,
+  "createdAt": "2026-02-26T14:39:57.799Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1e293b",
+    "accentColor": "#3b82f6",
+    "headingFont": "Inter",
+    "bodyFont": "Inter"
+  },
+  "proposal": {
+    "fictionalClientName": "Formulate Studio",
+    "fictionalClientIndustry": "Design & Architecture",
+    "fictionalClientDescription": "Formulate Studio is a Toronto-based multidisciplinary design and architecture firm specializing in commercial interiors and experiential spaces for retail, hospitality, and corporate clients. With a team of 25, they are recognized for blending innovative spatial concepts with sustainable practices, and are poised for national expansion.",
+    "coverHeadline": "Digital Transformation Proposal for Formulate Studio",
+    "coverSubheadline": "Elevating Your Digital Presence to Match Your Design Excellence",
+    "coverDate": "February 26, 2026",
+    "clientOverview": "Formulate Studio has established itself as a leader in the Canadian design and architecture sector, with a portfolio that includes award-winning office environments, boutique hotels, and flagship retail spaces. As you prepare to expand into new markets across Canada, your leadership team has identified the need to modernize your digital presence to reflect the sophistication and innovation that define your brand.\n\nCurrently, your website serves as a digital portfolio, but it does not fully capture the breadth of your services or provide a seamless experience for prospective clients and partners. You are also seeking to position Formulate Studio as a thought leader in sustainable design, leveraging digital channels to grow your reputation and attract top-tier talent and clients.\n\nOur team at Tennis Inc understands that your digital ecosystem must be as thoughtfully designed as your physical environments. We are excited to partner with you to create a digital platform that supports your business goals, enhances your brand, and delivers measurable impact as you scale.",
+    "problemAnalysis": "Your current website is visually appealing yet lacks the depth and interactivity today’s clients expect. Navigation is unintuitive, and key content—such as service offerings, case studies, and team expertise—is difficult to access. This creates friction for prospective clients, especially those unfamiliar with your work, and limits your ability to showcase your unique approach to design.\n\nAdditionally, the site’s backend is cumbersome, requiring significant manual updates and lacking integration with modern content management tools. This slows down your marketing and business development efforts and hinders the publication of timely thought leadership content.\n\nAs you pursue national expansion, you face the challenge of differentiating Formulate Studio in a crowded marketplace. Without a digital platform that clearly communicates your value proposition, expertise, and impact, you risk missing opportunities to engage high-value clients, partners, and talent.",
+    "opportunitySection": "A comprehensive digital transformation will position Formulate Studio as the go-to partner for innovative, sustainable design in Canada and beyond. By reimagining your website as a dynamic, user-centric platform, we can create an experience that educates, inspires, and converts your target audiences.\n\nOur process-driven approach will ensure your new digital platform is not only visually striking but also intuitive to navigate, optimized for search, and scalable as your business grows. We will leverage robust analytics to continuously measure performance and inform ongoing improvements.\n\nBy investing in a unified digital presence, you will be able to tell your story more effectively, build deeper relationships with clients and collaborators, and establish Formulate Studio as a leader at the intersection of design and technology.",
+    "recommendedServices": [
+      {
+        "name": "UX & Web Design",
+        "description": "We will architect and design a new website that aligns with Formulate Studio’s brand and supports your business objectives. Our approach emphasizes user experience, accessibility, and visual storytelling.",
+        "deliverables": [
+          "UX research and journey mapping",
+          "Wireframes and interactive prototypes",
+          "Custom website design",
+          "Accessibility compliance audit"
+        ]
+      },
+      {
+        "name": "Web Development & Webflow Implementation",
+        "description": "Our team will build a robust, scalable website on Webflow, ensuring seamless content management and high performance across devices. Integration with third-party tools and future scalability are core priorities.",
+        "deliverables": [
+          "Custom Webflow development",
+          "Mobile and tablet optimization",
+          "CMS migration and setup",
+          "Performance & security optimization"
+        ]
+      },
+      {
+        "name": "Content Strategy & Brand Positioning",
+        "description": "We will develop a content strategy that highlights your expertise, showcases project case studies, and positions your team as thought leaders in sustainable design.",
+        "deliverables": [
+          "Content audit and gap analysis",
+          "Messaging framework and copywriting",
+          "Case study development",
+          "Editorial calendar for ongoing content"
+        ]
+      },
+      {
+        "name": "Analytics, Reporting & Ongoing Support",
+        "description": "Our ongoing support includes performance monitoring, analytics reporting, and continuous optimization to ensure your digital platform delivers measurable results.",
+        "deliverables": [
+          "Google Analytics & Tag Manager setup",
+          "Monthly performance dashboards",
+          "Quarterly strategy reviews",
+          "Priority support and maintenance"
+        ]
+      }
+    ],
+    "implementationPhases": [
+      {
+        "phaseNumber": 1,
+        "phaseName": "Discovery & Strategy",
+        "duration": "Weeks 1-2",
+        "description": "We conduct stakeholder interviews, audit your current digital assets, and align on business goals, audience needs, and success metrics.",
+        "milestones": [
+          "Kickoff workshop",
+          "User journey mapping completed"
+        ]
+      },
+      {
+        "phaseNumber": 2,
+        "phaseName": "Experience Design",
+        "duration": "Weeks 3-5",
+        "description": "Our team develops wireframes, prototypes, and visual concepts, iterating with your feedback to ensure alignment with your brand and objectives.",
+        "milestones": [
+          "Wireframes delivered",
+          "Design concepts approved"
+        ]
+      },
+      {
+        "phaseNumber": 3,
+        "phaseName": "Development & Integration",
+        "duration": "Weeks 6-9",
+        "description": "We build the new website in Webflow, migrate content, and integrate analytics and CMS. Extensive QA ensures performance, accessibility, and security.",
+        "milestones": [
+          "Webflow build complete",
+          "Content migrated and tested"
+        ]
+      },
+      {
+        "phaseNumber": 4,
+        "phaseName": "Launch & Optimization",
+        "duration": "Weeks 10-12",
+        "description": "Final launch, post-launch monitoring, and initial optimization based on real user data. Ongoing support begins.",
+        "milestones": [
+          "Website live",
+          "First performance report delivered"
+        ]
+      }
+    ],
+    "timelineTotal": "12 weeks",
+    "pricingTiers": [
+      {
+        "tierName": "Foundation",
+        "price": "$38,000",
+        "description": "Ideal for firms seeking a modern, high-impact digital presence with core features and foundational analytics.",
+        "features": [
+          "UX research & custom design",
+          "Webflow development",
+          "Basic CMS migration"
+        ],
+        "recommended": false
+      },
+      {
+        "tierName": "Growth",
+        "price": "$56,000",
+        "description": "Our recommended solution, including robust content strategy, advanced analytics, and quarterly optimization for measurable impact.",
+        "features": [
+          "All Foundation features",
+          "Comprehensive content strategy",
+          "Case study development",
+          "Advanced analytics & reporting"
+        ],
+        "recommended": true
+      },
+      {
+        "tierName": "Scale",
+        "price": "$84,000",
+        "description": "For firms seeking a transformative digital ecosystem, including brand strategy workshops, custom integrations, and extended support.",
+        "features": [
+          "All Growth features",
+          "Brand strategy workshops",
+          "Custom integrations (CRM, careers portal)",
+          "Editorial calendar & content creation",
+          "One year of priority support"
+        ],
+        "recommended": false
+      }
+    ],
+    "caseExamples": [
+      {
+        "title": "Transforming a National Architecture Firm’s Digital Presence",
+        "context": "A Canadian architecture firm preparing for international expansion needed a website that showcased their portfolio and supported business development.",
+        "result": "Delivered a 62% increase in qualified leads and a 48% reduction in site management time within six months."
+      },
+      {
+        "title": "Elevating a Boutique Design Agency’s Brand Online",
+        "context": "A design agency sought to reposition itself as a thought leader and attract higher-value clients.",
+        "result": "Achieved a 3x increase in inbound client inquiries and secured two major national contracts post-launch."
+      }
+    ],
+    "ctaHeadline": "Let’s Build the Future of Formulate Studio’s Digital Brand",
+    "ctaBody": "We’re excited to help you elevate your digital presence and accelerate your growth. Let’s schedule a conversation to align on your goals and start the process.",
+    "ctaButtonText": "Schedule a Discovery Call",
+    "contactName": "Marcello Gortana",
+    "contactTitle": "Founder",
+    "contactEmail": "marcello@designtennis.com",
+    "contactPhone": "+1 (416) 555-0198"
+  },
+  "enriched": {
+    "tone": "professional, collaborative, transparent, strategic, data-driven",
+    "positioning": "Tennis Inc positions itself as a process-driven digital agency that delivers measurable impact and digital transformation for medium to enterprise organizations through holistic design and technology solutions.",
+    "serviceList": [
+      "Web Design",
+      "Web Development",
+      "UX Design",
+      "E-Commerce",
+      "Webflow Development",
+      "Content Strategy",
+      "Brand Strategy",
+      "Analytics & Reporting",
+      "Ongoing Support",
+      "Website and CMS Migration",
+      "Performance & Security Optimization",
+      "Accessibility Compliance",
+      "Privacy Compliance",
+      "Product Discovery & Strategy",
+      "Prototyping & Validation",
+      "User Experience Audits",
+      "Product Design Systems",
+      "Workflow & Process Tools",
+      "Custom Web Applications",
+      "AI and Data Integrations",
+      "Website Management",
+      "Automation & Workflow Integration",
+      "Strategic Support",
+      "Accessibility Monitoring"
+    ],
+    "valuePropositions": [
+      "Process-driven approach ensures consistent, high-quality results.",
+      "Holistic digital solutions designed for scalability and adaptability.",
+      "Emphasis on measurable impact and data-backed outcomes.",
+      "Long-term partnership focused on client success and peace of mind.",
+      "Expertise in both creative and technical domains for seamless digital transformation."
+    ],
+    "differentiators": [
+      "Structured, process-driven methodology for delivering digital solutions.",
+      "Strong emphasis on measurable business impact and data-driven decision making.",
+      "Integrated approach combining creative design, technology, and strategic consulting.",
+      "Commitment to transparency, reliability, and long-term client success."
+    ]
+  }
+}
