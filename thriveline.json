@@ -3,8 +3,8 @@
   "companyName": "ThriveLine",
   "contactName": "Marie-line",
   "contactEmail": "marieline.villers@gmail.com",
-  "generationTime": 86,
-  "createdAt": "2026-02-26T22:23:16.125Z",
+  "generationTime": 69,
+  "createdAt": "2026-02-26T22:32:51.852Z",
   "brandStyle": {
     "primaryColor": "#ff6900",
     "secondaryColor": "#cf2e2e",
@@ -13,46 +13,47 @@
     "bodyFont": "Inter"
   },
   "proposal": {
-    "fictionalClientName": "Okanagan Artisan Interiors",
+    "fictionalClientName": "Okanagan Interior Design Studio",
     "fictionalClientIndustry": "Interior Design",
-    "fictionalClientDescription": "Okanagan Artisan Interiors is a Kelowna-based interior design studio specializing in custom residential and boutique commercial spaces. They are known for their collaborative approach and a portfolio of elevated, locally inspired designs.",
-    "coverHeadline": "Elevate Your Online Presence: A Digital Growth Proposal for Okanagan Artisan Interiors",
-    "coverSubheadline": "Tailored Web Design & SEO Solutions for Kelowna’s Leading Interior Design Studio",
+    "fictionalClientDescription": "Okanagan Interior Design Studio is a boutique firm based in Kelowna, specializing in residential and light commercial interior design projects. Their team is known for a refined, contemporary approach and a growing reputation for transforming local homes and spaces.",
+    "coverHeadline": "Elevate Your Interior Design Brand Online",
+    "coverSubheadline": "A Custom Web & SEO Solution for Okanagan Interior Design Studio",
     "coverDate": "February 26, 2026",
-    "clientOverview": "Okanagan Artisan Interiors has carved out a reputation in Kelowna for delivering inspired, high-end interiors that reflect both client vision and Okanagan character. With a growing portfolio of residential and boutique commercial projects, your studio has become a go-to for discerning clients seeking a collaborative, detail-driven design process. Recent word-of-mouth success and local press features have led to increased demand, and your team is now ready to invest in a digital presence that matches your brand’s elevated standards.\n\nYour current website, while functional, doesn’t fully capture the sophistication of your work or the warmth of your approach. As you look to attract more premium residential clients and expand your reach into boutique commercial projects, you recognize the need for a digital strategy that not only showcases your portfolio but actively drives qualified inquiries. You value personal partnerships and want a digital agency that will guide you transparently through this next stage of growth.",
-    "problemAnalysis": "Despite your studio’s strong reputation and steady word-of-mouth referrals, your online presence is not working as hard as it could for you. The current website design is dated and lacks the visual impact and easy navigation that today’s design-savvy clients expect. Portfolio updates are cumbersome, and it’s challenging to highlight recent projects or client testimonials in a way that feels fresh and engaging. As a result, prospective clients often reach out with basic questions that could be answered online, or worse, may not reach out at all.\n\nAdditionally, your Google search visibility is limited, with competitors appearing above you for key terms like “Kelowna interior designer” and “custom commercial interiors Kelowna.” Your Google Business Profile is incomplete, and you’re not taking full advantage of local SEO or online reviews. This means you’re missing opportunities to be discovered by homeowners and business owners actively searching for your services.",
-    "opportunitySection": "This is an exciting opportunity to transform Okanagan Artisan Interiors’ digital presence into a true growth engine. By investing in a modern, visually stunning website and a strategic local SEO campaign, you will not only enhance your brand perception but also attract and convert more qualified leads. Our approach prioritizes both beautiful design and exceptional user experience, ensuring visitors are inspired by your portfolio and motivated to contact your team.\n\nWith our expertise in local SEO and reputation management, we’ll position you ahead of competitors for the searches that matter most. You’ll benefit from clear, jargon-free reporting and ongoing support—empowering you to focus on your craft while we drive measurable results online. Together, we’ll build a digital foundation that supports both your immediate goals and long-term vision for growth.",
+    "clientOverview": "Okanagan Interior Design Studio has established a strong reputation in Kelowna for creating beautiful, functional living spaces. With a growing portfolio of both residential and boutique commercial projects, your studio is ready to expand its digital footprint and attract more high-value clients. We understand that you’re seeking a web presence that reflects your design expertise and helps you stand out in a competitive local market.\n\nYour current website, while functional, no longer aligns with your brand’s sophistication or your clients’ expectations. You’ve expressed a desire for a website that not only showcases your portfolio but also drives qualified leads and demonstrates your authority within Kelowna’s design community. You are also looking to improve your local search visibility, ensuring that when Kelowna homeowners or business owners search for design expertise, your studio is top of mind.",
+    "problemAnalysis": "The interior design sector in Kelowna is highly competitive, with new firms and independent designers entering the market every year. Okanagan Interior Design Studio’s current website is visually outdated and difficult to update, limiting your ability to showcase new projects and testimonials. Additionally, your site ranks inconsistently for key local search terms, causing missed opportunities for organic discovery by new clients.\n\nYou’ve also noticed that potential clients are increasingly coming from online searches and social media, but your studio is not currently leveraging these channels to their full potential. Without a cohesive digital strategy, you risk losing visibility to competitors who are investing in robust web design, SEO, and ongoing digital marketing. Finally, the absence of clear tracking and reporting makes it difficult to measure the impact of your online efforts and refine your approach over time.",
+    "opportunitySection": "There is a significant opportunity for Okanagan Interior Design Studio to position itself as Kelowna’s go-to design authority with an elevated, conversion-driven website and a targeted local SEO strategy. By investing in a custom site that beautifully presents your portfolio, client testimonials, and unique process, you’ll create a first impression that converts more browsers into leads. Strategic on-page SEO and local directory optimization will help you rise above the competition in relevant Kelowna searches.\n\nOur approach combines design excellence with proven digital marketing strategies, ensuring your studio attracts the right clients and makes the most of every online interaction. With proactive reporting and ongoing support, you’ll have the clarity and confidence to make data-driven decisions and continue growing your business well into the future.",
     "recommendedServices": [
       {
         "name": "Custom Web Design & Development",
-        "description": "A fully custom, mobile-optimized website that captures your brand’s sophistication and makes it easy for clients to explore your portfolio, learn about your process, and inquire about projects. Our design will reflect the artistry and warmth that set you apart.",
+        "description": "We’ll create a bespoke website that reflects your brand’s style and expertise, making it easy for clients to explore your portfolio and get in touch. Your new site will be mobile-friendly, fast, and fully optimized for user experience.",
         "deliverables": [
-          "Bespoke website design and development (up to 12 pages)",
-          "Integrated, filterable project portfolio",
-          "Client testimonial and review integration",
-          "Contact and inquiry forms with tracking",
-          "Web hosting and website maintenance for 12 months"
+          "Custom website design (up to 10 pages)",
+          "Portfolio gallery with project filters",
+          "Integrated contact and lead forms",
+          "Mobile-responsive development",
+          "On-page SEO setup"
         ]
       },
       {
-        "name": "Local SEO & Google Business Profile Optimization",
-        "description": "Strategic optimization to ensure you’re found by local clients searching for interior design services. Includes keyword research, on-page SEO, local listings management, and a review-building strategy.",
+        "name": "Local SEO & Google Business Profile Management",
+        "description": "Boost your studio’s visibility in Kelowna searches and map results with targeted local SEO. We’ll optimize your Google Business Profile, citations, and local keywords to drive more qualified leads.",
         "deliverables": [
-          "Local keyword research and competitor analysis",
-          "On-page SEO for all core pages",
-          "Google Business Profile optimization and posting",
-          "Local citation cleanup and directory submissions",
-          "Monthly SEO performance reporting"
+          "Local keyword research & targeting",
+          "Google Business Profile optimization",
+          "Citation cleanup & submissions",
+          "Competitor tracking",
+          "Monthly performance reporting"
         ]
       },
       {
-        "name": "Lead Generation & Instagram Marketing",
-        "description": "Targeted digital campaigns to drive qualified inquiries and grow your audience. We’ll enhance your Instagram presence with curated content and connect it seamlessly to your website for maximum impact.",
+        "name": "Lead Generation & Reporting",
+        "description": "Convert more visitors into inquiries with streamlined lead capture and clear performance dashboards. We’ll set up tracking to monitor results and provide transparent, actionable insights.",
         "deliverables": [
-          "Instagram content planning (2 posts/week for 3 months)",
-          "Lead capture form and tracking integration",
-          "Google Ads setup and management (optional add-on)",
-          "Monthly campaign performance reports"
+          "Lead form integration & tracking",
+          "Custom dashboard setup",
+          "Monthly summary reports",
+          "Ongoing website maintenance",
+          "Dedicated support"
         ]
       }
     ],
@@ -61,110 +62,108 @@
         "phaseNumber": 1,
         "phaseName": "Discovery & Strategy",
         "duration": "Weeks 1-2",
-        "description": "We’ll kick off with a collaborative strategy session to understand your goals, brand, and audience. We’ll conduct a digital audit and competitive analysis to inform our approach.",
+        "description": "We’ll kick off with a collaborative workshop to understand your vision, goals, and brand identity. This phase includes competitor research, technical audits, and a detailed project roadmap.",
         "milestones": [
-          "Kickoff meeting and brand deep-dive",
-          "Digital audit and competitor review"
+          "Kickoff workshop completed",
+          "Strategy & sitemap approved"
         ]
       },
       {
         "phaseNumber": 2,
         "phaseName": "Design & Content",
         "duration": "Weeks 3-5",
-        "description": "Our team will create website wireframes and design mockups for your review. We’ll work with you to curate portfolio content, testimonials, and key messaging.",
+        "description": "Our team will design custom website mockups and collaborate with you to refine visuals and messaging. We’ll also support you in organizing project photos, testimonials, and service descriptions.",
         "milestones": [
-          "Presentation of design concepts",
-          "Approval of final designs and content"
+          "Design mockups delivered",
+          "Content finalized"
         ]
       },
       {
         "phaseNumber": 3,
-        "phaseName": "Development & SEO Setup",
+        "phaseName": "Development & SEO Launch",
         "duration": "Weeks 6-8",
-        "description": "We’ll build your new website, implement on-page SEO, and optimize your Google Business Profile. Local citations and directories will be updated for consistency.",
+        "description": "We’ll build your website, optimize it for speed and search engines, and implement all tracking tools. After your review, we’ll launch the site and initiate local SEO enhancements.",
         "milestones": [
-          "Website development and staging",
-          "SEO and Google Business Profile optimization"
+          "Website developed and tested",
+          "SEO and analytics live",
+          "Site launched"
         ]
       },
       {
         "phaseNumber": 4,
-        "phaseName": "Launch & Promotion",
-        "duration": "Weeks 9-10",
-        "description": "Your new website goes live! We’ll launch your Instagram content calendar and, if selected, Google Ads. We’ll provide training and ongoing support as you transition.",
+        "phaseName": "Ongoing Optimization & Support",
+        "duration": "Month 3 onward",
+        "description": "Post-launch, we’ll monitor performance, manage your Google Business Profile, and provide monthly reports. Our team is on hand for updates, troubleshooting, and ongoing growth initiatives.",
         "milestones": [
-          "Website launch",
-          "Kickoff of Instagram and lead gen campaigns"
+          "First monthly report delivered",
+          "Continuous support in place"
         ]
       }
     ],
-    "timelineTotal": "10 weeks",
+    "timelineTotal": "8-10 weeks to launch, with ongoing support thereafter",
     "pricingTiers": [
       {
         "tierName": "Foundation",
-        "price": "$7,200",
-        "description": "Ideal for studios focused on establishing a professional online presence with core SEO essentials.",
+        "price": "$5,800",
+        "description": "Ideal for studios seeking a beautiful, functional site and basic SEO essentials.",
         "features": [
-          "Custom website (up to 8 pages)",
-          "Basic portfolio integration",
-          "Google Business Profile setup",
-          "On-page SEO for key pages",
-          "3 months hosting & support"
+          "Custom 6-page website",
+          "Mobile optimization",
+          "Basic local SEO setup",
+          "Contact/lead form integration"
         ],
         "recommended": false
       },
       {
         "tierName": "Growth",
-        "price": "$11,500",
-        "description": "Comprehensive package for studios ready to attract and convert more local leads with ongoing digital support.",
+        "price": "$9,900",
+        "description": "Our most popular package: full-featured website, robust SEO, lead gen, and reporting.",
         "features": [
-          "Custom website (up to 12 pages)",
-          "Advanced, filterable portfolio",
-          "Full local SEO & citation cleanup",
-          "Google Business Profile management",
-          "Instagram content (3 months)",
-          "12 months hosting & support"
+          "Custom 10-page website",
+          "Portfolio gallery",
+          "Full local SEO & Google Business Profile management",
+          "Lead tracking & monthly reporting",
+          "Ongoing website maintenance (3 months included)"
         ],
         "recommended": true
       },
       {
         "tierName": "Scale",
-        "price": "$17,500",
-        "description": "For studios seeking to dominate the local market with enhanced marketing and reporting.",
+        "price": "$16,000",
+        "description": "For ambitious studios: advanced marketing integrations and long-term optimization.",
         "features": [
-          "All Growth features",
-          "Google Ads setup & management (3 months)",
-          "Monthly competitor & keyword tracking",
-          "Automated review collection strategy",
-          "Custom reporting dashboard",
-          "Priority support"
+          "Custom 15+ page website",
+          "Enhanced portfolio & blog",
+          "Advanced SEO & citation management",
+          "Instagram marketing setup",
+          "6 months ongoing support & reporting"
         ],
         "recommended": false
       }
     ],
     "caseExamples": [
       {
-        "title": "Kelowna Veterinary Hospital Website & SEO Revamp",
-        "context": "A local veterinary clinic needed a modern website and improved local search rankings to attract more pet owners.",
-        "result": "Achieved a 62% increase in organic website traffic and doubled monthly appointment requests within four months."
+        "title": "Kelowna Veterinary Hospital Website Revamp",
+        "context": "We redesigned their website and implemented a local SEO strategy to help them stand out among local veterinary clinics.",
+        "result": "Website traffic increased by 72% in six months, with a 40% rise in local appointment inquiries."
       },
       {
-        "title": "Boutique Salon Local SEO Success",
-        "context": "A Kelowna salon wanted to attract new clients and improve its Google visibility.",
-        "result": "Moved from page 3 to page 1 on Google for key local searches, resulting in a 40% boost in new client bookings."
+        "title": "Lakeshore Spa Digital Refresh",
+        "context": "A boutique spa needed a modern website and improved Google visibility to drive more bookings.",
+        "result": "Achieved top 3 local search rankings and doubled monthly booking requests within four months."
       }
     ],
     "ctaHeadline": "Ready to Transform Your Digital Presence?",
-    "ctaBody": "Let’s work together to elevate Okanagan Artisan Interiors online. We’re excited to partner with you and deliver results you can see and feel. Book your discovery call to get started.",
-    "ctaButtonText": "Schedule a Discovery Call",
+    "ctaBody": "Let’s collaborate to make Okanagan Interior Design Studio the first choice for discerning Kelowna clients. We’re excited to help you grow with a website and SEO strategy as sophisticated as your designs.",
+    "ctaButtonText": "Book Your Discovery Call",
     "contactName": "Marie-line Villers",
     "contactTitle": "Owner",
     "contactEmail": "marieline.villers@gmail.com",
-    "contactPhone": "250-555-0190"
+    "contactPhone": "250-555-0198"
   },
   "enriched": {
-    "tone": "friendly, transparent, knowledgeable, supportive, results-driven",
-    "positioning": "Thriveline positions itself as a boutique, Kelowna-based digital partner providing expert web design, SEO, and ongoing support for small businesses seeking reliable, results-focused online growth.",
+    "tone": "supportive, transparent, personable, knowledgeable, results-driven",
+    "positioning": "Thriveline positions itself as a trusted, local digital partner providing tailored web design and SEO solutions for Kelowna businesses seeking professional, hands-off online growth.",
     "serviceList": [
       "Web Design",
       "SEO",
@@ -179,26 +178,24 @@
       "Website Maintenance",
       "Ongoing Support",
       "Google Business Profile Management",
-      "Content Optimization",
-      "Competitor & Keyword Tracking",
+      "On-Page SEO & Content Optimization",
       "Local Citations & Directory Cleanup",
-      "Review Strategy",
-      "Off-page SEO",
-      "Content Support"
+      "Competitor & Keyword Tracking",
+      "AI-Enhanced Insights & Content Optimization"
     ],
     "valuePropositions": [
-      "Personal, responsive service from a small, dedicated team",
-      "Custom solutions tailored to each business, never cookie-cutter",
-      "Clear, jargon-free communication and education",
-      "Results-driven strategies focused on local visibility and business growth",
-      "Ongoing support and transparent reporting for peace of mind"
+      "Personal, responsive service with direct access to a small, skilled team",
+      "Custom solutions tailored to each client's business goals",
+      "Transparent, jargon-free communication and honest pricing",
+      "Proactive, professional website care with full client ownership and control",
+      "Results-focused strategies that adapt to changing digital trends, including AI search"
     ],
     "differentiators": [
-      "Woman-owned, locally based agency with deep community roots",
-      "Direct access to a small, skilled team—no getting passed around",
-      "Emphasis on education, transparency, and client empowerment",
-      "Custom, non-templated solutions with ongoing support",
-      "Focus on long-term partnerships rather than one-off projects"
+      "Locally based, woman-owned agency with deep roots in Kelowna",
+      "Direct, personal service from a small, expert team—no passing clients around",
+      "Full transparency and client ownership of all digital assets",
+      "Custom, never-template solutions tailored to each business",
+      "Proactive, ongoing support and clear, human-friendly reporting"
     ]
   }
 }
