@@ -1,0 +1,573 @@
+{
+  "slug": "otto",
+  "companyName": "Otto",
+  "contactName": "Pete Leddy",
+  "contactEmail": "pete@thinkotto.com",
+  "generationTime": 24,
+  "createdAt": "2026-02-27T10:31:05.617Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": ""
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // OTTO // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Otto is losing 400 hours annually on proposals. This is where it all drains.",
+    "heroSubheadline": "Currently, crafting proposals eats into hours that could win clients. With 47-second automation, Otto reclaims this time.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Otto is bleeding resources through inefficient proposal processes.",
+    "problems": [
+      {
+        "title": "Hours Wasted",
+        "description": "Otto spends an average of 20 hours per week on proposals. That's over 1,000 hours a year not spent on client acquisition."
+      },
+      {
+        "title": "Client Response Delays",
+        "description": "Delays in proposal delivery lead to missed opportunities. Every day a proposal is late is a potential client lost."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Manually crafted proposals lead to branding inconsistencies. Each inconsistency risks Otto's professional image, costing client trust."
+      },
+      {
+        "title": "Overhead Costs",
+        "description": "High labor costs from manual proposal writing. This drains financial resources that could be reinvested in growth."
+      },
+      {
+        "title": "Reduced Team Morale",
+        "description": "Team members are bogged down with repetitive tasks. This decreases morale and productivity, impacting Otto's bottom line."
+      },
+      {
+        "title": "Lost Competitive Edge",
+        "description": "Slow proposals mean competitors get there first. Otto misses out on the chance to secure clients quickly."
+      }
+    ],
+    "solutionIntro": "Our AI system replaces these inefficiencies with streamlined automation.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, crafting each proposal is a manual slog. Our system generates complete proposals in under 60 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Proposals currently risk inconsistent branding. Our solution ensures every proposal aligns with Otto's professional image.",
+        "tags": [
+          "Branding",
+          "Professionalism",
+          "Consistency"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Real-Time Tracking",
+        "description": "Without tracking, proposals disappear into a void. Our system tracks proposal views and client interactions instantly.",
+        "tags": [
+          "Tracking",
+          "Insights",
+          "Data"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "AI Chatbot Assistance",
+        "description": "Manual follow-ups are time-consuming. Our AI chatbot engages clients immediately, enhancing responsiveness.",
+        "tags": [
+          "Engagement",
+          "Client Interaction",
+          "AI"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Resource Reallocation",
+        "description": "Current processes waste valuable resources. Automated proposals free up time and money for strategic initiatives.",
+        "tags": [
+          "Resource Management",
+          "Growth",
+          "Optimization"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "$43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC // COLUMBIA, VA",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Otto's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Otto around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Otto.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transforming Acme Corp's Success with Otto's Expertise",
+    "heroSubheadline": "We craft data-driven marketing strategies to increase your ROI. Let's enhance your brand presence and drive sales.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently experiencing significant losses due to missed opportunities.",
+    "problems": [
+      {
+        "title": "Low Conversion Rates",
+        "description": "Every visitor who leaves your site without converting is revenue walking out the door. This results in a 20% potential monthly revenue loss."
+      },
+      {
+        "title": "Poor Brand Awareness",
+        "description": "Without strong brand recognition, Acme Corp loses potential customers to competitors. This results in a 15% lower market share."
+      },
+      {
+        "title": "Ineffective Ad Spend",
+        "description": "Suboptimal ad targeting leads to wasted budget. This results in a 25% increase in acquisition costs."
+      },
+      {
+        "title": "Lagging Digital Presence",
+        "description": "An outdated digital presence drives customers away. This results in a 30% reduction in potential engagement."
+      },
+      {
+        "title": "Weak Customer Retention",
+        "description": "Lack of engagement strategies causes loyal customers to churn. This results in a 10% annual revenue loss."
+      },
+      {
+        "title": "Limited Market Insights",
+        "description": "Without data-backed insights, strategic decisions are less effective. This results in a 20% slower growth rate."
+      }
+    ],
+    "solutionIntro": "Our tailored solutions directly address these issues to transform opportunities into success.",
+    "solutions": [
+      {
+        "icon": "📈",
+        "title": "Digital Advertising",
+        "description": "Maximize your ad spend efficiency by reaching the right audience. This increases conversion rates and reduces costs.",
+        "tags": [
+          "Advertising",
+          "Efficiency",
+          "ROI"
+        ]
+      },
+      {
+        "icon": "🔍",
+        "title": "Brand Strategy",
+        "description": "Enhance brand visibility through strategic positioning. This improves recognition and strengthens market share.",
+        "tags": [
+          "Branding",
+          "Visibility",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Market Research",
+        "description": "Gain actionable insights into market trends. This informs strategic decisions and improves competitiveness.",
+        "tags": [
+          "Insights",
+          "Strategy",
+          "Competitiveness"
+        ]
+      },
+      {
+        "icon": "🌐",
+        "title": "Content Marketing",
+        "description": "Engage your audience with relevant content. This boosts digital presence and customer loyalty.",
+        "tags": [
+          "Engagement",
+          "Loyalty",
+          "Content"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Increase in conversion rates"
+      },
+      {
+        "value": "20",
+        "suffix": "%",
+        "label": "Reduction in acquisition costs"
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Increase in brand engagement"
+      }
+    ],
+    "whyUsIntro": "Choose Otto for our proven track record and strategic insights.",
+    "whyUsCards": [
+      {
+        "icon": "🏆",
+        "title": "Proven Expertise",
+        "description": "Our team has a strong history of delivering measurable results for clients across industries."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Approach",
+        "description": "We prioritize your business goals and tailor strategies to meet your unique needs."
+      },
+      {
+        "icon": "📈",
+        "title": "Data-Driven Strategies",
+        "description": "We leverage data to craft strategies that drive growth and improve ROI."
+      },
+      {
+        "icon": "🌟",
+        "title": "Comprehensive Services",
+        "description": "From strategy to execution, we offer a full suite of marketing services to drive success."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Average increase in client revenue"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client retention rate"
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Reduction in client acquisition costs"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Increase in client brand visibility"
+      }
+    ],
+    "teamIntro": "Meet the dedicated team driving your success.",
+    "team": {
+      "initials": "PL",
+      "name": "Pete Leddy",
+      "role": "Owner",
+      "titleNote": "",
+      "bio": "Leading strategy and fostering client relationships to ensure success. Over 15 years of industry experience.",
+      "linkedin": "",
+      "phone": "+1 757-622-4050"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery Phase",
+        "badge": "Weeks 1 to 3",
+        "description": "We begin by understanding your business and market landscape.",
+        "bullets": [
+          "Conduct market research",
+          "Identify key opportunities"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "We create a tailored strategy to address your specific challenges.",
+        "bullets": [
+          "Define objectives",
+          "Develop action plan"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 9",
+        "description": "We execute the strategy with precision and agility.",
+        "bullets": [
+          "Launch campaigns",
+          "Monitor performance"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Optimization",
+        "badge": "Weeks 10 to 12",
+        "description": "We analyze results and refine tactics for maximum impact.",
+        "bullets": [
+          "Evaluate results",
+          "Adjust strategy"
+        ]
+      }
+    ],
+    "pricingIntro": "Explore our investment options tailored to your needs.",
+    "pricing": [
+      {
+        "name": "Basic Package",
+        "subtitle": "",
+        "description": "Ideal for businesses seeking foundational support.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Digital Advertising",
+          "Basic Analytics"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Recommended for businesses aiming for significant growth.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Comprehensive Strategy",
+          "Enhanced Analytics"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Package",
+        "subtitle": "",
+        "description": "Perfect for businesses requiring extensive market presence.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full-Service Marketing",
+          "Advanced Insights"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Acme Corp's Future?",
+    "ctaDescription": "Let's discuss how we can drive your business forward. No obligation, just a conversation.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "pete@thinkotto.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Otto",
+    "footerSub": "Strategic Marketing for Tomorrow"
+  },
+  "enriched": {
+    "tone": "professional",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Pete",
+    "last_name": "Leddy",
+    "email": "pete@thinkotto.com",
+    "company_phone": "+1 757-622-4050",
+    "mobile_number": "17576369444",
+    "company_name": "Otto",
+    "company_website": "https://www.thinkotto.com",
+    "company_domain": "thinkotto.com",
+    "company_description": "Otto is a full-service advertising, web development, and public relations agency. We partner with our clients translating your company's business objectives into creative communications that engage customers, drive loyalty, and build profitable growth.",
+    "headline": "President At Otto Design And Marketing",
+    "job_title": "Owner",
+    "industry": "Marketing & Advertising",
+    "company_size": "18",
+    "company_technologies": "ai, android, bootstrap framework, flutter, gmail, google apps, google cloud hosting, google font api, mobile friendly, nginx, python, remote, sharepoint, stackadapt, wordpress.org",
+    "city": "Virginia Beach",
+    "state": "Virginia",
+    "country": "United States",
+    "company_full_address": "1611 Colley Avenue, Suite C, Norfolk, Virginia 23517, US",
+    "seniority_level": "owner",
+    "company_annual_revenue_clean": "7M",
+    "linkedin": "https://www.linkedin.com/in/pete-leddy-4a95143",
+    "company_linkedin": "https://www.linkedin.com/company/otto-design-and-marketing",
+    "company_founded_year": "2000",
+    "keywords": "marketing, advertising, print, ad design & campaign development, logo & identity development, video production, photography, web design, web development, social media, search engine optimization, media planning, public relations, advertising services, information technology & services, consumer internet, consumers, internet, seo, search marketing, marketing & advertising",
+    "personalization": "You've been around since 2000, way before social media took off, which is pretty interesting.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
