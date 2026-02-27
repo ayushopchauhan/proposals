@@ -1,0 +1,580 @@
+{
+  "slug": "duckiee",
+  "companyName": "Duckiee",
+  "contactName": "Kat Marriott",
+  "contactEmail": "kat@rubberduckiee.com",
+  "generationTime": 18,
+  "createdAt": "2026-02-27T13:57:45.329Z",
+  "brandStyle": {
+    "primaryColor": "rgba(0,0,0,.8)",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "dashicons",
+    "bodyFont": "canada-type-gibson",
+    "logoUrl": "https://rubberduckiee.com/wp-content/themes/rubber_duckiee/assets/images/rubberduckiee.svg"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // DUCKIEE // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Duckiee is losing 100 hours annually writing proposals. Here's the breakdown.",
+    "heroSubheadline": "Currently, crafting a Duckiee proposal is a lengthy task. With our system, it's done in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Every delay in proposal writing is an ongoing drain on resources.",
+    "problems": [
+      {
+        "title": "Time Bleed",
+        "description": "Each proposal takes 5 hours, totaling 500 hours annually. Those are hours not spent designing or developing for clients."
+      },
+      {
+        "title": "Missed Opportunities",
+        "description": "Delayed proposals mean missed client acquisition. Every day waiting is a potential loss of new business."
+      },
+      {
+        "title": "Resource Drain",
+        "description": "Allocating staff to proposal writing pulls them away from project delivery. This costs Duckiee approximately £10,000 a year."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Manual proposals risk inconsistency. Inconsistency weakens brand trust and potentially loses projects."
+      },
+      {
+        "title": "High Stress",
+        "description": "Pressure to meet proposal deadlines creates stress, leading to burnout. Burnout reduces productivity and creativity."
+      },
+      {
+        "title": "Proposal Errors",
+        "description": "Errors in proposals can lead to client mistrust. Correcting these errors costs additional time and resources."
+      }
+    ],
+    "solutionIntro": "Our AI system replaces all these inefficiencies with seamless automation.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Proposals currently take hours to draft manually. Our system delivers complete proposals in under a minute.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Manual creation risks brand inconsistency. Our AI ensures every proposal is perfectly branded and client-ready.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Trust"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Real-Time Tracking",
+        "description": "Currently, tracking proposal engagement is manual. Our system offers real-time tracking and insights.",
+        "tags": [
+          "Analytics",
+          "Engagement",
+          "Insights"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Reduced Stress",
+        "description": "Proposal deadlines create pressure and stress. Automated generation reduces stress and increases focus on design.",
+        "tags": [
+          "Wellness",
+          "Focus",
+          "Productivity"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Error-Free Proposals",
+        "description": "Manual drafting can lead to errors. Our AI ensures accuracy in every proposal.",
+        "tags": [
+          "Accuracy",
+          "Professionalism",
+          "Reliability"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Duckiee's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Duckiee around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Duckiee.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Unlock the Digital Potential of Acme Corp with Thoughtful Design",
+    "heroSubheadline": "We offer a comprehensive plan to enhance your online visibility and conversion rates through custom WordPress solutions.",
+    "heroTags": [],
+    "problemsIntro": "Every visitor who leaves your site without converting is revenue walking out the door.",
+    "problems": [
+      {
+        "title": "Low Search Visibility",
+        "description": "Without optimized search engine presence, potential customers can't find you. This leads to a significant loss in potential revenue."
+      },
+      {
+        "title": "High Bounce Rate",
+        "description": "A cluttered site confuses visitors, causing them to leave. This results in a loss of potential sales."
+      },
+      {
+        "title": "Slow Loading Times",
+        "description": "Each second of delay in page load time results in a 7% decrease in conversions. This is revenue slipping away."
+      },
+      {
+        "title": "Poor Mobile Experience",
+        "description": "With more users on mobile, a poor mobile design means losing half of your potential clients."
+      },
+      {
+        "title": "Unclear Branding",
+        "description": "Inconsistent branding confuses customers, leading to a loss of trust and sales opportunities."
+      },
+      {
+        "title": "Lack of Analytics Insight",
+        "description": "Not understanding visitor behavior means missed opportunities for optimization and sales growth."
+      }
+    ],
+    "solutionIntro": "Our tailored services directly address these issues, turning losses into gains.",
+    "solutions": [
+      {
+        "icon": "🔍",
+        "title": "SEO & Visibility",
+        "description": "Enhance your search engine presence to capture more leads. Drive traffic that converts.",
+        "tags": [
+          "SEO",
+          "Visibility",
+          "Traffic"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Responsive Design",
+        "description": "Ensure a seamless experience across all devices. Increase engagement and conversions.",
+        "tags": [
+          "Design",
+          "Mobile",
+          "Usability"
+        ]
+      },
+      {
+        "icon": "🚀",
+        "title": "Performance Optimization",
+        "description": "Boost your site's speed to keep visitors engaged. Reduce bounce rates effectively.",
+        "tags": [
+          "Speed",
+          "Optimization",
+          "Performance"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Analytics & Reporting",
+        "description": "Gain insights into user behavior to refine strategies. Improve decision-making and ROI.",
+        "tags": [
+          "Analytics",
+          "Insights",
+          "Strategy"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Increase in Site Traffic"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Boost in Conversion Rates"
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Improvement in Search Rankings"
+      }
+    ],
+    "whyUsIntro": "Partner with Duckiee for a thoughtful, strategic approach to web design.",
+    "whyUsCards": [
+      {
+        "icon": "🌟",
+        "title": "Proven Expertise",
+        "description": "With years of experience, we create designs that deliver results."
+      },
+      {
+        "icon": "👥",
+        "title": "Client-Centric",
+        "description": "Your needs are our priority. We tailor every solution to fit your business."
+      },
+      {
+        "icon": "⏰",
+        "title": "On-Time Delivery",
+        "description": "We respect your timelines and deliver projects when promised."
+      },
+      {
+        "icon": "🔧",
+        "title": "Custom Solutions",
+        "description": "We build from the ground up to meet your specific challenges."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "20",
+        "suffix": "Clients",
+        "label": "Successful Collaborations"
+      },
+      {
+        "value": "95",
+        "suffix": "%",
+        "label": "Client Satisfaction Rate"
+      },
+      {
+        "value": "50",
+        "suffix": "+",
+        "label": "Projects Delivered"
+      },
+      {
+        "value": "5",
+        "suffix": "Years",
+        "label": "In Business"
+      }
+    ],
+    "teamIntro": "Meet the team dedicated to your success.",
+    "team": {
+      "initials": "KM",
+      "name": "Kat Marriott",
+      "role": "Executive Director & Managing Director",
+      "titleNote": "",
+      "bio": "Kat leads with a strategic vision, ensuring each client relationship is nurtured and driven by results.",
+      "linkedin": "",
+      "phone": "+44 800 612 6614"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Research",
+        "badge": "Weeks 1 to 3",
+        "description": "We dive deep into understanding your business and goals.",
+        "bullets": [
+          "Stakeholder Interviews",
+          "Market Analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy & Planning",
+        "badge": "Weeks 4 to 5",
+        "description": "Crafting a tailored strategy to address your needs.",
+        "bullets": [
+          "SEO Strategy",
+          "Content Planning"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Design & Development",
+        "badge": "Weeks 6 to 10",
+        "description": "Bringing the plan to life with precision and care.",
+        "bullets": [
+          "Wireframing",
+          "Custom Development"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Launch & Optimization",
+        "badge": "Weeks 11 to 12",
+        "description": "Deploying your site with ongoing performance checks.",
+        "bullets": [
+          "Testing",
+          "Analytics Setup"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment tier that best matches your growth ambitions.",
+    "pricing": [
+      {
+        "name": "Starter",
+        "subtitle": "",
+        "description": "Basic package to get you started.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic SEO",
+          "Responsive Design"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth",
+        "subtitle": "",
+        "description": "Comprehensive solution for expanding businesses.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Advanced SEO",
+          "Complete Optimization"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise",
+        "subtitle": "",
+        "description": "Full-service package for large-scale operations.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full Customization",
+          "Dedicated Support"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Your Online Presence?",
+    "ctaDescription": "Let's discuss how we can help. No strings attached, just a friendly chat.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "kat@rubberduckiee.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Duckiee",
+    "footerSub": "Thoughtful Design, Lasting Impact"
+  },
+  "enriched": {
+    "tone": "warm",
+    "positioning": "Full-service agency",
+    "serviceList": [
+      "Our Services"
+    ],
+    "valuePropositions": [],
+    "differentiators": [
+      "WCAG 2.1",
+      "WCAG AAA",
+      "Section 508 - 2017",
+      "ADA Accessible"
+    ]
+  },
+  "lead": {
+    "first_name": "Kat",
+    "last_name": "Marriott",
+    "email": "kat@rubberduckiee.com",
+    "company_phone": "+44 800 612 6614",
+    "mobile_number": "",
+    "company_name": "Duckiee",
+    "company_website": "https://www.rubberduckiee.com",
+    "company_domain": "rubberduckiee.com",
+    "company_description": "A London based creative studio, operating nationwide, specialising in branding, graphic design and website development.\n\nTo increase your reach, build your brand, sell more, make an impact you need to communicate effectively. We help you do so either in print or online, or both!\n\nOur approach is simple; from inception, through to the final stages, we complement our ‘big design agency' professionalism and capabilities with the friendliness and flexibility of a small business with a hands-on supportive approach.",
+    "headline": "Executive Director & Managing Director",
+    "job_title": "Executive Director & Managing Director",
+    "industry": "Design",
+    "company_size": "4",
+    "company_technologies": "adobe media optimizer, android, cedexis radar, cloudflare, cloudflare hosting, cloudflare dns, doubleclick, flutter, gmail, google apps, gravity forms, laravel, micro, mobile friendly, remote, smtp.com, sendgrid, vimeo, wordpress.org, recaptcha",
+    "city": "London",
+    "state": "England",
+    "country": "United Kingdom",
+    "company_full_address": "164 -180 Union Street, London, England SE1 0LH, GB",
+    "seniority_level": "director",
+    "company_annual_revenue_clean": "336K",
+    "linkedin": "https://www.linkedin.com/in/katharine-marriott",
+    "company_linkedin": "https://www.linkedin.com/company/rubber-duckiee-ltd",
+    "company_founded_year": "2008",
+    "keywords": "graphic design, typesetting, print & stationary, exhibition design, popup displays & banner stands, branding & marketing, advertising, branding, identity, logos & marketing, websites, web design, hosting, wordpress & eccomerce, design services, website development, ecommerce, website design, user interface, user experience, annual reports, creative agency, responsive design, digital marketing, seo, visual identity, marketing materials, social media assets, website security, brand guidelines, multi-site systems, web accessibility, custom coding, digital technology, visual communication, client collaboration, analytics, interactive design, content management systems, inventory management, logo design, branding strategy, creative services, unique branding, custom design solutions, emotion-driven design, attention-grabbing graphics, project management, brand refresh, market research, user-friendly websites, digital presence, engaging content, creative solutions, emotional branding, cross-platform design, design innovation, professional designers, bespoke web solutions, customer engagement, brand recognition, data analytics, web development, information technology & services, e-commerce, consumer internet, consumers, internet, ux, marketing & advertising, search marketing, marketing, productivity",
+    "personalization": "You’re mixing big agency professionalism with small business friendliness, which is a unique twist for a four-person team.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
