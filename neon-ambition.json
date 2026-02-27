@@ -1,0 +1,575 @@
+{
+  "slug": "neon-ambition",
+  "companyName": "Neon Ambition",
+  "contactName": "Jordan Slover",
+  "contactEmail": "jordan@neonambition.com",
+  "generationTime": 18,
+  "createdAt": "2026-02-27T19:57:53.823Z",
+  "brandStyle": {
+    "primaryColor": "#da532c",
+    "secondaryColor": "#d3d3d3",
+    "accentColor": "#e5e8ed",
+    "headingFont": "arial",
+    "bodyFont": "var(--font-family",
+    "logoUrl": "https://neonambition.com/wp-content/uploads/2024/01/Neon-Logo-Dark-768x251.webp"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // NEON AMBITION // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Neon Ambition is losing 300 hours a year on proposals. Here's where it goes.",
+    "heroSubheadline": "Your team spends hours creating proposals for SEO and PPC, now finished in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Every minute spent manually crafting proposals is a missed opportunity for growth.",
+    "problems": [
+      {
+        "title": "Time Sinks",
+        "description": "Each proposal takes up to 5 hours. With 60 proposals a year, that's 300 hours lost. Time that could be spent on high-impact activities."
+      },
+      {
+        "title": "Missed Leads",
+        "description": "Slow proposal generation means delayed responses. Every 24-hour delay could lose a potential lead. It's costing you clients."
+      },
+      {
+        "title": "Consistency Issues",
+        "description": "Inconsistent branding in proposals leads to confusion and weakens your message. A muddled brand costs trust and sales."
+      },
+      {
+        "title": "High Labor Cost",
+        "description": "Paying skilled team members to format proposals. At $50/hour, that's $15,000 annually lost to routine tasks."
+      },
+      {
+        "title": "Error Prone",
+        "description": "Manual entries lead to errors. A single mistake can lose a client or damage relationships, bleeding revenue."
+      },
+      {
+        "title": "Untracked Proposals",
+        "description": "No tracking means no insights into client engagement. Without data, you're flying blind, missing strategic adjustments."
+      }
+    ],
+    "solutionIntro": "Our AI system transforms your proposal process, addressing each loss above.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, creating a proposal takes hours. Our system delivers a complete proposal in under 60 seconds.",
+        "tags": [
+          "Speed",
+          "Efficiency",
+          "Time-Saving"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Brand Consistency",
+        "description": "Manual formatting leads to inconsistencies. Our AI ensures every proposal aligns perfectly with your brand.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Cost Reduction",
+        "description": "Paying high labor costs for proposal work. Our system cuts those costs by automating the entire process.",
+        "tags": [
+          "Cost-Effective",
+          "Savings",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Accuracy Assurance",
+        "description": "Manual input leads to errors. Our AI eliminates errors by automating data scraping and entry.",
+        "tags": [
+          "Accuracy",
+          "Reliability",
+          "Precision"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Proposal Tracking",
+        "description": "No system for tracking proposal engagement. Our solution provides complete analytics on client interactions.",
+        "tags": [
+          "Insight",
+          "Analytics",
+          "Data-Driven"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Neon Ambition's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Neon Ambition around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Neon Ambition.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's Growth with Neon Ambition's Proven Strategies",
+    "heroSubheadline": "We'll partner with Acme Corp to turn every missed opportunity into a win using our specialized SEO, PPC, and Content services.",
+    "heroTags": [],
+    "problemsIntro": "Every visitor who leaves your site without converting is revenue walking out the door.",
+    "problems": [
+      {
+        "title": "Low Conversion Rates",
+        "description": "Your website sees a lot of traffic, yet the conversion rate is below industry standard. This means thousands of potential customers leaving without a purchase."
+      },
+      {
+        "title": "Poor SEO Rankings",
+        "description": "With current rankings, Acme Corp is missing out on 60% of potential organic traffic, letting competitors capture your audience."
+      },
+      {
+        "title": "Ineffective PPC Campaigns",
+        "description": "Current PPC campaigns are not optimized, resulting in a 30% higher cost per click than necessary. Money wasted on ineffective ads."
+      },
+      {
+        "title": "Weak Social Media Presence",
+        "description": "Social media channels are underutilized, reaching only 20% of your potential audience. Missing out on valuable engagement and brand loyalty."
+      },
+      {
+        "title": "Content Gaps",
+        "description": "Your content strategy lacks depth, resulting in low user engagement and missed opportunities for lead generation."
+      },
+      {
+        "title": "Suboptimal CRO",
+        "description": "Without a focused Conversion Rate Optimization strategy, Acme Corp is losing potential sales daily."
+      }
+    ],
+    "solutionIntro": "Our tailored solutions will directly address these losses, turning challenges into growth opportunities.",
+    "solutions": [
+      {
+        "icon": "🔍",
+        "title": "SEO Optimization",
+        "description": "Boost your search rankings to reclaim lost traffic and increase visibility.",
+        "tags": [
+          "SEO",
+          "Traffic",
+          "Visibility"
+        ]
+      },
+      {
+        "icon": "💰",
+        "title": "PPC Management",
+        "description": "Refine your PPC campaigns to reduce costs and increase effectiveness.",
+        "tags": [
+          "PPC",
+          "Cost-Efficiency",
+          "Ads"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "CRO Strategy",
+        "description": "Optimize your conversion pathways to transform visitors into customers.",
+        "tags": [
+          "CRO",
+          "Conversion",
+          "Sales"
+        ]
+      },
+      {
+        "icon": "📝",
+        "title": "Content Marketing",
+        "description": "Develop a rich content strategy to engage users and generate leads.",
+        "tags": [
+          "Content",
+          "Engagement",
+          "Leads"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Increase in conversion rate"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Reduction in PPC costs"
+      },
+      {
+        "value": "70",
+        "suffix": "%",
+        "label": "Growth in organic traffic"
+      }
+    ],
+    "whyUsIntro": "Neon Ambition is your partner in driving measurable growth.",
+    "whyUsCards": [
+      {
+        "icon": "🚀",
+        "title": "Proven Results",
+        "description": "Our strategies have consistently delivered measurable growth for businesses like yours."
+      },
+      {
+        "icon": "🤝",
+        "title": "Collaborative Approach",
+        "description": "We work closely with you, ensuring our solutions align with your business goals."
+      },
+      {
+        "icon": "📊",
+        "title": "Data-Driven Strategy",
+        "description": "Our decisions are backed by data to ensure maximum impact and efficiency."
+      },
+      {
+        "icon": "🎨",
+        "title": "Creative Solutions",
+        "description": "Our team brings innovative ideas to every project, ensuring you stand out."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "200",
+        "suffix": "+",
+        "label": "Happy Clients"
+      },
+      {
+        "value": "15",
+        "suffix": "M",
+        "label": "Managed Ad Spend"
+      },
+      {
+        "value": "500",
+        "suffix": "%",
+        "label": "Average ROI Increase"
+      },
+      {
+        "value": "10",
+        "suffix": "Years",
+        "label": "Industry Experience"
+      }
+    ],
+    "teamIntro": "Meet the passionate team driving your success.",
+    "team": {
+      "initials": "JS",
+      "name": "Jordan Slover",
+      "role": "Founder",
+      "titleNote": "",
+      "bio": "Jordan leads strategy and client relationships, ensuring each partnership thrives with tailored solutions and expert insight.",
+      "linkedin": "",
+      "phone": "+1 512-865-8050"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery and Strategy",
+        "badge": "Weeks 1 to 3",
+        "description": "We'll dive deep into understanding your goals and challenges.",
+        "bullets": [
+          "Goal Setting",
+          "Market Analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Implementation",
+        "badge": "Weeks 4 to 8",
+        "description": "Executing the plan with precision and expertise.",
+        "bullets": [
+          "SEO Optimization",
+          "PPC Setup"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Monitoring and Adjustment",
+        "badge": "Weeks 9 to 12",
+        "description": "Continuous monitoring and tweaking to ensure optimal performance.",
+        "bullets": [
+          "Performance Tracking",
+          "Strategy Refinement"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review and Scale",
+        "badge": "Weeks 13 to 16",
+        "description": "Reviewing results and planning for future growth.",
+        "bullets": [
+          "Data Analysis",
+          "Scaling Strategy"
+        ]
+      }
+    ],
+    "pricingIntro": "Explore our investment options to fuel your growth.",
+    "pricing": [
+      {
+        "name": "Starter Plan",
+        "subtitle": "",
+        "description": "Ideal for businesses looking to establish a strong online presence.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "SEO Basics",
+          "PPC Essentials"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Plan",
+        "subtitle": "",
+        "description": "Our recommended plan for businesses ready to scale.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Advanced SEO",
+          "Comprehensive PPC",
+          "Content Strategy"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Plan",
+        "subtitle": "",
+        "description": "Perfect for businesses aiming for industry leadership.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full-Service SEO",
+          "PPC Mastery",
+          "Custom Content"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Your Business? Let's Chat!",
+    "ctaDescription": "Let's explore how we can help Acme Corp achieve its goals. No strings attached, just a friendly conversation.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "jordan@neonambition.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Neon Ambition",
+    "footerSub": "Growing your business with passion and expertise."
+  },
+  "enriched": {
+    "tone": "warm, playful",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Jordan",
+    "last_name": "Slover",
+    "email": "jordan@neonambition.com",
+    "company_phone": "+1 512-865-8050",
+    "mobile_number": "61415459696",
+    "company_name": "Neon Ambition",
+    "company_website": "https://www.neonambition.com",
+    "company_domain": "neonambition.com",
+    "company_description": "",
+    "headline": "Founder @ Neon Ambition | 3x Inc 5000 Fastest Growing Private Companies | Improving Revenue Growth With Online Marketing Strategies Executed By Experienced Professionals",
+    "job_title": "Founder",
+    "industry": "Marketing & Advertising",
+    "company_size": "16",
+    "company_technologies": "ai, ahrefs, android, basis, bing ads, bootstrap framework, callrail, facebook custom audiences, facebook login (connect), facebook widget, gmail, google analytics, google apps, google font api, google plus, google tag manager, gravity forms, hotjar, hubspot, mobile friendly, python, remote, semrush, vimeo, wordpress.org, recaptcha",
+    "city": "Butler",
+    "state": "New Jersey",
+    "country": "United States",
+    "company_full_address": "701 Brazos Street, Suite 1616, Austin, Texas 78701, US",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "4.1M",
+    "linkedin": "https://www.linkedin.com/in/jordanslover",
+    "company_linkedin": "https://www.linkedin.com/company/neon-ambition",
+    "company_founded_year": "2013",
+    "keywords": "paid search, inbound marketing, content marketing, conversion optimization, search engine optimization, social media, facebook advertising, retargeting, media planning, media buying, landing page design, copywriting, display advertising, local seo, technical seo audits, link building, instagram advertising, google ads, web design, email marketing, advertising services, digital marketing, ppc marketing, seo services, social media management, law firm marketing, branding strategies, lead generation, google ads management, analytics & reporting, conversion rate optimization, pay-per-click, search engine ranking, target audience engagement, website optimization, community management, dynamic marketing strategies, cross-channel integration, copywriting services, marketing audits, competitive analysis, customer service, branding solutions, keyword research, remarketing, google shopping ads, content strategy, personalized marketing, user experience optimization, mobile responsive design, data-driven decisions, marketing solutions, search engine visibility, traffic generation, campaign management, online advertising, serp features, performance metrics, video campaigns, digital strategy, organic traffic growth, market analysis, social media advertising, content creation, client retention, website design services, marketing & advertising, seo, information technology & services, search marketing, marketing, consumer internet, consumers, internet, writing & editing, sales",
+    "personalization": "Only a few agencies have access to Google Ads Alpha programs, and you’re one of them.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
