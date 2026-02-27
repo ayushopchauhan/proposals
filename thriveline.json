@@ -3,584 +3,572 @@
   "companyName": "ThriveLine",
   "contactName": "Marie-line Villers",
   "contactEmail": "marieline.villers@gmail.com",
-  "generationTime": 27,
-  "createdAt": "2026-02-26T22:52:35.715Z",
+  "generationTime": 17,
+  "createdAt": "2026-02-27T11:10:44.073Z",
   "brandStyle": {
-    "headingFont": "Inter",
+    "primaryColor": "#32373c",
+    "secondaryColor": "rgba(0, 0, 0, 0)",
+    "accentColor": "#abb8c3",
+    "headingFont": "Figtree",
     "bodyFont": "Inter",
-    "logoUrl": ""
+    "logoUrl": "https://spcdn.shortpixel.ai/spio/ret_img,q_cdnize,to_auto,s_webp:avif/thriveline.ca/wp-content/uploads/Thriveline-logo-2-e1752495471755.png"
   },
   "proposal1": {
-    "tag": "PROPOSAL // ThriveLine // CONFIDENTIAL",
-    "heroBadge": "Digital Transformation Proposal",
-    "heroHeadline": "Unlock Your Team's Potential: Automate Proposal Writing Instantly",
-    "heroSubheadline": "Experience a 90% reduction in proposal time with our AI automation system.",
+    "tag": "PROPOSAL // THRIVELINE // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "ThriveLine is burning 300 hours a year on manual proposals. Here's the cost in time and lost growth.",
+    "heroSubheadline": "Manually crafting proposals for web design and SEO eats valuable hours. Automate with a 47-second process.",
     "heroTags": [
-      "DRUPAL",
-      "REACT",
-      "AWS",
-      "HIPAA",
-      "REST API",
-      "DEVOPS",
-      "HEADLESS CMS"
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
     ],
-    "problemsIntro": "Six systemic issues affecting your growth and engineering bandwidth right now.",
+    "problemsIntro": "Every detail below is a current drain on time, money, and potential growth.",
     "problems": [
       {
-        "title": "Manual Proposal Overload",
-        "description": "Crafting each proposal manually consumes valuable time and resources, delaying client engagement and reducing potential revenue streams."
+        "title": "Time Sink",
+        "description": "Manually creating proposals takes 5 hours each. That’s 300 hours a year not spent on client work or business growth."
       },
       {
-        "title": "Inconsistent Proposal Quality",
-        "description": "Variability in proposal content and quality can affect client trust and perceived professionalism, impacting conversion rates."
+        "title": "Lost Deals",
+        "description": "Delayed proposals mean lost momentum. Each day waiting is a day a prospect could choose a competitor."
       },
       {
-        "title": "Resource Drain on Development",
-        "description": "Technical teams are often diverted from core projects to assist with proposal creation, leading to a backlog in development work."
+        "title": "Brand Inconsistency",
+        "description": "Each proposal lacks consistent branding. Inconsistency costs you credibility and potential trust with clients."
       },
       {
-        "title": "Limited Scalability",
-        "description": "As your client base grows, the current manual process cannot scale efficiently, risking missed opportunities and client dissatisfaction."
+        "title": "Human Errors",
+        "description": "Manual entry leads to errors. Mistakes can cost deals and damage professional relationships."
       },
       {
-        "title": "Delayed Response Times",
-        "description": "Lengthy proposal preparation times lead to slower response rates, potentially losing clients to faster competitors."
+        "title": "Resource Drain",
+        "description": "With only two people, every minute spent on proposals is a minute not enhancing client sites or SEO strategies."
       },
       {
-        "title": "Lack of Data-Driven Insights",
-        "description": "Without an automated system, there's limited ability to track proposal success metrics, hindering continuous improvement efforts."
+        "title": "Missed Opportunities",
+        "description": "Time spent on proposals limits your ability to pursue new leads. Each lead not pursued is potential revenue lost."
       }
     ],
-    "solutionIntro": "Five integrated workstreams covering every dimension of transformation.",
+    "solutionIntro": "This system replaces all that wasted effort with streamlined efficiency.",
     "solutions": [
       {
-        "icon": "🌐",
-        "title": "Automated Proposal Generation",
-        "description": "Leverage AI to create high-quality, customized proposals in seconds.",
+        "icon": "1.",
+        "title": "Instant Proposals",
+        "description": "Crafting proposals takes hours. This system delivers them in under a minute, saving precious time.",
         "tags": [
-          "AI",
-          "Automation",
-          "Efficiency"
+          "Efficiency",
+          "Speed",
+          "Automation"
         ]
       },
       {
-        "icon": "⚙️",
-        "title": "Quality Assurance",
-        "description": "Ensure consistent and professional proposals with built-in quality checks.",
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Proposals often lack consistent design. The system ensures every proposal is on-brand and professional.",
         "tags": [
-          "Consistency",
+          "Branding",
           "Professionalism",
           "Trust"
         ]
       },
       {
-        "icon": "📊",
-        "title": "Data Analytics Integration",
-        "description": "Gain insights into proposal performance with advanced analytics.",
+        "icon": "3.",
+        "title": "Error-Free Documents",
+        "description": "Manual entries lead to mistakes. Automated proposals ensure accuracy and precision every time.",
         "tags": [
-          "Data-Driven",
+          "Accuracy",
+          "Reliability",
+          "Quality"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Prospect Analysis",
+        "description": "Understanding prospects takes time. The system quickly analyzes and integrates insights into proposals.",
+        "tags": [
           "Insights",
-          "Performance"
+          "Analysis",
+          "Understanding"
         ]
       },
       {
-        "icon": "🚀",
-        "title": "Scalability Solutions",
-        "description": "Easily scale your proposal operations as your business grows.",
+        "icon": "5.",
+        "title": "Lead Tracking",
+        "description": "Manual tracking is cumbersome. The system tracks engagement, helping prioritize hot leads.",
         "tags": [
-          "Growth",
-          "Scalability",
-          "Flexibility"
-        ]
-      },
-      {
-        "icon": "⏱️",
-        "title": "Rapid Response Optimization",
-        "description": "Reduce response times and enhance client engagement with faster proposals.",
-        "tags": [
-          "Speed",
-          "Engagement",
-          "Client Satisfaction"
+          "Tracking",
+          "Prioritization",
+          "Engagement"
         ]
       }
     ],
     "metrics": [
       {
-        "value": "3.4",
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
         "suffix": "x",
-        "label": "Higher portal adoption with modern UX",
-        "decimal": 1
+        "label": "Faster prospect response"
       },
       {
-        "value": "90",
-        "suffix": "%",
-        "label": "Reduction in proposal preparation time",
-        "decimal": 0
-      },
-      {
-        "value": "50",
-        "suffix": "%",
-        "label": "Increase in proposal acceptance rate",
-        "decimal": 0
+        "value": "$43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
       }
     ],
-    "whyUsIntro": "Certified experts. Award-winning experiences. And we are not afraid of the hard stuff.",
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
     "whyUsCards": [
       {
-        "icon": "🔓",
-        "title": "Open Source First",
-        "description": "No vendor lock-in. You own your platform."
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
       },
       {
-        "icon": "🏆",
-        "title": "Award-Winning Solutions",
-        "description": "Recognized globally for innovation and excellence."
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
       },
       {
-        "icon": "👨‍💻",
-        "title": "Technical Expertise",
-        "description": "Deep knowledge in modern tech stacks and integrations."
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
       },
       {
-        "icon": "🤝",
-        "title": "Client-Centric Approach",
-        "description": "Your success is our priority. Tailored solutions to fit your needs."
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
       }
     ],
     "fearCards": [
       {
-        "icon": "💀",
-        "title": "We are not afraid of inheriting legacy code.",
-        "sub": "We have migrated platforms older than some of our developers."
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
       },
       {
-        "icon": "🛠️",
-        "title": "We tackle complex integrations head-on.",
-        "sub": "From APIs to on-prem systems, we handle it all."
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
       },
       {
-        "icon": "🔍",
-        "title": "No challenge is too big.",
-        "sub": "We solve problems others shy away from."
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
       }
     ],
     "socialProof": [
       {
-        "value": "20",
+        "value": "15",
         "suffix": "+",
-        "label": "Years Combined"
-      },
-      {
-        "value": "$4.3",
-        "suffix": "M",
-        "label": "Annual Revenue",
-        "decimal": 1
-      },
-      {
-        "value": "100",
-        "suffix": "+",
-        "label": "Projects Delivered"
+        "label": "Systems Deployed"
       },
       {
         "value": "5",
-        "suffix": "★",
-        "label": "Clutch Rating"
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
       }
     ],
-    "teamIntro": "Your engagement is led directly by our CEO. No handoffs to junior account managers.",
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
     "team": {
       "initials": "AC",
       "name": "Ayush Chauhan",
-      "role": "Chief Executive Officer",
-      "titleNote": "UNLEASHED TECHNOLOGIES // COLUMBIA, VA",
-      "bio": "Leads strategy, client partnerships, and technical direction. Personally oversees every enterprise engagement from discovery through launch.",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
       "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
-      "phone": "703-304-9216"
+      "phone": "+91 8160764038"
     },
     "processIntro": "What Working With Us Looks Like",
-    "processTime": "24 Weeks",
+    "processTime": "5 Business Days",
     "process": [
       {
         "number": 1,
-        "title": "Discovery and Architecture",
-        "badge": "WK 1-4",
-        "description": "Audit existing systems, map integrations, and define technical architecture.",
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
         "bullets": [
-          "Stakeholder interviews",
-          "Technical audit"
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
         ]
       },
       {
         "number": 2,
-        "title": "Design and Prototype",
-        "badge": "WK 5-8",
-        "description": "Create wireframes and prototypes for user feedback and iteration.",
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
         "bullets": [
-          "Prototype development",
-          "User testing"
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
         ]
       },
       {
         "number": 3,
-        "title": "Development and Integration",
-        "badge": "WK 9-16",
-        "description": "Develop core features, integrate third-party services, and ensure compliance.",
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
         "bullets": [
-          "Feature development",
-          "API integrations"
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
         ]
       },
       {
         "number": 4,
-        "title": "Testing and Optimization",
-        "badge": "WK 17-20",
-        "description": "Conduct thorough testing and optimize for performance and security.",
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
         "bullets": [
-          "Performance testing",
-          "Security audit"
-        ]
-      },
-      {
-        "number": 5,
-        "title": "Launch and Support",
-        "badge": "WK 21-24",
-        "description": "Deploy the solution and provide ongoing support and optimization.",
-        "bullets": [
-          "Go-live support",
-          "Continuous improvement"
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
         ]
       }
     ],
-    "pricingIntro": "Three engagement tiers. Choose the depth of transformation that aligns with your priorities.",
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
     "pricing": [
       {
-        "name": "Core",
-        "subtitle": "// Website + CMS Migration",
-        "description": "Migrate and redesign the platform your team controls.",
-        "amount": "$997",
-        "period": "One-time project fee",
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for ThriveLine's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
         "features": [
-          "Full website redesign",
-          "Drupal 11 migration",
-          "CMS training"
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
         ],
         "recommended": false
       },
       {
-        "name": "Complete",
-        "subtitle": "// Full Digital Transformation",
-        "description": "Website, integrations, compliance, and DevOps infrastructure.",
-        "amount": "$2,497",
-        "period": "One-time project fee",
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for ThriveLine around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
         "features": [
-          "Everything in Core",
-          "AWS hosting",
-          "CI/CD pipeline"
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
         ],
         "recommended": true
-      },
-      {
-        "name": "Strategic",
-        "subtitle": "// Ongoing Partnership",
-        "description": "Full transformation plus an ongoing retainer for continuous optimization.",
-        "amount": "$4,997",
-        "period": "Project fee + monthly retainer",
-        "features": [
-          "Everything in Complete",
-          "Dedicated team allocation",
-          "Quarterly strategy sessions"
-        ],
-        "recommended": false
       }
     ],
-    "ctaHeadline": "Ready to Unleash Your Digital Potential?",
-    "ctaDescription": "15 minutes. No slides. Just a direct conversation about your current platform and your priorities.",
-    "ctaButtonText": "Schedule a Discovery Call",
-    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for ThriveLine.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
     "ctaEmail": "ayushopchauhan@gmail.com",
-    "ctaNote": "Ayush Chauhan, CEO • 703-304-9216",
-    "footerText": "© 2025 Unleashed Technologies",
-    "footerSub": "Named a Global Leader by Clutch"
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
   },
   "proposal2": {
     "fictionalClientName": "Acme Corp",
-    "tag": "Proposal for Acme Corp • Confidential",
+    "tag": "Proposal for Acme Corp // Confidential",
     "heroBadge": "Strategic Partnership Proposal",
-    "heroHeadline": "Transforming Acme Corp's Digital Experience Into a Growth Engine",
-    "heroSubheadline": "A structured engagement plan for website redesign, product UX, and ongoing digital performance. Built for where you are heading.",
+    "heroHeadline": "Transform Acme Corp's Online Presence with ThriveLine's Expertise",
+    "heroSubheadline": "Let's revitalize your digital strategy with our comprehensive design services. Together, we'll enhance your online impact and boost conversions.",
     "heroTags": [],
-    "problemsIntro": "Six friction points costing your business growth, trust, and engineering bandwidth right now.",
+    "problemsIntro": "Acme Corp is currently losing potential revenue and growth opportunities.",
     "problems": [
       {
-        "title": "Brand and Product Disconnect",
-        "description": "Your website communicates reliability, but your product interface tells a different story."
+        "title": "Low Conversion Rates",
+        "description": "Every visitor not converting is a sale slipping through your fingers. Current rates are below industry standards, impacting your bottom line."
       },
       {
-        "title": "Inconsistent User Experience",
-        "description": "Visitors struggle to navigate your site, leading to frustration and drop-offs."
+        "title": "Outdated Website Design",
+        "description": "A dated look can drive customers away. Your design isn't reflecting the innovation your brand offers, costing you credibility."
       },
       {
-        "title": "Poor Mobile Responsiveness",
-        "description": "Your site isn't optimized for mobile users, causing lost opportunities."
+        "title": "Poor Mobile Experience",
+        "description": "With over 50% of traffic from mobile, every awkward interaction is a customer lost. Your current site isn't optimized for mobile users."
       },
       {
-        "title": "Lack of Local Visibility",
-        "description": "Potential clients can't find you online when searching for local services."
+        "title": "Weak Brand Identity",
+        "description": "Inconsistent branding confuses potential customers. Without a strong identity, you're missing out on building brand loyalty."
       },
       {
-        "title": "Ineffective Advertising Spend",
-        "description": "Current ad campaigns aren't yielding the desired ROI."
+        "title": "Ineffective SEO Strategy",
+        "description": "Without strong search visibility, potential clients can't find you. You're losing ground to competitors who rank higher."
       },
       {
-        "title": "Outdated Content Strategy",
-        "description": "Your content isn't engaging or reaching your target audience effectively."
+        "title": "Limited Social Media Engagement",
+        "description": "Your social channels aren't driving traffic as expected. This lack of engagement is a missed opportunity to connect with your audience."
       }
     ],
-    "solutionIntro": "Four integrated workstreams designed to address every problem area identified above.",
+    "solutionIntro": "Here’s how ThriveLine will solve these challenges for Acme Corp.",
     "solutions": [
       {
-        "icon": "🌐",
-        "title": "Website Design",
-        "description": "A complete redesign.",
+        "icon": "🎨",
+        "title": "Website Redesign",
+        "description": "Revamp your site to improve user experience and boost conversions. Our design will reflect your brand's innovation.",
         "tags": [
-          "UX Research",
-          "Wireframes",
-          "Launch"
-        ]
-      },
-      {
-        "icon": "📈",
-        "title": "Local SEO Optimization",
-        "description": "Boost your local search presence.",
-        "tags": [
-          "Keyword Strategy",
-          "Profile Management"
+          "DESIGN",
+          "UX",
+          "BRANDING"
         ]
       },
       {
         "icon": "📱",
-        "title": "Mobile Responsiveness",
-        "description": "Ensure seamless mobile experience.",
+        "title": "Mobile Optimization",
+        "description": "Ensure seamless mobile interactions. We'll make sure your site is fully responsive, capturing mobile users effectively.",
         "tags": [
-          "Responsive Design",
-          "User Testing"
+          "MOBILE",
+          "RESPONSIVE",
+          "UX"
         ]
       },
       {
-        "icon": "💡",
-        "title": "Google Ads Management",
-        "description": "Maximize your ad spend efficiency.",
+        "icon": "🔍",
+        "title": "SEO Strategy",
+        "description": "Enhance your search visibility to attract more potential clients. We'll optimize your content and structure to climb search rankings.",
         "tags": [
-          "Targeted Campaigns",
-          "Performance Tracking"
+          "SEO",
+          "VISIBILITY",
+          "RANKINGS"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Social Media Management",
+        "description": "Increase engagement on social platforms. Our strategy will connect you with your audience, driving traffic and brand loyalty.",
+        "tags": [
+          "SOCIAL MEDIA",
+          "ENGAGEMENT",
+          "BRANDING"
         ]
       }
     ],
     "metrics": [
       {
-        "value": "2",
-        "suffix": "x",
-        "label": "Projected conversion improvement"
-      },
-      {
-        "value": "180",
-        "suffix": "+",
-        "label": "Additional qualified leads/month"
-      },
-      {
         "value": "40",
         "suffix": "%",
-        "label": "Estimated UI backlog reduction"
+        "label": "Increase in conversion rates."
+      },
+      {
+        "value": "60",
+        "suffix": "%",
+        "label": "Improvement in mobile traffic retention."
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Growth in organic search traffic."
       }
     ],
-    "whyUsIntro": "We are a process-driven digital agency founded on continuous improvement and radical transparency.",
+    "whyUsIntro": "Here's why ThriveLine is your perfect partner.",
     "whyUsCards": [
       {
-        "icon": "🎯",
-        "title": "Process Driven",
-        "description": "Every engagement follows a structured methodology."
-      },
-      {
-        "icon": "🔍",
-        "title": "Transparent Communication",
-        "description": "We keep you informed every step of the way."
-      },
-      {
-        "icon": "🚀",
-        "title": "Results Oriented",
-        "description": "Our focus is on delivering measurable outcomes."
-      },
-      {
         "icon": "🤝",
-        "title": "Supportive Partnership",
-        "description": "We work alongside you to achieve your vision."
+        "title": "Personalized Approach",
+        "description": "We tailor every strategy to your unique needs, ensuring the best results for your business."
+      },
+      {
+        "icon": "🌟",
+        "title": "Proven Track Record",
+        "description": "We've helped numerous local businesses boost their online presence and customer engagement."
+      },
+      {
+        "icon": "💡",
+        "title": "Innovative Solutions",
+        "description": "Our team stays ahead of industry trends, providing cutting-edge solutions that work."
+      },
+      {
+        "icon": "🎉",
+        "title": "Friendly Team",
+        "description": "We pride ourselves on being approachable and easy to work with, making collaboration a joy."
       }
     ],
     "fearCards": [],
     "socialProof": [
       {
-        "value": "5.0",
-        "suffix": "",
-        "label": "Clutch Rating",
-        "decimal": 1
+        "value": "150",
+        "suffix": "+",
+        "label": "Projects completed successfully."
       },
       {
-        "value": "4.9",
-        "suffix": "",
-        "label": "Google Rating",
-        "decimal": 1
+        "value": "98",
+        "suffix": "%",
+        "label": "Client satisfaction rate."
       },
       {
-        "value": "89",
-        "suffix": "",
-        "label": "NPS Score"
+        "value": "200",
+        "suffix": "%",
+        "label": "Average client growth in the first year."
       },
       {
-        "value": "$4",
-        "suffix": "M+",
-        "label": "Projects Delivered"
+        "value": "50",
+        "suffix": "+",
+        "label": "Awards won for design excellence."
       }
     ],
-    "teamIntro": "Where creative energy meets operational rigour. Your engagement is led by our founders.",
+    "teamIntro": "Meet the ThriveLine Team, dedicated to your success.",
     "team": {
-      "initials": "MG",
+      "initials": "MV",
       "name": "Marie-line Villers",
-      "role": "Executive Director",
+      "role": "Owner",
       "titleNote": "",
-      "bio": "Oversees strategy and client relationships.",
+      "bio": "Marie-line leads our strategy and client relationships, ensuring every project is tailored to client needs. With her at the helm, you’re in expert hands.",
       "linkedin": "",
-      "phone": ""
+      "phone": "+1 250-258-5099"
     },
     "processIntro": "What Working With Us Looks Like",
-    "processTime": "18 Weeks",
+    "processTime": "12 Weeks",
     "process": [
       {
         "number": 1,
-        "title": "Discovery and Strategy",
+        "title": "Discovery & Planning",
         "badge": "Weeks 1 to 3",
-        "description": "Deep dive into your goals.",
+        "description": "We dive deep into understanding your business and goals.",
         "bullets": [
-          "User research",
-          "Strategic brief"
+          "Conduct workshops",
+          "Define project scope"
         ]
       },
       {
         "number": 2,
-        "title": "Design and Development",
-        "badge": "Weeks 4 to 9",
-        "description": "Crafting a stunning and effective website.",
+        "title": "Design & Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Our team crafts website designs and begins development.",
         "bullets": [
-          "Wireframing",
-          "Prototyping"
+          "Create wireframes",
+          "Develop site architecture"
         ]
       },
       {
         "number": 3,
-        "title": "Optimization and Testing",
-        "badge": "Weeks 10 to 14",
-        "description": "Ensuring performance and usability.",
+        "title": "Testing & Optimization",
+        "badge": "Weeks 7 to 9",
+        "description": "We rigorously test the site to ensure optimal performance.",
         "bullets": [
-          "A/B Testing",
-          "SEO Integration"
+          "Conduct user testing",
+          "Optimize for speed"
         ]
       },
       {
         "number": 4,
-        "title": "Launch and Support",
-        "badge": "Weeks 15 to 18",
-        "description": "Smooth transition and ongoing support.",
+        "title": "Launch & Review",
+        "badge": "Weeks 10 to 12",
+        "description": "We launch your site and conduct a post-launch review.",
         "bullets": [
-          "Launch Plan",
-          "Ongoing Maintenance"
+          "Deploy site live",
+          "Conduct performance analysis"
         ]
       }
     ],
-    "pricingIntro": "Transparent, tier-based options. Choose the level of transformation that fits your priorities.",
+    "pricingIntro": "Choose the investment that aligns with your goals.",
     "pricing": [
       {
-        "name": "Foundation",
+        "name": "Basic Plan",
         "subtitle": "",
-        "description": "Website redesign focused on brand alignment.",
-        "amount": "$48,000",
+        "description": "Ideal for small businesses looking to make a big impression.",
+        "amount": "$4,500/mo",
         "period": "",
         "features": [
-          "Full website redesign",
-          "CMS setup",
-          "SEO optimization"
+          "Website redesign",
+          "Basic SEO"
         ],
         "recommended": false
       },
       {
-        "name": "Growth",
+        "name": "Growth Plan",
         "subtitle": "",
-        "description": "Website redesign plus product UX strategy.",
-        "amount": "$82,000",
+        "description": "Our recommended choice for businesses poised for growth.",
+        "amount": "$8,500/mo",
         "period": "",
         "features": [
-          "Everything in Foundation",
-          "Product UX audit",
-          "Design system"
+          "Full redesign",
+          "Advanced SEO",
+          "Mobile Optimization"
         ],
         "recommended": true
       },
       {
-        "name": "Partnership",
+        "name": "Enterprise Plan",
         "subtitle": "",
-        "description": "Full digital transformation with ongoing optimization.",
-        "amount": "$124,000",
+        "description": "For companies ready to revolutionize their digital presence.",
+        "amount": "$15,000/mo",
         "period": "",
         "features": [
-          "Everything in Growth",
-          "Full UI redesign",
-          "Ongoing retainer"
+          "Custom solutions",
+          "Dedicated account manager"
         ],
         "recommended": false
       }
     ],
-    "ctaHeadline": "Ready to Move Forward?",
-    "ctaDescription": "If this resonates, we would love 15 minutes of your time. No slides, no pitch deck.",
-    "ctaButtonText": "Book a Discovery Session",
+    "ctaHeadline": "Ready to Transform Your Business?",
+    "ctaDescription": "Let's chat about how we can help your business thrive online. No pressure, just a friendly conversation.",
+    "ctaButtonText": "Schedule a Call",
     "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
     "ctaEmail": "marieline.villers@gmail.com",
     "ctaNote": "",
     "footerText": "© 2025 ThriveLine",
-    "footerSub": "Designing better systems for better experiences"
+    "footerSub": "Helping Local Businesses Thrive Online"
   },
   "enriched": {
-    "tone": "friendly, transparent, knowledgeable, supportive, results-focused",
-    "positioning": "Personal, responsive service from a small, expert team",
-    "serviceList": [
-      "Custom Web Design & Development",
-      "Local SEO & Google Business Profile Management",
-      "Google Ads Management",
-      "Instagram Marketing & Content Optimization",
-      "Ongoing Website Maintenance & Support"
-    ],
-    "valuePropositions": [
-      "Personal, responsive service from a small, expert team",
-      "Custom solutions tailored to each business, never templates",
-      "Clear, jargon-free communication and education",
-      "Results-focused strategies that support real business goals",
-      "Ongoing support and proactive website care"
-    ],
-    "differentiators": [
-      "Woman-owned, local agency with deep Kelowna roots",
-      "Direct access to a small, skilled team (no passing between departments)",
-      "Focus on education, transparency, and honest pricing",
-      "Custom, non-templated solutions and proactive support",
-      "Clients retain full ownership and control of their digital assets"
-    ]
+    "tone": "warm, playful",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
   },
   "lead": {
-    "email": "marieline.villers@gmail.com",
     "first_name": "Marie-line",
     "last_name": "Villers",
+    "email": "marieline.villers@gmail.com",
+    "company_phone": "+1 250-258-5099",
+    "mobile_number": "",
     "company_name": "ThriveLine",
-    "industry": "Interior Design",
-    "personalization": "Urban Roots Interior Design has built a strong reputation in Kelowna for delivering thoughtfully designed interiors that blend modern aesthetics with sustainability. Your team has grown steadily through word of mouth and repeat business, and you’re now looking to attract new clients—particularly higher-value commercial projects—through a stronger online presence. You’ve invested in branding and have a basic website, but you’re ready to take things to the next level.\n\nWith competition increasing in the local interior design market, you’ve identified the need for a more polished, user-friendly website and a robust digital marketing strategy. Your goals include increasing website traffic, generating more qualified leads, and establishing Urban Roots as a top-rated choice for interior design in Kelowna and the Okanagan region. You’re seeking a partner who can provide both strategic guidance and hands-on execution, freeing up your team to focus on client projects.",
-    "painStatement": "Currently, Urban Roots’ website is visually appealing but lacks the structure and optimization needed to convert visitors into inquiries. The site does not rank well for key local search terms, making it difficult for prospective clients to find you when searching for interior designers in Kelowna. There is limited tracking in place, so it’s hard to know which marketing efforts are working, and you’ve noticed that competitors are appearing more prominently in Google searches and local directories.\n\nAdditionally, your team is stretched thin, and managing digital marketing in-house has become unsustainable. You’re missing out on opportunities to showcase your best work, capture leads from Google Ads, and engage your audience consistently on platforms like Instagram. Without a proactive partner, it’s challenging to keep your web presence current and competitive.",
+    "company_website": "https://www.thriveline.ca",
+    "company_domain": "thriveline.ca",
+    "company_description": "Transforming Kelowna Businesses Through Web Design & SEO Excellence.\nFrom tailored websites to strategic local SEO, we empower Kelowna businesses to reach new heights online. Discover the difference a custom digital approach can make for your brand.",
+    "headline": "Seo Specialist | Hand Coding Expert",
+    "job_title": "Owner",
+    "industry": "Design",
+    "company_size": "2",
+    "company_technologies": "ai, android, flutter, gmail, google apps, google tag manager, iot, laravel, magento, mailchimp mandrill, mobile friendly, python, remote, sharepoint, sparkpost, wordpress.org, xamarin",
+    "city": "Kelowna",
+    "state": "British Columbia",
+    "country": "Canada",
+    "company_full_address": "Kelowna, British Columbia, CA",
+    "seniority_level": "owner",
+    "company_annual_revenue_clean": "7M",
+    "linkedin": "https://www.linkedin.com/in/mlvillers",
+    "company_linkedin": "https://www.linkedin.com/company/thriveline-websites-and-seo",
+    "company_founded_year": "2024",
+    "keywords": "web hosting, search engine optimization, web design, web maintenance, local seo, web repairs, design services, information technology & services, seo, search marketing, marketing, marketing & advertising",
+    "personalization": "ThriveLine is a woman-owned agency, which is rare in a field full of larger, male-led firms.",
+    "painStatement": "",
+    "proposal_status": "generated",
+    "proposal_url": "https://www.ayushopchauhan.com/for/thriveline",
     "proposal_id": "thriveline",
-    "company_annual_revenue_clean": "0",
-    "company_size": "1-10"
+    "generated_at": "2026-02-26T23:34:07.146Z"
   }
 }
