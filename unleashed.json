@@ -3,8 +3,8 @@
   "companyName": "Unleashed",
   "contactName": "Muhammad Hutasuhut",
   "contactEmail": "mhutasuhut@unleashed-technologies.com",
-  "generationTime": 19,
-  "createdAt": "2026-02-27T00:39:18.144Z",
+  "generationTime": 9,
+  "createdAt": "2026-02-27T01:10:59.755Z",
   "brandStyle": {
     "primaryColor": "#2563eb",
     "secondaryColor": "#1a1a2e",
@@ -14,296 +14,280 @@
     "logoUrl": ""
   },
   "proposal1": {
-    "tag": "PROPOSAL // Unleashed // CONFIDENTIAL",
-    "heroBadge": "Digital Transformation Proposal",
-    "heroHeadline": "Revolutionize Your Proposal Process with Instant AI Automation",
-    "heroSubheadline": "Eliminate manual proposal writing and save hours every week with our AI-driven solution.",
+    "tag": "PROPOSAL // UNLEASHED // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Unleashed is leaving money on the table. Here is exactly how much.",
+    "heroSubheadline": "Automate 100% of your proposal writing and reclaim up to 40 hours per week.",
     "heroTags": [
-      "DRUPAL",
-      "REACT",
-      "AWS",
-      "HIPAA",
-      "REST API",
-      "DEVOPS",
-      "HEADLESS CMS"
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
     ],
     "problemsIntro": "Six systemic issues affecting your growth and engineering bandwidth right now.",
     "problems": [
       {
-        "title": "Legacy Platform Lock-in",
-        "description": "Your current systems are outdated, requiring excessive resources to maintain and upgrade, which hampers your ability to innovate and scale."
+        "title": "Time-Consuming Proposal Writing",
+        "description": "Your team spends countless hours crafting proposals manually, leading to inefficient use of resources and significant opportunity costs."
       },
       {
-        "title": "Manual Proposal Processes",
-        "description": "Creating proposals manually is time-consuming and error-prone, leading to inefficiencies and potential loss of business opportunities."
+        "title": "Inconsistent Proposal Quality",
+        "description": "Manual proposal writing results in varying quality, risking client dissatisfaction and potential project losses."
       },
       {
-        "title": "Inefficient Resource Allocation",
-        "description": "A significant portion of your team's time is spent on repetitive tasks, leaving less time for strategic initiatives that drive business growth."
+        "title": "Delayed Response Times",
+        "description": "Extended proposal writing timelines delay client responses, potentially costing you lucrative deals."
       },
       {
-        "title": "Integration Challenges",
-        "description": "Disparate systems that do not communicate effectively lead to data silos and hinder seamless operations across your organization."
+        "title": "High Operational Costs",
+        "description": "The labor-intensive process of proposal writing increases operational costs, impacting your bottom line."
       },
       {
-        "title": "Compliance and Security Risks",
-        "description": "Maintaining compliance with industry standards like HIPAA is challenging without integrated and automated systems, increasing the risk of data breaches."
+        "title": "Limited Scalability",
+        "description": "As your business grows, the inability to quickly scale proposal generation limits your potential for taking on new projects."
       },
       {
-        "title": "Lack of Real-time Insights",
-        "description": "Without automated data collection and analysis, decision-making is based on outdated information, slowing down your response to market changes."
+        "title": "Strained Engineering Resources",
+        "description": "Engineering bandwidth is stretched as technical staff are often roped into the proposal process, detracting from core development work."
       }
     ],
     "solutionIntro": "Five integrated workstreams covering every dimension of transformation.",
     "solutions": [
       {
-        "icon": "🌐",
-        "title": "Automated Proposal Generation",
-        "description": "Instantly create accurate, customized proposals with our AI-driven system, freeing up valuable time and resources.",
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Harness AI to generate tailored proposals in seconds, drastically reducing time spent on each document.",
         "tags": [
-          "AI",
           "Automation",
-          "Efficiency"
+          "Efficiency",
+          "Speed"
         ]
       },
       {
-        "icon": "🔒",
-        "title": "Enhanced Compliance Management",
-        "description": "Automate compliance checks and ensure your operations meet industry standards without added overhead.",
+        "icon": "2.",
+        "title": "Consistent Quality Assurance",
+        "description": "Ensure every proposal meets the highest standards with AI-driven quality checks and templates.",
         "tags": [
-          "Compliance",
-          "Security",
-          "HIPAA"
+          "Quality",
+          "Consistency",
+          "Standards"
         ]
       },
       {
-        "icon": "🔗",
-        "title": "Seamless Systems Integration",
-        "description": "Achieve seamless communication across all platforms, ensuring data is unified and accessible in real-time.",
+        "icon": "3.",
+        "title": "Enhanced Client Engagement",
+        "description": "Respond to client inquiries promptly with quick, precise, and personalized proposals.",
         "tags": [
-          "Integration",
-          "Data",
-          "API"
+          "Engagement",
+          "Personalization",
+          "Response"
         ]
       },
       {
-        "icon": "📊",
-        "title": "Real-time Data Analysis",
-        "description": "Leverage AI to provide real-time insights that inform better decision-making and strategic planning.",
+        "icon": "4.",
+        "title": "Cost Reduction",
+        "description": "Cut down on labor costs by automating the proposal process, allowing your team to focus on high-value tasks.",
         "tags": [
-          "Data",
-          "Analytics",
-          "AI"
+          "Cost-saving",
+          "Resource Allocation",
+          "ROI"
         ]
       },
       {
-        "icon": "🚀",
-        "title": "Scalable Infrastructure",
-        "description": "Build an infrastructure that supports growth and innovation, allowing you to adapt quickly to market demands.",
+        "icon": "5.",
+        "title": "Scalable Solutions",
+        "description": "Easily scale your operations to handle increased demand without sacrificing proposal quality or speed.",
         "tags": [
-          "AWS",
           "Scalability",
-          "Innovation"
+          "Growth",
+          "Flexibility"
         ]
       }
     ],
     "metrics": [
       {
-        "value": "3.4",
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
         "suffix": "x",
-        "label": "Higher portal adoption with modern UX",
-        "decimal": 1
+        "label": "Faster response to prospects"
       },
       {
-        "value": "50",
-        "suffix": "%",
-        "label": "Reduction in proposal preparation time",
-        "decimal": 0
-      },
-      {
-        "value": "70",
-        "suffix": "%",
-        "label": "Increase in operational efficiency",
-        "decimal": 0
+        "value": "$43",
+        "suffix": "K",
+        "label": "Annual proposal cost savings"
       }
     ],
-    "whyUsIntro": "Certified experts. Award-winning experiences. And we are not afraid of the hard stuff.",
+    "whyUsIntro": "Built by someone who understands both the engineering and the sales side.",
     "whyUsCards": [
       {
-        "icon": "🔓",
-        "title": "Open Source First",
-        "description": "No vendor lock-in. You own your platform."
+        "icon": "01",
+        "title": "Speed",
+        "description": "From lead data to a live, branded proposal page in under 60 seconds. No templates. Every proposal is written from scratch."
       },
       {
-        "icon": "🏆",
-        "title": "Award-winning Solutions",
-        "description": "Recognized globally for our innovative approaches and successful implementations."
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Every proposal is tailored to the prospect using their own website data. Their services, their tone, their positioning reflected back."
       },
       {
-        "icon": "🚀",
-        "title": "Proven Track Record",
-        "description": "A history of delivering transformative results for clients across industries."
+        "icon": "03",
+        "title": "Ownership",
+        "description": "You own the source code, the infrastructure, and the data. No SaaS fees, no monthly subscriptions, no vendor lock-in."
       },
       {
-        "icon": "🤝",
-        "title": "Client-Centric Approach",
-        "description": "Your success is our priority. We build partnerships that last."
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough for your team, and one week of post-delivery support included in every build."
       }
     ],
     "fearCards": [
       {
-        "icon": "💀",
-        "title": "We are not afraid of inheriting legacy code.",
-        "sub": "We have migrated platforms older than some of our developers."
+        "icon": "01",
+        "title": "Complex integrations do not scare us.",
+        "description": "",
+        "sub": "CRM, email, Google Sheets, Slack. We connect whatever you need."
       },
       {
-        "icon": "🛠️",
-        "title": "Complex Integrations? Bring it on.",
-        "sub": "Our team thrives on solving the toughest integration challenges."
+        "icon": "02",
+        "title": "Your existing stack is not a problem.",
+        "description": "",
+        "sub": "The system works alongside your current tools. No migration headaches."
       },
       {
-        "icon": "🔐",
-        "title": "Security Risks? Not on our watch.",
-        "sub": "We prioritize security in every project we undertake."
+        "icon": "03",
+        "title": "We iterate until you are happy.",
+        "description": "",
+        "sub": "Revisions are part of the process. We do not stop until it fits."
       }
     ],
     "socialProof": [
       {
-        "value": "20",
+        "value": "15",
         "suffix": "+",
-        "label": "Years Combined"
-      },
-      {
-        "value": "$4.3",
-        "suffix": "M",
-        "label": "Annual Revenue",
-        "decimal": 1
-      },
-      {
-        "value": "100",
-        "suffix": "+",
-        "label": "Projects Delivered"
+        "label": "AI Systems Built"
       },
       {
         "value": "5",
-        "suffix": "★",
-        "label": "Clutch Rating"
+        "suffix": "",
+        "label": "Day Delivery"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Avg. Generation Time"
       }
     ],
-    "teamIntro": "Your engagement is led directly by our CEO. No handoffs to junior account managers.",
+    "teamIntro": "Your point of contact. No handoffs, no account managers.",
     "team": {
       "initials": "AC",
       "name": "Ayush Chauhan",
-      "role": "Chief Executive Officer",
-      "titleNote": "UNLEASHED TECHNOLOGIES // COLUMBIA, VA",
-      "bio": "Leads strategy, client partnerships, and technical direction. Personally oversees every enterprise engagement from discovery through launch.",
+      "role": "Founder, AOC",
+      "titleNote": "AOC // COLUMBIA, VA",
+      "bio": "Full-stack engineer and founder of AOC. Builds AI automation systems for agencies and service businesses. Personally handles every engagement from architecture through deployment. Works async, ships fast.",
       "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
-      "phone": "703-304-9216"
+      "phone": "+91 8160764038"
     },
     "processIntro": "What Working With Us Looks Like",
-    "processTime": "24 Weeks",
+    "processTime": "5 Business Days",
     "process": [
       {
         "number": 1,
-        "title": "Discovery and Architecture",
-        "badge": "WK 1-4",
-        "description": "Audit existing systems, map integrations, and define technical architecture.",
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We discuss your workflow, your services, and how your team currently writes proposals. This can be a 15-minute call or handled entirely over email.",
         "bullets": [
-          "Stakeholder interviews",
-          "Technical audit"
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
         ]
       },
       {
         "number": 2,
-        "title": "Design and Prototyping",
-        "badge": "WK 5-8",
-        "description": "Create prototypes and design user-centric interfaces to validate concepts.",
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "We configure the engine with your services, your pricing structure, your tone of voice, and your brand standards.",
         "bullets": [
-          "UX/UI design",
-          "Prototyping sessions"
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
         ]
       },
       {
         "number": 3,
-        "title": "Development and Integration",
-        "badge": "WK 9-16",
-        "description": "Develop core functionalities and integrate with existing systems for a seamless experience.",
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "We generate test proposals, review output quality, and refine until the system matches your standards.",
         "bullets": [
-          "Agile development",
-          "System integration"
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
         ]
       },
       {
         "number": 4,
-        "title": "Testing and Quality Assurance",
-        "badge": "WK 17-20",
-        "description": "Conduct thorough testing to ensure systems meet all requirements and perform optimally.",
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deploy to production with full infrastructure. You receive a video walkthrough, documentation, and source code.",
         "bullets": [
-          "Automated testing",
-          "User acceptance testing"
-        ]
-      },
-      {
-        "number": 5,
-        "title": "Deployment and Support",
-        "badge": "WK 21-24",
-        "description": "Deploy the final solution and provide ongoing support to ensure sustained success.",
-        "bullets": [
-          "Deployment planning",
-          "Continuous support"
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
         ]
       }
     ],
-    "pricingIntro": "Three engagement tiers. Choose the depth of transformation that aligns with your priorities.",
+    "pricingIntro": "Two options. Both are one-time builds. You own everything.",
     "pricing": [
       {
-        "name": "Core",
-        "subtitle": "// Website + CMS Migration",
-        "description": "Migrate and redesign the platform your team controls.",
-        "amount": "$997",
-        "period": "One-time project fee",
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal generation built specifically for Unleashed.",
+        "amount": "$1,997",
+        "period": "One-time",
         "features": [
-          "Full website redesign",
-          "Drupal 11 migration",
-          "CMS training"
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
         ],
         "recommended": false
       },
       {
-        "name": "Complete",
-        "subtitle": "// Full Digital Transformation",
-        "description": "Website, integrations, compliance, and DevOps infrastructure.",
-        "amount": "$2,497",
-        "period": "One-time project fee",
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI closer embedded in every proposal.",
+        "amount": "$2,997",
+        "period": "One-time",
         "features": [
-          "Everything in Core",
-          "AWS hosting",
-          "CI/CD pipeline"
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
         ],
         "recommended": true
-      },
-      {
-        "name": "Strategic",
-        "subtitle": "// Ongoing Partnership",
-        "description": "Full transformation plus an ongoing retainer for continuous optimization.",
-        "amount": "$4,997",
-        "period": "Project fee + monthly retainer",
-        "features": [
-          "Everything in Complete",
-          "Dedicated team allocation",
-          "Quarterly strategy sessions"
-        ],
-        "recommended": false
       }
     ],
-    "ctaHeadline": "Ready to Unleash Your Digital Potential?",
-    "ctaDescription": "15 minutes. No slides. Just a direct conversation about your current platform and your priorities.",
-    "ctaButtonText": "Schedule a Discovery Call",
-    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaHeadline": "Want to see this running on your actual proposals?",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
     "ctaEmail": "ayushopchauhan@gmail.com",
-    "ctaNote": "Ayush Chauhan, CEO • 703-304-9216",
-    "footerText": "© 2025 Unleashed Technologies",
-    "footerSub": "Named a Global Leader by Clutch"
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
   },
   "proposal2": {
     "fictionalClientName": "Acme Corp",
@@ -319,24 +303,24 @@
         "description": "Your website communicates reliability, but your product interface tells a different story."
       },
       {
-        "title": "Outdated Design",
-        "description": "The current design does not reflect your innovative spirit and limits user engagement."
+        "title": "Inefficient User Journeys",
+        "description": "Users struggle to find information, leading to drop-offs and lost conversions."
       },
       {
-        "title": "Complex User Journeys",
-        "description": "Navigation is not intuitive, leading to user frustration and drop-offs."
+        "title": "Outdated Design",
+        "description": "Visual aesthetics do not reflect the innovation and quality of your products."
       },
       {
         "title": "Slow Load Times",
-        "description": "Page speed is affecting user experience and search engine rankings."
+        "description": "Page speed issues are affecting user satisfaction and SEO rankings."
       },
       {
-        "title": "Inconsistent Mobile Experience",
-        "description": "Your mobile site does not offer the same quality experience as desktop, alienating a major user segment."
+        "title": "Lack of Mobile Optimization",
+        "description": "The current site experience on mobile devices is subpar, affecting engagement."
       },
       {
-        "title": "Limited Analytics",
-        "description": "Lack of comprehensive analytics hinders data-driven decision making."
+        "title": "Limited Analytics Insights",
+        "description": "Insufficient data hinders your ability to make informed business decisions."
       }
     ],
     "solutionIntro": "Four integrated workstreams designed to address every problem area identified above.",
@@ -361,21 +345,21 @@
         ]
       },
       {
-        "icon": "🔍",
-        "title": "Analytics Setup",
-        "description": "Implementing advanced analytics.",
+        "icon": "⚙️",
+        "title": "Product UX Strategy",
+        "description": "Aligning product interfaces with brand.",
         "tags": [
-          "Data Tracking",
-          "User Insights"
+          "User Testing",
+          "Prototyping"
         ]
       },
       {
-        "icon": "⚙️",
-        "title": "Performance Enhancement",
-        "description": "Improving load times.",
+        "icon": "📊",
+        "title": "Analytics and Insights",
+        "description": "Improving data-driven decisions.",
         "tags": [
-          "Code Optimization",
-          "Server Tuning"
+          "Dashboard Setup",
+          "KPI Tracking"
         ]
       }
     ],
@@ -405,18 +389,18 @@
       },
       {
         "icon": "🔍",
-        "title": "Data-Driven Strategies",
-        "description": "Our solutions are guided by insights and data."
+        "title": "Data-Driven Decisions",
+        "description": "Using analytics to guide our strategies and deliver measurable results."
       },
       {
         "icon": "🤝",
-        "title": "Collaborative Partnership",
-        "description": "We work closely with you to ensure alignment and success."
+        "title": "Collaborative Approach",
+        "description": "Partnership model that emphasizes open communication."
       },
       {
-        "icon": "⚡",
-        "title": "Agile Approach",
-        "description": "We adapt and iterate to meet your evolving needs."
+        "icon": "📈",
+        "title": "Scalable Solutions",
+        "description": "Designing systems that grow with your business needs."
       }
     ],
     "fearCards": [],
@@ -469,31 +453,31 @@
       },
       {
         "number": 2,
-        "title": "Design and Prototyping",
-        "badge": "Weeks 4 to 7",
-        "description": "Crafting the user experience.",
+        "title": "Design and Prototype",
+        "badge": "Weeks 4 to 8",
+        "description": "Crafting the visual and experiential framework.",
         "bullets": [
-          "Wireframes",
-          "UI Design"
+          "Wireframing",
+          "Prototyping"
         ]
       },
       {
         "number": 3,
         "title": "Development and Testing",
-        "badge": "Weeks 8 to 14",
-        "description": "Building and refining.",
+        "badge": "Weeks 9 to 14",
+        "description": "Building and iterating based on feedback.",
         "bullets": [
-          "Front-end Development",
-          "QA Testing"
+          "Agile Development",
+          "User Testing"
         ]
       },
       {
         "number": 4,
-        "title": "Launch and Optimization",
+        "title": "Launch and Optimize",
         "badge": "Weeks 15 to 18",
-        "description": "Deployment and fine-tuning.",
+        "description": "Deploying and refining for continuous improvement.",
         "bullets": [
-          "Go Live",
+          "SEO Optimization",
           "Performance Monitoring"
         ]
       }
@@ -586,6 +570,6 @@
     "proposal_status": "generated",
     "proposal_url": "https://www.ayushopchauhan.com/for/unleashed",
     "proposal_id": "unleashed",
-    "generated_at": "2026-02-27T00:33:46.983Z"
+    "generated_at": "2026-02-27T00:39:18.558Z"
   }
 }
