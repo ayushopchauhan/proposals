@@ -1,211 +1,579 @@
 {
   "slug": "tennis",
   "companyName": "Tennis",
-  "contactName": "Marcello",
+  "contactName": "Marcello Gortana",
   "contactEmail": "marcello@designtennis.com",
-  "generationTime": 58,
-  "createdAt": "2026-02-26T14:39:57.799Z",
+  "generationTime": 20,
+  "createdAt": "2026-02-27T14:01:27.870Z",
   "brandStyle": {
-    "primaryColor": "#2563eb",
-    "secondaryColor": "#1e293b",
-    "accentColor": "#3b82f6",
-    "headingFont": "Inter",
-    "bodyFont": "Inter"
+    "primaryColor": "#fce0e9",
+    "secondaryColor": "rgba(255,255,255, var(--tint, 0.05)",
+    "accentColor": "rgba(0,0,0,0)",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": "https://cdn.prod.website-files.com/63ae2c0dda54a27e081ffbc6/654fa074e8e7fdddfdd3b068_11112023-Tennis-Design-Tennis-Logo.svg"
   },
-  "proposal": {
-    "fictionalClientName": "Formulate Studio",
-    "fictionalClientIndustry": "Design & Architecture",
-    "fictionalClientDescription": "Formulate Studio is a Toronto-based multidisciplinary design and architecture firm specializing in commercial interiors and experiential spaces for retail, hospitality, and corporate clients. With a team of 25, they are recognized for blending innovative spatial concepts with sustainable practices, and are poised for national expansion.",
-    "coverHeadline": "Digital Transformation Proposal for Formulate Studio",
-    "coverSubheadline": "Elevating Your Digital Presence to Match Your Design Excellence",
-    "coverDate": "February 26, 2026",
-    "clientOverview": "Formulate Studio has established itself as a leader in the Canadian design and architecture sector, with a portfolio that includes award-winning office environments, boutique hotels, and flagship retail spaces. As you prepare to expand into new markets across Canada, your leadership team has identified the need to modernize your digital presence to reflect the sophistication and innovation that define your brand.\n\nCurrently, your website serves as a digital portfolio, but it does not fully capture the breadth of your services or provide a seamless experience for prospective clients and partners. You are also seeking to position Formulate Studio as a thought leader in sustainable design, leveraging digital channels to grow your reputation and attract top-tier talent and clients.\n\nOur team at Tennis Inc understands that your digital ecosystem must be as thoughtfully designed as your physical environments. We are excited to partner with you to create a digital platform that supports your business goals, enhances your brand, and delivers measurable impact as you scale.",
-    "problemAnalysis": "Your current website is visually appealing yet lacks the depth and interactivity today’s clients expect. Navigation is unintuitive, and key content—such as service offerings, case studies, and team expertise—is difficult to access. This creates friction for prospective clients, especially those unfamiliar with your work, and limits your ability to showcase your unique approach to design.\n\nAdditionally, the site’s backend is cumbersome, requiring significant manual updates and lacking integration with modern content management tools. This slows down your marketing and business development efforts and hinders the publication of timely thought leadership content.\n\nAs you pursue national expansion, you face the challenge of differentiating Formulate Studio in a crowded marketplace. Without a digital platform that clearly communicates your value proposition, expertise, and impact, you risk missing opportunities to engage high-value clients, partners, and talent.",
-    "opportunitySection": "A comprehensive digital transformation will position Formulate Studio as the go-to partner for innovative, sustainable design in Canada and beyond. By reimagining your website as a dynamic, user-centric platform, we can create an experience that educates, inspires, and converts your target audiences.\n\nOur process-driven approach will ensure your new digital platform is not only visually striking but also intuitive to navigate, optimized for search, and scalable as your business grows. We will leverage robust analytics to continuously measure performance and inform ongoing improvements.\n\nBy investing in a unified digital presence, you will be able to tell your story more effectively, build deeper relationships with clients and collaborators, and establish Formulate Studio as a leader at the intersection of design and technology.",
-    "recommendedServices": [
+  "proposal1": {
+    "tag": "PROPOSAL // TENNIS // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Tennis is losing 200 hours a year on proposal creation. This is where it bleeds.",
+    "heroSubheadline": "Your team spends hours crafting proposals for website and product design. Now, do it in 47 seconds with automation.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "The following are ongoing losses that Tennis faces due to manual proposal processes.",
+    "problems": [
       {
-        "name": "UX & Web Design",
-        "description": "We will architect and design a new website that aligns with Formulate Studio’s brand and supports your business objectives. Our approach emphasizes user experience, accessibility, and visual storytelling.",
-        "deliverables": [
-          "UX research and journey mapping",
-          "Wireframes and interactive prototypes",
-          "Custom website design",
-          "Accessibility compliance audit"
+        "title": "Time-Consuming Process",
+        "description": "Every hour spent writing proposals is an hour not spent closing deals. With 200 hours annually, that's potential revenue slipping away."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Manual proposals mean inconsistent branding, risking client confusion. This inconsistency could cost you key design projects."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Paying skilled designers for admin tasks is inefficient. Over $15,000 a year lost on tasks that automation can handle."
+      },
+      {
+        "title": "Delayed Responses",
+        "description": "Clients waiting for proposals might find alternatives. Delays risk losing up to 10% of potential new business."
+      },
+      {
+        "title": "Human Error Risks",
+        "description": "Manual work is prone to errors, causing reworks and lost trust. Each mistake can cost you a client and future referrals."
+      },
+      {
+        "title": "Stress on Team",
+        "description": "Your small team is stretched thin, leading to burnout. This stress reduces creativity and efficiency in website and product design."
+      }
+    ],
+    "solutionIntro": "Introducing the AI automation system, replacing inefficiencies with streamlined proposal generation.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, crafting proposals eats up hours. With our system, generate them in under 60 seconds, freeing up valuable time.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Time-Saving"
         ]
       },
       {
-        "name": "Web Development & Webflow Implementation",
-        "description": "Our team will build a robust, scalable website on Webflow, ensuring seamless content management and high performance across devices. Integration with third-party tools and future scalability are core priorities.",
-        "deliverables": [
-          "Custom Webflow development",
-          "Mobile and tablet optimization",
-          "CMS migration and setup",
-          "Performance & security optimization"
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Manually created proposals often differ in style. Our system ensures every proposal aligns perfectly with your brand.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professional"
         ]
       },
       {
-        "name": "Content Strategy & Brand Positioning",
-        "description": "We will develop a content strategy that highlights your expertise, showcases project case studies, and positions your team as thought leaders in sustainable design.",
-        "deliverables": [
-          "Content audit and gap analysis",
-          "Messaging framework and copywriting",
-          "Case study development",
-          "Editorial calendar for ongoing content"
+        "icon": "3.",
+        "title": "Cost Reduction",
+        "description": "Manually drafting proposals costs you in labor. Our system cuts these costs, increasing profitability.",
+        "tags": [
+          "Cost-Saving",
+          "Profitability",
+          "Efficiency"
         ]
       },
       {
-        "name": "Analytics, Reporting & Ongoing Support",
-        "description": "Our ongoing support includes performance monitoring, analytics reporting, and continuous optimization to ensure your digital platform delivers measurable results.",
-        "deliverables": [
-          "Google Analytics & Tag Manager setup",
-          "Monthly performance dashboards",
-          "Quarterly strategy reviews",
-          "Priority support and maintenance"
+        "icon": "4.",
+        "title": "Rapid Client Response",
+        "description": "Clients currently wait for proposals, risking loss. Now, respond instantly, capturing their interest immediately.",
+        "tags": [
+          "Client Satisfaction",
+          "Speed",
+          "Opportunity"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Error-Free Output",
+        "description": "Manual errors can damage client trust. Automated proposals are precise, protecting your reputation and client relationships.",
+        "tags": [
+          "Accuracy",
+          "Trust",
+          "Reliability"
         ]
       }
     ],
-    "implementationPhases": [
+    "metrics": [
       {
-        "phaseNumber": 1,
-        "phaseName": "Discovery & Strategy",
-        "duration": "Weeks 1-2",
-        "description": "We conduct stakeholder interviews, audit your current digital assets, and align on business goals, audience needs, and success metrics.",
-        "milestones": [
-          "Kickoff workshop",
-          "User journey mapping completed"
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
         ]
       },
       {
-        "phaseNumber": 2,
-        "phaseName": "Experience Design",
-        "duration": "Weeks 3-5",
-        "description": "Our team develops wireframes, prototypes, and visual concepts, iterating with your feedback to ensure alignment with your brand and objectives.",
-        "milestones": [
-          "Wireframes delivered",
-          "Design concepts approved"
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
         ]
       },
       {
-        "phaseNumber": 3,
-        "phaseName": "Development & Integration",
-        "duration": "Weeks 6-9",
-        "description": "We build the new website in Webflow, migrate content, and integrate analytics and CMS. Extensive QA ensures performance, accessibility, and security.",
-        "milestones": [
-          "Webflow build complete",
-          "Content migrated and tested"
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
         ]
       },
       {
-        "phaseNumber": 4,
-        "phaseName": "Launch & Optimization",
-        "duration": "Weeks 10-12",
-        "description": "Final launch, post-launch monitoring, and initial optimization based on real user data. Ongoing support begins.",
-        "milestones": [
-          "Website live",
-          "First performance report delivered"
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
         ]
       }
     ],
-    "timelineTotal": "12 weeks",
-    "pricingTiers": [
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
       {
-        "tierName": "Foundation",
-        "price": "$38,000",
-        "description": "Ideal for firms seeking a modern, high-impact digital presence with core features and foundational analytics.",
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Tennis's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
         "features": [
-          "UX research & custom design",
-          "Webflow development",
-          "Basic CMS migration"
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
         ],
         "recommended": false
       },
       {
-        "tierName": "Growth",
-        "price": "$56,000",
-        "description": "Our recommended solution, including robust content strategy, advanced analytics, and quarterly optimization for measurable impact.",
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Tennis around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
         "features": [
-          "All Foundation features",
-          "Comprehensive content strategy",
-          "Case study development",
-          "Advanced analytics & reporting"
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Tennis.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Elevate Acme Corp with Unified Web Design.",
+    "heroSubheadline": "Let's create a seamless digital experience that reflects your brand and boosts engagement. Our plan involves a comprehensive website overhaul.",
+    "heroTags": [],
+    "problemsIntro": "Every missed opportunity online is revenue slipping away.",
+    "problems": [
+      {
+        "title": "High Bounce Rate",
+        "description": "Visitors are leaving your site almost immediately. This results in a 20% loss of potential customers daily."
+      },
+      {
+        "title": "Slow Load Times",
+        "description": "A slow website frustrates users. Each second delay costs you 5% in conversion rates."
+      },
+      {
+        "title": "Outdated Design",
+        "description": "An outdated design makes your brand look less credible. This perception is costing you 15% in potential sales."
+      },
+      {
+        "title": "Complex Navigation",
+        "description": "A complicated site navigation confuses users. This leads to a 25% drop in user engagement."
+      },
+      {
+        "title": "Mobile Incompatibility",
+        "description": "Your site isn't optimized for mobile. This oversight results in a 30% decrease in mobile traffic retention."
+      },
+      {
+        "title": "Weak Integration",
+        "description": "Disconnected tools are slowing down operations. This inefficiency leads to a 10% loss in productivity."
+      }
+    ],
+    "solutionIntro": "We address these problems through strategic web design and optimization.",
+    "solutions": [
+      {
+        "icon": "🖥️",
+        "title": "Website Design and Development",
+        "description": "We create brand-aligned websites that are easy to update and maintain. This enhances user experience and retention.",
+        "tags": [
+          "Web Design",
+          "Development",
+          "Branding"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Optimization and Support",
+        "description": "Improving performance and automation. This ensures your site runs smoothly and efficiently.",
+        "tags": [
+          "UX",
+          "Performance",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "🔧",
+        "title": "Product Design and Development",
+        "description": "Designing intuitive digital products that scale. This helps streamline operations and drive impact.",
+        "tags": [
+          "Product Design",
+          "Development",
+          "Scalability"
+        ]
+      },
+      {
+        "icon": "🔗",
+        "title": "Tool Integration",
+        "description": "Connecting your tools to unify operations. This boosts productivity and simplifies workflows.",
+        "tags": [
+          "Integration",
+          "Productivity",
+          "Efficiency"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Increase in user engagement."
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Boost in conversion rates."
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Improvement in site speed."
+      }
+    ],
+    "whyUsIntro": "Tennis is your partner for impactful digital transformation.",
+    "whyUsCards": [
+      {
+        "icon": "🌟",
+        "title": "Proven Expertise",
+        "description": "We've helped brands like yours enhance their digital presence."
+      },
+      {
+        "icon": "🤝",
+        "title": "Collaborative Approach",
+        "description": "We work closely with your team to ensure our solutions fit your needs."
+      },
+      {
+        "icon": "🔍",
+        "title": "Detail Oriented",
+        "description": "Every detail matters. We ensure nothing is overlooked in your project."
+      },
+      {
+        "icon": "🚀",
+        "title": "Results Driven",
+        "description": "Our focus is on delivering tangible results that boost your business."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "200+",
+        "suffix": "projects",
+        "label": "Successfully completed"
+      },
+      {
+        "value": "98",
+        "suffix": "%",
+        "label": "Client satisfaction rate"
+      },
+      {
+        "value": "50+",
+        "suffix": "clients",
+        "label": "Partnerships built"
+      },
+      {
+        "value": "3.6",
+        "suffix": "M",
+        "label": "Annual revenue"
+      }
+    ],
+    "teamIntro": "Meet the team dedicated to your project's success.",
+    "team": {
+      "initials": "MG",
+      "name": "Marcello Gortana",
+      "role": "Founder",
+      "titleNote": "",
+      "bio": "Marcello leads strategy and client relationships at Tennis. His focus is on ensuring each project aligns with client goals.",
+      "linkedin": "",
+      "phone": "+1 416-504-9490"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery",
+        "badge": "Weeks 1 to 3",
+        "description": "Understanding your goals and challenges.",
+        "bullets": [
+          "Stakeholder interviews",
+          "Current site analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Design",
+        "badge": "Weeks 4 to 6",
+        "description": "Creating a brand-aligned visual identity.",
+        "bullets": [
+          "Wireframing",
+          "UI/UX design"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Development",
+        "badge": "Weeks 7 to 9",
+        "description": "Building a scalable, easy-to-maintain site.",
+        "bullets": [
+          "Front-end development",
+          "Back-end integration"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Launch & Support",
+        "badge": "Weeks 10 to 12",
+        "description": "Deploying and optimizing your site.",
+        "bullets": [
+          "Testing and QA",
+          "Post-launch support"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose an investment option that suits your growth plan.",
+    "pricing": [
+      {
+        "name": "Basic Package",
+        "subtitle": "",
+        "description": "Essential services to get you started.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic Design",
+          "Standard Support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Our recommended package for most businesses.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Advanced Design",
+          "Priority Support"
         ],
         "recommended": true
       },
       {
-        "tierName": "Scale",
-        "price": "$84,000",
-        "description": "For firms seeking a transformative digital ecosystem, including brand strategy workshops, custom integrations, and extended support.",
+        "name": "Enterprise Package",
+        "subtitle": "",
+        "description": "Comprehensive services for large-scale needs.",
+        "amount": "$15,000/mo",
+        "period": "",
         "features": [
-          "All Growth features",
-          "Brand strategy workshops",
-          "Custom integrations (CRM, careers portal)",
-          "Editorial calendar & content creation",
-          "One year of priority support"
+          "Custom Design",
+          "Dedicated Support"
         ],
         "recommended": false
       }
     ],
-    "caseExamples": [
-      {
-        "title": "Transforming a National Architecture Firm’s Digital Presence",
-        "context": "A Canadian architecture firm preparing for international expansion needed a website that showcased their portfolio and supported business development.",
-        "result": "Delivered a 62% increase in qualified leads and a 48% reduction in site management time within six months."
-      },
-      {
-        "title": "Elevating a Boutique Design Agency’s Brand Online",
-        "context": "A design agency sought to reposition itself as a thought leader and attract higher-value clients.",
-        "result": "Achieved a 3x increase in inbound client inquiries and secured two major national contracts post-launch."
-      }
-    ],
-    "ctaHeadline": "Let’s Build the Future of Formulate Studio’s Digital Brand",
-    "ctaBody": "We’re excited to help you elevate your digital presence and accelerate your growth. Let’s schedule a conversation to align on your goals and start the process.",
-    "ctaButtonText": "Schedule a Discovery Call",
-    "contactName": "Marcello Gortana",
-    "contactTitle": "Founder",
-    "contactEmail": "marcello@designtennis.com",
-    "contactPhone": "+1 (416) 555-0198"
+    "ctaHeadline": "Ready to Transform Acme Corp?",
+    "ctaDescription": "Let's chat about how we can help. No pressure, just a conversation.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "marcello@designtennis.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Tennis",
+    "footerSub": "Designing for impact, building for success."
   },
   "enriched": {
-    "tone": "professional, collaborative, transparent, strategic, data-driven",
-    "positioning": "Tennis Inc positions itself as a process-driven digital agency that delivers measurable impact and digital transformation for medium to enterprise organizations through holistic design and technology solutions.",
+    "tone": "casual",
+    "positioning": "Full-service agency",
     "serviceList": [
-      "Web Design",
-      "Web Development",
-      "UX Design",
-      "E-Commerce",
-      "Webflow Development",
-      "Content Strategy",
-      "Brand Strategy",
-      "Analytics & Reporting",
-      "Ongoing Support",
-      "Website and CMS Migration",
-      "Performance & Security Optimization",
-      "Accessibility Compliance",
-      "Privacy Compliance",
-      "Product Discovery & Strategy",
-      "Prototyping & Validation",
-      "User Experience Audits",
-      "Product Design Systems",
-      "Workflow & Process Tools",
-      "Custom Web Applications",
-      "AI and Data Integrations",
-      "Website Management",
-      "Automation & Workflow Integration",
-      "Strategic Support",
-      "Accessibility Monitoring"
+      "Website Design and Development",
+      "Website Design and Development",
+      "Website Design and Development",
+      "Product Design and Development",
+      "Optimization and Support"
     ],
-    "valuePropositions": [
-      "Process-driven approach ensures consistent, high-quality results.",
-      "Holistic digital solutions designed for scalability and adaptability.",
-      "Emphasis on measurable impact and data-backed outcomes.",
-      "Long-term partnership focused on client success and peace of mind.",
-      "Expertise in both creative and technical domains for seamless digital transformation."
-    ],
-    "differentiators": [
-      "Structured, process-driven methodology for delivering digital solutions.",
-      "Strong emphasis on measurable business impact and data-driven decision making.",
-      "Integrated approach combining creative design, technology, and strategic consulting.",
-      "Commitment to transparency, reliability, and long-term client success."
-    ]
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Marcello",
+    "last_name": "Gortana",
+    "email": "marcello@designtennis.com",
+    "company_phone": "+1 416-504-9490",
+    "mobile_number": "",
+    "company_name": "Tennis",
+    "company_website": "https://www.designtennis.com",
+    "company_domain": "designtennis.com",
+    "company_description": "Founded in 2017, Tennis is a digital agency that drives impact through digital transformation and our process-driven approach. We work with medium and enterprise businesses, venture firms, product companies, startups, associations and nonprofits. Our services include UX/UI, web design, branding, development, technology consulting, and experiential. We emphasize delivering measurable impact through structured processes to deliver solutions that help organizations achieve significant growth, optimization, or position for acquisition.",
+    "headline": "Founder At Tennis | Ux Design, Brand Identity, Experiential, Web Development & Product Design For Marketers, Founders & Venture-backed Startups",
+    "job_title": "Founder",
+    "industry": "Design",
+    "company_size": "12",
+    "company_technologies": "amazon aws, flutter, gmail, google apps, google tag manager, mobile friendly, react native, remote, recaptcha",
+    "city": "Toronto",
+    "state": "Ontario",
+    "country": "Canada",
+    "company_full_address": "33 Bloor St E, Unit 507, Toronto, Ontario M4W 3H1, CA",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "3.6M",
+    "linkedin": "https://www.linkedin.com/in/marcellogortana",
+    "company_linkedin": "https://www.linkedin.com/company/designtennis",
+    "company_founded_year": "2014",
+    "keywords": "user experience design, user interface design, digital strategy, digital transformation, business transformation, web application development, mobile application development, design thinking, content management systems, product design, interaction design, information architecture, development, prototyping, native application development, digital design, software development, digital experiences, design systems, web design, design services, holistic design, low-code development, no-code development, user-centered design, iterative design process, data-driven insights, digital ecosystem, interface design, accessibility standards, customer onboarding, automation solutions, design sprint, brand strategy, responsive design, custom saas solutions, fractions ux services, client engagement, visual design, agile development, cyber security education, data visualization, user analytics, user journey mapping, milestones planning, legacy system modernization, design frameworks, process optimization, integrated platforms, scalable designs, cross-functional teams, digital products, challenges in ux, innovation consulting, project management, stakeholder engagement, interactive reports, customer experience improvement, brand loyalty strategies, market positioning, engagement metrics, creative direction, brand identity, strategic planning, product roadmapping, consultation services, financial solutions, marketing, marketing & advertising, web development, information technology & services, mobile app development, productivity",
+    "personalization": "You might want to check out the timeline; your site says you started in 2014, but it looks like 2017 is the real deal.",
+    "painStatement": "",
+    "proposal_status": "done",
+    "proposal_url": "https://www.ayushopchauhan.com/for/tennis",
+    "proposal_id": "tennis",
+    "generated_at": "26/02/2026 20:10 PM"
   }
 }
