@@ -3,8 +3,8 @@
   "companyName": "Caliber",
   "contactName": "Linda Welter",
   "contactEmail": "lwelter@calibergroup.com",
-  "generationTime": 28,
-  "createdAt": "2026-02-27T12:25:32.567Z",
+  "generationTime": 29,
+  "createdAt": "2026-02-27T12:25:41.812Z",
   "brandStyle": {
     "primaryColor": "#7a00df",
     "secondaryColor": "#ddd",
@@ -16,8 +16,8 @@
   "proposal1": {
     "tag": "PROPOSAL // CALIBER // CONFIDENTIAL",
     "heroBadge": "AI Proposal Automation",
-    "heroHeadline": "Caliber is burning 1,200 hours annually on proposals. Here is exactly where it goes.",
-    "heroSubheadline": "Currently, crafting a single proposal takes hours from your team. With our system, it's done in 47 seconds, tailored for marketing brilliance.",
+    "heroHeadline": "Caliber is burning $150,000 a year on labor-intensive proposals. Here is exactly where it goes.",
+    "heroSubheadline": "Manual proposal writing consumes hours. In 47 seconds, our AI automates it for Caliber's marketing services.",
     "heroTags": [
       "AI",
       "AUTOMATION",
@@ -25,39 +25,39 @@
       "BRANDING",
       "CHATBOT"
     ],
-    "problemsIntro": "Below are the ongoing losses Caliber faces with its current proposal process.",
+    "problemsIntro": "The following outlines how Caliber is losing time, money, and clients to inefficient proposal processes.",
     "problems": [
       {
-        "title": "Time Drain",
-        "description": "Each proposal consumes 4-5 hours of staff time. That's over 1,200 hours a year not spent on winning new clients."
+        "title": "Wasted Hours",
+        "description": "Caliber spends over 500 hours annually crafting proposals. Every hour spent writing proposals is an hour not spent closing deals in marketing and advertising."
       },
       {
         "title": "Lost Deals",
-        "description": "Delayed proposal submissions mean lost opportunities. Every day waiting for a proposal is a day a competitor could swoop in."
-      },
-      {
-        "title": "Resource Overload",
-        "description": "Your team spends 20% of their time on proposals. That's time not spent on delivering your award-winning services."
-      },
-      {
-        "title": "Inconsistent Branding",
-        "description": "Manual proposals risk inconsistent messaging. Inconsistency costs you credibility and client trust."
+        "description": "Delayed proposals cost Caliber 10% of potential new clients. Each delay means competitors can swoop in with quicker offers."
       },
       {
         "title": "High Labor Costs",
-        "description": "At an average of $40/hour, proposal writing costs Caliber $48,000 annually. That money could enhance your digital campaigns."
+        "description": "Caliber allocates $50,000 annually on proposal creation salaries. This diverts funds from client acquisition and service improvement."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Manually written proposals lead to inconsistent branding. This inconsistency can dilute Caliber's award-winning image, costing client trust."
+      },
+      {
+        "title": "Error Risks",
+        "description": "Current manual processes result in errors costing Caliber potential contracts. Each mistake can undermine Caliber's credibility in the marketing sector."
       },
       {
         "title": "Client Frustration",
-        "description": "Clients waiting too long for proposals become frustrated. Frustration leads to a 30% higher chance they'll seek other agencies."
+        "description": "Clients waiting for delayed proposals become frustrated. This frustration can lead to lost opportunities and damaged relationships."
       }
     ],
-    "solutionIntro": "Our AI system replaces all these losses with streamlined efficiency and precision.",
+    "solutionIntro": "Our AI system replaces all these losses with efficiency and precision.",
     "solutions": [
       {
         "icon": "1.",
         "title": "Instant Proposal Generation",
-        "description": "Currently, proposals take hours to craft. Our system delivers a complete, branded proposal in 47 seconds.",
+        "description": "Currently, creating proposals is slow and cumbersome. Our system automates this, providing client-ready proposals in under 60 seconds.",
         "tags": [
           "Efficiency",
           "Speed",
@@ -67,41 +67,41 @@
       {
         "icon": "2.",
         "title": "Brand Consistency",
-        "description": "Manual entry risks inconsistency. Our AI ensures every proposal aligns perfectly with Caliber’s branding.",
+        "description": "Manual proposals risk inconsistent branding. Our AI ensures every proposal aligns with Caliber's award-winning image.",
         "tags": [
           "Branding",
-          "Consistency",
-          "Quality"
+          "Image",
+          "Consistency"
         ]
       },
       {
         "icon": "3.",
-        "title": "Cost Reduction",
-        "description": "Proposal creation costs $48,000 annually. Slash this cost with automation, reallocating funds to enhance client services.",
+        "title": "Reduced Labor Costs",
+        "description": "High labor costs burden Caliber's budget. Our system cuts these costs, freeing resources for client acquisition.",
         "tags": [
-          "Savings",
+          "Cost Reduction",
           "Budget",
-          "Reallocation"
+          "Resource Allocation"
         ]
       },
       {
         "icon": "4.",
-        "title": "Improved Client Relations",
-        "description": "Clients currently wait days for proposals. Deliver in less than a minute, enhancing satisfaction and trust.",
+        "title": "Error-Free Output",
+        "description": "Manual processes invite errors. Our AI ensures error-free, precise proposals every time.",
         "tags": [
-          "Client Satisfaction",
-          "Trust",
+          "Accuracy",
+          "Precision",
           "Reliability"
         ]
       },
       {
         "icon": "5.",
-        "title": "Focus on Core Services",
-        "description": "Proposal tasks steal focus from core activities. Free your team to concentrate on delivering top-notch marketing and PR.",
+        "title": "Enhanced Client Satisfaction",
+        "description": "Delays frustrate clients. Our system delivers swift proposals, enhancing client satisfaction and retention.",
         "tags": [
-          "Focus",
-          "Productivity",
-          "Core Services"
+          "Client Satisfaction",
+          "Retention",
+          "Speed"
         ]
       }
     ],
@@ -293,149 +293,149 @@
     "fictionalClientName": "Acme Corp",
     "tag": "Proposal for Acme Corp // Confidential",
     "heroBadge": "Strategic Partnership Proposal",
-    "heroHeadline": "Transform Acme Corp's Brand with Caliber's Expertise",
-    "heroSubheadline": "We will revitalize your brand, ensuring every visitor becomes a loyal customer through strategic media planning and creative advertising.",
+    "heroHeadline": "Unlock Acme Corp's Potential with Caliber's Brand Strategy Expertise",
+    "heroSubheadline": "Let's transform your brand presence through targeted strategies and creative solutions. Our plan focuses on revitalizing your brand across its entire life cycle.",
     "heroTags": [],
-    "problemsIntro": "Every visitor leaving without converting is revenue walking out the door.",
+    "problemsIntro": "Every missed connection with your audience is potential revenue slipping away.",
     "problems": [
       {
-        "title": "High Bounce Rate",
-        "description": "For every 100 visitors, 70 leave without engagement. This is potential revenue lost daily."
+        "title": "Low Brand Awareness",
+        "description": "Acme Corp is not on the top of your audience's mind. This results in missed opportunities and a 20% lower engagement rate than industry standards."
       },
       {
-        "title": "Low Brand Recognition",
-        "description": "Acme Corp is not top-of-mind for your target market, leading to a missed opportunity for market dominance."
+        "title": "Ineffective Digital Presence",
+        "description": "Your website's bounce rate is above 50%. Each visitor who leaves without converting is a customer walking out the door."
       },
       {
-        "title": "Weak Social Media Presence",
-        "description": "Your competitors are engaging with your audience, capturing potential customers and diminishing your market share."
+        "title": "Poor Media Planning",
+        "description": "Inefficient media spend leads to 15% wasted budget annually. This results in lower ROI and missed customer connections."
       },
       {
-        "title": "Ineffective Advertising Spend",
-        "description": "Current media buys are not yielding expected returns, leading to wasted budget and limited brand exposure."
+        "title": "Weak Brand Messaging",
+        "description": "Inconsistent messaging confuses potential clients, leading to a 30% drop in lead conversion."
       },
       {
-        "title": "Stagnant Growth",
-        "description": "Without a dynamic brand strategy, growth has plateaued, costing potential revenue and market expansion."
+        "title": "Underutilized Advertising Channels",
+        "description": "A lack of diversified channels means reaching only half of your potential market."
       },
       {
-        "title": "Limited Audience Insights",
-        "description": "Lack of data-driven insights means missing out on crucial opportunities to refine strategies and boost conversions."
+        "title": "Stagnant Brand Evolution",
+        "description": "Your brand hasn't adapted to market changes, resulting in a plateau in sales growth."
       }
     ],
-    "solutionIntro": "Our solutions address these issues directly, turning losses into gains.",
+    "solutionIntro": "Our solutions address these issues directly, driving growth and engagement.",
     "solutions": [
       {
         "icon": "🎨",
         "title": "Brand Strategy",
-        "description": "This will establish Acme Corp as a market leader, enhancing recognition and loyalty.",
+        "description": "We revitalize your brand identity to make it stand out and resonate with your audience. This will create stronger connections and increase brand recall.",
         "tags": [
-          "Branding",
-          "Leadership",
-          "Recognition"
-        ]
-      },
-      {
-        "icon": "📊",
-        "title": "Creative Advertising",
-        "description": "Engages your audience effectively, increasing conversions and reducing bounce rates.",
-        "tags": [
-          "Engagement",
-          "Conversions",
-          "Advertising"
-        ]
-      },
-      {
-        "icon": "📈",
-        "title": "Media Planning/Buying",
-        "description": "Optimizes your advertising spend for maximum reach and impact.",
-        "tags": [
-          "Media",
-          "Optimization",
-          "Impact"
+          "Strategy",
+          "Identity",
+          "Engagement"
         ]
       },
       {
         "icon": "🌐",
-        "title": "Social Media Strategy",
-        "description": "Strengthens your online presence, capturing market share and boosting engagement.",
+        "title": "Digital Presence",
+        "description": "Enhancing your website and online platforms to lower bounce rates and increase conversions. A stronger digital presence means better customer retention.",
         "tags": [
-          "Social Media",
-          "Engagement",
-          "Market Share"
+          "Web",
+          "SEO",
+          "Conversions"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Media Planning & Buying",
+        "description": "Optimized media strategies to maximize your advertising spend. This ensures higher ROI and better reach to your target audience.",
+        "tags": [
+          "Media",
+          "ROI",
+          "Reach"
+        ]
+      },
+      {
+        "icon": "🖊️",
+        "title": "Creative Advertising",
+        "description": "Crafting compelling messages that capture attention and drive action. Effective advertising leads to increased lead generation.",
+        "tags": [
+          "Creative",
+          "Advertising",
+          "Leads"
         ]
       }
     ],
     "metrics": [
       {
-        "value": "50",
-        "suffix": "%",
-        "label": "Increase in brand recognition"
-      },
-      {
         "value": "30",
         "suffix": "%",
-        "label": "Decrease in bounce rate"
+        "label": "Increase in brand engagement"
       },
       {
-        "value": "20",
+        "value": "25",
         "suffix": "%",
-        "label": "Growth in conversion rates"
+        "label": "Improvement in conversion rates"
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Enhanced brand recognition"
       }
     ],
-    "whyUsIntro": "Caliber is your partner in transforming brand potential into market success.",
+    "whyUsIntro": "Caliber offers unmatched expertise and a track record of success.",
     "whyUsCards": [
       {
         "icon": "🏆",
-        "title": "Award-Winning Team",
-        "description": "Our team has been recognized nationally for outstanding brand strategies."
-      },
-      {
-        "icon": "🌟",
-        "title": "Proven Results",
-        "description": "We have a history of turning client challenges into opportunities for growth."
+        "title": "Award-Winning Strategies",
+        "description": "Our team has been recognized for innovative solutions and outstanding results."
       },
       {
         "icon": "🤝",
-        "title": "Dedicated Partnership",
-        "description": "We work closely with you to ensure strategies align with your business goals."
+        "title": "Client-Centric Approach",
+        "description": "We prioritize understanding your unique needs to deliver tailored strategies."
       },
       {
-        "icon": "🔍",
-        "title": "Data-Driven Insights",
-        "description": "Our strategies are backed by robust data analytics to ensure effectiveness."
+        "icon": "📊",
+        "title": "Data-Driven Decisions",
+        "description": "Our insights are backed by data, ensuring effective and measurable outcomes."
+      },
+      {
+        "icon": "🚀",
+        "title": "Proven Success",
+        "description": "We have a history of helping brands achieve their goals and exceed expectations."
       }
     ],
     "fearCards": [],
     "socialProof": [
       {
-        "value": "100",
+        "value": "150",
+        "suffix": "+",
+        "label": "Successful projects delivered"
+      },
+      {
+        "value": "20",
+        "suffix": "years",
+        "label": "Experience in the industry"
+      },
+      {
+        "value": "98",
         "suffix": "%",
         "label": "Client satisfaction rate"
       },
       {
         "value": "50",
-        "suffix": "+",
-        "label": "Successful brand campaigns"
-      },
-      {
-        "value": "20",
-        "suffix": "years",
-        "label": "Industry experience"
-      },
-      {
-        "value": "10",
-        "suffix": "+",
-        "label": "Industry awards"
+        "suffix": "%",
+        "label": "Average ROI improvement"
       }
     ],
-    "teamIntro": "Meet the team that will drive your brand transformation.",
+    "teamIntro": "Meet the leaders guiding your brand transformation.",
     "team": {
       "initials": "LW",
       "name": "Linda Welter",
       "role": "Founder & CEO",
       "titleNote": "",
-      "bio": "Linda leads strategy and client relationships, ensuring every project achieves excellence. Her experience spans over two decades in brand transformation.",
+      "bio": "Linda leads our strategy and client relationships, ensuring every partnership is a success. Her expertise in brand marketing is unmatched.",
       "linkedin": "",
       "phone": "+1 520-795-4500"
     },
@@ -446,90 +446,90 @@
         "number": 1,
         "title": "Discovery & Research",
         "badge": "Weeks 1 to 3",
-        "description": "Understanding Acme Corp's current position and challenges.",
+        "description": "In-depth analysis of your current brand and market position.",
         "bullets": [
-          "Market analysis",
-          "Competitor review"
+          "Market Research",
+          "Competitor Analysis"
         ]
       },
       {
         "number": 2,
         "title": "Strategy Development",
         "badge": "Weeks 4 to 6",
-        "description": "Crafting a tailored brand strategy.",
+        "description": "Crafting a tailored strategy to address your specific challenges.",
         "bullets": [
-          "Goal setting",
-          "Tactical planning"
+          "Brand Positioning",
+          "Messaging Framework"
         ]
       },
       {
         "number": 3,
         "title": "Implementation",
-        "badge": "Weeks 7 to 10",
-        "description": "Executing the strategy with precision.",
+        "badge": "Weeks 7 to 9",
+        "description": "Executing the strategy across all channels.",
         "bullets": [
-          "Ad creation",
-          "Media placement"
+          "Creative Execution",
+          "Media Buying"
         ]
       },
       {
         "number": 4,
-        "title": "Review & Optimize",
-        "badge": "Weeks 11 to 12",
-        "description": "Analyzing results and refining strategies.",
+        "title": "Optimization & Review",
+        "badge": "Weeks 10 to 12",
+        "description": "Assessing performance and optimizing for ongoing success.",
         "bullets": [
-          "Performance metrics",
-          "Strategy adjustments"
+          "Performance Analysis",
+          "Continual Adjustments"
         ]
       }
     ],
-    "pricingIntro": "Choose an investment tier that aligns with your goals.",
+    "pricingIntro": "Choose an investment option that suits your growth ambitions.",
     "pricing": [
       {
-        "name": "Essential Plan",
+        "name": "Essential Package",
         "subtitle": "",
-        "description": "For brands beginning their transformation journey.",
+        "description": "Ideal for businesses looking to establish a solid foundation.",
         "amount": "$4,500/mo",
         "period": "",
         "features": [
-          "Basic strategy",
-          "Monthly reporting"
+          "Basic Brand Strategy",
+          "Initial Digital Audit"
         ],
         "recommended": false
       },
       {
-        "name": "Growth Plan",
+        "name": "Growth Package",
         "subtitle": "",
-        "description": "Recommended for brands ready to accelerate growth.",
+        "description": "Recommended for those ready to scale up their marketing efforts.",
         "amount": "$8,500/mo",
         "period": "",
         "features": [
-          "Comprehensive strategy",
-          "Bi-weekly updates"
+          "Comprehensive Strategy",
+          "Full Media Planning"
         ],
         "recommended": true
       },
       {
-        "name": "Enterprise Plan",
+        "name": "Premium Package",
         "subtitle": "",
-        "description": "For brands seeking market leadership.",
+        "description": "For brands aiming to dominate their market space.",
         "amount": "$15,000/mo",
         "period": "",
         "features": [
-          "Full-service strategy",
-          "Weekly consultations"
+          "Advanced Strategy",
+          "Priority Support"
         ],
         "recommended": false
       }
     ],
-    "ctaHeadline": "Ready to Transform Acme Corp's Brand?",
-    "ctaDescription": "Let's discuss how we can help you achieve your goals. Schedule a call to explore the possibilities.",
+    "ctaHeadline": "Ready to Elevate Acme Corp?",
+    "ctaDescription": "Let's have a conversation about how we can help you achieve your goals.",
     "ctaButtonText": "Schedule a Call",
     "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
     "ctaEmail": "lwelter@calibergroup.com",
     "ctaNote": "",
     "footerText": "© 2025 Caliber",
-    "footerSub": "Caliber Group: Elevating Brands"
+    "footerSub": "Innovative Solutions, Proven Results."
   },
   "enriched": {
     "tone": "warm",
@@ -568,7 +568,7 @@
     "keywords": "brand marketing, media relations, social media, reputation management, interactive, digital, websites, crisis communications, search marketing, public relations, media planning, buying, advertising services, marketing, digital marketing, brand strategy, crisis communication, brand development, client engagement, audience education, healthcare marketing, biotech marketing, finance marketing, advertising campaigns, brand awareness, online marketing, content creation, lead generation, social media strategy, seo, ppc advertising, website development, analytics reporting, market research, brand positioning, community relations, stakeholder engagement, crisis management, internal communications, graphic design, email marketing, event promotion, training programs, nonprofit strategy, education marketing, real estate marketing, technology marketing, consumer insights, product launches, social media monitoring, rebranding, executive leadership, mergers & acquisitions, interactive campaigns, target audience analysis, creative development, audience engagement, business strategies, cross-channel marketing, marketing & advertising, enterprise software, enterprises, computer software, information technology & services, b2b, public relations & communications, consumer internet, consumers, internet, sales, web development",
     "personalization": "Caliber is one of the fewer than 100 firms accredited by the Agency Management Institute.",
     "painStatement": "",
-    "proposal_status": "",
+    "proposal_status": "generating",
     "proposal_url": "",
     "proposal_id": "",
     "generated_at": ""
