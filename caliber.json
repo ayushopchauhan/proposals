@@ -1,0 +1,576 @@
+{
+  "slug": "caliber",
+  "companyName": "Caliber",
+  "contactName": "Linda Welter",
+  "contactEmail": "lwelter@calibergroup.com",
+  "generationTime": 28,
+  "createdAt": "2026-02-27T12:25:32.567Z",
+  "brandStyle": {
+    "primaryColor": "#7a00df",
+    "secondaryColor": "#ddd",
+    "accentColor": "#007cba",
+    "headingFont": "Open Sans",
+    "bodyFont": "Open Sans",
+    "logoUrl": "https://www.calibergroup.com/wp-content/themes/twentytwelve-child/images/logo.svg"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // CALIBER // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Caliber is burning 1,200 hours annually on proposals. Here is exactly where it goes.",
+    "heroSubheadline": "Currently, crafting a single proposal takes hours from your team. With our system, it's done in 47 seconds, tailored for marketing brilliance.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Below are the ongoing losses Caliber faces with its current proposal process.",
+    "problems": [
+      {
+        "title": "Time Drain",
+        "description": "Each proposal consumes 4-5 hours of staff time. That's over 1,200 hours a year not spent on winning new clients."
+      },
+      {
+        "title": "Lost Deals",
+        "description": "Delayed proposal submissions mean lost opportunities. Every day waiting for a proposal is a day a competitor could swoop in."
+      },
+      {
+        "title": "Resource Overload",
+        "description": "Your team spends 20% of their time on proposals. That's time not spent on delivering your award-winning services."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Manual proposals risk inconsistent messaging. Inconsistency costs you credibility and client trust."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "At an average of $40/hour, proposal writing costs Caliber $48,000 annually. That money could enhance your digital campaigns."
+      },
+      {
+        "title": "Client Frustration",
+        "description": "Clients waiting too long for proposals become frustrated. Frustration leads to a 30% higher chance they'll seek other agencies."
+      }
+    ],
+    "solutionIntro": "Our AI system replaces all these losses with streamlined efficiency and precision.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals take hours to craft. Our system delivers a complete, branded proposal in 47 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Brand Consistency",
+        "description": "Manual entry risks inconsistency. Our AI ensures every proposal aligns perfectly with Caliber’s branding.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Quality"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Cost Reduction",
+        "description": "Proposal creation costs $48,000 annually. Slash this cost with automation, reallocating funds to enhance client services.",
+        "tags": [
+          "Savings",
+          "Budget",
+          "Reallocation"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Improved Client Relations",
+        "description": "Clients currently wait days for proposals. Deliver in less than a minute, enhancing satisfaction and trust.",
+        "tags": [
+          "Client Satisfaction",
+          "Trust",
+          "Reliability"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Focus on Core Services",
+        "description": "Proposal tasks steal focus from core activities. Free your team to concentrate on delivering top-notch marketing and PR.",
+        "tags": [
+          "Focus",
+          "Productivity",
+          "Core Services"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Caliber's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Caliber around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Caliber.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's Brand with Caliber's Expertise",
+    "heroSubheadline": "We will revitalize your brand, ensuring every visitor becomes a loyal customer through strategic media planning and creative advertising.",
+    "heroTags": [],
+    "problemsIntro": "Every visitor leaving without converting is revenue walking out the door.",
+    "problems": [
+      {
+        "title": "High Bounce Rate",
+        "description": "For every 100 visitors, 70 leave without engagement. This is potential revenue lost daily."
+      },
+      {
+        "title": "Low Brand Recognition",
+        "description": "Acme Corp is not top-of-mind for your target market, leading to a missed opportunity for market dominance."
+      },
+      {
+        "title": "Weak Social Media Presence",
+        "description": "Your competitors are engaging with your audience, capturing potential customers and diminishing your market share."
+      },
+      {
+        "title": "Ineffective Advertising Spend",
+        "description": "Current media buys are not yielding expected returns, leading to wasted budget and limited brand exposure."
+      },
+      {
+        "title": "Stagnant Growth",
+        "description": "Without a dynamic brand strategy, growth has plateaued, costing potential revenue and market expansion."
+      },
+      {
+        "title": "Limited Audience Insights",
+        "description": "Lack of data-driven insights means missing out on crucial opportunities to refine strategies and boost conversions."
+      }
+    ],
+    "solutionIntro": "Our solutions address these issues directly, turning losses into gains.",
+    "solutions": [
+      {
+        "icon": "🎨",
+        "title": "Brand Strategy",
+        "description": "This will establish Acme Corp as a market leader, enhancing recognition and loyalty.",
+        "tags": [
+          "Branding",
+          "Leadership",
+          "Recognition"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Creative Advertising",
+        "description": "Engages your audience effectively, increasing conversions and reducing bounce rates.",
+        "tags": [
+          "Engagement",
+          "Conversions",
+          "Advertising"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Media Planning/Buying",
+        "description": "Optimizes your advertising spend for maximum reach and impact.",
+        "tags": [
+          "Media",
+          "Optimization",
+          "Impact"
+        ]
+      },
+      {
+        "icon": "🌐",
+        "title": "Social Media Strategy",
+        "description": "Strengthens your online presence, capturing market share and boosting engagement.",
+        "tags": [
+          "Social Media",
+          "Engagement",
+          "Market Share"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Increase in brand recognition"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Decrease in bounce rate"
+      },
+      {
+        "value": "20",
+        "suffix": "%",
+        "label": "Growth in conversion rates"
+      }
+    ],
+    "whyUsIntro": "Caliber is your partner in transforming brand potential into market success.",
+    "whyUsCards": [
+      {
+        "icon": "🏆",
+        "title": "Award-Winning Team",
+        "description": "Our team has been recognized nationally for outstanding brand strategies."
+      },
+      {
+        "icon": "🌟",
+        "title": "Proven Results",
+        "description": "We have a history of turning client challenges into opportunities for growth."
+      },
+      {
+        "icon": "🤝",
+        "title": "Dedicated Partnership",
+        "description": "We work closely with you to ensure strategies align with your business goals."
+      },
+      {
+        "icon": "🔍",
+        "title": "Data-Driven Insights",
+        "description": "Our strategies are backed by robust data analytics to ensure effectiveness."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client satisfaction rate"
+      },
+      {
+        "value": "50",
+        "suffix": "+",
+        "label": "Successful brand campaigns"
+      },
+      {
+        "value": "20",
+        "suffix": "years",
+        "label": "Industry experience"
+      },
+      {
+        "value": "10",
+        "suffix": "+",
+        "label": "Industry awards"
+      }
+    ],
+    "teamIntro": "Meet the team that will drive your brand transformation.",
+    "team": {
+      "initials": "LW",
+      "name": "Linda Welter",
+      "role": "Founder & CEO",
+      "titleNote": "",
+      "bio": "Linda leads strategy and client relationships, ensuring every project achieves excellence. Her experience spans over two decades in brand transformation.",
+      "linkedin": "",
+      "phone": "+1 520-795-4500"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Research",
+        "badge": "Weeks 1 to 3",
+        "description": "Understanding Acme Corp's current position and challenges.",
+        "bullets": [
+          "Market analysis",
+          "Competitor review"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Crafting a tailored brand strategy.",
+        "bullets": [
+          "Goal setting",
+          "Tactical planning"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 10",
+        "description": "Executing the strategy with precision.",
+        "bullets": [
+          "Ad creation",
+          "Media placement"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Optimize",
+        "badge": "Weeks 11 to 12",
+        "description": "Analyzing results and refining strategies.",
+        "bullets": [
+          "Performance metrics",
+          "Strategy adjustments"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose an investment tier that aligns with your goals.",
+    "pricing": [
+      {
+        "name": "Essential Plan",
+        "subtitle": "",
+        "description": "For brands beginning their transformation journey.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic strategy",
+          "Monthly reporting"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Plan",
+        "subtitle": "",
+        "description": "Recommended for brands ready to accelerate growth.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Comprehensive strategy",
+          "Bi-weekly updates"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Plan",
+        "subtitle": "",
+        "description": "For brands seeking market leadership.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full-service strategy",
+          "Weekly consultations"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Acme Corp's Brand?",
+    "ctaDescription": "Let's discuss how we can help you achieve your goals. Schedule a call to explore the possibilities.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "lwelter@calibergroup.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Caliber",
+    "footerSub": "Caliber Group: Elevating Brands"
+  },
+  "enriched": {
+    "tone": "warm",
+    "positioning": "Full-service agency",
+    "serviceList": [
+      "Services",
+      "Marketing"
+    ],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Linda",
+    "last_name": "Welter",
+    "email": "lwelter@calibergroup.com",
+    "company_phone": "+1 520-795-4500",
+    "mobile_number": "+14802913690",
+    "company_name": "Caliber",
+    "company_website": "https://www.calibergroup.com",
+    "company_domain": "calibergroup.com",
+    "company_description": "The Caliber Group is a brand marketing, public relations and interactive agency based in Arizona. We deliver solutions that help our clients build brands, relationships and reputations.\n\nOur clients represent some of the most well-respected, successful brands in their marketplace, in industries such as medical device manufacturing, solar and bio-sciences to real estate, health care, produce and financial services.  \n\nThe Caliber team has been recognized for strategic and creative excellence in regional and national competitions. In addition, Caliber has received numerous ADDYs from the Tucson Advertising Federation, PRimus Awards from the Southern Arizona Chapter of the Public Relations Society of America (PRSA,) and Cactus Quill Awards from the Tucson Chapter of the International Association of Business Communicators (IABC). In addition, our creative work has been featured in many national design publications and several books published in the United States and abroad.",
+    "headline": "CEO, Founder, Chief Growth Officer, Investor. We Grow Companies Through Top Tier Branding & Reputation Management Strategies.",
+    "job_title": "Founder & CEO",
+    "industry": "Marketing & Advertising",
+    "company_size": "23",
+    "company_technologies": "apache, dtscout, gmail, godaddy hosting, google analytics, google apps, google font api, google tag manager, histats, linkedin marketing solutions, lotame, mobile friendly, remote, sharethis, wordpress.org, youtube, recaptcha",
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "company_full_address": "4007 E. Paradise Falls Drive, Suite 210, Tucson, AZ 85712, US",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "3M",
+    "linkedin": "https://www.linkedin.com/in/lindawelter",
+    "company_linkedin": "https://www.linkedin.com/company/the-caliber-group",
+    "company_founded_year": "1997",
+    "keywords": "brand marketing, media relations, social media, reputation management, interactive, digital, websites, crisis communications, search marketing, public relations, media planning, buying, advertising services, marketing, digital marketing, brand strategy, crisis communication, brand development, client engagement, audience education, healthcare marketing, biotech marketing, finance marketing, advertising campaigns, brand awareness, online marketing, content creation, lead generation, social media strategy, seo, ppc advertising, website development, analytics reporting, market research, brand positioning, community relations, stakeholder engagement, crisis management, internal communications, graphic design, email marketing, event promotion, training programs, nonprofit strategy, education marketing, real estate marketing, technology marketing, consumer insights, product launches, social media monitoring, rebranding, executive leadership, mergers & acquisitions, interactive campaigns, target audience analysis, creative development, audience engagement, business strategies, cross-channel marketing, marketing & advertising, enterprise software, enterprises, computer software, information technology & services, b2b, public relations & communications, consumer internet, consumers, internet, sales, web development",
+    "personalization": "Caliber is one of the fewer than 100 firms accredited by the Agency Management Institute.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
