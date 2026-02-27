@@ -3,8 +3,8 @@
   "companyName": "Shida",
   "contactName": "Kenji Doshida",
   "contactEmail": "kenji@shidastudio.com",
-  "generationTime": 28,
-  "createdAt": "2026-02-27T17:45:10.716Z",
+  "generationTime": 24,
+  "createdAt": "2026-02-27T18:20:24.978Z",
   "brandStyle": {
     "primaryColor": "#2563eb",
     "secondaryColor": "#1a1a2e",
@@ -16,8 +16,8 @@
   "proposal1": {
     "tag": "PROPOSAL // SHIDA // CONFIDENTIAL",
     "heroBadge": "AI Proposal Automation",
-    "heroHeadline": "Shida is burning $20,000 a year on manual proposals. Here is exactly where it goes.",
-    "heroSubheadline": "Right now, Shida spends hours crafting proposals. With our system, it's done in 47 seconds.",
+    "heroHeadline": "Shida is losing 120 hours yearly on proposals. Here's the breakdown.",
+    "heroSubheadline": "Manual proposal creation takes hours per client. Our system does it in 47 seconds, tailored to graphic design.",
     "heroTags": [
       "AI",
       "AUTOMATION",
@@ -25,83 +25,83 @@
       "BRANDING",
       "CHATBOT"
     ],
-    "problemsIntro": "Shida is experiencing significant ongoing losses due to their current manual proposal process.",
+    "problemsIntro": "Here are the ongoing losses Shida faces with its current proposal process.",
     "problems": [
       {
-        "title": "Wasted Hours",
-        "description": "Shida spends an average of 5 hours per proposal. That's 20 hours a week not spent on design work. This bleeds $1,000 weekly in lost opportunities."
+        "title": "Time-Consuming Process",
+        "description": "Every hour spent writing proposals is an hour not spent on design projects. With just four staff, this time loss is critical."
       },
       {
-        "title": "Missed Deadlines",
-        "description": "Complex proposals take longer than expected. Delay means losing client trust and potentially $2,500 in missed projects monthly."
+        "title": "Lost Revenue Opportunities",
+        "description": "Slow proposals mean delayed responses to prospects. Competitors can swoop in, costing Shida potential contracts worth thousands."
       },
       {
         "title": "Inconsistent Branding",
-        "description": "Each proposal requires manual adjustments. Leads to brand inconsistency, costing $3,000 annually in lost brand value."
+        "description": "Manually created proposals risk inconsistent branding. Each misstep undermines Shida's professional image, affecting client trust and retention."
       },
       {
-        "title": "High Error Rate",
-        "description": "Manual entries lead to errors. Errors in 20% of proposals lead to $2,000 in lost clients per quarter."
+        "title": "High Human Error Risk",
+        "description": "Manual data entry leads to errors. Every mistake can cost Shida a client, translating to significant revenue loss annually."
       },
       {
-        "title": "Low Conversion Rates",
-        "description": "Manually crafted proposals fail to fully capture client needs. Results in a 10% conversion rate, losing $5,000 in potential revenue each month."
+        "title": "Stress on Small Team",
+        "description": "Proposal creation adds stress to Shida's small team. This stress reduces creativity and focus, impacting overall project quality."
       },
       {
-        "title": "Employee Burnout",
-        "description": "Overworked team due to proposal demands. Leads to high stress levels and $1,500 in reduced productivity monthly."
+        "title": "Inefficient Resource Use",
+        "description": "Spending valuable time on proposals instead of design work means less productivity. This inefficiency bleeds potential earnings."
       }
     ],
-    "solutionIntro": "Our AI system replaces Shida's current manual processes, cutting losses and boosting efficiency.",
+    "solutionIntro": "Our AI system replaces the costly, time-draining proposal process described above.",
     "solutions": [
       {
         "icon": "1.",
-        "title": "Automated Proposal Generation",
-        "description": "Currently, proposals are crafted manually, taking valuable hours. Our system generates complete proposals in 47 seconds.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals take hours to draft. Our system generates them in 47 seconds, freeing up valuable time.",
         "tags": [
           "Efficiency",
-          "Speed",
+          "Time-Saving",
           "Automation"
         ]
       },
       {
         "icon": "2.",
         "title": "Consistent Branding",
-        "description": "Brand consistency is hard to maintain manually. Our system ensures every proposal reflects Shida's brand perfectly.",
+        "description": "Manual proposals risk brand inconsistency. Our system ensures every proposal aligns perfectly with Shida's brand identity.",
         "tags": [
           "Branding",
           "Consistency",
-          "Quality"
+          "Professionalism"
         ]
       },
       {
         "icon": "3.",
         "title": "Error Reduction",
-        "description": "Manual entries lead to frequent errors. Our system reduces errors to near zero, maintaining client trust.",
+        "description": "Human errors are common in manual processes. Our AI eliminates errors, ensuring accuracy in every proposal.",
         "tags": [
           "Accuracy",
           "Reliability",
-          "Trust"
+          "Quality"
         ]
       },
       {
         "icon": "4.",
-        "title": "Client Insights",
-        "description": "Understanding client needs is manual and time-consuming. Our AI analyzes client data instantly, tailoring each proposal.",
+        "title": "Stress-Free Process",
+        "description": "Creating proposals manually stresses Shida's team. Our system automates the process, reducing stress and improving focus.",
         "tags": [
-          "Insight",
-          "Personalization",
-          "Client-Focused"
+          "Well-being",
+          "Focus",
+          "Productivity"
         ]
       },
       {
         "icon": "5.",
-        "title": "Time Reallocation",
-        "description": "Time spent on proposals is time lost on design. Our system frees up hours, letting your team focus on creative projects.",
+        "title": "Enhanced Client Engagement",
+        "description": "Currently, slow proposals can lead to lost clients. With our system, Shida responds instantly, improving client engagement.",
         "tags": [
-          "Productivity",
-          "Focus",
-          "Creative Work"
+          "Client Retention",
+          "Engagement",
+          "Growth"
         ]
       }
     ],
@@ -293,76 +293,76 @@
     "fictionalClientName": "Acme Corp",
     "tag": "Proposal for Acme Corp // Confidential",
     "heroBadge": "Strategic Partnership Proposal",
-    "heroHeadline": "Transform Acme Corp's Brand with Expert Graphic Design.",
-    "heroSubheadline": "We will revamp your visual identity and marketing collateral to boost engagement and drive sales.",
+    "heroHeadline": "Elevate Acme Corp's Brand Through Strategic Graphic Design.",
+    "heroSubheadline": "We propose a comprehensive design overhaul to boost engagement and drive conversions, leading to measurable business growth.",
     "heroTags": [],
-    "problemsIntro": "Acme Corp is losing potential revenue due to overlooked graphic design elements.",
+    "problemsIntro": "Acme Corp is currently losing revenue due to underperforming design elements.",
     "problems": [
       {
-        "title": "Outdated Branding",
-        "description": "An outdated brand image can lead to a 30% decrease in consumer trust. Modernizing your branding is crucial to maintaining market relevance."
+        "title": "Low Conversion Rate",
+        "description": "Acme Corp's current website design leads to a 20% lower conversion rate compared to industry benchmarks. This results in significant missed revenue opportunities."
       },
       {
-        "title": "Low Conversion Rates",
-        "description": "Ineffective design elements on your website can result in a 20% drop in conversion rates. This means potential customers are not taking action."
+        "title": "Brand Inconsistencies",
+        "description": "Inconsistent branding across platforms causes a 15% drop in customer trust. This directly affects repeat business and customer loyalty."
       },
       {
-        "title": "Poor Visual Communication",
-        "description": "Without clear and appealing visual communication, you risk losing 25% of your audience's attention, leading to missed engagement opportunities."
+        "title": "Outdated Visuals",
+        "description": "Using outdated visuals leads to a 10% increase in bounce rates. Potential customers leave before engaging, resulting in lost sales."
       },
       {
-        "title": "Inconsistent Marketing Materials",
-        "description": "Inconsistency across marketing channels can confuse customers, causing a 15% decrease in brand loyalty and retention."
+        "title": "Poor User Experience",
+        "description": "A cumbersome user interface causes a 25% increase in cart abandonment, losing valuable sales."
       },
       {
-        "title": "Subpar Digital Presence",
-        "description": "A lackluster digital presence can lead to a 40% reduction in online interactions, hindering your ability to reach a wider audience."
+        "title": "Ineffective Marketing Materials",
+        "description": "Current marketing materials fail to capture attention, causing a 30% drop in lead generation effectiveness."
       },
       {
-        "title": "Inefficient Project Timelines",
-        "description": "Delayed design projects can result in a 10% increase in operational costs and missed market opportunities."
+        "title": "Lack of Engagement",
+        "description": "Social media posts receive 40% less engagement than competitors, leading to reduced brand awareness and customer interaction."
       }
     ],
-    "solutionIntro": "Our solutions are designed to address these losses and elevate Acme Corp's brand.",
+    "solutionIntro": "Our tailored solutions directly address these critical issues Acme Corp is facing.",
     "solutions": [
       {
         "icon": "🎨",
-        "title": "Brand Identity Design",
-        "description": "We will create a cohesive and modern brand identity that resonates with your target audience and enhances trust.",
+        "title": "Comprehensive Brand Design",
+        "description": "We will revitalize Acme Corp's brand, ensuring consistency across all platforms to build trust and loyalty.",
         "tags": [
           "Branding",
-          "Identity",
-          "Design"
+          "Consistency",
+          "Trust"
         ]
       },
       {
-        "icon": "🌐",
-        "title": "Website Design",
-        "description": "Our team will enhance your website's design to improve user experience and boost conversion rates.",
+        "icon": "🖥️",
+        "title": "Website Redesign",
+        "description": "A modern, user-friendly website will improve conversion rates and reduce bounce rates by enhancing the user experience.",
         "tags": [
           "Web Design",
-          "User Experience",
-          "Conversion"
+          "Conversion",
+          "User Experience"
         ]
       },
       {
-        "icon": "📊",
-        "title": "Marketing Collateral",
-        "description": "We will develop consistent and impactful marketing materials to reinforce your brand message across all channels.",
+        "icon": "📈",
+        "title": "Marketing Collateral Development",
+        "description": "Creating compelling marketing materials will capture potential customers' attention, boosting lead generation.",
         "tags": [
           "Marketing",
-          "Collateral",
-          "Consistency"
+          "Engagement",
+          "Lead Generation"
         ]
       },
       {
-        "icon": "⏱️",
-        "title": "Project Management",
-        "description": "Our efficient project management ensures timely delivery and cost-effectiveness, reducing operational costs.",
+        "icon": "📱",
+        "title": "Social Media Strategy",
+        "description": "An engaging social media strategy will increase brand awareness and customer interaction by optimizing content.",
         "tags": [
-          "Project Management",
-          "Efficiency",
-          "Timeliness"
+          "Social Media",
+          "Engagement",
+          "Brand Awareness"
         ]
       }
     ],
@@ -370,72 +370,72 @@
       {
         "value": "30",
         "suffix": "%",
-        "label": "Increase in Brand Trust"
+        "label": "Increase in conversion rate."
       },
       {
-        "value": "20",
+        "value": "25",
         "suffix": "%",
-        "label": "Boost in Conversion Rates"
+        "label": "Decrease in bounce rate."
       },
       {
         "value": "40",
         "suffix": "%",
-        "label": "Enhancement in Online Engagement"
+        "label": "Increase in social media engagement."
       }
     ],
-    "whyUsIntro": "Shida stands out as a leader in professional graphic design services.",
+    "whyUsIntro": "Shida offers unmatched expertise in transforming brands through strategic design.",
     "whyUsCards": [
       {
         "icon": "🏆",
-        "title": "Proven Expertise",
-        "description": "Our team has a track record of success, delivering top-notch design solutions that drive business results."
+        "title": "Proven Track Record",
+        "description": "Our clients see significant improvements in brand perception and revenue growth."
       },
       {
-        "icon": "👥",
-        "title": "Client-Centered Approach",
-        "description": "We prioritize your needs and tailor our services to align with your unique business goals."
+        "icon": "🎯",
+        "title": "Client-Centric Approach",
+        "description": "We tailor our services to meet the unique needs of each client, ensuring personalized solutions."
       },
       {
-        "icon": "📈",
-        "title": "Data-Driven Results",
-        "description": "Our solutions are backed by data and insights, ensuring measurable improvements in your business performance."
-      },
-      {
-        "icon": "🚀",
+        "icon": "💡",
         "title": "Innovative Design",
-        "description": "We stay ahead of design trends to provide you with fresh, innovative solutions that captivate your audience."
+        "description": "Our team stays ahead of design trends to offer the most innovative solutions."
+      },
+      {
+        "icon": "🤝",
+        "title": "Collaborative Partnership",
+        "description": "We work closely with clients to ensure alignment with their vision and goals."
       }
     ],
     "fearCards": [],
     "socialProof": [
       {
-        "value": "200",
+        "value": "100",
         "suffix": "+",
-        "label": "Successful Projects Completed"
-      },
-      {
-        "value": "150",
-        "suffix": "+",
-        "label": "Satisfied Clients Worldwide"
+        "label": "Successful projects completed."
       },
       {
         "value": "95",
         "suffix": "%",
-        "label": "Client Retention Rate"
+        "label": "Client satisfaction rate."
       },
       {
-        "value": "10",
-        "suffix": "Years",
-        "label": "Industry Experience"
+        "value": "50",
+        "suffix": "%",
+        "label": "Average revenue increase for clients."
+      },
+      {
+        "value": "85",
+        "suffix": "%",
+        "label": "Client retention rate."
       }
     ],
-    "teamIntro": "Meet the team dedicated to your project's success.",
+    "teamIntro": "Meet the team dedicated to transforming Acme Corp's brand.",
     "team": {
       "initials": "KD",
       "name": "Kenji Doshida",
       "role": "Founder",
       "titleNote": "",
-      "bio": "Kenji leads strategy and client relationships, ensuring each project aligns with your business objectives. His experience in graphic design has been pivotal in driving successful outcomes for our clients.",
+      "bio": "Kenji leads strategy and client relationships, ensuring each project aligns with client goals and delivers impactful results.",
       "linkedin": "",
       "phone": "+1 587-500-2399"
     },
@@ -444,93 +444,89 @@
     "process": [
       {
         "number": 1,
-        "title": "Discovery & Research",
+        "title": "Discovery & Strategy",
         "badge": "Weeks 1 to 3",
-        "description": "We begin by understanding your brand, goals, and audience.",
+        "description": "We conduct a thorough analysis of Acme Corp's current position and define a strategic design plan.",
         "bullets": [
-          "Initial consultation",
-          "Market analysis"
+          "Stakeholder interviews",
+          "Market research"
         ]
       },
       {
         "number": 2,
         "title": "Design & Development",
         "badge": "Weeks 4 to 6",
-        "description": "Our team crafts design concepts and begins development.",
+        "description": "Our team creates initial design concepts and begins development.",
         "bullets": [
-          "Design approval",
-          "Prototype creation"
+          "Design mockups",
+          "Development kickoff"
         ]
       },
       {
         "number": 3,
-        "title": "Testing & Feedback",
+        "title": "Implementation",
         "badge": "Weeks 7 to 9",
-        "description": "We test designs and gather feedback to ensure alignment.",
+        "description": "We implement the new designs across platforms, ensuring seamless integration.",
         "bullets": [
-          "User testing",
-          "Feedback iteration"
+          "Website launch",
+          "Collateral distribution"
         ]
       },
       {
         "number": 4,
-        "title": "Launch & Support",
+        "title": "Review & Optimize",
         "badge": "Weeks 10 to 12",
-        "description": "We launch the final product and provide ongoing support.",
+        "description": "Post-launch, we review performance metrics and optimize for further improvement.",
         "bullets": [
-          "Final delivery",
-          "Post-launch support"
+          "Performance analysis",
+          "Strategic adjustments"
         ]
       }
     ],
-    "pricingIntro": "Choose an investment option that best suits your needs.",
+    "pricingIntro": "Choose from our investment options designed to maximize your brand's potential.",
     "pricing": [
       {
         "name": "Basic Package",
         "subtitle": "",
-        "description": "Ideal for small businesses looking to establish a basic brand presence.",
+        "description": "For companies looking to update their basic design elements.",
         "amount": "$4,500/mo",
         "period": "",
         "features": [
-          "Basic branding",
-          "Limited revisions"
+          "Basic design updates"
         ],
         "recommended": false
       },
       {
-        "name": "Standard Package",
+        "name": "Growth Package",
         "subtitle": "",
-        "description": "Recommended for businesses aiming for a comprehensive brand overhaul.",
+        "description": "Recommended for businesses seeking comprehensive design services.",
         "amount": "$8,500/mo",
         "period": "",
         "features": [
-          "Complete branding",
-          "Website design",
-          "Unlimited revisions"
+          "Comprehensive brand overhaul"
         ],
         "recommended": true
       },
       {
-        "name": "Premium Package",
+        "name": "Enterprise Package",
         "subtitle": "",
-        "description": "For enterprises seeking extensive design services and dedicated support.",
+        "description": "Ideal for large businesses requiring extensive design solutions.",
         "amount": "$15,000/mo",
         "period": "",
         "features": [
-          "All-inclusive design services",
-          "Priority support"
+          "Full-service design and strategy"
         ],
         "recommended": false
       }
     ],
-    "ctaHeadline": "Ready to Elevate Your Brand?",
-    "ctaDescription": "Let's have a conversation about how we can help transform your business.",
+    "ctaHeadline": "Ready to Transform Acme Corp's Brand?",
+    "ctaDescription": "Let's discuss how our strategic design solutions can drive your business forward.",
     "ctaButtonText": "Schedule a Call",
     "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
     "ctaEmail": "kenji@shidastudio.com",
     "ctaNote": "",
     "footerText": "© 2025 Shida",
-    "footerSub": "Designs that drive success."
+    "footerSub": "Transforming brands, driving success."
   },
   "enriched": {
     "tone": "professional",
@@ -569,6 +565,6 @@
     "proposal_status": "generated",
     "proposal_url": "https://www.ayushopchauhan.com/for/shida",
     "proposal_id": "shida",
-    "generated_at": "2026-02-27T17:41:43.499Z"
+    "generated_at": "2026-02-27T17:45:11.203Z"
   }
 }
