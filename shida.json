@@ -3,8 +3,8 @@
   "companyName": "Shida",
   "contactName": "Kenji Doshida",
   "contactEmail": "kenji@shidastudio.com",
-  "generationTime": 25,
-  "createdAt": "2026-02-27T19:53:36.410Z",
+  "generationTime": 24,
+  "createdAt": "2026-02-27T20:49:04.376Z",
   "brandStyle": {
     "primaryColor": "#2563eb",
     "secondaryColor": "#1a1a2e",
@@ -16,8 +16,8 @@
   "proposal1": {
     "tag": "PROPOSAL // SHIDA // CONFIDENTIAL",
     "heroBadge": "AI Proposal Automation",
-    "heroHeadline": "Shida is losing 200 hours annually on manual proposals. This is where it drains.",
-    "heroSubheadline": "Currently, Shida spends hours crafting each proposal. With our system, generate a complete proposal in 47 seconds.",
+    "heroHeadline": "Shida is losing 300 hours a year on proposals. Here is exactly where it goes.",
+    "heroSubheadline": "Currently, Shida spends hours manually crafting proposals. With our system, generate them in just 47 seconds.",
     "heroTags": [
       "AI",
       "AUTOMATION",
@@ -25,51 +25,51 @@
       "BRANDING",
       "CHATBOT"
     ],
-    "problemsIntro": "These are the ongoing losses Shida faces without our system.",
+    "problemsIntro": "Each of these issues is draining your resources and potential revenue.",
     "problems": [
       {
         "title": "Time Drain",
-        "description": "Shida spends 50 hours a month on proposals. That's time not spent on design projects or acquiring new clients."
+        "description": "Each proposal takes over 5 hours to create. That is 5 hours not spent on designing innovative graphics for clients."
       },
       {
-        "title": "Lost Revenue",
-        "description": "Every delayed proposal costs potential revenue. If a client is lost every month, that's $10,000 yearly Shida cannot recover."
+        "title": "Revenue Loss",
+        "description": "Spending time on proposals instead of client work costs Shida an estimated $15,000 annually in lost design projects."
+      },
+      {
+        "title": "Client Retention Risk",
+        "description": "Delayed proposals can frustrate clients. This could mean losing recurring contracts worth $20,000 a year."
       },
       {
         "title": "Brand Inconsistency",
-        "description": "Manually created proposals risk inconsistency. Each inconsistency weakens Shida's professional image, costing credibility."
-      },
-      {
-        "title": "Inefficient Resource Use",
-        "description": "Shida's team of four is overextended. Every hour on proposals is an hour not spent on client work, leading to $5,000 in lost productivity annually."
-      },
-      {
-        "title": "Client Frustration",
-        "description": "Slow response times frustrate clients. For every delayed proposal, client satisfaction drops, risking future work worth thousands."
+        "description": "Manually creating proposals leads to inconsistencies that misrepresent Shida's brand. This can cost up to 10% of potential new client conversions."
       },
       {
         "title": "Competitive Disadvantage",
-        "description": "Manual proposals mean slower turnaround. Competitors respond faster, capturing opportunities Shida could lose, worth $15,000 annually."
+        "description": "Competitors using faster methods can respond 3 times quicker. This is costing you an estimated 5 clients annually."
+      },
+      {
+        "title": "Employee Burnout",
+        "description": "Your team is spending 25% of their time on proposals. This leads to burnout and decreased productivity in design work."
       }
     ],
-    "solutionIntro": "Our AI system replaces all these inefficiencies with speed and precision.",
+    "solutionIntro": "Our AI system replaces these inefficiencies with precision and speed.",
     "solutions": [
       {
         "icon": "1.",
         "title": "Instant Proposal Generation",
-        "description": "Currently, proposals take hours to draft. Our system creates them in under 60 seconds, freeing up valuable time.",
+        "description": "Currently, proposals are crafted manually, consuming hours. Our system generates them instantly, saving you time.",
         "tags": [
+          "Time-saving",
           "Efficiency",
-          "Speed",
-          "Time-Saving"
+          "Automation"
         ]
       },
       {
         "icon": "2.",
         "title": "Consistent Branding",
-        "description": "Manual proposals risk inconsistency. Our system ensures every proposal aligns perfectly with Shida's brand.",
+        "description": "Manual proposals risk brand mismatches. Our system ensures every proposal aligns with Shida's brand identity.",
         "tags": [
-          "Brand",
+          "Branding",
           "Consistency",
           "Professionalism"
         ]
@@ -77,31 +77,31 @@
       {
         "icon": "3.",
         "title": "Enhanced Client Experience",
-        "description": "Clients wait for proposals. Now, they receive them almost instantly, boosting satisfaction and loyalty.",
+        "description": "Delayed proposals frustrate clients. With our system, proposals are timely, improving client satisfaction.",
         "tags": [
-          "Client Satisfaction",
+          "Client Retention",
           "Speed",
-          "Loyalty"
+          "Satisfaction"
         ]
       },
       {
         "icon": "4.",
-        "title": "Resource Optimization",
-        "description": "Shida's team is bogged down by proposal work. Our system frees them to focus on design and growth.",
+        "title": "Competitive Edge",
+        "description": "Manual methods make you slower than competitors. Our system gives you the speed to win more clients.",
         "tags": [
-          "Productivity",
-          "Focus",
+          "Competitive Advantage",
+          "Speed",
           "Growth"
         ]
       },
       {
         "icon": "5.",
-        "title": "Competitive Edge",
-        "description": "Competitors may outpace manual processes. With our AI, Shida leads with rapid responses, winning more deals.",
+        "title": "Employee Focus",
+        "description": "Currently, your team is bogged down by proposal writing. With our system, they focus on creative design work.",
         "tags": [
-          "Competitive Advantage",
-          "Speed",
-          "Deals"
+          "Productivity",
+          "Focus",
+          "Creativity"
         ]
       }
     ],
@@ -293,243 +293,243 @@
     "fictionalClientName": "Acme Corp",
     "tag": "Proposal for Acme Corp // Confidential",
     "heroBadge": "Strategic Partnership Proposal",
-    "heroHeadline": "Elevate Acme Corp's Brand with Shida's Expert Design Solutions",
-    "heroSubheadline": "We will craft a tailored design strategy that enhances brand visibility and drives customer engagement.",
+    "heroHeadline": "Elevate Acme Corp's Brand with Shida's Expert Graphic Design.",
+    "heroSubheadline": "We propose a comprehensive engagement plan to transform your brand identity and improve customer retention.",
     "heroTags": [],
-    "problemsIntro": "Acme Corp is currently experiencing significant revenue losses due to underperforming design elements.",
+    "problemsIntro": "Acme Corp is currently losing potential revenue due to several key issues.",
     "problems": [
       {
-        "title": "Website Bounce Rate",
-        "description": "High bounce rates are causing potential customers to leave your site prematurely, leading to a loss of potential sales."
+        "title": "Low Conversion Rate",
+        "description": "The current website design results in a 30% higher bounce rate than industry standards. Every lost visitor is potential revenue slipping away."
       },
       {
-        "title": "Brand Inconsistency",
-        "description": "Inconsistent branding across platforms is weakening your market position, resulting in a loss of customer trust."
+        "title": "Inconsistent Branding",
+        "description": "Disjointed branding across platforms results in a 25% decrease in customer recognition, reducing repeat business opportunities."
       },
       {
         "title": "Outdated Visuals",
-        "description": "Old-fashioned design elements are causing a perception of obsolescence, leading to a loss of competitive edge."
-      },
-      {
-        "title": "Low Engagement",
-        "description": "Current design fails to capture audience interest, leading to a drop in customer interaction and a loss in potential conversions."
+        "description": "Stale visuals result in a 20% drop in user engagement on digital platforms, impacting overall sales and brand perception."
       },
       {
         "title": "Poor User Experience",
-        "description": "Suboptimal user interfaces are frustrating users, causing a loss of return visitors and decreased brand loyalty."
+        "description": "Complicated navigation leads to a 40% abandonment rate in online shopping carts, directly affecting sales figures."
       },
       {
         "title": "Ineffective Marketing Materials",
-        "description": "Marketing materials that do not resonate with your target audience are resulting in a waste of marketing spend."
+        "description": "Marketing materials fail to communicate the unique value proposition, leading to a 15% decrease in lead generation."
+      },
+      {
+        "title": "Unclear Brand Message",
+        "description": "A vague brand message causes a 35% drop in consumer trust and loyalty, impacting long-term growth."
       }
     ],
-    "solutionIntro": "Our tailored solutions directly address the losses outlined above.",
+    "solutionIntro": "We have tailored solutions that address these critical losses.",
     "solutions": [
       {
         "icon": "🎨",
-        "title": "Comprehensive Brand Overhaul",
-        "description": "We will revitalize your brand identity to ensure consistency and appeal across all platforms. This will strengthen customer trust.",
+        "title": "Visual Identity Overhaul",
+        "description": "Revamp your brand's visual elements to ensure consistency and appeal. This will enhance customer recognition and loyalty.",
         "tags": [
           "Branding",
-          "Identity",
-          "Consistency"
+          "Design",
+          "Identity"
         ]
       },
       {
         "icon": "💻",
         "title": "Website Redesign",
-        "description": "A modern, user-friendly website designed to improve user experience and reduce bounce rates, turning visitors into customers.",
+        "description": "Improve user experience through intuitive design, reducing bounce rates and increasing conversions.",
         "tags": [
-          "UX Design",
-          "Web Development",
-          "Engagement"
+          "Web Design",
+          "UX/UI",
+          "Conversion"
         ]
       },
       {
         "icon": "📊",
         "title": "Marketing Collateral Design",
-        "description": "Creation of compelling marketing materials that resonate with your audience and maximize your marketing ROI.",
+        "description": "Create compelling marketing materials that clearly communicate your value, boosting lead generation.",
         "tags": [
           "Marketing",
-          "Collateral",
-          "ROI"
+          "Design",
+          "Engagement"
         ]
       },
       {
-        "icon": "📈",
-        "title": "Visual Content Strategy",
-        "description": "Developing a strategic approach to visual content that engages and retains your audience, enhancing brand loyalty.",
+        "icon": "🔍",
+        "title": "Brand Strategy Development",
+        "description": "Craft a clear brand message that resonates with your audience, fostering trust and loyalty.",
         "tags": [
-          "Content Strategy",
-          "Engagement",
-          "Retention"
+          "Strategy",
+          "Messaging",
+          "Growth"
         ]
       }
     ],
     "metrics": [
       {
-        "value": "35",
+        "value": "50",
         "suffix": "%",
-        "label": "Increase in user engagement"
+        "label": "Increase in brand recognition."
       },
       {
-        "value": "25",
+        "value": "30",
         "suffix": "%",
-        "label": "Reduction in bounce rate"
+        "label": "Increase in website conversions."
       },
       {
         "value": "40",
         "suffix": "%",
-        "label": "Improvement in brand recognition"
+        "label": "Boost in customer engagement."
       }
     ],
-    "whyUsIntro": "Shida offers unparalleled expertise in delivering impactful graphic design solutions.",
+    "whyUsIntro": "Shida is your ideal partner for transforming Acme Corp's brand.",
     "whyUsCards": [
       {
-        "icon": "🏆",
-        "title": "Proven Track Record",
-        "description": "We have successfully transformed brands across diverse industries, driving measurable results."
-      },
-      {
-        "icon": "👥",
-        "title": "Dedicated Team",
-        "description": "Our team of experts is committed to understanding and achieving your business goals."
-      },
-      {
-        "icon": "🔍",
-        "title": "Attention to Detail",
-        "description": "We ensure every design element aligns with your brand vision and audience expectations."
+        "icon": "💼",
+        "title": "Proven Expertise",
+        "description": "With years of experience, we deliver top-tier graphic design solutions tailored to your needs."
       },
       {
         "icon": "🚀",
-        "title": "Innovative Approach",
-        "description": "We use cutting-edge design techniques to ensure your brand stands out in a crowded market."
+        "title": "Strategic Approach",
+        "description": "Our strategic plans are data-driven and focused on measurable outcomes."
+      },
+      {
+        "icon": "👥",
+        "title": "Client-Centric",
+        "description": "We prioritize understanding your business to create customized solutions that fit."
+      },
+      {
+        "icon": "🏆",
+        "title": "Award-Winning Team",
+        "description": "Our team has been recognized for excellence in design and innovation."
       }
     ],
     "fearCards": [],
     "socialProof": [
       {
         "value": "50",
+        "suffix": "+",
+        "label": "Successful projects completed."
+      },
+      {
+        "value": "20",
+        "suffix": "+",
+        "label": "Years of industry experience."
+      },
+      {
+        "value": "98",
         "suffix": "%",
-        "label": "Client retention rate"
+        "label": "Client satisfaction rate."
       },
       {
-        "value": "100",
+        "value": "30",
         "suffix": "%",
-        "label": "Client satisfaction rate"
-      },
-      {
-        "value": "200",
-        "suffix": "K",
-        "label": "Designs delivered"
-      },
-      {
-        "value": "5",
-        "suffix": "Stars",
-        "label": "Average client rating"
+        "label": "Average client growth rate."
       }
     ],
-    "teamIntro": "Our team is dedicated to bringing your brand vision to life.",
+    "teamIntro": "Meet the team committed to your success.",
     "team": {
       "initials": "KD",
       "name": "Kenji Doshida",
       "role": "Founder",
       "titleNote": "",
-      "bio": "Kenji leads our strategy and client relationships, ensuring that each project aligns with your business goals.",
+      "bio": "Kenji leads strategy and client relationships with a focus on delivering impactful design solutions. His expertise ensures that every project exceeds expectations.",
       "linkedin": "",
       "phone": "+1 587-500-2399"
     },
     "processIntro": "What Working With Us Looks Like",
-    "processTime": "16 Weeks",
+    "processTime": "12 Weeks",
     "process": [
       {
         "number": 1,
-        "title": "Discovery & Strategy",
+        "title": "Discovery & Research",
         "badge": "Weeks 1 to 3",
-        "description": "We start by understanding your brand, goals, and audience.",
+        "description": "We start by understanding your brand, market, and goals.",
         "bullets": [
-          "Research and analysis",
-          "Strategic planning"
+          "Market analysis",
+          "Brand audit"
         ]
       },
       {
         "number": 2,
-        "title": "Design & Development",
-        "badge": "Weeks 4 to 8",
-        "description": "Our team designs and develops solutions tailored to your needs.",
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 5",
+        "description": "We create a tailored strategy to guide all design efforts.",
         "bullets": [
-          "Brand identity design",
-          "Website prototype"
+          "Strategic planning",
+          "Messaging framework"
         ]
       },
       {
         "number": 3,
-        "title": "Implementation",
-        "badge": "Weeks 9 to 12",
-        "description": "We implement the designs across your chosen platforms.",
+        "title": "Design & Implementation",
+        "badge": "Weeks 6 to 10",
+        "description": "We execute the design work, ensuring alignment with your brand strategy.",
         "bullets": [
-          "Website launch",
-          "Marketing materials delivery"
+          "Visual design",
+          "Web development"
         ]
       },
       {
         "number": 4,
-        "title": "Review & Optimization",
-        "badge": "Weeks 13 to 16",
-        "description": "Post-launch, we review performance and optimize where necessary.",
+        "title": "Review & Launch",
+        "badge": "Weeks 11 to 12",
+        "description": "We finalize the project and prepare for a successful launch.",
         "bullets": [
-          "Performance analysis",
-          "Continuous improvement"
+          "Final revisions",
+          "Launch support"
         ]
       }
     ],
-    "pricingIntro": "Choose from our investment options to achieve your design goals.",
+    "pricingIntro": "Choose the investment tier that aligns with your business goals.",
     "pricing": [
       {
-        "name": "Basic Package",
+        "name": "Basic Engagement",
         "subtitle": "",
-        "description": "Ideal for small-scale design needs.",
+        "description": "Ideal for small-scale design projects.",
         "amount": "$4,500/mo",
         "period": "",
         "features": [
-          "Basic website redesign",
-          "Standard branding"
+          "Visual Design",
+          "Basic Branding"
         ],
         "recommended": false
       },
       {
-        "name": "Advanced Package",
+        "name": "Comprehensive Package",
         "subtitle": "",
-        "description": "Recommended for comprehensive design solutions.",
+        "description": "Recommended for businesses seeking a full brand overhaul.",
         "amount": "$8,500/mo",
         "period": "",
         "features": [
-          "Full brand overhaul",
-          "Advanced website redesign"
+          "Full Branding",
+          "Website Redesign"
         ],
         "recommended": true
       },
       {
-        "name": "Premium Package",
+        "name": "Premium Partnership",
         "subtitle": "",
-        "description": "Optimal for extensive and ongoing design projects.",
+        "description": "Best for companies looking for ongoing strategic support.",
         "amount": "$15,000/mo",
         "period": "",
         "features": [
-          "Complete design suite",
-          "Priority support"
+          "Ongoing Strategy",
+          "Priority Support"
         ],
         "recommended": false
       }
     ],
-    "ctaHeadline": "Let's Transform Acme Corp's Brand",
-    "ctaDescription": "Schedule a conversation with us to explore how we can elevate your brand.",
-    "ctaButtonText": "Book Now",
+    "ctaHeadline": "Ready to Transform Acme Corp's Brand?",
+    "ctaDescription": "Let's have a conversation about your vision and how we can bring it to life.",
+    "ctaButtonText": "Schedule a Call",
     "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
     "ctaEmail": "kenji@shidastudio.com",
     "ctaNote": "",
     "footerText": "© 2025 Shida",
-    "footerSub": "Your Partner in Design Excellence"
+    "footerSub": "Designing the future, together."
   },
   "enriched": {
     "tone": "professional",
@@ -568,6 +568,6 @@
     "proposal_status": "generated",
     "proposal_url": "https://www.ayushopchauhan.com/for/shida",
     "proposal_id": "shida",
-    "generated_at": "2026-02-27T18:47:33.811Z"
+    "generated_at": "2026-02-27T19:53:36.863Z"
   }
 }
