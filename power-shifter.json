@@ -1,0 +1,579 @@
+{
+  "slug": "power-shifter",
+  "companyName": "Power Shifter",
+  "contactName": "Holecka",
+  "contactEmail": "jp@powershifter.com",
+  "generationTime": 19,
+  "createdAt": "2026-02-27T17:31:21.837Z",
+  "brandStyle": {
+    "primaryColor": "rgb(0 96 255 / 10%)",
+    "secondaryColor": "rgba(255, 255, 255, 1)",
+    "accentColor": "rgba(255, 255, 255, 0)",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": "https://cdn.prod.website-files.com/62a638e43312dd12f0196165/67a55ca04d21346148c666f6_PS%20Logo%20White.svg"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // POWER SHIFTER // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Power Shifter is losing 300 hours a year on proposal creation. Here is exactly how it happens.",
+    "heroSubheadline": "Currently, crafting proposals for your MVP validation takes hours. With our system, it's done in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Every minute spent manually drafting proposals is a minute lost to inefficiencies.",
+    "problems": [
+      {
+        "title": "Time Drain",
+        "description": "Crafting proposals manually siphons away 25 hours per month. This is time that could be spent on strategic client engagements."
+      },
+      {
+        "title": "Lost Revenue",
+        "description": "Each hour on proposals is an hour not spent closing deals. This leads to lost opportunities worth $50,000 annually."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Manually created proposals often lack uniformity. Inconsistencies can cost you client trust, estimated at $20,000 in potential projects."
+      },
+      {
+        "title": "Delayed Responses",
+        "description": "Slow proposal turnaround causes delays in client acquisition. This results in $15,000 of missed business per quarter."
+      },
+      {
+        "title": "Human Error",
+        "description": "Errors in proposals can cost corrections and rework. Each mistake costs an average of 5 hours to fix, leading to $10,000 of wasted labor annually."
+      },
+      {
+        "title": "High Labor Cost",
+        "description": "The manual process requires significant manpower. The cost of this labor reaches $30,000 a year, which could be redirected to higher value tasks."
+      }
+    ],
+    "solutionIntro": "This AI system replaces your current manual proposal creation with efficiency and precision.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals are manually drafted. Our system automates this, completing it in under 60 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Branded Consistency",
+        "description": "Manual proposals risk inconsistency. Our system ensures every proposal aligns perfectly with your brand.",
+        "tags": [
+          "Branding",
+          "Uniformity",
+          "Trust"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Error Reduction",
+        "description": "Manual processes are prone to errors. This system minimizes errors by automating content generation.",
+        "tags": [
+          "Accuracy",
+          "Reliability",
+          "Quality"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Cost Savings",
+        "description": "Manual labor for proposals is expensive. Our solution reduces labor costs significantly by automating tasks.",
+        "tags": [
+          "Savings",
+          "Resource Allocation",
+          "Profit"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Faster Client Acquisition",
+        "description": "Proposal delays slow client onboarding. Automating proposals speeds up this process, enhancing client acquisition rates.",
+        "tags": [
+          "Growth",
+          "Speed",
+          "Client Engagement"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Power Shifter's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Power Shifter around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Power Shifter.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's Future with Power Shifter's MVP Expertise.",
+    "heroSubheadline": "Let's validate your ideas faster than ever with our 2-minute MVP Validator. We'll identify what's worth building, cutting, and optimizing.",
+    "heroTags": [],
+    "problemsIntro": "Every visitor who leaves your site without converting is revenue walking out the door.",
+    "problems": [
+      {
+        "title": "High Bounce Rate",
+        "description": "Acme Corp's website bounce rate is 60%, leading to potential revenue loss of $500,000 annually."
+      },
+      {
+        "title": "Low Conversion Rates",
+        "description": "Current conversion rates are below 1%, leaving $1.2 million in potential sales untapped each year."
+      },
+      {
+        "title": "User Engagement Decline",
+        "description": "User engagement has dropped by 15% over the past year, reducing customer lifetime value by $300,000."
+      },
+      {
+        "title": "Slow Feature Rollouts",
+        "description": "Delayed feature rollouts cause a 10% drop in user satisfaction, costing $200,000 in customer support."
+      },
+      {
+        "title": "Inefficient Processes",
+        "description": "Process inefficiencies result in 20% higher operational costs, equating to $250,000 annually."
+      },
+      {
+        "title": "Market Share Loss",
+        "description": "Acme Corp is losing market share to competitors, translating to a $700,000 revenue loss annually."
+      }
+    ],
+    "solutionIntro": "Our tailored solutions directly address Acme Corp's current challenges.",
+    "solutions": [
+      {
+        "icon": "🚀",
+        "title": "MVP Validator",
+        "description": "Quickly validate ideas to ensure resources are focused on what truly matters. This reduces wasted effort and enhances ROI.",
+        "tags": [
+          "Validation",
+          "Efficiency",
+          "ROI"
+        ]
+      },
+      {
+        "icon": "🎨",
+        "title": "UX/UI Design",
+        "description": "Enhance user experience to boost engagement and conversion rates. This turns visitors into loyal customers.",
+        "tags": [
+          "User Experience",
+          "Conversion",
+          "Design"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Analytics Optimization",
+        "description": "Refine analytics to capture actionable insights. This empowers smarter business decisions and strategy adjustments.",
+        "tags": [
+          "Analytics",
+          "Insights",
+          "Strategy"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Agile Development",
+        "description": "Implement agile methodologies to streamline processes and accelerate feature rollouts. This keeps customers engaged and satisfied.",
+        "tags": [
+          "Agile",
+          "Development",
+          "Efficiency"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Increase in conversion rates"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Reduction in bounce rates"
+      },
+      {
+        "value": "20",
+        "suffix": "%",
+        "label": "Improvement in user engagement"
+      }
+    ],
+    "whyUsIntro": "Power Shifter is the playful, strategic partner you need.",
+    "whyUsCards": [
+      {
+        "icon": "💪",
+        "title": "Proven Experience",
+        "description": "We've helped numerous clients transform their digital presence with tangible results."
+      },
+      {
+        "icon": "🔍",
+        "title": "Deep Insights",
+        "description": "Our data-driven approach ensures every decision is backed by solid analytics."
+      },
+      {
+        "icon": "🤝",
+        "title": "Collaborative Approach",
+        "description": "We work closely with your team to understand your unique needs and goals."
+      },
+      {
+        "icon": "🚀",
+        "title": "Innovation Driven",
+        "description": "Our team constantly explores new technologies and methodologies to keep you ahead."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "200",
+        "suffix": "+",
+        "label": "Projects delivered successfully"
+      },
+      {
+        "value": "150",
+        "suffix": "M",
+        "label": "Revenue generated for clients"
+      },
+      {
+        "value": "98",
+        "suffix": "%",
+        "label": "Client satisfaction rate"
+      },
+      {
+        "value": "50",
+        "suffix": "+",
+        "label": "Industry awards won"
+      }
+    ],
+    "teamIntro": "Meet the team that's ready to elevate Acme Corp.",
+    "team": {
+      "initials": "HC",
+      "name": "Holecka",
+      "role": "CEO, Founder, & Product Strategist",
+      "titleNote": "",
+      "bio": "Holecka leads strategy and nurtures client relationships. With years of experience, he ensures successful project outcomes.",
+      "linkedin": "",
+      "phone": "+1 604-227-9952"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Planning",
+        "badge": "Weeks 1 to 3",
+        "description": "We'll dive deep into understanding your current challenges and objectives.",
+        "bullets": [
+          "Stakeholder interviews",
+          "Competitive analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Design & Prototype",
+        "badge": "Weeks 4 to 6",
+        "description": "Our team crafts intuitive designs and prototypes for feedback.",
+        "bullets": [
+          "Wireframes",
+          "Interactive prototypes"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Development & Testing",
+        "badge": "Weeks 7 to 9",
+        "description": "We build and rigorously test to ensure everything works seamlessly.",
+        "bullets": [
+          "Agile development",
+          "User testing"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Launch & Optimization",
+        "badge": "Weeks 10 to 12",
+        "description": "We launch your project and continue optimizing for success.",
+        "bullets": [
+          "Go-live",
+          "Performance monitoring"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment tier that aligns with your ambitions.",
+    "pricing": [
+      {
+        "name": "Starter Package",
+        "subtitle": "",
+        "description": "Ideal for small projects or initial engagements.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic support",
+          "Limited features"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Our most popular plan for growing businesses.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Comprehensive support",
+          "Advanced features"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Package",
+        "subtitle": "",
+        "description": "For large-scale projects needing extensive resources.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Premium support",
+          "All features"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Let's Transform Acme Corp Together.",
+    "ctaDescription": "We're excited to discuss how we can help. No hard commitments, just a friendly chat.",
+    "ctaButtonText": "Book a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "jp@powershifter.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Power Shifter",
+    "footerSub": "Let's build something amazing together."
+  },
+  "enriched": {
+    "tone": "playful, corporate",
+    "positioning": "why usRapid MVP DevelopmentHeadless CMSLow-code with Fastlane",
+    "serviceList": [],
+    "valuePropositions": [
+      "why usRapid MVP DevelopmentHeadless CMSLow-code with Fastlane"
+    ],
+    "differentiators": [
+      "follow us.certified partnerships.",
+      "certified partnerships.",
+      "sanity logo"
+    ]
+  },
+  "lead": {
+    "first_name": "Holecka",
+    "last_name": "",
+    "email": "jp@powershifter.com",
+    "company_phone": "+1 604-227-9952",
+    "mobile_number": "+16045624701",
+    "company_name": "Power Shifter",
+    "company_website": "https://www.powershifter.com",
+    "company_domain": "powershifter.com",
+    "company_description": "POWER SHIFTER is a digital product and service design studio that partners with leading brands & scaleups to produce digital products — applications, mobile apps, and websites — that unlock the greatest amount of value possible for your brand's digital touch-points. \n\nFor many companies, from startup to enterprise, it's hard to allocate the in-house time and talent and support the agile and iterative culture, required to build the calibre of application needed. It's even harder to do it fast enough that a competitor doesn't get there first — or worse, do it better. \n\nOur passionate team lives and breathes product design every single day, it's all we do and have been doing for more than ten years. We have partnered with numerous companies and used Design Thinking processes to make the complex, simple. Achieving simplicity for your digital products is never easy, but it wins the hearts, minds, and brand loyalty of your customers: 64% of customers are willing to pay more for your products & services when they are simple and easy to use, and 61% of customers are more likely to recommend your brand because it provides simpler experiences.",
+    "headline": "Co-creating Digital Products That Delight With Global Brands  | Speaker, Founder & CEO | Leading Power Shifter Digital & Genc AI Content Studio | Serial Entrepreneur |  Genai Consulting",
+    "job_title": "CEO, Founder, & Product Strategist",
+    "industry": "Design",
+    "company_size": "11",
+    "company_technologies": "amazon aws, android, basis, gmail, google apps, google font api, google tag manager, hubspot, magento, mobile friendly, remote, render, reviews, route 53, youtube, recaptcha",
+    "city": "Vancouver",
+    "state": "British Columbia",
+    "country": "Canada",
+    "company_full_address": "38 East 8th Avenue , Vancouver, British Columbia V5T 1G8, CA",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "5.2M",
+    "linkedin": "https://www.linkedin.com/in/jpholecka",
+    "company_linkedin": "https://www.linkedin.com/company/powershifterdigital",
+    "company_founded_year": "2008",
+    "keywords": "measurement, analytics, mobile, ios, cms, digital design, ux, development, design thinking, web design, user experience, service design, product design, design services, headless cms, low-code development, digital transformation, user experience design, web development, product engineering, app development, rapid prototyping, agile methodologies, user research, experience design, content management, e-commerce solutions, cloud integration, user interface design, prototype development, digital strategy, seo optimization, integration solutions, measurement strategies, mobile application development, market validation, content creation, continuous testing, design sprints, consulting services, change management, accessibility audits, digital product launch, scalable solutions, performance optimization, data-driven insights, multi-channel delivery, custom web solutions, interactive design, partnership development, content strategy, brand experience, innovation workshops, technology partnerships, fastlane development, smart technology integration, api development, digital ecosystem, customer engagement, feedback loops, iterative design, innovation strategy, frameless design approaches, information technology & services, internet, apps, software development, consumer internet, consumers, marketing, marketing & advertising, mobile app development, management consulting",
+    "personalization": "You’re acknowledging unceded territories in your description, which is a thoughtful touch.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
