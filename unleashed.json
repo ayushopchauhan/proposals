@@ -1,1 +1,591 @@
-{"test":"working"}
+{
+  "slug": "unleashed",
+  "companyName": "Unleashed",
+  "contactName": "Muhammad Hutasuhut",
+  "contactEmail": "mhutasuhut@unleashed-technologies.com",
+  "generationTime": 19,
+  "createdAt": "2026-02-27T00:39:18.144Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": ""
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // Unleashed // CONFIDENTIAL",
+    "heroBadge": "Digital Transformation Proposal",
+    "heroHeadline": "Revolutionize Your Proposal Process with Instant AI Automation",
+    "heroSubheadline": "Eliminate manual proposal writing and save hours every week with our AI-driven solution.",
+    "heroTags": [
+      "DRUPAL",
+      "REACT",
+      "AWS",
+      "HIPAA",
+      "REST API",
+      "DEVOPS",
+      "HEADLESS CMS"
+    ],
+    "problemsIntro": "Six systemic issues affecting your growth and engineering bandwidth right now.",
+    "problems": [
+      {
+        "title": "Legacy Platform Lock-in",
+        "description": "Your current systems are outdated, requiring excessive resources to maintain and upgrade, which hampers your ability to innovate and scale."
+      },
+      {
+        "title": "Manual Proposal Processes",
+        "description": "Creating proposals manually is time-consuming and error-prone, leading to inefficiencies and potential loss of business opportunities."
+      },
+      {
+        "title": "Inefficient Resource Allocation",
+        "description": "A significant portion of your team's time is spent on repetitive tasks, leaving less time for strategic initiatives that drive business growth."
+      },
+      {
+        "title": "Integration Challenges",
+        "description": "Disparate systems that do not communicate effectively lead to data silos and hinder seamless operations across your organization."
+      },
+      {
+        "title": "Compliance and Security Risks",
+        "description": "Maintaining compliance with industry standards like HIPAA is challenging without integrated and automated systems, increasing the risk of data breaches."
+      },
+      {
+        "title": "Lack of Real-time Insights",
+        "description": "Without automated data collection and analysis, decision-making is based on outdated information, slowing down your response to market changes."
+      }
+    ],
+    "solutionIntro": "Five integrated workstreams covering every dimension of transformation.",
+    "solutions": [
+      {
+        "icon": "🌐",
+        "title": "Automated Proposal Generation",
+        "description": "Instantly create accurate, customized proposals with our AI-driven system, freeing up valuable time and resources.",
+        "tags": [
+          "AI",
+          "Automation",
+          "Efficiency"
+        ]
+      },
+      {
+        "icon": "🔒",
+        "title": "Enhanced Compliance Management",
+        "description": "Automate compliance checks and ensure your operations meet industry standards without added overhead.",
+        "tags": [
+          "Compliance",
+          "Security",
+          "HIPAA"
+        ]
+      },
+      {
+        "icon": "🔗",
+        "title": "Seamless Systems Integration",
+        "description": "Achieve seamless communication across all platforms, ensuring data is unified and accessible in real-time.",
+        "tags": [
+          "Integration",
+          "Data",
+          "API"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Real-time Data Analysis",
+        "description": "Leverage AI to provide real-time insights that inform better decision-making and strategic planning.",
+        "tags": [
+          "Data",
+          "Analytics",
+          "AI"
+        ]
+      },
+      {
+        "icon": "🚀",
+        "title": "Scalable Infrastructure",
+        "description": "Build an infrastructure that supports growth and innovation, allowing you to adapt quickly to market demands.",
+        "tags": [
+          "AWS",
+          "Scalability",
+          "Innovation"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "3.4",
+        "suffix": "x",
+        "label": "Higher portal adoption with modern UX",
+        "decimal": 1
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Reduction in proposal preparation time",
+        "decimal": 0
+      },
+      {
+        "value": "70",
+        "suffix": "%",
+        "label": "Increase in operational efficiency",
+        "decimal": 0
+      }
+    ],
+    "whyUsIntro": "Certified experts. Award-winning experiences. And we are not afraid of the hard stuff.",
+    "whyUsCards": [
+      {
+        "icon": "🔓",
+        "title": "Open Source First",
+        "description": "No vendor lock-in. You own your platform."
+      },
+      {
+        "icon": "🏆",
+        "title": "Award-winning Solutions",
+        "description": "Recognized globally for our innovative approaches and successful implementations."
+      },
+      {
+        "icon": "🚀",
+        "title": "Proven Track Record",
+        "description": "A history of delivering transformative results for clients across industries."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Approach",
+        "description": "Your success is our priority. We build partnerships that last."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "💀",
+        "title": "We are not afraid of inheriting legacy code.",
+        "sub": "We have migrated platforms older than some of our developers."
+      },
+      {
+        "icon": "🛠️",
+        "title": "Complex Integrations? Bring it on.",
+        "sub": "Our team thrives on solving the toughest integration challenges."
+      },
+      {
+        "icon": "🔐",
+        "title": "Security Risks? Not on our watch.",
+        "sub": "We prioritize security in every project we undertake."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "20",
+        "suffix": "+",
+        "label": "Years Combined"
+      },
+      {
+        "value": "$4.3",
+        "suffix": "M",
+        "label": "Annual Revenue",
+        "decimal": 1
+      },
+      {
+        "value": "100",
+        "suffix": "+",
+        "label": "Projects Delivered"
+      },
+      {
+        "value": "5",
+        "suffix": "★",
+        "label": "Clutch Rating"
+      }
+    ],
+    "teamIntro": "Your engagement is led directly by our CEO. No handoffs to junior account managers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Chief Executive Officer",
+      "titleNote": "UNLEASHED TECHNOLOGIES // COLUMBIA, VA",
+      "bio": "Leads strategy, client partnerships, and technical direction. Personally oversees every enterprise engagement from discovery through launch.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "703-304-9216"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "24 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery and Architecture",
+        "badge": "WK 1-4",
+        "description": "Audit existing systems, map integrations, and define technical architecture.",
+        "bullets": [
+          "Stakeholder interviews",
+          "Technical audit"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Design and Prototyping",
+        "badge": "WK 5-8",
+        "description": "Create prototypes and design user-centric interfaces to validate concepts.",
+        "bullets": [
+          "UX/UI design",
+          "Prototyping sessions"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Development and Integration",
+        "badge": "WK 9-16",
+        "description": "Develop core functionalities and integrate with existing systems for a seamless experience.",
+        "bullets": [
+          "Agile development",
+          "System integration"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Testing and Quality Assurance",
+        "badge": "WK 17-20",
+        "description": "Conduct thorough testing to ensure systems meet all requirements and perform optimally.",
+        "bullets": [
+          "Automated testing",
+          "User acceptance testing"
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Deployment and Support",
+        "badge": "WK 21-24",
+        "description": "Deploy the final solution and provide ongoing support to ensure sustained success.",
+        "bullets": [
+          "Deployment planning",
+          "Continuous support"
+        ]
+      }
+    ],
+    "pricingIntro": "Three engagement tiers. Choose the depth of transformation that aligns with your priorities.",
+    "pricing": [
+      {
+        "name": "Core",
+        "subtitle": "// Website + CMS Migration",
+        "description": "Migrate and redesign the platform your team controls.",
+        "amount": "$997",
+        "period": "One-time project fee",
+        "features": [
+          "Full website redesign",
+          "Drupal 11 migration",
+          "CMS training"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Complete",
+        "subtitle": "// Full Digital Transformation",
+        "description": "Website, integrations, compliance, and DevOps infrastructure.",
+        "amount": "$2,497",
+        "period": "One-time project fee",
+        "features": [
+          "Everything in Core",
+          "AWS hosting",
+          "CI/CD pipeline"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Strategic",
+        "subtitle": "// Ongoing Partnership",
+        "description": "Full transformation plus an ongoing retainer for continuous optimization.",
+        "amount": "$4,997",
+        "period": "Project fee + monthly retainer",
+        "features": [
+          "Everything in Complete",
+          "Dedicated team allocation",
+          "Quarterly strategy sessions"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Unleash Your Digital Potential?",
+    "ctaDescription": "15 minutes. No slides. Just a direct conversation about your current platform and your priorities.",
+    "ctaButtonText": "Schedule a Discovery Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, CEO • 703-304-9216",
+    "footerText": "© 2025 Unleashed Technologies",
+    "footerSub": "Named a Global Leader by Clutch"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp • Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transforming Acme Corp's Digital Experience Into a Growth Engine",
+    "heroSubheadline": "A structured engagement plan for website redesign, product UX, and ongoing digital performance. Built for where you are heading.",
+    "heroTags": [],
+    "problemsIntro": "Six friction points costing your business growth, trust, and engineering bandwidth right now.",
+    "problems": [
+      {
+        "title": "Brand and Product Disconnect",
+        "description": "Your website communicates reliability, but your product interface tells a different story."
+      },
+      {
+        "title": "Outdated Design",
+        "description": "The current design does not reflect your innovative spirit and limits user engagement."
+      },
+      {
+        "title": "Complex User Journeys",
+        "description": "Navigation is not intuitive, leading to user frustration and drop-offs."
+      },
+      {
+        "title": "Slow Load Times",
+        "description": "Page speed is affecting user experience and search engine rankings."
+      },
+      {
+        "title": "Inconsistent Mobile Experience",
+        "description": "Your mobile site does not offer the same quality experience as desktop, alienating a major user segment."
+      },
+      {
+        "title": "Limited Analytics",
+        "description": "Lack of comprehensive analytics hinders data-driven decision making."
+      }
+    ],
+    "solutionIntro": "Four integrated workstreams designed to address every problem area identified above.",
+    "solutions": [
+      {
+        "icon": "🌐",
+        "title": "Website Design",
+        "description": "A complete redesign.",
+        "tags": [
+          "UX Research",
+          "Wireframes",
+          "Launch"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Mobile Optimization",
+        "description": "Enhancing mobile experience.",
+        "tags": [
+          "Responsive Design",
+          "Performance Tuning"
+        ]
+      },
+      {
+        "icon": "🔍",
+        "title": "Analytics Setup",
+        "description": "Implementing advanced analytics.",
+        "tags": [
+          "Data Tracking",
+          "User Insights"
+        ]
+      },
+      {
+        "icon": "⚙️",
+        "title": "Performance Enhancement",
+        "description": "Improving load times.",
+        "tags": [
+          "Code Optimization",
+          "Server Tuning"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "2",
+        "suffix": "x",
+        "label": "Projected conversion improvement"
+      },
+      {
+        "value": "180",
+        "suffix": "+",
+        "label": "Additional qualified leads/month"
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Estimated UI backlog reduction"
+      }
+    ],
+    "whyUsIntro": "We are a process-driven digital agency founded on continuous improvement and radical transparency.",
+    "whyUsCards": [
+      {
+        "icon": "🎯",
+        "title": "Process Driven",
+        "description": "Every engagement follows a structured methodology."
+      },
+      {
+        "icon": "🔍",
+        "title": "Data-Driven Strategies",
+        "description": "Our solutions are guided by insights and data."
+      },
+      {
+        "icon": "🤝",
+        "title": "Collaborative Partnership",
+        "description": "We work closely with you to ensure alignment and success."
+      },
+      {
+        "icon": "⚡",
+        "title": "Agile Approach",
+        "description": "We adapt and iterate to meet your evolving needs."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "5.0",
+        "suffix": "",
+        "label": "Clutch Rating",
+        "decimal": 1
+      },
+      {
+        "value": "4.9",
+        "suffix": "",
+        "label": "Google Rating",
+        "decimal": 1
+      },
+      {
+        "value": "89",
+        "suffix": "",
+        "label": "NPS Score"
+      },
+      {
+        "value": "$4",
+        "suffix": "M+",
+        "label": "Projects Delivered"
+      }
+    ],
+    "teamIntro": "Where creative energy meets operational rigour. Your engagement is led by our founders.",
+    "team": {
+      "initials": "MG",
+      "name": "Muhammad Hutasuhut",
+      "role": "CEO",
+      "titleNote": "",
+      "bio": "Oversees strategy and client relationships.",
+      "linkedin": "",
+      "phone": "+1 410-864-8980"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "18 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery and Strategy",
+        "badge": "Weeks 1 to 3",
+        "description": "Deep dive into your goals.",
+        "bullets": [
+          "User research",
+          "Strategic brief"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Design and Prototyping",
+        "badge": "Weeks 4 to 7",
+        "description": "Crafting the user experience.",
+        "bullets": [
+          "Wireframes",
+          "UI Design"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Development and Testing",
+        "badge": "Weeks 8 to 14",
+        "description": "Building and refining.",
+        "bullets": [
+          "Front-end Development",
+          "QA Testing"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Launch and Optimization",
+        "badge": "Weeks 15 to 18",
+        "description": "Deployment and fine-tuning.",
+        "bullets": [
+          "Go Live",
+          "Performance Monitoring"
+        ]
+      }
+    ],
+    "pricingIntro": "Transparent, tier-based options. Choose the level of transformation that fits your priorities.",
+    "pricing": [
+      {
+        "name": "Foundation",
+        "subtitle": "",
+        "description": "Website redesign focused on brand alignment.",
+        "amount": "$48,000",
+        "period": "",
+        "features": [
+          "Full website redesign",
+          "CMS setup",
+          "SEO optimization"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth",
+        "subtitle": "",
+        "description": "Website redesign plus product UX strategy.",
+        "amount": "$82,000",
+        "period": "",
+        "features": [
+          "Everything in Foundation",
+          "Product UX audit",
+          "Design system"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Partnership",
+        "subtitle": "",
+        "description": "Full digital transformation with ongoing optimization.",
+        "amount": "$124,000",
+        "period": "",
+        "features": [
+          "Everything in Growth",
+          "Full UI redesign",
+          "Ongoing retainer"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Move Forward?",
+    "ctaDescription": "If this resonates, we would love 15 minutes of your time. No slides, no pitch deck.",
+    "ctaButtonText": "Book a Discovery Session",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "mhutasuhut@unleashed-technologies.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Unleashed",
+    "footerSub": "Designing better systems for better experiences"
+  },
+  "enriched": {
+    "tone": "professional",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Muhammad",
+    "last_name": "Hutasuhut",
+    "email": "mhutasuhut@unleashed-technologies.com",
+    "company_phone": "+1 410-864-8980",
+    "mobile_number": "",
+    "company_name": "Unleashed",
+    "company_website": "https://www.unleashed-technologies.com",
+    "company_domain": "unleashed-technologies.com",
+    "company_description": "Unleashed is a one-stop shop for leading web development, custom software and digital services. We create, enhance, integrate, manage, and host award-winning websites, web applications, and digital experiences through the continuous efforts of our certified developers and a team of creative digital strategists. At Unleashed, we utilize open-source platforms—the most collaborative and dynamic solutions available for our clients' websites and system integrations. \nBy living on the cutting edge of web technology and development, Unleashed has the proven experience and expertise to create award-winning digital experiences. As globally recognized web experts, we are committed to positioning our clients to fully realize digital potential through dynamic, engaging websites using open-source solutions. \n\nWe're not afraid... \n...of inheriting legacy code. \n...of complex, third-party integrations. \n...of responding to your evolving needs. \n\nOUR SERVICES INCLUDE: \n:: Open Source Platforms (i.e., WordPress, Drupal, Symfony, Adobe Commerce)\n:: Responsive Web Design\n:: Web App Development\n:: Optimization\n:: Web Accessibility & Compliance\n:: Systems Integrations\n:: Web Personalization\n:: e-Commerce Implementation\n:: Creative and Design Services\n:: DevOps and Hosting Services\n:: Digital Marketing Services\n:: Ongoing Support Services",
+    "headline": "CEO @unleashed Technologies | Solving Your Digital/AI Needs In Manufacturing, Associations & Life Sciences",
+    "job_title": "CEO",
+    "industry": "Information Technology & Services",
+    "company_size": "30",
+    "company_technologies": "ai, android, bluekai, cloudflare, cloudflare hosting, cloudflare dns, drupal, flutter, gmail, google apps, iot, magento, microsoft office 365, outlook, python, rackspace mailgun, react, remote, sharepoint",
+    "city": "Columbia",
+    "state": "Maryland",
+    "country": "United States",
+    "company_full_address": "8840 Stanford Blvd, Columbia, Maryland 21045, US",
+    "seniority_level": "c_suite",
+    "company_annual_revenue_clean": "4.3M",
+    "linkedin": "https://www.linkedin.com/in/mhutasuhut",
+    "company_linkedin": "https://www.linkedin.com/company/unleasheddigital",
+    "company_founded_year": "2007",
+    "keywords": "ecommerce, progressive web applications, digital strategy, digital agency, web development, web management, web redesign, linux, drupal, wordpress, magento, symfony, integrations, user experience, information architecture, content migration, react, headless, web personalization, devops, opensource php, healthcare, higher education, technology, information & internet, e-commerce, consumer internet, consumers, internet, information technology & services, marketing, marketing & advertising, ux, health care, health, wellness & fitness, hospital & health care, education management",
+    "personalization": "You’re taking on legacy code, which is a bold move in web development.",
+    "painStatement": "",
+    "proposal_status": "generated",
+    "proposal_url": "https://www.ayushopchauhan.com/for/unleashed",
+    "proposal_id": "unleashed",
+    "generated_at": "2026-02-27T00:33:46.983Z"
+  }
+}
