@@ -3,8 +3,8 @@
   "companyName": "Neon Ambition",
   "contactName": "Jordan Slover",
   "contactEmail": "jordan@neonambition.com",
-  "generationTime": 18,
-  "createdAt": "2026-02-27T19:57:53.823Z",
+  "generationTime": 28,
+  "createdAt": "2026-02-27T19:58:20.383Z",
   "brandStyle": {
     "primaryColor": "#da532c",
     "secondaryColor": "#d3d3d3",
@@ -16,8 +16,8 @@
   "proposal1": {
     "tag": "PROPOSAL // NEON AMBITION // CONFIDENTIAL",
     "heroBadge": "AI Proposal Automation",
-    "heroHeadline": "Neon Ambition is losing 300 hours a year on proposals. Here's where it goes.",
-    "heroSubheadline": "Your team spends hours creating proposals for SEO and PPC, now finished in 47 seconds.",
+    "heroHeadline": "Neon Ambition is losing over 500 hours annually on proposal creation. Here's where it goes.",
+    "heroSubheadline": "Manually crafting SEO, PPC, and Social Media proposals takes hours. Generate them in 47 seconds instead.",
     "heroTags": [
       "AI",
       "AUTOMATION",
@@ -25,83 +25,83 @@
       "BRANDING",
       "CHATBOT"
     ],
-    "problemsIntro": "Every minute spent manually crafting proposals is a missed opportunity for growth.",
+    "problemsIntro": "These are real costs bleeding from your bottom line every day.",
     "problems": [
       {
-        "title": "Time Sinks",
-        "description": "Each proposal takes up to 5 hours. With 60 proposals a year, that's 300 hours lost. Time that could be spent on high-impact activities."
+        "title": "Lost Sales Opportunities",
+        "description": "Every hour spent writing proposals is an hour not spent closing deals. With 16 team members, that's a significant loss in potential revenue."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Paying skilled marketers to draft proposals is costly. You could save thousands annually by automating this task."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Inconsistent branding in proposals can confuse potential clients. Each inconsistency weakens your market positioning."
+      },
+      {
+        "title": "Delayed Responses",
+        "description": "A slow proposal process means delayed client engagement. Each delay risks losing the client's interest to a faster competitor."
+      },
+      {
+        "title": "Reduced Productivity",
+        "description": "Time spent on manual proposals reduces overall team productivity. Fewer hours are available for core marketing activities."
       },
       {
         "title": "Missed Leads",
-        "description": "Slow proposal generation means delayed responses. Every 24-hour delay could lose a potential lead. It's costing you clients."
-      },
-      {
-        "title": "Consistency Issues",
-        "description": "Inconsistent branding in proposals leads to confusion and weakens your message. A muddled brand costs trust and sales."
-      },
-      {
-        "title": "High Labor Cost",
-        "description": "Paying skilled team members to format proposals. At $50/hour, that's $15,000 annually lost to routine tasks."
-      },
-      {
-        "title": "Error Prone",
-        "description": "Manual entries lead to errors. A single mistake can lose a client or damage relationships, bleeding revenue."
-      },
-      {
-        "title": "Untracked Proposals",
-        "description": "No tracking means no insights into client engagement. Without data, you're flying blind, missing strategic adjustments."
+        "description": "Manually handling proposals limits the number you can send. Each missed proposal is a missed opportunity for new leads."
       }
     ],
-    "solutionIntro": "Our AI system transforms your proposal process, addressing each loss above.",
+    "solutionIntro": "Our AI system transforms every problem into an efficient process.",
     "solutions": [
       {
         "icon": "1.",
         "title": "Instant Proposal Generation",
-        "description": "Currently, creating a proposal takes hours. Our system delivers a complete proposal in under 60 seconds.",
+        "description": "Currently, proposals take hours of manual work. Our system generates them in under 60 seconds.",
         "tags": [
-          "Speed",
           "Efficiency",
-          "Time-Saving"
-        ]
-      },
-      {
-        "icon": "2.",
-        "title": "Brand Consistency",
-        "description": "Manual formatting leads to inconsistencies. Our AI ensures every proposal aligns perfectly with your brand.",
-        "tags": [
-          "Branding",
-          "Consistency",
-          "Professionalism"
-        ]
-      },
-      {
-        "icon": "3.",
-        "title": "Cost Reduction",
-        "description": "Paying high labor costs for proposal work. Our system cuts those costs by automating the entire process.",
-        "tags": [
-          "Cost-Effective",
-          "Savings",
+          "Speed",
           "Automation"
         ]
       },
       {
-        "icon": "4.",
-        "title": "Accuracy Assurance",
-        "description": "Manual input leads to errors. Our AI eliminates errors by automating data scraping and entry.",
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Branding inconsistencies occur with manual creation. The system ensures every proposal aligns perfectly with your brand.",
         "tags": [
-          "Accuracy",
-          "Reliability",
-          "Precision"
+          "Branding",
+          "Consistency",
+          "Quality"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Increased Productivity",
+        "description": "Time-consuming manual tasks reduce productivity. With automation, your team can focus on driving sales and strategy.",
+        "tags": [
+          "Productivity",
+          "Focus",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Enhanced Client Engagement",
+        "description": "Delays in proposal delivery risk losing clients. The system ensures rapid responses to client inquiries.",
+        "tags": [
+          "Engagement",
+          "Speed",
+          "Client Satisfaction"
         ]
       },
       {
         "icon": "5.",
-        "title": "Proposal Tracking",
-        "description": "No system for tracking proposal engagement. Our solution provides complete analytics on client interactions.",
+        "title": "Scalable Lead Handling",
+        "description": "Manual proposal handling limits scalability. Our solution allows you to handle more leads effortlessly.",
         "tags": [
-          "Insight",
-          "Analytics",
-          "Data-Driven"
+          "Scalability",
+          "Growth",
+          "Leads"
         ]
       }
     ],
@@ -293,42 +293,42 @@
     "fictionalClientName": "Acme Corp",
     "tag": "Proposal for Acme Corp // Confidential",
     "heroBadge": "Strategic Partnership Proposal",
-    "heroHeadline": "Transform Acme Corp's Growth with Neon Ambition's Proven Strategies",
-    "heroSubheadline": "We'll partner with Acme Corp to turn every missed opportunity into a win using our specialized SEO, PPC, and Content services.",
+    "heroHeadline": "Unleash Acme Corp's Potential with Neon Ambition's Proven Growth Strategies.",
+    "heroSubheadline": "We will transform your online presence through targeted SEO, PPC, and engaging content, driving more sales and leads.",
     "heroTags": [],
-    "problemsIntro": "Every visitor who leaves your site without converting is revenue walking out the door.",
+    "problemsIntro": "Every day, Acme Corp is losing opportunities and revenue by not optimizing its online presence.",
     "problems": [
       {
-        "title": "Low Conversion Rates",
-        "description": "Your website sees a lot of traffic, yet the conversion rate is below industry standard. This means thousands of potential customers leaving without a purchase."
+        "title": "High Bounce Rate",
+        "description": "Visitors who leave your site without engaging are missed opportunities. This can mean thousands in lost revenue monthly."
       },
       {
-        "title": "Poor SEO Rankings",
-        "description": "With current rankings, Acme Corp is missing out on 60% of potential organic traffic, letting competitors capture your audience."
+        "title": "Low Conversion Rate",
+        "description": "Potential customers are slipping through the cracks, resulting in significant revenue loss."
+      },
+      {
+        "title": "Poor SEO Performance",
+        "description": "Being buried in search results means lost visibility and traffic, translating to missed sales."
       },
       {
         "title": "Ineffective PPC Campaigns",
-        "description": "Current PPC campaigns are not optimized, resulting in a 30% higher cost per click than necessary. Money wasted on ineffective ads."
+        "description": "Without strategic targeting, your ad spend is not converting into tangible returns."
       },
       {
-        "title": "Weak Social Media Presence",
-        "description": "Social media channels are underutilized, reaching only 20% of your potential audience. Missing out on valuable engagement and brand loyalty."
+        "title": "Stagnant Social Media",
+        "description": "Lack of engagement on social channels leads to missed brand awareness and potential customer interactions."
       },
       {
-        "title": "Content Gaps",
-        "description": "Your content strategy lacks depth, resulting in low user engagement and missed opportunities for lead generation."
-      },
-      {
-        "title": "Suboptimal CRO",
-        "description": "Without a focused Conversion Rate Optimization strategy, Acme Corp is losing potential sales daily."
+        "title": "Outdated Content",
+        "description": "Failing to refresh content results in loss of interest and diminished trust from potential clients."
       }
     ],
-    "solutionIntro": "Our tailored solutions will directly address these losses, turning challenges into growth opportunities.",
+    "solutionIntro": "Our tailored solutions address these critical losses and drive measurable improvements.",
     "solutions": [
       {
         "icon": "🔍",
-        "title": "SEO Optimization",
-        "description": "Boost your search rankings to reclaim lost traffic and increase visibility.",
+        "title": "SEO Services",
+        "description": "Boosts your visibility and search rankings, driving more organic traffic to your site.",
         "tags": [
           "SEO",
           "Traffic",
@@ -336,106 +336,106 @@
         ]
       },
       {
-        "icon": "💰",
-        "title": "PPC Management",
-        "description": "Refine your PPC campaigns to reduce costs and increase effectiveness.",
+        "icon": "💻",
+        "title": "PPC Campaigns",
+        "description": "Maximize your ad spend by targeting the right audience with high-converting ads.",
         "tags": [
           "PPC",
-          "Cost-Efficiency",
-          "Ads"
-        ]
-      },
-      {
-        "icon": "📈",
-        "title": "CRO Strategy",
-        "description": "Optimize your conversion pathways to transform visitors into customers.",
-        "tags": [
-          "CRO",
-          "Conversion",
-          "Sales"
+          "Ads",
+          "ROI"
         ]
       },
       {
         "icon": "📝",
         "title": "Content Marketing",
-        "description": "Develop a rich content strategy to engage users and generate leads.",
+        "description": "Engage and convert your audience with fresh, relevant content.",
         "tags": [
           "Content",
           "Engagement",
-          "Leads"
+          "Conversion"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Social Media Management",
+        "description": "Build and maintain a vibrant social presence, boosting brand awareness and engagement.",
+        "tags": [
+          "Social",
+          "Brand",
+          "Engagement"
         ]
       }
     ],
     "metrics": [
       {
-        "value": "50",
-        "suffix": "%",
-        "label": "Increase in conversion rate"
-      },
-      {
         "value": "30",
         "suffix": "%",
-        "label": "Reduction in PPC costs"
+        "label": "Increase in Website Traffic"
       },
       {
-        "value": "70",
+        "value": "25",
         "suffix": "%",
-        "label": "Growth in organic traffic"
+        "label": "Improvement in Conversion Rate"
+      },
+      {
+        "value": "20",
+        "suffix": "%",
+        "label": "Growth in Social Engagement"
       }
     ],
-    "whyUsIntro": "Neon Ambition is your partner in driving measurable growth.",
+    "whyUsIntro": "Neon Ambition is your partner in achieving digital success.",
     "whyUsCards": [
       {
-        "icon": "🚀",
-        "title": "Proven Results",
-        "description": "Our strategies have consistently delivered measurable growth for businesses like yours."
+        "icon": "👥",
+        "title": "Experienced Team",
+        "description": "Our team of experts has a track record of delivering results for businesses like yours."
+      },
+      {
+        "icon": "🏆",
+        "title": "Proven Strategies",
+        "description": "We use data-driven approaches to ensure your marketing efforts are effective."
+      },
+      {
+        "icon": "📈",
+        "title": "Results-Focused",
+        "description": "Our primary goal is to increase your sales and leads through tailored strategies."
       },
       {
         "icon": "🤝",
         "title": "Collaborative Approach",
-        "description": "We work closely with you, ensuring our solutions align with your business goals."
-      },
-      {
-        "icon": "📊",
-        "title": "Data-Driven Strategy",
-        "description": "Our decisions are backed by data to ensure maximum impact and efficiency."
-      },
-      {
-        "icon": "🎨",
-        "title": "Creative Solutions",
-        "description": "Our team brings innovative ideas to every project, ensuring you stand out."
+        "description": "We work closely with you to understand your needs and exceed expectations."
       }
     ],
     "fearCards": [],
     "socialProof": [
       {
-        "value": "200",
-        "suffix": "+",
-        "label": "Happy Clients"
+        "value": "200+",
+        "suffix": "clients",
+        "label": "Satisfied Clients"
       },
       {
-        "value": "15",
-        "suffix": "M",
-        "label": "Managed Ad Spend"
-      },
-      {
-        "value": "500",
-        "suffix": "%",
-        "label": "Average ROI Increase"
+        "value": "500%",
+        "suffix": "increase",
+        "label": "Average Client ROI"
       },
       {
         "value": "10",
-        "suffix": "Years",
+        "suffix": "years",
         "label": "Industry Experience"
+      },
+      {
+        "value": "100+",
+        "suffix": "projects",
+        "label": "Completed Projects"
       }
     ],
-    "teamIntro": "Meet the passionate team driving your success.",
+    "teamIntro": "Meet our dedicated team ready to elevate your business.",
     "team": {
       "initials": "JS",
       "name": "Jordan Slover",
       "role": "Founder",
       "titleNote": "",
-      "bio": "Jordan leads strategy and client relationships, ensuring each partnership thrives with tailored solutions and expert insight.",
+      "bio": "Jordan leads strategy and client relationships, ensuring every partnership is a success. With years of experience, Jordan is committed to your growth.",
       "linkedin": "",
       "phone": "+1 512-865-8050"
     },
@@ -444,94 +444,92 @@
     "process": [
       {
         "number": 1,
-        "title": "Discovery and Strategy",
+        "title": "Discovery & Strategy",
         "badge": "Weeks 1 to 3",
-        "description": "We'll dive deep into understanding your goals and challenges.",
+        "description": "We dive deep into your business to understand your goals and challenges.",
         "bullets": [
-          "Goal Setting",
-          "Market Analysis"
+          "Business analysis",
+          "Strategy development"
         ]
       },
       {
         "number": 2,
         "title": "Implementation",
         "badge": "Weeks 4 to 8",
-        "description": "Executing the plan with precision and expertise.",
+        "description": "Our team begins executing the agreed-upon strategies.",
         "bullets": [
-          "SEO Optimization",
-          "PPC Setup"
+          "SEO enhancements",
+          "PPC setup"
         ]
       },
       {
         "number": 3,
-        "title": "Monitoring and Adjustment",
+        "title": "Optimization",
         "badge": "Weeks 9 to 12",
-        "description": "Continuous monitoring and tweaking to ensure optimal performance.",
+        "description": "We fine-tune campaigns to ensure maximum effectiveness.",
         "bullets": [
-          "Performance Tracking",
-          "Strategy Refinement"
+          "Performance analysis",
+          "Adjustments"
         ]
       },
       {
         "number": 4,
-        "title": "Review and Scale",
+        "title": "Review & Next Steps",
         "badge": "Weeks 13 to 16",
-        "description": "Reviewing results and planning for future growth.",
+        "description": "We assess results and plan future initiatives.",
         "bullets": [
-          "Data Analysis",
-          "Scaling Strategy"
+          "Results review",
+          "Future planning"
         ]
       }
     ],
-    "pricingIntro": "Explore our investment options to fuel your growth.",
+    "pricingIntro": "Choose the investment tier that aligns with your growth ambitions.",
     "pricing": [
       {
-        "name": "Starter Plan",
+        "name": "Starter Package",
         "subtitle": "",
-        "description": "Ideal for businesses looking to establish a strong online presence.",
+        "description": "Ideal for businesses beginning their digital journey.",
         "amount": "$4,500/mo",
         "period": "",
         "features": [
-          "SEO Basics",
-          "PPC Essentials"
+          "Basic SEO",
+          "Initial PPC Setup"
         ],
         "recommended": false
       },
       {
-        "name": "Growth Plan",
+        "name": "Growth Package",
         "subtitle": "",
-        "description": "Our recommended plan for businesses ready to scale.",
+        "description": "Our recommended package for comprehensive growth strategies.",
         "amount": "$8,500/mo",
         "period": "",
         "features": [
           "Advanced SEO",
-          "Comprehensive PPC",
-          "Content Strategy"
+          "Full PPC Campaigns"
         ],
         "recommended": true
       },
       {
-        "name": "Enterprise Plan",
+        "name": "Enterprise Package",
         "subtitle": "",
-        "description": "Perfect for businesses aiming for industry leadership.",
+        "description": "For businesses ready to dominate their market.",
         "amount": "$15,000/mo",
         "period": "",
         "features": [
-          "Full-Service SEO",
-          "PPC Mastery",
-          "Custom Content"
+          "Complete Digital Strategy",
+          "Priority Support"
         ],
         "recommended": false
       }
     ],
-    "ctaHeadline": "Ready to Transform Your Business? Let's Chat!",
-    "ctaDescription": "Let's explore how we can help Acme Corp achieve its goals. No strings attached, just a friendly conversation.",
+    "ctaHeadline": "Ready to Transform Acme Corp?",
+    "ctaDescription": "Let's discuss how we can help you achieve your goals. No pressure, just a friendly chat.",
     "ctaButtonText": "Schedule a Call",
     "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
     "ctaEmail": "jordan@neonambition.com",
     "ctaNote": "",
     "footerText": "© 2025 Neon Ambition",
-    "footerSub": "Growing your business with passion and expertise."
+    "footerSub": "Growing Your Business with Ambition."
   },
   "enriched": {
     "tone": "warm, playful",
@@ -567,7 +565,7 @@
     "keywords": "paid search, inbound marketing, content marketing, conversion optimization, search engine optimization, social media, facebook advertising, retargeting, media planning, media buying, landing page design, copywriting, display advertising, local seo, technical seo audits, link building, instagram advertising, google ads, web design, email marketing, advertising services, digital marketing, ppc marketing, seo services, social media management, law firm marketing, branding strategies, lead generation, google ads management, analytics & reporting, conversion rate optimization, pay-per-click, search engine ranking, target audience engagement, website optimization, community management, dynamic marketing strategies, cross-channel integration, copywriting services, marketing audits, competitive analysis, customer service, branding solutions, keyword research, remarketing, google shopping ads, content strategy, personalized marketing, user experience optimization, mobile responsive design, data-driven decisions, marketing solutions, search engine visibility, traffic generation, campaign management, online advertising, serp features, performance metrics, video campaigns, digital strategy, organic traffic growth, market analysis, social media advertising, content creation, client retention, website design services, marketing & advertising, seo, information technology & services, search marketing, marketing, consumer internet, consumers, internet, writing & editing, sales",
     "personalization": "Only a few agencies have access to Google Ads Alpha programs, and you’re one of them.",
     "painStatement": "",
-    "proposal_status": "",
+    "proposal_status": "generating",
     "proposal_url": "",
     "proposal_id": "",
     "generated_at": ""
