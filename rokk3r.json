@@ -1,0 +1,573 @@
+{
+  "slug": "rokk3r",
+  "companyName": "Rokk3r",
+  "contactName": "Juan Montoya",
+  "contactEmail": "juan@rokk3r.com",
+  "generationTime": 32,
+  "createdAt": "2026-02-27T20:46:12.552Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Lato",
+    "bodyFont": "Heebo",
+    "logoUrl": "https://images.squarespace-cdn.com/content/v1/5fa5802133274b4834fc85b7/5ef3c42f-9c6e-46f6-a043-fcb260be0375/logo-rokk3r+white%2B%403x.png?format=1500w"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // ROKK3R // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Rokk3r is losing 500 hours a year on proposals. Here's where it goes.",
+    "heroSubheadline": "Rokk3r's manual proposals take hours. Our system generates them in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "These are the ongoing losses Rokk3r faces without automation.",
+    "problems": [
+      {
+        "title": "Time Drain",
+        "description": "Each proposal takes up to 10 hours. That's 10 hours not spent on innovation and growth."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Every inconsistent proposal costs credibility. Credibility loss equates to losing potential clients."
+      },
+      {
+        "title": "Lost Deals",
+        "description": "Delayed proposals mean lost opportunities. Each day of delay risks a competitor closing the deal."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Manual work requires dedicated hours. At $50/hour, proposal writing costs Rokk3r $25,000 yearly."
+      },
+      {
+        "title": "Resource Allocation",
+        "description": "Resources tied up in proposals can't be used for venture building. This bottleneck affects service delivery."
+      },
+      {
+        "title": "Error Prone",
+        "description": "Manual entries lead to errors. Each error damages client trust and can cost future partnerships."
+      }
+    ],
+    "solutionIntro": "Our AI system replaces these costly inefficiencies with seamless automation.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Proposals currently take hours to create. Our system delivers polished, client-ready documents in under 60 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Time-Saving"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Brand alignment is currently hit or miss. The AI ensures every proposal is on-brand and professional.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Real-Time Tracking",
+        "description": "Currently, follow-ups are manual and error-prone. Our system tracks interactions, ensuring timely follow-ups.",
+        "tags": [
+          "Tracking",
+          "Automation",
+          "Follow-up"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "AI Chatbot",
+        "description": "Client queries are currently handled manually. The AI chatbot provides instant responses, improving client satisfaction.",
+        "tags": [
+          "Chatbot",
+          "Client Service",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Error Reduction",
+        "description": "Manual errors are costly. The AI minimizes errors, safeguarding Rokk3r's reputation and client relations.",
+        "tags": [
+          "Accuracy",
+          "Error Reduction",
+          "Reliability"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Rokk3r's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Rokk3r around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Rokk3r.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's Growth with Rokk3r's Expertise",
+    "heroSubheadline": "Let's collaborate to enhance Acme Corp's digital presence and revenue through strategic innovation and technology.",
+    "heroTags": [],
+    "problemsIntro": "Right now, Acme Corp is experiencing significant losses due to operational inefficiencies.",
+    "problems": [
+      {
+        "title": "Low Conversion Rates",
+        "description": "Every visitor who leaves your site without converting is revenue walking out the door. This results in an estimated loss of $50,000 monthly."
+      },
+      {
+        "title": "Inefficient Operations",
+        "description": "Operational inefficiencies are costing Acme Corp approximately 10% of its potential productivity, leading to an estimated annual loss of $200,000."
+      },
+      {
+        "title": "Weak Brand Presence",
+        "description": "A lack of a strong digital brand presence results in missed opportunities to engage with potential customers, leading to an estimated loss of $100,000 in potential sales annually."
+      },
+      {
+        "title": "Poor Customer Retention",
+        "description": "Inadequate customer retention strategies are causing a churn of 20%, resulting in an annual revenue loss of $150,000."
+      },
+      {
+        "title": "Inadequate Data Utilization",
+        "description": "Failure to leverage data for decision-making is leading to missed strategic opportunities, costing Acme Corp an estimated $75,000 annually."
+      },
+      {
+        "title": "Outdated Technology",
+        "description": "Reliance on outdated technology is leading to increased maintenance costs, estimated at $50,000 annually."
+      }
+    ],
+    "solutionIntro": "Rokk3r's solutions directly address the losses Acme Corp is facing.",
+    "solutions": [
+      {
+        "icon": "🚀",
+        "title": "Digital Transformation",
+        "description": "We modernize your technology stack to improve efficiency and reduce costs. This will address the outdated technology issue.",
+        "tags": [
+          "Efficiency",
+          "Cost Reduction",
+          "Innovation"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Growth Strategy",
+        "description": "Our team crafts tailored growth strategies to boost your conversion rates and enhance customer engagement.",
+        "tags": [
+          "Strategy",
+          "Growth",
+          "Conversion"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Data Analytics",
+        "description": "We implement robust data analytics to enhance decision-making and strategic planning. This tackles inadequate data utilization.",
+        "tags": [
+          "Data",
+          "Analytics",
+          "Strategy"
+        ]
+      },
+      {
+        "icon": "🌐",
+        "title": "Brand Development",
+        "description": "We enhance your digital brand presence, making it more appealing and engaging for your target audience.",
+        "tags": [
+          "Brand",
+          "Digital",
+          "Engagement"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Increase in conversion rates"
+      },
+      {
+        "value": "15",
+        "suffix": "%",
+        "label": "Reduction in operational costs"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Improvement in customer retention"
+      }
+    ],
+    "whyUsIntro": "Rokk3r stands out by blending innovation with proven strategies.",
+    "whyUsCards": [
+      {
+        "icon": "🌟",
+        "title": "Proven Expertise",
+        "description": "Our team has a track record of successfully transforming businesses across various industries."
+      },
+      {
+        "icon": "🤝",
+        "title": "Collaborative Approach",
+        "description": "We work closely with your team to ensure alignment and successful implementation."
+      },
+      {
+        "icon": "📐",
+        "title": "Tailored Solutions",
+        "description": "Our services are customized to meet the specific needs and goals of Acme Corp."
+      },
+      {
+        "icon": "🚀",
+        "title": "Innovation Driven",
+        "description": "We leverage the latest technologies to drive innovation and growth for your business."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "200",
+        "suffix": "+",
+        "label": "Successful projects delivered"
+      },
+      {
+        "value": "150",
+        "suffix": "%",
+        "label": "Average client growth rate"
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Reduction in client costs"
+      },
+      {
+        "value": "300",
+        "suffix": "+",
+        "label": "Satisfied clients worldwide"
+      }
+    ],
+    "teamIntro": "Our team is dedicated to your success.",
+    "team": {
+      "initials": "JM",
+      "name": "Juan Montoya",
+      "role": "Chief Executive Officer",
+      "titleNote": "",
+      "bio": "Juan leads our strategy and client relationships with a focus on delivering impactful results. His experience spans over a decade in the tech industry.",
+      "linkedin": "",
+      "phone": "+1 202-306-1581"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Planning",
+        "badge": "Weeks 1 to 3",
+        "description": "We begin by understanding your unique challenges and goals.",
+        "bullets": [
+          "Initial consultations",
+          "Goal setting"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Our team crafts a detailed strategy tailored to your needs.",
+        "bullets": [
+          "Market analysis",
+          "Strategic planning"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 12",
+        "description": "We execute the strategy with precision and agility.",
+        "bullets": [
+          "Technology integration",
+          "Brand development"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Optimization & Review",
+        "badge": "Weeks 13 to 16",
+        "description": "We refine the process to ensure optimal results.",
+        "bullets": [
+          "Performance analysis",
+          "Continuous improvement"
+        ]
+      }
+    ],
+    "pricingIntro": "Explore our investment options to transform Acme Corp.",
+    "pricing": [
+      {
+        "name": "Basic",
+        "subtitle": "",
+        "description": "Ideal for businesses seeking foundational improvements.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic strategy development",
+          "Initial market analysis"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Standard",
+        "subtitle": "",
+        "description": "Our recommended package for comprehensive growth.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Full strategy development",
+          "Brand enhancement"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Premium",
+        "subtitle": "",
+        "description": "For businesses ready to fully transform and innovate.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "End-to-end solution",
+          "Advanced data analytics"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Acme Corp?",
+    "ctaDescription": "Let's have a conversation about how we can work together to achieve your goals.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "juan@rokk3r.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Rokk3r",
+    "footerSub": "Innovation at the heart of growth."
+  },
+  "enriched": {
+    "tone": "warm",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Juan",
+    "last_name": "Montoya",
+    "email": "juan@rokk3r.com",
+    "company_phone": "+1 202-306-1581",
+    "mobile_number": "+13053384523",
+    "company_name": "Rokk3r",
+    "company_website": "https://www.rokk3r.com",
+    "company_domain": "rokk3r.com",
+    "company_description": "Rokk3r is one of the first Venture Builders in the world focused on emerging and exponential technology.  Rokk3r partners with entrepreneurs, corporations, and investors to build and scale technology-enabled companies and business models. Since 2012, Rokk3r has built over 50 companies, designed over 200 digital products, and worked with dozens of entrepreneurs and leading corporations across four continents and multiple industries to develop innovative ventures. Our main services include Venture Building, Digital Transformation, and Accelerator As a Service.",
+    "headline": "CEO @ Rokk3r, I Partner With Corporations, Entrepreneurs, And Investors To Bring New Businesses, Products, And Services To Life.",
+    "job_title": "Chief Executive Officer",
+    "industry": "Information Technology & Services",
+    "company_size": "5",
+    "company_technologies": "ai, android, doubleclick, doubleclick conversion, facebook custom audiences, facebook login (connect), facebook widget, gmail, google apps, google dynamic remarketing, google tag manager, hotjar, hubspot, linkedin marketing solutions, mailchimp spf, microsoft office 365, mobile friendly, remote, squarespace ecommerce, teachable, wp engine",
+    "city": "Miami",
+    "state": "Florida",
+    "country": "United States",
+    "company_full_address": "2121 NW 2nd Ave, Miami, Florida 33127, US",
+    "seniority_level": "c_suite",
+    "company_annual_revenue_clean": "5.5M",
+    "linkedin": "https://www.linkedin.com/in/jumontoya",
+    "company_linkedin": "https://www.linkedin.com/company/rokk3r-inc",
+    "company_founded_year": "2012",
+    "keywords": "cobuilding, launching companies, product development, venture capital funding, user experience, hyperconnected products, exponential technologies, realtime analytics, product definition, venture strategy, growth, intellectual property, mobile, startups, venture capital, consulting, information technology, finance, technology, information & internet, venture building, investment vehicles, corporate innovation, innovation culture, innovation strategy, open innovation, digital transformation, rapid prototyping, software development, salesforce, emerging technologies, web3, artificial intelligence, business consulting, customer engagement, startup support, market research, product-market fit, venture portfolio, technology-enabled businesses, value propositions, go-to-market strategy, financial projections, innovation education, business opportunity definition, market opportunity sizing, innovation techniques, cost-effective solutions, entrepreneur support, scalable innovation systems, innovative business models, partner collaboration, cultural transformation, software engineering, ux/ui design, demand validation, mvp development, corporate accelerators, risk mitigation, funding strategies, early-stage capital, strategic partnerships, business growth, trends analysis, custom programs, thought leadership, organizational change, proven methodologies, future growth strategies, blockchain, internet of things, ai, innovation ecosystem, business acceleration, technology ventures, real-world challenges, growth strategies, customer-facing solutions, investment opportunities, technology democratization, global reach, startup culture, innovation initiatives, competitive advantage, business insights, problem validation, opportunity identification, entrepreneurial support, capital allocation, digital products, technology integration, ux, internet, information technology & services, financial services, b2b, management consulting",
+    "personalization": "You’re in a crowded space of self-proclaimed pioneers in venture building, aren't you?",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
