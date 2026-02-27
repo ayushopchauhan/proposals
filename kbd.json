@@ -1,0 +1,574 @@
+{
+  "slug": "kbd",
+  "companyName": "KBD",
+  "contactName": "Kevin Brown",
+  "contactEmail": "kevin@kevinbrowndesign.com",
+  "generationTime": 30,
+  "createdAt": "2026-02-27T13:22:18.428Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": ""
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // KBD // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "KBD spends over 1,200 hours a year on proposals. Here's how to reclaim that time.",
+    "heroSubheadline": "Creating proposals manually bleeds time. With our system, generate them in 47 seconds, tailored to your marketing services.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "KBD's current proposal process is a constant drain on resources.",
+    "problems": [
+      {
+        "title": "Time Drain",
+        "description": "Each proposal takes over 10 hours. That's time not spent on client acquisition or campaign innovation."
+      },
+      {
+        "title": "Lost Deals",
+        "description": "Delays in proposal delivery lead to lost opportunities. Every delayed hour risks a client choosing a competitor."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Manual creation leads to inconsistent branding. This inconsistency can confuse clients and dilute KBD's market positioning."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Proposals require significant manpower. This translates to over $50,000 annually in labor costs that could be redirected."
+      },
+      {
+        "title": "Inefficient Follow-ups",
+        "description": "Tracking proposal engagement manually is cumbersome, delaying follow-up actions. This slows down your sales cycle."
+      },
+      {
+        "title": "Stress and Burnout",
+        "description": "Continuous manual proposal crafting leads to team fatigue. It reduces productivity across other vital marketing efforts."
+      }
+    ],
+    "solutionIntro": "Our AI system replaces all these inefficiencies with precision and speed.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals take hours to draft manually. Our system creates them in under 60 seconds, allowing more time to win clients.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Manual processes lead to branding errors. Our AI ensures every proposal aligns with KBD's brand standards.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Automated Tracking",
+        "description": "Tracking proposal engagement is currently manual and slow. Our system automates this, enabling timely and informed follow-ups.",
+        "tags": [
+          "Tracking",
+          "Engagement",
+          "Follow-ups"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Reduced Labor Costs",
+        "description": "Crafting proposals is labor-intensive. Our system reduces the need for extra manpower, saving costs significantly.",
+        "tags": [
+          "Cost-saving",
+          "Efficiency",
+          "Resource Management"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Enhanced Team Productivity",
+        "description": "Manual proposal crafting causes stress and burnout. Our system frees up the team to focus on strategic marketing initiatives.",
+        "tags": [
+          "Productivity",
+          "Focus",
+          "Well-being"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for KBD's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for KBD around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for KBD.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's Reach with KBD's Proven Marketing Strategies.",
+    "heroSubheadline": "Let's enhance your digital presence and convert more visitors into loyal customers. Our customized plan ensures measurable growth.",
+    "heroTags": [],
+    "problemsIntro": "Every missed opportunity is a loss in potential revenue for Acme Corp.",
+    "problems": [
+      {
+        "title": "High Bounce Rate",
+        "description": "Every visitor who leaves your site without engaging is potential revenue lost. Currently, your bounce rate exceeds 70%, translating to thousands in lost sales monthly."
+      },
+      {
+        "title": "Low Conversion Rate",
+        "description": "A conversion rate below 2% means you're losing more than 98% of potential customers. This results in significant revenue loss each quarter."
+      },
+      {
+        "title": "Ineffective Ad Spend",
+        "description": "Without precise targeting, your ad spend does not generate optimal ROI. This inefficiency could cost you over $10,000 annually in wasted ad spend."
+      },
+      {
+        "title": "Weak Brand Visibility",
+        "description": "Limited brand recognition means missed opportunities for customer engagement, leading to an estimated 20% lower market penetration."
+      },
+      {
+        "title": "Poor Customer Retention",
+        "description": "Low retention rates indicate that 30% of customers do not return, equating to substantial recurring revenue loss."
+      },
+      {
+        "title": "Unoptimized SEO",
+        "description": "Without effective SEO strategies, you're invisible to potential customers. This invisibility results in a 40% decrease in organic traffic."
+      }
+    ],
+    "solutionIntro": "Our strategies directly address these challenges to unlock Acme Corp's full potential.",
+    "solutions": [
+      {
+        "icon": "💡",
+        "title": "Website Optimization",
+        "description": "We enhance user experience to reduce bounce rate and increase engagement. This leads to higher conversion rates.",
+        "tags": [
+          "Website",
+          "Optimization",
+          "Engagement"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Targeted Advertising",
+        "description": "Our precise targeting improves ad spend efficiency, ensuring maximum ROI and customer acquisition.",
+        "tags": [
+          "Advertising",
+          "Efficiency",
+          "ROI"
+        ]
+      },
+      {
+        "icon": "🔍",
+        "title": "SEO Enhancement",
+        "description": "We boost your search rankings to increase visibility, driving more organic traffic to your site.",
+        "tags": [
+          "SEO",
+          "Visibility",
+          "Traffic"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Brand Strategy",
+        "description": "We strengthen brand identity and visibility, ensuring greater market penetration and customer loyalty.",
+        "tags": [
+          "Brand",
+          "Strategy",
+          "Loyalty"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Increase in web traffic"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Improvement in conversion rate"
+      },
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Reduction in customer churn"
+      }
+    ],
+    "whyUsIntro": "KBD is your strategic partner, delivering results with precision and expertise.",
+    "whyUsCards": [
+      {
+        "icon": "🔧",
+        "title": "Tailored Solutions",
+        "description": "Our services are customized to meet your specific needs and objectives."
+      },
+      {
+        "icon": "📞",
+        "title": "Dedicated Support",
+        "description": "We provide continuous support to ensure your goals are met efficiently."
+      },
+      {
+        "icon": "📈",
+        "title": "Proven Results",
+        "description": "Our strategies are backed by data and a track record of success."
+      },
+      {
+        "icon": "🌐",
+        "title": "Expert Team",
+        "description": "Our team consists of seasoned professionals with industry expertise."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "98",
+        "suffix": "%",
+        "label": "Client satisfaction"
+      },
+      {
+        "value": "200",
+        "suffix": "+",
+        "label": "Projects completed"
+      },
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Years of experience"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Commitment to quality"
+      }
+    ],
+    "teamIntro": "Our team is dedicated to your success.",
+    "team": {
+      "initials": "KB",
+      "name": "Kevin Brown",
+      "role": "Owner",
+      "titleNote": "",
+      "bio": "Kevin leads the strategic direction and manages key client relationships, ensuring results-driven outcomes.",
+      "linkedin": "",
+      "phone": "+1 402-570-3578"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery",
+        "badge": "Weeks 1 to 3",
+        "description": "We analyze your current strategies and identify opportunities.",
+        "bullets": [
+          "Current strategy analysis",
+          "Opportunity identification"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "We develop a comprehensive plan tailored to your needs.",
+        "bullets": [
+          "Customized plan creation",
+          "Goal setting"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 9",
+        "description": "We execute the plan with precision and attention to detail.",
+        "bullets": [
+          "Execution of strategies",
+          "Monitoring progress"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Optimization & Reporting",
+        "badge": "Weeks 10 to 12",
+        "description": "We refine our approach based on results and provide detailed reports.",
+        "bullets": [
+          "Continuous optimization",
+          "Detailed reporting"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose from our investment options that best suit your goals.",
+    "pricing": [
+      {
+        "name": "Basic Package",
+        "subtitle": "",
+        "description": "Ideal for small businesses aiming to enhance their online presence.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Website Optimization",
+          "Basic SEO"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Recommended for businesses targeting substantial growth and market expansion.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Advanced SEO",
+          "Targeted Advertising",
+          "Brand Strategy"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Package",
+        "subtitle": "",
+        "description": "Perfect for large businesses seeking comprehensive marketing solutions.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full-Service Marketing",
+          "Dedicated Account Manager"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Acme Corp's Potential?",
+    "ctaDescription": "Let's discuss how we can achieve your business goals together. No obligation, just a conversation.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "kevin@kevinbrowndesign.com",
+    "ctaNote": "",
+    "footerText": "© 2025 KBD",
+    "footerSub": "Your Growth, Our Mission"
+  },
+  "enriched": {
+    "tone": "professional",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Kevin",
+    "last_name": "Brown",
+    "email": "kevin@kevinbrowndesign.com",
+    "company_phone": "+1 402-570-3578",
+    "mobile_number": "",
+    "company_name": "KBD",
+    "company_website": "https://www.kevinbrowndesign.com",
+    "company_domain": "kevinbrowndesign.com",
+    "company_description": "Kevin Brown Design is a marketing and advertising company based out of 5216 S Bennington Pl, Lincoln, Nebraska, United States.",
+    "headline": "Owner",
+    "job_title": "Owner",
+    "industry": "Marketing & Advertising",
+    "company_size": "2",
+    "company_technologies": "ai, android, apache, cloudflare hosting, cloudflare dns, data analytics, flutter, gmail, google analytics, google apps, google font api, google tag manager, gravity forms, hotjar, iot, mobile friendly, python, quickbooks, remote, reviews, sharepoint, stripe, wordpress.org",
+    "city": "Lincoln",
+    "state": "Nebraska",
+    "country": "United States",
+    "company_full_address": "5216 S Bennington Pl, Lincoln, Nebraska 68516, US",
+    "seniority_level": "owner",
+    "company_annual_revenue_clean": "1.7M",
+    "linkedin": "https://www.linkedin.com/in/kevinbrowndesign",
+    "company_linkedin": "https://www.linkedin.com/company/kevin-brown-designs-inc",
+    "company_founded_year": "2014",
+    "keywords": "advertising services, marketing & advertising",
+    "personalization": "You really lean into genuine empathy with clear processes, which is a cool approach to client relationships.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
