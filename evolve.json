@@ -1,0 +1,573 @@
+{
+  "slug": "evolve",
+  "companyName": "Evolve",
+  "contactName": "Marnie Ochs-raleigh",
+  "contactEmail": "marnie@evolve-systems.com",
+  "generationTime": 28,
+  "createdAt": "2026-02-27T14:07:12.014Z",
+  "brandStyle": {
+    "primaryColor": "#7a00df",
+    "secondaryColor": "#ddd",
+    "accentColor": "#007cba",
+    "headingFont": "Open Sans",
+    "bodyFont": "Courier New",
+    "logoUrl": "https://evolve-systems.com/wp-content/uploads/logo-evolve.svg"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // EVOLVE // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Evolve is burning over 2,000 hours a year on manual proposal writing. Here is exactly where it goes.",
+    "heroSubheadline": "Currently, crafting proposals drains hours from your team. With our AI, generate client-ready proposals in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Every detail below is a direct hit to Evolve's time and resources.",
+    "problems": [
+      {
+        "title": "Time Sinkhole",
+        "description": "Evolve spends an average of 40 hours per week on proposal writing. That is 2,080 hours a year not spent strategizing or engaging with clients."
+      },
+      {
+        "title": "Lost Deals",
+        "description": "Every delayed proposal response risks losing a potential client. In a fast-paced industry, even a day's delay can mean losing a $50,000 contract."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Manually crafted proposals often lack consistent branding. This inconsistency can lead to a 30% decrease in perceived professionalism."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Paying skilled marketers to write proposals costs Evolve around $100,000 annually. This is money that could fuel client acquisition efforts."
+      },
+      {
+        "title": "Employee Burnout",
+        "description": "Proposal writing is tedious and contributes to burnout. Burnout can lead to a 20% decrease in productivity and higher turnover rates."
+      },
+      {
+        "title": "Inefficient Follow-ups",
+        "description": "Without proper tracking, follow-ups are inefficient. Missing these critical touchpoints can reduce conversion rates by up to 15%."
+      }
+    ],
+    "solutionIntro": "Our AI system transforms every one of those losses into opportunities.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals take days to prepare. Our system completes them in 47 seconds, allowing your team to focus on client relationships.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Focus"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Brand consistency is often compromised manually. Our AI ensures every proposal aligns perfectly with Evolve's brand, every time.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Cost Reduction",
+        "description": "High labor costs for proposal writing are unsustainable. Our automation cuts these expenses significantly, freeing up budget for growth initiatives.",
+        "tags": [
+          "Cost-Effective",
+          "Savings",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Enhanced Employee Productivity",
+        "description": "Manual processes lead to burnout and inefficiency. Automation energizes your team, allowing them to be more productive and satisfied.",
+        "tags": [
+          "Productivity",
+          "Well-being",
+          "Efficiency"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "AI-Driven Follow-up",
+        "description": "Tracking follow-ups manually is error-prone. Our system automates this, ensuring no potential client slips through the cracks.",
+        "tags": [
+          "Tracking",
+          "Conversion",
+          "Automation"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Evolve's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Evolve around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Evolve.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Empower Acme Corp with Evolve's Digital Marketing Expertise",
+    "heroSubheadline": "Let's transform your digital presence with a data-driven strategy, enhancing your customer engagement and conversion rates.",
+    "heroTags": [],
+    "problemsIntro": "Each missed opportunity is lost revenue for Acme Corp.",
+    "problems": [
+      {
+        "title": "Low Website Conversion",
+        "description": "Your current website conversion rate is below industry standards. Every visitor who leaves is a potential customer lost."
+      },
+      {
+        "title": "Ineffective SEO",
+        "description": "Poor search engine rankings mean your competitors are getting the visibility you deserve. This results in lost leads daily."
+      },
+      {
+        "title": "Weak Brand Presence",
+        "description": "A lack of cohesive branding across digital channels is costing you recognition and trust in the market."
+      },
+      {
+        "title": "Underperforming Ads",
+        "description": "Your ad campaigns aren't delivering expected ROI. This is money spent without significant returns."
+      },
+      {
+        "title": "Email Engagement Decline",
+        "description": "Decreasing open and click-through rates mean fewer customers are interacting with your content, leading to missed sales opportunities."
+      },
+      {
+        "title": "Social Media Inactivity",
+        "description": "Inconsistent posting on social media is leading to a loss of engagement and brand loyalty among your followers."
+      }
+    ],
+    "solutionIntro": "Our tailored solutions address these losses head-on.",
+    "solutions": [
+      {
+        "icon": "📈",
+        "title": "SEO Optimization",
+        "description": "Improve your search engine rankings to capture more organic traffic and reduce lost leads. This boosts visibility and engagement.",
+        "tags": [
+          "SEO",
+          "Traffic",
+          "Conversion"
+        ]
+      },
+      {
+        "icon": "🖥️",
+        "title": "Website Redesign",
+        "description": "Revamp your site to enhance user experience and increase conversion rates. This turns visitors into loyal customers.",
+        "tags": [
+          "UX",
+          "Design",
+          "Conversion"
+        ]
+      },
+      {
+        "icon": "📧",
+        "title": "Email Marketing",
+        "description": "Craft compelling campaigns to boost open rates and engagement. This keeps your audience connected and interested.",
+        "tags": [
+          "Engagement",
+          "Retention",
+          "Sales"
+        ]
+      },
+      {
+        "icon": "💡",
+        "title": "Brand Strategy",
+        "description": "Develop a strong brand presence that resonates across all platforms. This builds recognition and trust with your audience.",
+        "tags": [
+          "Branding",
+          "Strategy",
+          "Recognition"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Increase in conversion rate"
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Boost in organic traffic"
+      },
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Rise in brand engagement"
+      }
+    ],
+    "whyUsIntro": "Evolve is your partner for growth with our proven strategies.",
+    "whyUsCards": [
+      {
+        "icon": "🤝",
+        "title": "Collaborative Approach",
+        "description": "We work closely with you to ensure our strategies align with your business goals."
+      },
+      {
+        "icon": "📊",
+        "title": "Data-Driven Decisions",
+        "description": "Our strategies are backed by data, ensuring effective outcomes and measurable success."
+      },
+      {
+        "icon": "🚀",
+        "title": "Proven Track Record",
+        "description": "We've helped businesses like yours achieve remarkable growth and enhanced visibility."
+      },
+      {
+        "icon": "💬",
+        "title": "Transparent Communication",
+        "description": "We keep you informed and involved through every step of the process, building trust and clarity."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "150",
+        "suffix": "+",
+        "label": "Successful projects delivered"
+      },
+      {
+        "value": "98",
+        "suffix": "%",
+        "label": "Client satisfaction rate"
+      },
+      {
+        "value": "200",
+        "suffix": "%",
+        "label": "Average increase in ROI for clients"
+      },
+      {
+        "value": "4.8",
+        "suffix": "/5",
+        "label": "Star rating on client reviews"
+      }
+    ],
+    "teamIntro": "Our team is dedicated to your success.",
+    "team": {
+      "initials": "MO",
+      "name": "Marnie Ochs-raleigh",
+      "role": "CEO",
+      "titleNote": "",
+      "bio": "Marnie leads our strategy development and client relationship management with expertise and care. Her focus is on delivering impactful solutions.",
+      "linkedin": "",
+      "phone": "+1 651-628-4000"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Strategy",
+        "badge": "Weeks 1 to 3",
+        "description": "We dive deep into your business to tailor our approach.",
+        "bullets": [
+          "Business analysis",
+          "Goal setting"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Implementation",
+        "badge": "Weeks 4 to 6",
+        "description": "Our team begins executing the strategy with precision.",
+        "bullets": [
+          "Website redesign",
+          "SEO implementation"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Optimization",
+        "badge": "Weeks 7 to 9",
+        "description": "We fine-tune our tactics for maximum impact.",
+        "bullets": [
+          "A/B testing",
+          "Performance analysis"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Adjust",
+        "badge": "Weeks 10 to 12",
+        "description": "We present results and adjust strategies for future success.",
+        "bullets": [
+          "Results presentation",
+          "Strategy adjustments"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the best investment option for your growth.",
+    "pricing": [
+      {
+        "name": "Basic Plan",
+        "subtitle": "",
+        "description": "For businesses looking to start enhancing their digital presence.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Initial strategy meeting",
+          "Monthly performance report"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Plan",
+        "subtitle": "",
+        "description": "Our recommended package for comprehensive growth and support.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Full-service offerings",
+          "Bi-weekly strategy calls"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Plan",
+        "subtitle": "",
+        "description": "For businesses seeking extensive engagement and results.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Dedicated account manager",
+          "Weekly performance reviews"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Elevate Acme Corp?",
+    "ctaDescription": "Let's chat about how we can support your business goals. No commitment needed.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "marnie@evolve-systems.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Evolve",
+    "footerSub": "Your Growth, Our Mission"
+  },
+  "enriched": {
+    "tone": "warm, casual",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Marnie",
+    "last_name": "Ochs-raleigh",
+    "email": "marnie@evolve-systems.com",
+    "company_phone": "+1 651-628-4000",
+    "mobile_number": "18506210142",
+    "company_name": "Evolve",
+    "company_website": "https://www.evolve-systems.com",
+    "company_domain": "evolve-systems.com",
+    "company_description": "Evolve Systems specializes in design and branding, website development, digital marketing and search engine optimization (SEO).  We offer a wide range of options to build a web presence and develop a marketing strategy. We specialize in developing WordPress websites, ecommerce websites on various platforms to fit our clients' needs, and custom software development.",
+    "headline": "\"we're An Agency Creating Business Solutions For The Digital World\"",
+    "job_title": "CEO",
+    "industry": "Marketing & Advertising",
+    "company_size": "28",
+    "company_technologies": "ai, adobe media optimizer, amazon aws, android, appnexus, bootstrap framework, cedexis radar, cloudflare, cloudflare dns, doubleclick, doubleclick conversion, drupal, gmail, google analytics, google apps, google dynamic remarketing, google font api, google maps, google maps (non paid users), google tag manager, gravity forms, hotjar, linkedin marketing solutions, mobile friendly, perfect audience, remote, sharpspring, vimeo, wp engine, wordpress.org, youtube, recaptcha",
+    "city": "Saint Paul",
+    "state": "Minnesota",
+    "country": "United States",
+    "company_full_address": "2974 Rice Street, St. Paul, MN 55113, US",
+    "seniority_level": "c_suite",
+    "company_annual_revenue_clean": "4.5M",
+    "linkedin": "https://www.linkedin.com/in/marnieochsraleigh",
+    "company_linkedin": "https://www.linkedin.com/company/evolve-systems",
+    "company_founded_year": "2002",
+    "keywords": "merchant card processing level 1, 2, 3, website maintenance, seo, sem, ppc, social media training, implementation plans, ecommerce, marketing automation, wordpress website development, website development, branding, marketing strategy, content marketing strategy, digital marketing, social media strategy, custom software development, payment processing, ecommerce website development, advertising services, digital marketing agency, branding solutions, content management system, ecommerce development, seo services, user experience design, lead generation strategies, b2b marketing, online advertising, ppc management, social media marketing, website audits, technical web services, graphic design services, accessibility compliance, creative marketing campaigns, custom marketing plans, strategic business consulting, customer relationship management, mobile-responsive websites, analytics & reporting, community engagement, brand standards playbook, logo development, digital strategy, website optimization, video marketing, holistic marketing approach, website performance monitoring, conversion rate optimization, email marketing campaigns, content strategy development, website maintenance services, webinars & podcasts, case studies, user-friendly design, website hosting solutions, technical support services, digital presence management, community impact initiatives, customer retention strategies, integrated marketing solutions, data-driven marketing, online store design, merchant services integration, information technology & services, search marketing, marketing, marketing & advertising, e-commerce, consumer internet, consumers, internet, saas, computer software, enterprise software, enterprises, b2b, web development, crm, sales",
+    "personalization": "Interesting how you focus on complementing clients instead of just replacing them like most agencies do.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
