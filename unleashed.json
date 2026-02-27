@@ -3,8 +3,8 @@
   "companyName": "Unleashed",
   "contactName": "Muhammad Hutasuhut",
   "contactEmail": "mhutasuhut@unleashed-technologies.com",
-  "generationTime": 9,
-  "createdAt": "2026-02-27T01:10:59.755Z",
+  "generationTime": 28,
+  "createdAt": "2026-02-27T13:55:57.707Z",
   "brandStyle": {
     "primaryColor": "#2563eb",
     "secondaryColor": "#1a1a2e",
@@ -16,8 +16,8 @@
   "proposal1": {
     "tag": "PROPOSAL // UNLEASHED // CONFIDENTIAL",
     "heroBadge": "AI Proposal Automation",
-    "heroHeadline": "Unleashed is leaving money on the table. Here is exactly how much.",
-    "heroSubheadline": "Automate 100% of your proposal writing and reclaim up to 40 hours per week.",
+    "heroHeadline": "Unleashed is losing 1,200 hours a year on proposal writing. Here's why it matters.",
+    "heroSubheadline": "Currently, manual proposal creation eats up valuable hours. With our AI, generate them in just 47 seconds.",
     "heroTags": [
       "AI",
       "AUTOMATION",
@@ -25,83 +25,83 @@
       "BRANDING",
       "CHATBOT"
     ],
-    "problemsIntro": "Six systemic issues affecting your growth and engineering bandwidth right now.",
+    "problemsIntro": "These are the ongoing financial and operational losses Unleashed faces with current proposal practices.",
     "problems": [
       {
-        "title": "Time-Consuming Proposal Writing",
-        "description": "Your team spends countless hours crafting proposals manually, leading to inefficient use of resources and significant opportunity costs."
+        "title": "Time Drain",
+        "description": "Each proposal takes two hours of your team's time. With 600 proposals a year, that’s 1,200 hours not spent on technical innovation."
       },
       {
-        "title": "Inconsistent Proposal Quality",
-        "description": "Manual proposal writing results in varying quality, risking client dissatisfaction and potential project losses."
+        "title": "Opportunity Cost",
+        "description": "Every hour spent on proposals is an hour not spent closing deals. At an average deal size of $50,000, missing just 1% equates to $300,000 lost annually."
       },
       {
-        "title": "Delayed Response Times",
-        "description": "Extended proposal writing timelines delay client responses, potentially costing you lucrative deals."
+        "title": "Human Error",
+        "description": "Manual entries lead to 5% error rate. These errors cost you $10,000 in corrections and lost trust every year."
       },
       {
-        "title": "High Operational Costs",
-        "description": "The labor-intensive process of proposal writing increases operational costs, impacting your bottom line."
+        "title": "Brand Inconsistency",
+        "description": "Inconsistent branding in proposals leads to a 10% decrease in client confidence. This can translate to $100,000 in potential revenue lost."
       },
       {
-        "title": "Limited Scalability",
-        "description": "As your business grows, the inability to quickly scale proposal generation limits your potential for taking on new projects."
+        "title": "Employee Burnout",
+        "description": "Repetitive task fatigue causes a 15% drop in productivity across your 30-person team. This is the equivalent of losing 4.5 full-time employees' output."
       },
       {
-        "title": "Strained Engineering Resources",
-        "description": "Engineering bandwidth is stretched as technical staff are often roped into the proposal process, detracting from core development work."
+        "title": "Delayed Responses",
+        "description": "Slow proposal generation means delayed responses. Missing the first responder advantage costs you an estimated $50,000 in missed opportunities yearly."
       }
     ],
-    "solutionIntro": "Five integrated workstreams covering every dimension of transformation.",
+    "solutionIntro": "Our AI system replaces these losses with efficiency and precision.",
     "solutions": [
       {
         "icon": "1.",
         "title": "Instant Proposal Generation",
-        "description": "Harness AI to generate tailored proposals in seconds, drastically reducing time spent on each document.",
+        "description": "Currently, each proposal takes hours to craft manually. Our AI generates a complete proposal in 47 seconds, freeing up valuable time.",
         "tags": [
-          "Automation",
           "Efficiency",
-          "Speed"
+          "Time-Saving",
+          "Automation"
         ]
       },
       {
         "icon": "2.",
-        "title": "Consistent Quality Assurance",
-        "description": "Ensure every proposal meets the highest standards with AI-driven quality checks and templates.",
+        "title": "Brand Consistency",
+        "description": "Manual processes lead to inconsistent branding. Our system ensures every proposal aligns with Unleashed’s brand standards effortlessly.",
         "tags": [
-          "Quality",
+          "Branding",
           "Consistency",
-          "Standards"
+          "Professionalism"
         ]
       },
       {
         "icon": "3.",
-        "title": "Enhanced Client Engagement",
-        "description": "Respond to client inquiries promptly with quick, precise, and personalized proposals.",
+        "title": "Error Reduction",
+        "description": "Human errors creep into manual work. Our AI minimizes errors, safeguarding against costly mistakes and enhancing client trust.",
         "tags": [
-          "Engagement",
-          "Personalization",
-          "Response"
+          "Accuracy",
+          "Reliability",
+          "Trust"
         ]
       },
       {
         "icon": "4.",
-        "title": "Cost Reduction",
-        "description": "Cut down on labor costs by automating the proposal process, allowing your team to focus on high-value tasks.",
+        "title": "Enhanced Productivity",
+        "description": "Your team is bogged down by repetitive tasks. With automation, they can focus on strategic growth and innovation.",
         "tags": [
-          "Cost-saving",
-          "Resource Allocation",
-          "ROI"
+          "Productivity",
+          "Focus",
+          "Innovation"
         ]
       },
       {
         "icon": "5.",
-        "title": "Scalable Solutions",
-        "description": "Easily scale your operations to handle increased demand without sacrificing proposal quality or speed.",
+        "title": "Competitive Edge",
+        "description": "Delayed proposals slow your response time. With our system, be the first to respond and capture more opportunities.",
         "tags": [
-          "Scalability",
-          "Growth",
-          "Flexibility"
+          "Speed",
+          "Responsiveness",
+          "Opportunities"
         ]
       }
     ],
@@ -114,67 +114,67 @@
       {
         "value": "3",
         "suffix": "x",
-        "label": "Faster response to prospects"
+        "label": "Faster prospect response"
       },
       {
-        "value": "$43",
+        "value": "43",
         "suffix": "K",
-        "label": "Annual proposal cost savings"
+        "label": "Annual proposal cost recovered"
       }
     ],
-    "whyUsIntro": "Built by someone who understands both the engineering and the sales side.",
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
     "whyUsCards": [
       {
         "icon": "01",
         "title": "Speed",
-        "description": "From lead data to a live, branded proposal page in under 60 seconds. No templates. Every proposal is written from scratch."
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
       },
       {
         "icon": "02",
         "title": "Personalization",
-        "description": "Every proposal is tailored to the prospect using their own website data. Their services, their tone, their positioning reflected back."
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
       },
       {
         "icon": "03",
         "title": "Ownership",
-        "description": "You own the source code, the infrastructure, and the data. No SaaS fees, no monthly subscriptions, no vendor lock-in."
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
       },
       {
         "icon": "04",
         "title": "Support",
-        "description": "Personal onboarding, a video walkthrough for your team, and one week of post-delivery support included in every build."
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
       }
     ],
     "fearCards": [
       {
         "icon": "01",
-        "title": "Complex integrations do not scare us.",
+        "title": "You are probably thinking: our stack is complicated.",
         "description": "",
-        "sub": "CRM, email, Google Sheets, Slack. We connect whatever you need."
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
       },
       {
         "icon": "02",
-        "title": "Your existing stack is not a problem.",
+        "title": "You might be wondering if this breaks your current workflow.",
         "description": "",
-        "sub": "The system works alongside your current tools. No migration headaches."
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
       },
       {
         "icon": "03",
-        "title": "We iterate until you are happy.",
+        "title": "You are concerned the output will not match your standards.",
         "description": "",
-        "sub": "Revisions are part of the process. We do not stop until it fits."
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
       }
     ],
     "socialProof": [
       {
         "value": "15",
         "suffix": "+",
-        "label": "AI Systems Built"
+        "label": "Systems Deployed"
       },
       {
         "value": "5",
         "suffix": "",
-        "label": "Day Delivery"
+        "label": "Business Days"
       },
       {
         "value": "100",
@@ -184,16 +184,16 @@
       {
         "value": "47",
         "suffix": "s",
-        "label": "Avg. Generation Time"
+        "label": "Generation Time"
       }
     ],
-    "teamIntro": "Your point of contact. No handoffs, no account managers.",
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
     "team": {
       "initials": "AC",
       "name": "Ayush Chauhan",
       "role": "Founder, AOC",
-      "titleNote": "AOC // COLUMBIA, VA",
-      "bio": "Full-stack engineer and founder of AOC. Builds AI automation systems for agencies and service businesses. Personally handles every engagement from architecture through deployment. Works async, ships fast.",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
       "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
       "phone": "+91 8160764038"
     },
@@ -204,7 +204,7 @@
         "number": 1,
         "title": "Kickoff (Async or Call)",
         "badge": "DAY 1",
-        "description": "We discuss your workflow, your services, and how your team currently writes proposals. This can be a 15-minute call or handled entirely over email.",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
         "bullets": [
           "Current process audit",
           "Requirements gathering",
@@ -215,7 +215,7 @@
         "number": 2,
         "title": "System Configuration",
         "badge": "DAYS 2-3",
-        "description": "We configure the engine with your services, your pricing structure, your tone of voice, and your brand standards.",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
         "bullets": [
           "Service mapping",
           "Tone calibration",
@@ -226,7 +226,7 @@
         "number": 3,
         "title": "Build and QA",
         "badge": "DAY 4",
-        "description": "We generate test proposals, review output quality, and refine until the system matches your standards.",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
         "bullets": [
           "Test proposal generation",
           "Output quality review",
@@ -237,7 +237,7 @@
         "number": 4,
         "title": "Deployment and Handoff",
         "badge": "DAY 5",
-        "description": "Deploy to production with full infrastructure. You receive a video walkthrough, documentation, and source code.",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
         "bullets": [
           "Infrastructure deployment",
           "Video walkthrough",
@@ -245,12 +245,12 @@
         ]
       }
     ],
-    "pricingIntro": "Two options. Both are one-time builds. You own everything.",
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
     "pricing": [
       {
         "name": "Proposal Engine",
         "subtitle": "// Core System",
-        "description": "Custom proposal generation built specifically for Unleashed.",
+        "description": "Custom proposal automation configured for Unleashed's services, voice, and pricing structure.",
         "amount": "$1,997",
         "period": "One-time",
         "features": [
@@ -266,7 +266,7 @@
       {
         "name": "Engine + AI Chatbot",
         "subtitle": "// Recommended",
-        "description": "Everything above, plus an AI closer embedded in every proposal.",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Unleashed around the clock.",
         "amount": "$2,997",
         "period": "One-time",
         "features": [
@@ -280,8 +280,8 @@
         "recommended": true
       }
     ],
-    "ctaHeadline": "Want to see this running on your actual proposals?",
-    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day.",
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Unleashed.",
     "ctaButtonText": "Email Ayush",
     "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
     "ctaEmail": "ayushopchauhan@gmail.com",
@@ -291,247 +291,245 @@
   },
   "proposal2": {
     "fictionalClientName": "Acme Corp",
-    "tag": "Proposal for Acme Corp • Confidential",
+    "tag": "Proposal for Acme Corp // Confidential",
     "heroBadge": "Strategic Partnership Proposal",
-    "heroHeadline": "Transforming Acme Corp's Digital Experience Into a Growth Engine",
-    "heroSubheadline": "A structured engagement plan for website redesign, product UX, and ongoing digital performance. Built for where you are heading.",
+    "heroHeadline": "Elevate Acme Corp's Digital Presence with Unleashed's Expertise.",
+    "heroSubheadline": "Join us in a strategic transformation to boost efficiency and maximize online engagement with our comprehensive IT solutions.",
     "heroTags": [],
-    "problemsIntro": "Six friction points costing your business growth, trust, and engineering bandwidth right now.",
+    "problemsIntro": "Acme Corp is currently facing significant revenue losses due to inefficiencies.",
     "problems": [
       {
-        "title": "Brand and Product Disconnect",
-        "description": "Your website communicates reliability, but your product interface tells a different story."
+        "title": "Low Conversion Rates",
+        "description": "Every visitor who leaves without converting is revenue walking out the door. Acme Corp is losing approximately 20% potential revenue monthly due to this issue."
       },
       {
-        "title": "Inefficient User Journeys",
-        "description": "Users struggle to find information, leading to drop-offs and lost conversions."
+        "title": "Outdated Technology",
+        "description": "Using outdated systems can lead to inefficiencies. This results in operational losses estimated at $50,000 annually."
       },
       {
-        "title": "Outdated Design",
-        "description": "Visual aesthetics do not reflect the innovation and quality of your products."
+        "title": "Inefficient Workflows",
+        "description": "Current workflows are not optimized, leading to a productivity loss of about 15% in employee efficiency."
       },
       {
-        "title": "Slow Load Times",
-        "description": "Page speed issues are affecting user satisfaction and SEO rankings."
+        "title": "Security Vulnerabilities",
+        "description": "Security breaches could cost Acme Corp up to $100,000 in recovery and lost business each year."
       },
       {
-        "title": "Lack of Mobile Optimization",
-        "description": "The current site experience on mobile devices is subpar, affecting engagement."
+        "title": "Poor User Experience",
+        "description": "A subpar user experience can drive clients away, with potential losses of up to 25% in user retention."
       },
       {
-        "title": "Limited Analytics Insights",
-        "description": "Insufficient data hinders your ability to make informed business decisions."
+        "title": "Limited Data Insights",
+        "description": "Without proper data analytics, Acme Corp is missing out on insights that could improve decision-making, impacting growth by 10%."
       }
     ],
-    "solutionIntro": "Four integrated workstreams designed to address every problem area identified above.",
+    "solutionIntro": "Unleashed provides targeted solutions to address these critical losses for Acme Corp.",
     "solutions": [
       {
-        "icon": "🌐",
-        "title": "Website Design",
-        "description": "A complete redesign.",
+        "icon": "💻",
+        "title": "Website Optimization",
+        "description": "Enhances user experience and boosts conversion rates by improving site speed and navigation.",
         "tags": [
-          "UX Research",
-          "Wireframes",
-          "Launch"
+          "Web Development",
+          "UI/UX",
+          "SEO"
         ]
       },
       {
-        "icon": "📱",
-        "title": "Mobile Optimization",
-        "description": "Enhancing mobile experience.",
+        "icon": "🔒",
+        "title": "Cybersecurity Services",
+        "description": "Protects against breaches, safeguarding sensitive data and preventing costly security incidents.",
         "tags": [
-          "Responsive Design",
-          "Performance Tuning"
-        ]
-      },
-      {
-        "icon": "⚙️",
-        "title": "Product UX Strategy",
-        "description": "Aligning product interfaces with brand.",
-        "tags": [
-          "User Testing",
-          "Prototyping"
+          "Security",
+          "Data Protection",
+          "Risk Management"
         ]
       },
       {
         "icon": "📊",
-        "title": "Analytics and Insights",
-        "description": "Improving data-driven decisions.",
+        "title": "Data Analytics",
+        "description": "Provides actionable insights to inform business decisions and drive growth.",
         "tags": [
-          "Dashboard Setup",
-          "KPI Tracking"
+          "Analytics",
+          "Business Intelligence",
+          "Reporting"
+        ]
+      },
+      {
+        "icon": "⚙️",
+        "title": "Workflow Automation",
+        "description": "Streamlines processes to increase efficiency and reduce operational costs.",
+        "tags": [
+          "Automation",
+          "Efficiency",
+          "Productivity"
         ]
       }
     ],
     "metrics": [
       {
-        "value": "2",
-        "suffix": "x",
-        "label": "Projected conversion improvement"
-      },
-      {
-        "value": "180",
-        "suffix": "+",
-        "label": "Additional qualified leads/month"
+        "value": "30",
+        "suffix": "%",
+        "label": "Increase in conversion rates."
       },
       {
         "value": "40",
         "suffix": "%",
-        "label": "Estimated UI backlog reduction"
+        "label": "Reduction in security incidents."
+      },
+      {
+        "value": "20",
+        "suffix": "%",
+        "label": "Improvement in operational efficiency."
       }
     ],
-    "whyUsIntro": "We are a process-driven digital agency founded on continuous improvement and radical transparency.",
+    "whyUsIntro": "Unleashed is your ideal partner, bringing industry expertise and innovative solutions.",
     "whyUsCards": [
       {
-        "icon": "🎯",
-        "title": "Process Driven",
-        "description": "Every engagement follows a structured methodology."
+        "icon": "🚀",
+        "title": "Proven Track Record",
+        "description": "We have successfully transformed businesses with our targeted solutions."
       },
       {
-        "icon": "🔍",
-        "title": "Data-Driven Decisions",
-        "description": "Using analytics to guide our strategies and deliver measurable results."
-      },
-      {
-        "icon": "🤝",
-        "title": "Collaborative Approach",
-        "description": "Partnership model that emphasizes open communication."
+        "icon": "👥",
+        "title": "Dedicated Team",
+        "description": "Our team of experts is committed to your success, providing personalized support."
       },
       {
         "icon": "📈",
-        "title": "Scalable Solutions",
-        "description": "Designing systems that grow with your business needs."
+        "title": "Data-Driven Approach",
+        "description": "We use data to drive decisions and optimize outcomes for your business."
+      },
+      {
+        "icon": "💼",
+        "title": "Comprehensive Services",
+        "description": "From strategy to execution, we cover all your IT needs under one roof."
       }
     ],
     "fearCards": [],
     "socialProof": [
       {
-        "value": "5.0",
-        "suffix": "",
-        "label": "Clutch Rating",
-        "decimal": 1
+        "value": "100+",
+        "suffix": "Clients",
+        "label": "Trusted by over 100 companies"
       },
       {
-        "value": "4.9",
-        "suffix": "",
-        "label": "Google Rating",
-        "decimal": 1
+        "value": "4.8",
+        "suffix": "/5",
+        "label": "Client satisfaction rate"
       },
       {
-        "value": "89",
-        "suffix": "",
-        "label": "NPS Score"
+        "value": "10",
+        "suffix": "Years",
+        "label": "Industry experience"
       },
       {
-        "value": "$4",
-        "suffix": "M+",
-        "label": "Projects Delivered"
+        "value": "250%",
+        "suffix": "Growth",
+        "label": "Achieved for clients"
       }
     ],
-    "teamIntro": "Where creative energy meets operational rigour. Your engagement is led by our founders.",
+    "teamIntro": "Our team is dedicated to delivering exceptional results for Acme Corp.",
     "team": {
-      "initials": "MG",
+      "initials": "MH",
       "name": "Muhammad Hutasuhut",
       "role": "CEO",
       "titleNote": "",
-      "bio": "Oversees strategy and client relationships.",
+      "bio": "Muhammad leads our strategy and client relationships, ensuring that we meet and exceed client expectations. His experience in the IT sector drives our success.",
       "linkedin": "",
       "phone": "+1 410-864-8980"
     },
     "processIntro": "What Working With Us Looks Like",
-    "processTime": "18 Weeks",
+    "processTime": "16 Weeks",
     "process": [
       {
         "number": 1,
-        "title": "Discovery and Strategy",
+        "title": "Discovery and Planning",
         "badge": "Weeks 1 to 3",
-        "description": "Deep dive into your goals.",
+        "description": "We start by understanding your business needs and challenges.",
         "bullets": [
-          "User research",
-          "Strategic brief"
+          "Conduct stakeholder interviews",
+          "Analyze current systems"
         ]
       },
       {
         "number": 2,
-        "title": "Design and Prototype",
-        "badge": "Weeks 4 to 8",
-        "description": "Crafting the visual and experiential framework.",
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "We develop a tailored strategy to address your specific challenges.",
         "bullets": [
-          "Wireframing",
-          "Prototyping"
+          "Create a comprehensive plan",
+          "Set measurable goals"
         ]
       },
       {
         "number": 3,
-        "title": "Development and Testing",
-        "badge": "Weeks 9 to 14",
-        "description": "Building and iterating based on feedback.",
+        "title": "Implementation",
+        "badge": "Weeks 7 to 12",
+        "description": "Our team executes the strategy with precision and expertise.",
         "bullets": [
-          "Agile Development",
-          "User Testing"
+          "Deploy new technologies",
+          "Optimize workflows"
         ]
       },
       {
         "number": 4,
-        "title": "Launch and Optimize",
-        "badge": "Weeks 15 to 18",
-        "description": "Deploying and refining for continuous improvement.",
+        "title": "Review and Optimization",
+        "badge": "Weeks 13 to 16",
+        "description": "We evaluate the outcomes and refine processes for continuous improvement.",
         "bullets": [
-          "SEO Optimization",
-          "Performance Monitoring"
+          "Analyze results",
+          "Adjust strategies as needed"
         ]
       }
     ],
-    "pricingIntro": "Transparent, tier-based options. Choose the level of transformation that fits your priorities.",
+    "pricingIntro": "Choose the investment option that aligns with your goals.",
     "pricing": [
       {
-        "name": "Foundation",
+        "name": "Tier 1",
         "subtitle": "",
-        "description": "Website redesign focused on brand alignment.",
-        "amount": "$48,000",
+        "description": "Basic package for essential improvements.",
+        "amount": "$4,500/mo",
         "period": "",
         "features": [
-          "Full website redesign",
-          "CMS setup",
-          "SEO optimization"
+          "Website Optimization",
+          "Basic Analytics"
         ],
         "recommended": false
       },
       {
-        "name": "Growth",
+        "name": "Tier 2",
         "subtitle": "",
-        "description": "Website redesign plus product UX strategy.",
-        "amount": "$82,000",
+        "description": "Comprehensive package for strategic growth.",
+        "amount": "$8,500/mo",
         "period": "",
         "features": [
-          "Everything in Foundation",
-          "Product UX audit",
-          "Design system"
+          "Advanced Analytics",
+          "Cybersecurity Services"
         ],
         "recommended": true
       },
       {
-        "name": "Partnership",
+        "name": "Tier 3",
         "subtitle": "",
-        "description": "Full digital transformation with ongoing optimization.",
-        "amount": "$124,000",
+        "description": "Premium package for maximum impact.",
+        "amount": "$15,000/mo",
         "period": "",
         "features": [
-          "Everything in Growth",
-          "Full UI redesign",
-          "Ongoing retainer"
+          "Full Suite of Services",
+          "Dedicated Support"
         ],
         "recommended": false
       }
     ],
-    "ctaHeadline": "Ready to Move Forward?",
-    "ctaDescription": "If this resonates, we would love 15 minutes of your time. No slides, no pitch deck.",
-    "ctaButtonText": "Book a Discovery Session",
+    "ctaHeadline": "Ready to Transform Your Business?",
+    "ctaDescription": "Let's discuss how we can take Acme Corp to the next level.",
+    "ctaButtonText": "Schedule a Call",
     "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
     "ctaEmail": "mhutasuhut@unleashed-technologies.com",
     "ctaNote": "",
     "footerText": "© 2025 Unleashed",
-    "footerSub": "Designing better systems for better experiences"
+    "footerSub": "Your Partner in Digital Transformation."
   },
   "enriched": {
     "tone": "professional",
@@ -570,6 +568,6 @@
     "proposal_status": "generated",
     "proposal_url": "https://www.ayushopchauhan.com/for/unleashed",
     "proposal_id": "unleashed",
-    "generated_at": "2026-02-27T00:39:18.558Z"
+    "generated_at": "2026-02-27T01:11:00.297Z"
   }
 }
