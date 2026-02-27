@@ -3,8 +3,8 @@
   "companyName": "ThriveLine",
   "contactName": "Marie-line Villers",
   "contactEmail": "marieline.villers@gmail.com",
-  "generationTime": 26,
-  "createdAt": "2026-02-27T13:44:47.738Z",
+  "generationTime": 23,
+  "createdAt": "2026-02-27T13:52:24.865Z",
   "brandStyle": {
     "primaryColor": "#32373c",
     "secondaryColor": "rgba(0, 0, 0, 0)",
@@ -16,8 +16,8 @@
   "proposal1": {
     "tag": "PROPOSAL // THRIVELINE // CONFIDENTIAL",
     "heroBadge": "AI Proposal Automation",
-    "heroHeadline": "ThriveLine is losing over 100 hours a year on proposals. Discover where it all vanishes.",
-    "heroSubheadline": "Currently, crafting client-ready proposals is a manual slog. With our system, get them in 47 seconds.",
+    "heroHeadline": "ThriveLine is losing 300 hours a year on proposals. Here's where the time drains away.",
+    "heroSubheadline": "Your current proposals take hours to craft manually. With our system, it's just 47 seconds.",
     "heroTags": [
       "AI",
       "AUTOMATION",
@@ -25,83 +25,83 @@
       "BRANDING",
       "CHATBOT"
     ],
-    "problemsIntro": "Each of these issues is bleeding resources from ThriveLine.",
+    "problemsIntro": "Every minute spent manually crafting proposals is a minute lost to inefficiency.",
     "problems": [
       {
         "title": "Time Drain",
-        "description": "Every hour spent on proposals is an hour missed on client work. For a team of two, this is unsustainable."
+        "description": "Each proposal takes 5 hours to create. That's 300 hours a year you could invest in client work."
       },
       {
-        "title": "Lost Deals",
-        "description": "Delayed proposals mean missed opportunities. Every day a proposal is late, potential clients look elsewhere."
+        "title": "Missed Opportunities",
+        "description": "With manual proposals, responses are slow. This delay costs potential clients who move on to competitors."
       },
       {
         "title": "Brand Inconsistency",
-        "description": "Inconsistent branding confuses prospects. Lack of coherence costs potential trust and, ultimately, clients."
+        "description": "Inconsistent proposals damage your brand. Each misstep can cost you the trust of a potential client."
       },
       {
-        "title": "Manual Errors",
-        "description": "Mistakes in proposals can cost deals. Each error chips away at ThriveLine's credibility."
+        "title": "High Labor Costs",
+        "description": "Manual proposals waste labor hours. At $50/hour, that's $15,000 a year down the drain."
       },
       {
-        "title": "High Stress",
-        "description": "Proposals are a major stress point. Constant pressure impacts the quality of ThriveLine's creative output."
+        "title": "Client Frustration",
+        "description": "Delayed proposals frustrate clients. Frustration leads to lost deals and damaged relationships."
       },
       {
-        "title": "Resource Misallocation",
-        "description": "Valuable design and SEO resources are wasted on proposal writing. This misallocation costs potential growth."
+        "title": "Competitive Disadvantage",
+        "description": "Competitors with faster proposals secure more deals. Every delayed proposal is a lost edge in the market."
       }
     ],
-    "solutionIntro": "Our AI system replaces all the inefficiencies listed above.",
+    "solutionIntro": "Our AI automation system eradicates these inefficiencies.",
     "solutions": [
       {
         "icon": "1.",
-        "title": "Instant Proposals",
-        "description": "Currently, proposals drag on for hours. Our system delivers them in under a minute.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals take hours. Our system creates them in 47 seconds.",
         "tags": [
-          "speed",
-          "efficiency",
-          "automation"
+          "Efficiency",
+          "Speed",
+          "Automation"
         ]
       },
       {
         "icon": "2.",
-        "title": "Brand Consistency",
-        "description": "Inconsistent branding confuses clients. Our system ensures every proposal is on-brand, every time.",
+        "title": "Consistent Branding",
+        "description": "Manually, branding can be inconsistent. Our system ensures every proposal aligns with your brand.",
         "tags": [
-          "branding",
-          "consistency",
-          "trust"
+          "Branding",
+          "Consistency",
+          "Professionalism"
         ]
       },
       {
         "icon": "3.",
-        "title": "Error-Free Output",
-        "description": "Manual proposals are prone to mistakes. Our AI eliminates errors and enhances professionalism.",
+        "title": "Reduced Labor Costs",
+        "description": "Manual work is costly. Our system reduces labor expenses by automating the process.",
         "tags": [
-          "accuracy",
-          "professionalism",
-          "quality"
+          "Cost-Saving",
+          "Automation",
+          "Efficiency"
         ]
       },
       {
         "icon": "4.",
-        "title": "Stress Reduction",
-        "description": "Proposal creation is stressful and time-consuming. Our system alleviates stress by automating the process.",
+        "title": "Enhanced Client Experience",
+        "description": "Currently, delays frustrate clients. Our rapid proposals delight them with speed and accuracy.",
         "tags": [
-          "stress-free",
-          "automation",
-          "relief"
+          "Client Satisfaction",
+          "Speed",
+          "Reliability"
         ]
       },
       {
         "icon": "5.",
-        "title": "Optimized Resources",
-        "description": "Time spent on proposals detracts from core services. Our system frees up resources for design and SEO work.",
+        "title": "Competitive Edge",
+        "description": "Manual proposals slow you down. Our system gives you the advantage of speed in the market.",
         "tags": [
-          "optimization",
-          "focus",
-          "growth"
+          "Competitive Advantage",
+          "Market Lead",
+          "Innovation"
         ]
       }
     ],
@@ -293,76 +293,76 @@
     "fictionalClientName": "Acme Corp",
     "tag": "Proposal for Acme Corp // Confidential",
     "heroBadge": "Strategic Partnership Proposal",
-    "heroHeadline": "Transform Acme Corp's Online Presence with ThriveLine's Expertise",
-    "heroSubheadline": "Our team will craft a tailored strategy to enhance your digital footprint, ensuring more conversions and lasting customer relationships.",
+    "heroHeadline": "Transform Acme Corp's Digital Presence with ThriveLine's Expertise.",
+    "heroSubheadline": "Let's revamp your online strategy to convert visitors into loyal customers. Our tailored plan focuses on design and engagement.",
     "heroTags": [],
-    "problemsIntro": "Acme Corp is currently facing significant revenue losses due to missed online opportunities.",
+    "problemsIntro": "Let's tackle the revenue slipping through your fingers.",
     "problems": [
       {
-        "title": "Low Conversion Rates",
-        "description": "Every visitor who leaves without purchasing is a missed revenue opportunity. This results in an estimated loss of $5,000 monthly."
+        "title": "High Bounce Rate",
+        "description": "Every visitor who leaves without engaging is a potential sale lost. Your current bounce rate could be costing you thousands."
+      },
+      {
+        "title": "Weak Brand Identity",
+        "description": "Inconsistent branding leads to a diluted brand message. This confusion might be turning potential clients away."
       },
       {
         "title": "Poor Mobile Experience",
-        "description": "With 60% of users visiting via mobile, a clunky interface can turn them away, costing you 20% in potential sales."
+        "description": "Mobile users make up over 50% of web traffic. A non-responsive site is like closing your doors to half your audience."
       },
       {
-        "title": "Outdated Branding",
-        "description": "A tired brand image can lead to a loss of customer trust, affecting up to 15% of your repeat business."
+        "title": "Slow Load Times",
+        "description": "Sites that load slowly frustrate users and lead to abandonment. Every second delay reduces conversions by 7%."
       },
       {
-        "title": "Unoptimized Content",
-        "description": "Content that doesn't engage can decrease search visibility by 30%, reducing inbound traffic."
+        "title": "Limited Social Engagement",
+        "description": "Social media is a powerful tool. A lack of engagement means missing out on a massive audience and potential customer base."
       },
       {
-        "title": "Lack of Social Media Engagement",
-        "description": "With minimal interaction on social platforms, you're missing out on engaging 40% of your target audience."
-      },
-      {
-        "title": "Ineffective Email Campaigns",
-        "description": "Emails that don't convert lead to a potential loss of up to $3,000 in monthly revenue."
+        "title": "Low SEO Visibility",
+        "description": "If you're not on the first page of search results, you're losing 75% of potential traffic to competitors."
       }
     ],
-    "solutionIntro": "ThriveLine offers tailored solutions to mitigate these losses and drive growth.",
+    "solutionIntro": "Here's how ThriveLine can turn those losses into wins.",
     "solutions": [
       {
-        "icon": "🚀",
-        "title": "Website Redesign",
-        "description": "Revamp your site for better user experience and higher conversion rates.",
+        "icon": "💻",
+        "title": "Web Design",
+        "description": "We create stunning, responsive websites that captivate users and drive conversions.",
         "tags": [
-          "Web Design",
-          "Conversion",
-          "User Experience"
+          "Design",
+          "UX/UI",
+          "Responsive"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "SEO Optimization",
+        "description": "Boost your site's visibility and attract more organic traffic with our proven SEO strategies.",
+        "tags": [
+          "SEO",
+          "Visibility",
+          "Traffic"
         ]
       },
       {
         "icon": "📱",
-        "title": "Mobile Optimization",
-        "description": "Ensure a seamless mobile experience to capture and retain mobile traffic.",
+        "title": "Social Media Management",
+        "description": "Engage your audience with curated content and active social interactions.",
         "tags": [
-          "Mobile",
-          "Responsive Design",
-          "User Retention"
+          "Social Media",
+          "Engagement",
+          "Content"
         ]
       },
       {
-        "icon": "🎨",
-        "title": "Brand Refresh",
-        "description": "Update your brand image to resonate with modern consumers and build trust.",
+        "icon": "🖌️",
+        "title": "Brand Strategy",
+        "description": "Develop a cohesive brand identity that resonates with your target audience and stands out.",
         "tags": [
           "Branding",
-          "Design",
-          "Trust"
-        ]
-      },
-      {
-        "icon": "✉️",
-        "title": "Email Marketing",
-        "description": "Craft compelling campaigns that convert, maximizing email ROI.",
-        "tags": [
-          "Email",
-          "Marketing",
-          "ROI"
+          "Identity",
+          "Strategy"
         ]
       }
     ],
@@ -370,72 +370,72 @@
       {
         "value": "25",
         "suffix": "%",
-        "label": "Increase in conversion rate"
+        "label": "Increase in conversions."
       },
       {
         "value": "40",
         "suffix": "%",
-        "label": "Boost in mobile engagement"
+        "label": "Boost in organic traffic."
       },
       {
-        "value": "30",
+        "value": "50",
         "suffix": "%",
-        "label": "Rise in social media interactions"
+        "label": "Rise in social media engagement."
       }
     ],
-    "whyUsIntro": "ThriveLine is your go-to partner for digital transformation.",
+    "whyUsIntro": "Why choose ThriveLine? We're all about making businesses shine online.",
     "whyUsCards": [
       {
-        "icon": "🔥",
-        "title": "Proven Expertise",
-        "description": "With years of experience, we know what works and what doesn't."
+        "icon": "🎨",
+        "title": "Creative Excellence",
+        "description": "Our designs are not just beautiful; they're effective."
       },
       {
-        "icon": "💡",
-        "title": "Creative Solutions",
-        "description": "We bring fresh ideas that stand out in the digital landscape."
-      },
-      {
-        "icon": "📈",
-        "title": "Results Driven",
-        "description": "Our focus is on delivering measurable outcomes for your business."
+        "icon": "🚀",
+        "title": "Proven Results",
+        "description": "We have a track record of transforming businesses with our strategies."
       },
       {
         "icon": "🤝",
-        "title": "Collaborative Approach",
-        "description": "We work closely with you to ensure our strategies align with your goals."
+        "title": "Client-Centric",
+        "description": "Your goals are our goals. We work closely with you every step of the way."
+      },
+      {
+        "icon": "🔍",
+        "title": "Detail Oriented",
+        "description": "We sweat the small stuff, so you don't have to."
       }
     ],
     "fearCards": [],
     "socialProof": [
       {
-        "value": "120",
-        "suffix": "+",
-        "label": "Projects Completed"
+        "value": "200",
+        "suffix": "",
+        "label": "Successful projects completed."
       },
       {
-        "value": "98",
-        "suffix": "%",
-        "label": "Client Satisfaction"
+        "value": "150",
+        "suffix": "+",
+        "label": "Happy clients served."
       },
       {
         "value": "7",
-        "suffix": "M",
-        "label": "Revenue Generated for Clients"
+        "suffix": "years",
+        "label": "In the industry."
       },
       {
-        "value": "10",
-        "suffix": "+",
-        "label": "Years in Business"
+        "value": "5",
+        "suffix": "stars",
+        "label": "Average client rating."
       }
     ],
-    "teamIntro": "Meet the dedicated team that will bring your project to life.",
+    "teamIntro": "Meet the team dedicated to your success.",
     "team": {
       "initials": "MV",
       "name": "Marie-line Villers",
       "role": "Owner",
       "titleNote": "",
-      "bio": "Marie-line leads strategy with a keen eye for detail and a passion for client relationships. She ensures every project aligns perfectly with client goals.",
+      "bio": "Marie-line leads our strategy and client relationships, ensuring all projects align with client goals and expectations.",
       "linkedin": "",
       "phone": "+1 250-258-5099"
     },
@@ -444,88 +444,88 @@
     "process": [
       {
         "number": 1,
-        "title": "Discovery & Strategy",
+        "title": "Discovery & Research",
         "badge": "Weeks 1 to 3",
-        "description": "Understanding your needs and crafting a tailored strategy.",
+        "description": "We dive deep into understanding your brand and objectives.",
         "bullets": [
-          "Client Workshops",
-          "Market Research"
+          "Stakeholder interviews",
+          "Market analysis"
         ]
       },
       {
         "number": 2,
-        "title": "Design & Development",
+        "title": "Strategy Development",
         "badge": "Weeks 4 to 6",
-        "description": "Creating designs and building the necessary tools to bring them to life.",
+        "description": "Crafting a strategy that aligns with your goals.",
         "bullets": [
-          "Wireframing",
-          "Prototyping"
+          "Content plan",
+          "Design concepts"
         ]
       },
       {
         "number": 3,
-        "title": "Implementation",
-        "badge": "Weeks 7 to 9",
-        "description": "Rolling out the strategies and designs effectively.",
+        "title": "Design & Implementation",
+        "badge": "Weeks 7 to 10",
+        "description": "Bringing the strategy to life with world-class design.",
         "bullets": [
-          "Site Launch",
-          "Campaign Activation"
+          "Website development",
+          "Brand assets creation"
         ]
       },
       {
         "number": 4,
-        "title": "Review & Optimize",
-        "badge": "Weeks 10 to 12",
-        "description": "Monitoring performance and making necessary adjustments.",
+        "title": "Launch & Optimization",
+        "badge": "Weeks 11 to 12",
+        "description": "Ensuring everything works perfectly and achieving your desired outcomes.",
         "bullets": [
-          "Performance Analysis",
-          "Continuous Improvement"
+          "Testing and QA",
+          "Performance monitoring"
         ]
       }
     ],
-    "pricingIntro": "Explore our investment options designed to fit your needs.",
+    "pricingIntro": "Choose the investment tier that best suits your growth ambitions.",
     "pricing": [
       {
-        "name": "Basic Plan",
+        "name": "Starter",
         "subtitle": "",
-        "description": "Ideal for businesses starting their digital journey.",
+        "description": "For businesses starting their digital journey.",
         "amount": "$4,500/mo",
         "period": "",
         "features": [
-          "Website Redesign",
-          "Basic Mobile Optimization"
+          "Basic web design",
+          "SEO setup"
         ],
         "recommended": false
       },
       {
-        "name": "Pro Plan",
+        "name": "Growth",
         "subtitle": "",
-        "description": "Recommended for businesses looking to significantly boost their online presence.",
+        "description": "Ideal for businesses ready to expand their reach.",
         "amount": "$8,500/mo",
         "period": "",
         "features": [
-          "Comprehensive Web Design",
-          "Advanced SEO",
-          "Brand Refresh"
+          "Advanced design",
+          "Comprehensive SEO",
+          "Social media management"
         ],
         "recommended": true
       },
       {
-        "name": "Enterprise Plan",
+        "name": "Enterprise",
         "subtitle": "",
-        "description": "Perfect for businesses aiming for complete digital transformation.",
+        "description": "Perfect for businesses aiming for market leadership.",
         "amount": "$15,000/mo",
         "period": "",
         "features": [
-          "Full Suite Services",
-          "Dedicated Account Manager",
-          "Custom Solutions"
+          "Custom solutions",
+          "Dedicated team",
+          "Full branding suite"
         ],
         "recommended": false
       }
     ],
-    "ctaHeadline": "Ready to Elevate Acme Corp's Digital Presence?",
-    "ctaDescription": "Let's have a chat about how we can help you achieve your goals. No strings attached.",
+    "ctaHeadline": "Ready to Transform Your Digital Presence?",
+    "ctaDescription": "Let's chat about how we can help you thrive online. No pressure, just possibilities.",
     "ctaButtonText": "Schedule a Call",
     "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
     "ctaEmail": "marieline.villers@gmail.com",
@@ -570,6 +570,6 @@
     "proposal_status": "generated",
     "proposal_url": "https://www.ayushopchauhan.com/for/thriveline",
     "proposal_id": "thriveline",
-    "generated_at": "2026-02-27T11:21:42.846Z"
+    "generated_at": "2026-02-27T13:44:48.241Z"
   }
 }
