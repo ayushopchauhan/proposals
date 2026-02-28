@@ -1,0 +1,575 @@
+{
+  "slug": "wpi",
+  "companyName": "WPI",
+  "contactName": "John Harris",
+  "contactEmail": "john@worldwidepartners.com",
+  "generationTime": 19,
+  "createdAt": "2026-02-28T16:37:50.491Z",
+  "brandStyle": {
+    "primaryColor": "#231f20",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Inter",
+    "bodyFont": "Work Sans",
+    "logoUrl": "https://d1odl73l0zobjo.cloudfront.net/f5e5-03735077-arrow-gradient.svg?pfvId=19vj1e.lf79fkgy"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // WPI // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "WPI is losing $120,000 annually on manual proposals. Here's the breakdown.",
+    "heroSubheadline": "Currently, crafting a proposal is a manual slog. Our AI does it in 47 seconds, fully tailored to your services.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Here are the ongoing losses WPI faces with its current proposal process.",
+    "problems": [
+      {
+        "title": "Time-Consuming Process",
+        "description": "Each proposal takes 5 hours to craft. That's 900 hours a year not spent on winning new clients."
+      },
+      {
+        "title": "Missed Revenue",
+        "description": "Manual proposals lead to slower turnaround. Competitors are closing deals while WPI drafts."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Inconsistent branding costs WPI around $30,000 in lost client trust annually."
+      },
+      {
+        "title": "Resource Drain",
+        "description": "18-person team spends 20% of its time on proposals. That's talent not focused on creative strategy."
+      },
+      {
+        "title": "High Error Rate",
+        "description": "Errors in proposals mean $10,000 lost yearly in missed opportunities due to inaccuracies."
+      },
+      {
+        "title": "Limited Scalability",
+        "description": "With a small team, scaling proposal output is nearly impossible without more hires."
+      }
+    ],
+    "solutionIntro": "Our AI automation system replaces these inefficiencies with speed and precision.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Manually writing proposals stagnates growth. Our AI crafts them in seconds, ready and branded.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Time-Saving"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Brand inconsistencies erode trust. Our system ensures every proposal aligns with WPI's identity.",
+        "tags": [
+          "Branding",
+          "Trust",
+          "Consistency"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Error Reduction",
+        "description": "Manual writing invites errors. Our AI checks and validates data for flawless proposals.",
+        "tags": [
+          "Accuracy",
+          "Precision",
+          "Reliability"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Scalable Output",
+        "description": "Scaling proposals manually is costly. Our system scales with no additional hires needed.",
+        "tags": [
+          "Scalability",
+          "Growth",
+          "Cost-Efficiency"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Real-Time Insights",
+        "description": "Tracking proposal engagement isn't possible manually. Our AI provides real-time analytics.",
+        "tags": [
+          "Analytics",
+          "Insights",
+          "Engagement"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for WPI's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for WPI around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for WPI.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Unlock Acme Corp's Potential with Tailored Marketing Expertise.",
+    "heroSubheadline": "Let's create a strategic plan to enhance your brand presence and increase revenue. We'll leverage our expertise in marketing to drive growth from day one.",
+    "heroTags": [],
+    "problemsIntro": "Each missed opportunity is potential revenue slipping away.",
+    "problems": [
+      {
+        "title": "Low Conversion Rates",
+        "description": "Every visitor who leaves your site without converting is revenue walking out the door. Current conversion rates are below industry standards, costing you potential sales."
+      },
+      {
+        "title": "Brand Visibility",
+        "description": "Limited brand visibility in key markets means countless potential customers are unaware of your offerings. This results in missed sales and market share."
+      },
+      {
+        "title": "Customer Engagement",
+        "description": "Lack of engagement with your current customer base leads to lower retention rates. This translates to lost opportunities for repeat business."
+      },
+      {
+        "title": "Outdated Marketing Strategy",
+        "description": "An outdated marketing strategy affects your competitive edge, leading to missed opportunities in capturing new market segments."
+      },
+      {
+        "title": "Social Media Presence",
+        "description": "A weak social media presence means missing out on direct interactions with potential customers. This results in lower brand loyalty and awareness."
+      },
+      {
+        "title": "Ineffective Ad Spend",
+        "description": "Inefficient allocation of ad budget leads to poor ROI. Without proper targeting, ad spend does not convert into actual revenue."
+      }
+    ],
+    "solutionIntro": "Our tailored solutions address each of these challenges head-on.",
+    "solutions": [
+      {
+        "icon": "🚀",
+        "title": "Digital Advertising",
+        "description": "Boost your conversion rates by optimizing ad spend for maximum ROI. We'll target the right audience and drive higher engagement.",
+        "tags": [
+          "Advertising",
+          "ROI",
+          "Engagement"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Brand Strategy",
+        "description": "Increase your brand visibility with a strategic approach. We'll position you to capture new markets and increase your market share.",
+        "tags": [
+          "Branding",
+          "Market Share",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "💬",
+        "title": "Social Media Management",
+        "description": "Enhance your social media presence to engage and grow your audience. We'll ensure your brand stays top-of-mind.",
+        "tags": [
+          "Social Media",
+          "Engagement",
+          "Awareness"
+        ]
+      },
+      {
+        "icon": "🔍",
+        "title": "Market Research",
+        "description": "Stay ahead of trends with our thorough market research. We'll provide insights to refine your marketing strategy and maintain competitiveness.",
+        "tags": [
+          "Research",
+          "Strategy",
+          "Competitiveness"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Increase in conversion rates"
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Improvement in brand visibility"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Increase in customer engagement"
+      }
+    ],
+    "whyUsIntro": "WPI is your growth partner with a personal touch.",
+    "whyUsCards": [
+      {
+        "icon": "🌟",
+        "title": "Proven Track Record",
+        "description": "We've helped companies like yours grow and thrive in competitive markets."
+      },
+      {
+        "icon": "🤝",
+        "title": "Tailored Solutions",
+        "description": "Our strategies are customized to meet your unique business needs and goals."
+      },
+      {
+        "icon": "📊",
+        "title": "Data-Driven Approach",
+        "description": "We make decisions based on data, ensuring your marketing efforts are effective."
+      },
+      {
+        "icon": "💼",
+        "title": "Industry Expertise",
+        "description": "Our team brings extensive experience across various industries to the table."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "500",
+        "suffix": "M",
+        "label": "in revenue generated for clients"
+      },
+      {
+        "value": "200",
+        "suffix": "+",
+        "label": "happy clients"
+      },
+      {
+        "value": "150",
+        "suffix": "+",
+        "label": "successful campaigns"
+      },
+      {
+        "value": "30",
+        "suffix": "+",
+        "label": "industry awards"
+      }
+    ],
+    "teamIntro": "Meet your dedicated team of experts.",
+    "team": {
+      "initials": "JH",
+      "name": "John Harris",
+      "role": "President & Chief Executive Officer",
+      "titleNote": "",
+      "bio": "John leads our strategy and client relationships, ensuring each partnership is successful and growth-focused.",
+      "linkedin": "",
+      "phone": "+1 303-577-9760"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery",
+        "badge": "Weeks 1 to 3",
+        "description": "We'll dive into understanding your business, goals, and challenges.",
+        "bullets": [
+          "Business analysis",
+          "Goal setting"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Crafting a customized marketing strategy tailored to your needs.",
+        "bullets": [
+          "Market research",
+          "Strategy formulation"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Execution",
+        "badge": "Weeks 7 to 12",
+        "description": "Implementing the strategy with precision and creativity.",
+        "bullets": [
+          "Campaign launch",
+          "Ongoing optimization"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Adjust",
+        "badge": "Weeks 13 to 16",
+        "description": "Analyzing results and refining strategies for continued success.",
+        "bullets": [
+          "Performance analysis",
+          "Strategy refinement"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment option that best suits your growth aspirations.",
+    "pricing": [
+      {
+        "name": "Starter Package",
+        "subtitle": "",
+        "description": "Perfect for businesses looking to kickstart their marketing efforts.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic market research",
+          "Initial strategy development"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Ideal for companies aiming to expand their market presence effectively.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Comprehensive strategy",
+          "Full execution plan"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Package",
+        "subtitle": "",
+        "description": "Best for established firms wanting to dominate their industry.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Advanced analytics",
+          "Dedicated account manager"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Your Business?",
+    "ctaDescription": "Let's chat about how we can take Acme Corp to new heights. No strings attached.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "john@worldwidepartners.com",
+    "ctaNote": "",
+    "footerText": "© 2025 WPI",
+    "footerSub": "Driving Growth Through Expertise"
+  },
+  "enriched": {
+    "tone": "warm, casual",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": [
+      "Logo | Worldwide Partners"
+    ]
+  },
+  "lead": {
+    "first_name": "John",
+    "last_name": "Harris",
+    "email": "john@worldwidepartners.com",
+    "company_phone": "+1 303-577-9760",
+    "mobile_number": "",
+    "company_name": "WPI",
+    "company_website": "https://www.worldwidepartners.com",
+    "company_domain": "worldwidepartners.com",
+    "company_description": "More than 85 years of building brands and building businesses, together.\n\nWorldwide Partners is a global network of the top independent marketing services agencies in the world who share an independent spirit and entrepreneurial drive to build commerce through connectivity, creativity and collaboration.\n\nWith over 80 agencies in more than 40 countries, and experience in over 90 industry verticals, Worldwide Partners serves as a hub that harnesses the talent, expertise and diversified capabilities of the agencies within our network to reimagine growth for both brands and agencies.",
+    "headline": "Enabling Growth Through Global Collaboration",
+    "job_title": "President & Chief Executive Officer",
+    "industry": "Marketing & Advertising",
+    "company_size": "18",
+    "company_technologies": "amazon aws, android, apache, basis, campaignmonitor, gmail, google analytics, google apps, google tag manager, heapanalytics, hotjar, mobile friendly, python, remote, render, vimeo, wix",
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "company_full_address": "1001 Bannock Street, Suite 121, Denver, CO 80204, US",
+    "seniority_level": "c_suite",
+    "company_annual_revenue_clean": "3.4M",
+    "linkedin": "https://www.linkedin.com/in/netharris",
+    "company_linkedin": "https://www.linkedin.com/company/worldwide-partners-inc-",
+    "company_founded_year": "1938",
+    "keywords": "marketing, advertising, branding, independent agencies, communications, healthcare marketing, b2b marketing, tourism marketing, advertising services, global agency network, marketing solutions, brand strategy, creative campaigns, digital marketing, media planning, influencer marketing, b2c marketing, collaboration, community engagement, industry verticals, agency partnerships, consumer insights, data analytics, event marketing, experiential marketing, social media strategy, content marketing, public relations, roi, customer experience, brand identity, advertising strategies, integrated marketing, customer journey mapping, customer relationship marketing, philanthropy, sustainability marketing, travel & tourism, ecommerce solutions, digital strategy, global reach, commercial partnerships, agile marketing, ux design, website development, marketing automation, social good, performance marketing, creative production, media buying, localization strategies, sponsorship strategies, gamification, ethnographic research, qualitative research, quantitative research, marketing & advertising, events, events services, e-commerce, consumer internet, consumers, internet, information technology & services, web development, saas, computer software, enterprise software, enterprises, b2b",
+    "personalization": "You run a global network with just 18 people at the helm, which is pretty wild.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
