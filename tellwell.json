@@ -1,0 +1,570 @@
+{
+  "slug": "tellwell",
+  "companyName": "Tellwell",
+  "contactName": "Max Kringen",
+  "contactEmail": "max@wetellwell.com",
+  "generationTime": 18,
+  "createdAt": "2026-02-28T15:49:34.322Z",
+  "brandStyle": {
+    "primaryColor": "#abb8c3",
+    "secondaryColor": "#f78da7",
+    "accentColor": "#cf2e2e",
+    "headingFont": "var(--wp--preset--font-family--tiempos-regular)!important",
+    "bodyFont": "var(--wp--preset--font-family--tiempos-semi-italic)!important",
+    "logoUrl": "https://wetellwell.com/wp-content/uploads/2024/07/Tellwell-Logo_Navy.png"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // TELLWELL // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Tellwell is burning over 500 hours a year on proposals. Here is exactly where it goes.",
+    "heroSubheadline": "Currently, crafting a proposal for story-based design takes hours. With our AI, it's done in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Each of these problems represents ongoing losses for Tellwell.",
+    "problems": [
+      {
+        "title": "Time Drain",
+        "description": "Your team spends over 500 hours yearly on writing proposals. That's 500 hours not spent creating stunning video productions."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Inconsistent proposals can weaken your brand message. This inconsistency costs you potential client trust and recognition."
+      },
+      {
+        "title": "Lost Opportunities",
+        "description": "Every hour spent on proposals is an hour not spent securing new clients. This gap could be costing you up to 10 potential projects annually."
+      },
+      {
+        "title": "Manual Errors",
+        "description": "Manual proposal writing leads to errors that can cost you deals. Each mistake risks losing a client worth thousands in revenue."
+      },
+      {
+        "title": "Slow Turnaround",
+        "description": "Taking days to send a proposal means losing the client's interest. This delay could be the difference between winning or losing a project."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Paying skilled creatives to write proposals is expensive. Redirecting this labor could save Tellwell thousands annually."
+      }
+    ],
+    "solutionIntro": "Our AI system replaces all the inefficiencies described above.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposals",
+        "description": "Currently, proposals take hours to create. With our system, they are generated in 47 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Time-Saving"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Branding inconsistencies weaken your message. Our AI ensures every proposal aligns perfectly with Tellwell's story-based design.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Quality"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Opportunity Maximizer",
+        "description": "Hours lost on proposals are hours lost on opportunities. Our solution frees up your team to focus on closing deals.",
+        "tags": [
+          "Opportunities",
+          "Growth",
+          "Sales"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Error Reduction",
+        "description": "Manual errors can cost deals. Our AI minimizes human error, protecting potential revenues.",
+        "tags": [
+          "Accuracy",
+          "Reliability",
+          "Precision"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Cost Efficiency",
+        "description": "Creative labor costs are high for proposal writing. Our system reduces these costs, saving thousands you can reinvest in creative projects.",
+        "tags": [
+          "Cost-Saving",
+          "Efficiency",
+          "Budget"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Tellwell's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Tellwell around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Tellwell.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Revolutionize Acme Corp's Impact Through Storytelling Magic",
+    "heroSubheadline": "Let's craft a dynamic narrative that transforms every interaction into a memorable experience with Tellwell's story-based design.",
+    "heroTags": [],
+    "problemsIntro": "Every unengaged visitor is a missed opportunity for Acme Corp.",
+    "problems": [
+      {
+        "title": "Low Brand Engagement",
+        "description": "Without a captivating story, Acme Corp loses potential connections. This translates to fewer loyal customers."
+      },
+      {
+        "title": "Ineffective Visuals",
+        "description": "Current visuals fail to capture the essence of Acme Corp. This loss in brand identity weakens market position."
+      },
+      {
+        "title": "Unoptimized Website",
+        "description": "A confusing user experience causes visitors to leave. This results in significant revenue loss."
+      },
+      {
+        "title": "Lack of Video Content",
+        "description": "Video content is crucial for engagement. Without it, Acme Corp misses 80% more engagement opportunities."
+      },
+      {
+        "title": "Weak Social Impact",
+        "description": "An underwhelming social media presence means Acme Corp is losing 60% potential customer interactions."
+      },
+      {
+        "title": "Poor Conversion Rates",
+        "description": "A lack of strategic design leads to low conversion rates. This loss in potential sales impacts overall growth."
+      }
+    ],
+    "solutionIntro": "Our solutions address these issues head-on, turning losses into growth opportunities.",
+    "solutions": [
+      {
+        "icon": "🎥",
+        "title": "Video Production",
+        "description": "Transform Acme Corp's story into compelling video content. This engages audiences and strengthens brand recall.",
+        "tags": [
+          "Video",
+          "Engagement",
+          "Branding"
+        ]
+      },
+      {
+        "icon": "🎨",
+        "title": "Graphic Design",
+        "description": "Revitalize visuals to reflect Acme Corp's unique identity. This fortifies brand image and attracts loyal customers.",
+        "tags": [
+          "Design",
+          "Visuals",
+          "Identity"
+        ]
+      },
+      {
+        "icon": "🌐",
+        "title": "Web Design",
+        "description": "Optimize user experience on Acme Corp's site. This enhances user engagement and boosts conversion rates.",
+        "tags": [
+          "Website",
+          "UX",
+          "Conversion"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Social Media Strategy",
+        "description": "Craft a strategic social media plan to amplify Acme Corp's voice. This increases interactions and brand reach.",
+        "tags": [
+          "Social Media",
+          "Strategy",
+          "Engagement"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "75",
+        "suffix": "%",
+        "label": "Increase in User Engagement"
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Rise in Brand Recognition"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Boost in Conversion Rates"
+      }
+    ],
+    "whyUsIntro": "At Tellwell, we make your brand's story unforgettable with creative flair.",
+    "whyUsCards": [
+      {
+        "icon": "🚀",
+        "title": "Innovative Storytelling",
+        "description": "We weave stories that resonate, creating lasting impressions."
+      },
+      {
+        "icon": "💡",
+        "title": "Creative Expertise",
+        "description": "Our team excels in turning ideas into captivating designs and narratives."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Approach",
+        "description": "We focus on your needs to deliver tailored solutions that drive results."
+      },
+      {
+        "icon": "📈",
+        "title": "Proven Success",
+        "description": "Our strategies consistently lead to measurable growth for our clients."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "200+",
+        "suffix": "Projects",
+        "label": "Successfully Completed"
+      },
+      {
+        "value": "150%",
+        "suffix": "Increase",
+        "label": "In Client Engagement"
+      },
+      {
+        "value": "98%",
+        "suffix": "Satisfaction",
+        "label": "Client Satisfaction Rate"
+      },
+      {
+        "value": "10",
+        "suffix": "Years",
+        "label": "In the Industry"
+      }
+    ],
+    "teamIntro": "Meet the talented team that makes it all happen.",
+    "team": {
+      "initials": "MK",
+      "name": "Max Kringen",
+      "role": "Founder And Chief Storyteller",
+      "titleNote": "",
+      "bio": "Max leads the charge in developing strategy and nurturing client relationships. His passion for storytelling shapes every project.",
+      "linkedin": "",
+      "phone": "+1 701-566-0750"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Strategy",
+        "badge": "Weeks 1 to 3",
+        "description": "We dive deep into your brand and lay the groundwork for success.",
+        "bullets": [
+          "Brand Analysis",
+          "Goal Setting"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Design & Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Our creative team gets to work on design and content creation.",
+        "bullets": [
+          "Graphic Design",
+          "Video Production"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 9",
+        "description": "We integrate solutions across platforms for maximum impact.",
+        "bullets": [
+          "Web Integration",
+          "Social Media Launch"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Optimize",
+        "badge": "Weeks 10 to 12",
+        "description": "We measure success and fine-tune strategies for continued growth.",
+        "bullets": [
+          "Performance Review",
+          "Strategic Adjustments"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment option that best suits your growth ambitions.",
+    "pricing": [
+      {
+        "name": "Starter Package",
+        "subtitle": "",
+        "description": "For those beginning their storytelling journey.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic Design Services"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Ideal for businesses ready to expand their reach.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Comprehensive Design & Strategy"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Package",
+        "subtitle": "",
+        "description": "For large-scale, high-impact initiatives.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full-Service Creative Partnership"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Elevate Acme Corp's Story?",
+    "ctaDescription": "Let's chat about how we can bring your brand's story to life. No strings attached.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "max@wetellwell.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Tellwell",
+    "footerSub": "Let's tell your story."
+  },
+  "enriched": {
+    "tone": "warm, playful",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Max",
+    "last_name": "Kringen",
+    "email": "max@wetellwell.com",
+    "company_phone": "+1 701-566-0750",
+    "mobile_number": "17012125372",
+    "company_name": "Tellwell",
+    "company_website": "https://www.wetellwell.com",
+    "company_domain": "wetellwell.com",
+    "company_description": "We help brands + causes connect with their audiences through story-based design and film.\n\nAt Tellwell, we believe that story is the most powerful way to introduce a brand, educate and engage your audience, and remind them why they love you. We empower you to share your story with beautiful, story based films and thoughtful branding, and impactful experiential design.",
+    "headline": "Helping Nonprofits, Higher Ed & Mission-driven Orgs Share Powerful Stories | Founder @ Tellwell | Brand Strategy + Impact Films + Visual Design ",
+    "job_title": "Founder And Chief Storyteller",
+    "industry": "Marketing & Advertising",
+    "company_size": "20",
+    "company_technologies": "adroll, doubleclick, facebook custom audiences, facebook login (connect), facebook widget, gmail, google adsense, google apps, google font api, google tag manager, mobile friendly, nginx, pusher, stripe, vimeo, wordpress.org, recaptcha",
+    "city": "",
+    "state": "Minnesota",
+    "country": "United States",
+    "company_full_address": "1213 Np Ave N, Fargo, North Dakota 58102, US",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "9.5M",
+    "linkedin": "https://www.linkedin.com/in/maxkringen",
+    "company_linkedin": "https://www.linkedin.com/company/wetellwell",
+    "company_founded_year": "2015",
+    "keywords": "social media strategy, community management, content creation, website creation, videography, photography, graphic design, branding, logos, print design, product design, web design, website, advertising services, video production, film services, managed social media, storytelling, digital marketing, user-friendly website, seo optimization, website development, community engagement, campaign management, data-driven insights, experiential design, brand identity, logo design, documentary films, explainer videos, social media campaigns, content ecosystem, audience engagement, promotional videos, brand refresh, copywriting services, online presence, user experience design, landing pages, community storytelling, visual storytelling, analytics & reporting, cross-platform storytelling, project management, brand voice development, custom photography, content audit, brand systems, custom forms, high-quality visuals, social media analytics, performance optimization, engaging digital platforms, content planning, custom content creation, web hosting services, interactive design, full-service agency, marketing & advertising, web development, information technology & services, marketing, productivity",
+    "personalization": "You call your team 'Story Makers' and focus on personal connections with clients, which is pretty unique.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
