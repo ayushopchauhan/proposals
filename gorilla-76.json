@@ -1,0 +1,573 @@
+{
+  "slug": "gorilla-76",
+  "companyName": "Gorilla 76",
+  "contactName": "Joe Sullivan",
+  "contactEmail": "joe@gorilla76.com",
+  "generationTime": 19,
+  "createdAt": "2026-02-28T16:55:56.294Z",
+  "brandStyle": {
+    "primaryColor": "#7a00df",
+    "secondaryColor": "#ddd",
+    "accentColor": "#007cba",
+    "headingFont": "Source Sans Pro:300,400,600,700|Source Serif Pro:400,700",
+    "bodyFont": "Source Sans Pro:300,400,600,700|Source Serif Pro:400,700",
+    "logoUrl": "https://www.gorilla76.com/wp-content/uploads/2017/06/g76-logo.svg"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // GORILLA 76 // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Gorilla 76 is losing over 1,000 hours a year on manual proposals. Here's how to stop the clock.",
+    "heroSubheadline": "Currently, creating a proposal is a manual slog. With our system, generate a complete branded proposal in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "These are not just inefficiencies; they're ongoing losses eating into your potential growth.",
+    "problems": [
+      {
+        "title": "Time Drain",
+        "description": "Spending hours crafting each proposal means less time for closing deals. With 53 team members, this adds up to thousands of lost hours annually."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Every proposal that lacks brand alignment weakens your positioning. This inconsistency can cost you potential clients who expect a unified message."
+      },
+      {
+        "title": "Missed Opportunities",
+        "description": "Delayed proposals mean missed chances. Every day a proposal is late, another opportunity slips through your fingers, costing potential revenue."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Paying skilled marketers to do repetitive tasks is costly. This is money bleeding out instead of being invested in strategic growth."
+      },
+      {
+        "title": "Proposal Revisions",
+        "description": "Reworking proposals wastes time and resources. Every revision is a step back instead of forward, draining efficiency and morale."
+      },
+      {
+        "title": "Tracking Challenges",
+        "description": "Without effective tracking, follow-ups are inefficient. This leads to lost leads and diminished closing rates, costing you business."
+      }
+    ],
+    "solutionIntro": "Our AI system replaces these inefficiencies with streamlined, automated precision.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, each proposal takes hours to complete. Our system does it in 47 seconds, freeing up your team for higher-value tasks.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Productivity"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Manual branding efforts cause inconsistencies. Our AI ensures every proposal perfectly aligns with Gorilla 76's brand, every time.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Real-Time Tracking",
+        "description": "Tracking proposals manually leads to missed leads. Our system includes tracking, so you never lose a prospect again.",
+        "tags": [
+          "Tracking",
+          "Leads",
+          "Efficiency"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "AI-Powered Revisions",
+        "description": "Revisions currently waste hours. Our AI provides instant, intelligent adjustments, keeping your proposals sharp and timely.",
+        "tags": [
+          "Accuracy",
+          "Speed",
+          "Adaptability"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Labor Cost Reduction",
+        "description": "High labor costs drain your budget. Our system automates proposal creation, reducing the need for excessive human intervention.",
+        "tags": [
+          "Cost Savings",
+          "Automation",
+          "Budget"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Gorilla 76's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Gorilla 76 around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Gorilla 76.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Unlock Acme Corp's Potential with Gorilla 76's Expert B2B Marketing.",
+    "heroSubheadline": "We will deploy targeted strategies to increase your lead generation by 30% within six months.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently losing valuable revenue due to missed opportunities in digital engagement.",
+    "problems": [
+      {
+        "title": "Low Conversion Rate",
+        "description": "Your current conversion rate is below industry standards, resulting in a 20% loss in potential revenue each quarter."
+      },
+      {
+        "title": "Ineffective Targeting",
+        "description": "Without precise targeting, 15% of your ad spend is wasted on uninterested audiences."
+      },
+      {
+        "title": "Poor Website Experience",
+        "description": "For every visitor who leaves your site without converting, you lose potential revenue—amounting to $10,000 monthly."
+      },
+      {
+        "title": "Weak Brand Presence",
+        "description": "A weak brand presence in your industry leads to a 12% decrease in market penetration each year."
+      },
+      {
+        "title": "Underutilized Content",
+        "description": "Your content is not reaching its full potential, resulting in a 25% decrease in engagement."
+      },
+      {
+        "title": "Insufficient Data Insights",
+        "description": "Without comprehensive data insights, you are missing out on optimizing strategies, leading to a 15% performance gap."
+      }
+    ],
+    "solutionIntro": "Our solutions will directly address these revenue-draining issues.",
+    "solutions": [
+      {
+        "icon": "🚀",
+        "title": "Targeted Digital Advertising",
+        "description": "Enhance your ROI by focusing on the right audience segments. This will reduce wasted ad spend and increase conversions.",
+        "tags": [
+          "Advertising",
+          "ROI",
+          "Conversion"
+        ]
+      },
+      {
+        "icon": "🌐",
+        "title": "Website Optimization",
+        "description": "Improve user experience to retain visitors and convert them into customers. This will directly impact your bottom line.",
+        "tags": [
+          "UX",
+          "Conversion",
+          "Revenue"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Content Strategy",
+        "description": "Develop a robust content plan that resonates with your audience, boosting engagement and brand loyalty.",
+        "tags": [
+          "Content",
+          "Engagement",
+          "Branding"
+        ]
+      },
+      {
+        "icon": "🔍",
+        "title": "Data Analytics",
+        "description": "Utilize comprehensive data insights to inform decision-making and optimize marketing strategies for better results.",
+        "tags": [
+          "Data",
+          "Insights",
+          "Optimization"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Increase in lead generation"
+      },
+      {
+        "value": "20",
+        "suffix": "%",
+        "label": "Reduction in ad spend waste"
+      },
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Boost in content engagement"
+      }
+    ],
+    "whyUsIntro": "Gorilla 76 is uniquely positioned to elevate your marketing efforts with proven expertise.",
+    "whyUsCards": [
+      {
+        "icon": "💼",
+        "title": "B2B Specialization",
+        "description": "Over a decade of experience in the B2B manufacturing sector."
+      },
+      {
+        "icon": "📊",
+        "title": "Proven Results",
+        "description": "Our strategies consistently deliver measurable improvements."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Approach",
+        "description": "We tailor our solutions to meet your unique business needs."
+      },
+      {
+        "icon": "🏆",
+        "title": "Industry Recognition",
+        "description": "Recognized as leaders in B2B marketing solutions."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Increase in client revenue within a year"
+      },
+      {
+        "value": "10",
+        "suffix": "years",
+        "label": "Experience in B2B marketing"
+      },
+      {
+        "value": "100",
+        "suffix": "+",
+        "label": "Happy clients"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Average rise in brand engagement"
+      }
+    ],
+    "teamIntro": "Meet the team dedicated to your success.",
+    "team": {
+      "initials": "JS",
+      "name": "Joe Sullivan",
+      "role": "Thinker & Founder",
+      "titleNote": "",
+      "bio": "Joe leads the strategic direction and nurtures client relationships with a focus on results and innovation.",
+      "linkedin": "",
+      "phone": "+1 314-332-1020"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Research",
+        "badge": "Weeks 1 to 3",
+        "description": "We analyze your business environment and gather insights.",
+        "bullets": [
+          "Market analysis",
+          "Competitor review"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "We craft a customized strategy aligned with your goals.",
+        "bullets": [
+          "Goal setting",
+          "Strategic planning"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 12",
+        "description": "Our team puts the strategy into action using proven methods.",
+        "bullets": [
+          "Execution",
+          "Monitoring"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Optimize",
+        "badge": "Weeks 13 to 16",
+        "description": "We assess performance and refine tactics for better results.",
+        "bullets": [
+          "Performance analysis",
+          "Strategy refinement"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment tier that aligns with your business goals.",
+    "pricing": [
+      {
+        "name": "Basic Plan",
+        "subtitle": "",
+        "description": "Ideal for emerging needs.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic analytics",
+          "Standard reporting"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Plan",
+        "subtitle": "",
+        "description": "Our recommended option for most clients seeking growth.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Advanced analytics",
+          "Monthly strategy sessions"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Plan",
+        "subtitle": "",
+        "description": "Comprehensive services for extensive needs.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Complete service suite",
+          "Dedicated account manager"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Let's Transform Acme Corp's Marketing Together.",
+    "ctaDescription": "Reach out for a conversation about how we can help. No strings attached.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "joe@gorilla76.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Gorilla 76",
+    "footerSub": "Your Partner in Strategic Marketing"
+  },
+  "enriched": {
+    "tone": "warm, technical",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Joe",
+    "last_name": "Sullivan",
+    "email": "joe@gorilla76.com",
+    "company_phone": "+1 314-332-1020",
+    "mobile_number": "13145183022",
+    "company_name": "Gorilla 76",
+    "company_website": "https://www.gorilla76.com",
+    "company_domain": "gorilla76.com",
+    "company_description": "THE INDUSTRIAL MARKETING AGENCY. We help B2B companies in the manufacturing ecosystem grow through revenue-focused marketing programs.\n\nWe know the manufacturing sector. For more than a decade, we've built our expertise working with B2B companies throughout the manufacturing ecosystem. Our clients include engineering-heavy OEMs, custom machine builders, contract manufacturers, robotics integrators and industry 4.0 tech companies.\n\nWe are guided by our core values of results, improvement, relationships, kindness and inclusivity.",
+    "headline": " Co-owner Of The Industrial Marketing Agency, Gorilla 76  | ️ Host Of The Manufacturing Executive Podcast | ⚙️ Marketing Advisor To B2b Manufacturers",
+    "job_title": "Thinker & Founder",
+    "industry": "Marketing & Advertising",
+    "company_size": "53",
+    "company_technologies": "ai, basis, circle, cloudflare, cloudflare dns, facebook custom audiences, facebook login (connect), facebook widget, gmail, google apps, google font api, google tag manager, hubspot, linkedin marketing solutions, micro, mobile friendly, remote, render, reviews, semrush, vimeo, wordpress.org, recaptcha",
+    "city": "St. Louis",
+    "state": "Missouri",
+    "country": "United States",
+    "company_full_address": "408 N. Euclid Ave., 3rd Floor, St. Louis, MO 63108, US",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "4.5M",
+    "linkedin": "https://www.linkedin.com/in/gorilla76joe",
+    "company_linkedin": "https://www.linkedin.com/company/gorilla-76",
+    "company_founded_year": "2006",
+    "keywords": "inbound marketing, traffic, lead generation, lead nurturing, measurement, analysis, marketing strategy, website design, search engine optimization, content marketing, conversion optimization, lead intelligence mining, email lead nurturing, marketing automation, advertising services, industrial marketing agency, b2b marketing, manufacturing marketing, account-based marketing, consultative sales, brand positioning, website development, digital marketing, customized solutions, sales enablement, email marketing, event marketing, video content, thought leadership, target audience engagement, sales pipeline, performance metrics, marketing consultation, niche marketing, technical content creation, data-driven marketing, industrial branding, sales & marketing alignment, cross-channel marketing, market research, buyer persona development, revenue growth, trade show marketing, client retention, customer acquisition, creative agency, full-funnel marketing, customer journey mapping, competitive analysis, branding strategies, performance tracking, client success, social media marketing, mobile optimization, analytics reporting, team collaboration, strategic planning, marketing & advertising, sales, web design, seo, information technology & services, search marketing, marketing, saas, computer software, enterprise software, enterprises, b2b, web development, events, events services, consumer internet, consumers, internet",
+    "personalization": "You’re calling yourselves the 'Industrial Marketing Agency' with a notably diverse team, which is pretty rare in manufacturing.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
