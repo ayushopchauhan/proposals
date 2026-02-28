@@ -1,0 +1,587 @@
+{
+  "slug": "patch",
+  "companyName": "Patch",
+  "contactName": "Jackson Clark",
+  "contactEmail": "jackson@patch.marketing",
+  "generationTime": 22,
+  "createdAt": "2026-02-28T14:04:51.094Z",
+  "brandStyle": {
+    "primaryColor": "#22e886",
+    "secondaryColor": "#7a00df",
+    "accentColor": "#ddd",
+    "headingFont": "Epilogue",
+    "bodyFont": "DM Sans",
+    "logoUrl": "https://patch.marketing/wp-content/themes/patch-marketing/assets/build/images/social-icons/instagram.svg"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // PATCH // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Patch is losing over 300 hours annually on proposal creation. Here is how it adds up.",
+    "heroSubheadline": "Manually crafting proposals for SEO, PPC, and social marketing wastes hours. Generate them in 47 seconds with automation.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "These are the ongoing losses bleeding your resources.",
+    "problems": [
+      {
+        "title": "Time-Consuming Proposals",
+        "description": "Each proposal takes hours that could be used to refine SEO strategies. You're losing valuable optimization time."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Paying staff to manually write proposals costs thousands annually. This is money that could expand your paid social campaigns."
+      },
+      {
+        "title": "Delayed Responses",
+        "description": "Slow proposal generation means potential clients wait. Each delay risks losing media buying opportunities to quicker competitors."
+      },
+      {
+        "title": "Inconsistency Issues",
+        "description": "Manual proposals vary in quality, affecting brand perception. Each inconsistency can dilute your award-winning status."
+      },
+      {
+        "title": "Lost Deals",
+        "description": "Every day spent on proposal writing is a day not spent closing deals. Every lost day is a potential lost contract."
+      },
+      {
+        "title": "Resource Drain",
+        "description": "Proposal creation diverts resources from enhancing email marketing. This shift weakens your data-led marketing strength."
+      }
+    ],
+    "solutionIntro": "Our AI system replaces every inefficiency described above.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, creating a proposal takes hours of manual work. With our system, it's done in 47 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Brand Consistency",
+        "description": "Manual creation means risking brand inconsistency. Our system ensures every proposal aligns with your brand seamlessly.",
+        "tags": [
+          "Consistency",
+          "Branding",
+          "Quality"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Cost Reduction",
+        "description": "High labor costs for proposal writing drain resources. Automating this process cuts costs significantly.",
+        "tags": [
+          "Savings",
+          "Cost-Effective",
+          "Budget"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Enhanced Productivity",
+        "description": "Currently, proposal writing drains your team's time. Free them up to focus on strategic growth areas instead.",
+        "tags": [
+          "Productivity",
+          "Focus",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Improved Client Engagement",
+        "description": "Slow responses frustrate potential clients. With quick proposals, engage clients faster and win more business.",
+        "tags": [
+          "Engagement",
+          "Speed",
+          "Conversion"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Patch's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Patch around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Patch.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's Online Presence with Data-Led Marketing.",
+    "heroSubheadline": "Combining our expertise in SEO, PPC, and social marketing to elevate your reach and drive meaningful engagement.",
+    "heroTags": [],
+    "problemsIntro": "Each unconverted lead is potential revenue lost for Acme Corp.",
+    "problems": [
+      {
+        "title": "Low Website Traffic",
+        "description": "With less than 1,000 monthly visitors, Acme Corp is missing out on valuable market exposure. This results in fewer inquiries and sales opportunities."
+      },
+      {
+        "title": "High Bounce Rate",
+        "description": "A bounce rate of 70% indicates that visitors are not finding what they need. This means a significant portion of potential customers are leaving the site without engaging."
+      },
+      {
+        "title": "Poor Search Visibility",
+        "description": "Ranking low on search engines causes Acme Corp to lose visibility to competitors. This results in missed opportunities to capture organic traffic."
+      },
+      {
+        "title": "Unoptimized PPC Campaigns",
+        "description": "Current PPC campaigns show a low conversion rate of 1%. This is a loss of potential ROI due to not reaching the right audience effectively."
+      },
+      {
+        "title": "Ineffective Social Strategy",
+        "description": "With only 500 followers across platforms, social media presence is minimal. This limits Acme Corp's ability to engage with its target audience and build brand loyalty."
+      },
+      {
+        "title": "Underutilized Email Marketing",
+        "description": "An open rate of just 10% means emails are not resonating with the audience. This results in lost opportunities for direct engagement with potential customers."
+      }
+    ],
+    "solutionIntro": "Our tailored solutions directly address each of these challenges.",
+    "solutions": [
+      {
+        "icon": "🔍",
+        "title": "SEO",
+        "description": "Improve search rankings to increase visibility and drive organic traffic. This will ensure your site meets user needs and captures potential leads.",
+        "tags": [
+          "SEO",
+          "Visibility",
+          "Traffic"
+        ]
+      },
+      {
+        "icon": "💰",
+        "title": "PPC",
+        "description": "Run targeted PPC campaigns to generate qualified leads. Aligning search behavior with customer needs will optimize budget spend.",
+        "tags": [
+          "PPC",
+          "Leads",
+          "ROI"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Social Marketing",
+        "description": "Tailor social strategies to enhance brand engagement. This approach will grow your audience and strengthen customer relationships.",
+        "tags": [
+          "Social Media",
+          "Engagement",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "✉️",
+        "title": "Email Marketing",
+        "description": "Craft goal-focused email campaigns to increase open rates. This direct line to customers will enhance engagement and conversion.",
+        "tags": [
+          "Email",
+          "Engagement",
+          "Conversion"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "50%",
+        "suffix": "increase",
+        "label": "in website traffic."
+      },
+      {
+        "value": "30%",
+        "suffix": "decrease",
+        "label": "in bounce rate."
+      },
+      {
+        "value": "3x",
+        "suffix": "growth",
+        "label": "in social media following."
+      }
+    ],
+    "whyUsIntro": "Patch offers unparalleled expertise in data-led marketing to drive relevant inquiries.",
+    "whyUsCards": [
+      {
+        "icon": "🌟",
+        "title": "Proven Expertise",
+        "description": "Our team has a track record of elevating brands through strategic marketing solutions."
+      },
+      {
+        "icon": "📈",
+        "title": "Data-Driven",
+        "description": "We rely on analytics to shape strategies tailored to your business needs."
+      },
+      {
+        "icon": "🤝",
+        "title": "Collaborative Approach",
+        "description": "We work closely with you to ensure strategies align with your business goals."
+      },
+      {
+        "icon": "🏆",
+        "title": "Results Focused",
+        "description": "Our priority is delivering measurable results that boost your bottom line."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "10",
+        "suffix": "years",
+        "label": "of industry experience"
+      },
+      {
+        "value": "100+",
+        "suffix": "clients",
+        "label": "served globally"
+      },
+      {
+        "value": "5",
+        "suffix": "star",
+        "label": "customer satisfaction rating"
+      },
+      {
+        "value": "50%",
+        "suffix": "increase",
+        "label": "in client ROI"
+      }
+    ],
+    "teamIntro": "Our team is dedicated to transforming your marketing strategy.",
+    "team": {
+      "initials": "JC",
+      "name": "Jackson Clark",
+      "role": "Managing Director",
+      "titleNote": "",
+      "bio": "Jackson leads strategy and client relationships with a focus on delivering impactful marketing solutions. His expertise ensures each project achieves its goals.",
+      "linkedin": "",
+      "phone": "+44 18 9257 2700"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Analysis",
+        "badge": "Weeks 1 to 3",
+        "description": "Understanding your business needs and current challenges.",
+        "bullets": [
+          "Conduct market research",
+          "Analyze current performance"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Creating a tailored marketing strategy for your business.",
+        "bullets": [
+          "Define target audience",
+          "Select effective channels"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 12",
+        "description": "Executing the strategy with precision.",
+        "bullets": [
+          "Launch campaigns",
+          "Optimize for performance"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Adjust",
+        "badge": "Weeks 13 to 16",
+        "description": "Assessing results and refining strategies.",
+        "bullets": [
+          "Evaluate outcomes",
+          "Adjust strategies for improvement"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose from our investment options to suit your business needs.",
+    "pricing": [
+      {
+        "name": "Basic Package",
+        "subtitle": "",
+        "description": "Ideal for small businesses looking to enhance their online presence.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic SEO",
+          "Standard PPC"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Recommended for businesses aiming for significant growth and market expansion.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Advanced SEO",
+          "Enhanced PPC",
+          "Social Media Strategy"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Premium Package",
+        "subtitle": "",
+        "description": "Best for enterprises seeking comprehensive digital marketing solutions.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full Suite of Services",
+          "Priority Support"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Let's Elevate Your Marketing Strategy.",
+    "ctaDescription": "We invite you to a conversation about how we can support your business growth.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "jackson@patch.marketing",
+    "ctaNote": "",
+    "footerText": "© 2025 Patch",
+    "footerSub": "Driving relevant inquiries through data-led marketing."
+  },
+  "enriched": {
+    "tone": "warm, corporate",
+    "positioning": "Full-service agency",
+    "serviceList": [
+      "SEO",
+      "PPC",
+      "Social Marketing",
+      "Paid Social Advertising",
+      "Strategy",
+      "Email Marketing",
+      "Copywriting",
+      "Web Development",
+      "Octoplus",
+      "Media Buying",
+      "What we are good at…",
+      "What we are good at…"
+    ],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Jackson",
+    "last_name": "Clark",
+    "email": "jackson@patch.marketing",
+    "company_phone": "+44 18 9257 2700",
+    "mobile_number": "",
+    "company_name": "Patch",
+    "company_website": "https://www.patch.marketing",
+    "company_domain": "patch.marketing",
+    "company_description": "We help venue, event and hospitality brands exceed targets and expectations through creative digital marketing campaigns and experiences.\n\n  ?\nPatch Marketing is a full-service marketing agency working with the best of the UK's event industry. Founded in 2010, our brand has continued to grow from strength to strength as we've kept our values, transparency, honesty, and partnership close to the core of Patch. \n\nWe're a results-driven business filled with a team of consultants and specialists that cover every corner of marketing and can help with everything from multi-channel strategy and planning to overseeing a single channel project.\n\n   ?\n•         Full-service marketing department \n•         Strategy creation and management\n•         Social media marketing \n•         Website management, design and development\n•         SEO\n•         PPC \n•         Content production \n•         Copywriting\n•         Digital advertising \n•         Visual content design \n•         Media buying and planning \n•         Email marketing \n•         Reporting and analysis \n•         Uploading and managing a brand's web presence \n•         Data strategy, acquisition and management \n\nIf you want to learn more about how Patch can help you exceed targets and increase conversions, drop us a line, info@patch.marketing.",
+    "headline": "Managing Director Of Patch",
+    "job_title": "Managing Director",
+    "industry": "Marketing & Advertising",
+    "company_size": "17",
+    "company_technologies": "ai, adobe media optimizer, android, awin, basis, cedexis radar, circle, domo, facebook custom audiences, facebook login (connect), facebook widget, gmail, google analytics, google apps, google font api, google tag manager, hotjar, hubspot, knime, mailchimp, micro, mobile friendly, nginx, remote, render, sisense, splunk, stripe, tiktok, vimeo, webmail, wordpress.org, recaptcha",
+    "city": "Royal Tunbridge Wells",
+    "state": "England",
+    "country": "United Kingdom",
+    "company_full_address": "Patch, The Warehouse, Hill Street, Tunbridge Wells, Kent TN1 2BY, GB",
+    "seniority_level": "director",
+    "company_annual_revenue_clean": "1M",
+    "linkedin": "https://www.linkedin.com/in/jacksonclark",
+    "company_linkedin": "https://www.linkedin.com/company/patchmarketing",
+    "company_founded_year": "2010",
+    "keywords": "seo, pay per click advertising, sem, web design, web development, social media community management, social media strategy, social media marketing, media planning & buying, copywriting, search marketing, social advertising, advertising services, event marketing, venue marketing, saas marketing, digital advertising, ppc, website development, content marketing, media buying, audience engagement, event promotion, lead generation, conversion optimization, customer journey, performance reporting, target market research, brand awareness, market strategy, b2b marketing, b2c marketing, online presence, data-driven approach, multi-channel marketing, advertising campaigns, performance metrics, content strategy, brand positioning, e-commerce solutions, technical seo, local seo, on-page seo, off-page seo, content creation, keyword research, search engine marketing, crowd engagement, event services marketing, digital marketing agency, client management, roi measurement, creative marketing solutions, community engagement, ux optimization, information technology & services, marketing, marketing & advertising, consumer internet, consumers, internet, writing & editing, events, events services, sales",
+    "personalization": "You guys are all about being acronym free and keeping it real, which is pretty rare for marketing agencies.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
