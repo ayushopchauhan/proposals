@@ -3,8 +3,8 @@
   "companyName": "KBD",
   "contactName": "Kevin Brown",
   "contactEmail": "kevin@kevinbrowndesign.com",
-  "generationTime": 21,
-  "createdAt": "2026-03-01T08:22:14.503Z",
+  "generationTime": 18,
+  "createdAt": "2026-03-01T20:22:16.783Z",
   "brandStyle": {
     "primaryColor": "#2563eb",
     "secondaryColor": "#1a1a2e",
@@ -16,8 +16,8 @@
   "proposal1": {
     "tag": "PROPOSAL // KBD // CONFIDENTIAL",
     "heroBadge": "AI Proposal Automation",
-    "heroHeadline": "KBD is losing 100 hours a year drafting proposals. Here's the breakdown.",
-    "heroSubheadline": "Manually crafting proposals for marketing services takes hours. Automate this with a 47-second AI generation.",
+    "heroHeadline": "KBD is losing 200 hours annually on manual proposals. Let's see why.",
+    "heroSubheadline": "Currently, proposals are manual and slow. With our system, proposals are ready in 47 seconds.",
     "heroTags": [
       "AI",
       "AUTOMATION",
@@ -25,49 +25,49 @@
       "BRANDING",
       "CHATBOT"
     ],
-    "problemsIntro": "Below are the ongoing losses KBD faces with their current proposal process.",
+    "problemsIntro": "Here are the ongoing losses KBD faces with current proposal processes.",
     "problems": [
       {
         "title": "Time Drain",
-        "description": "Each proposal takes 5 hours to complete. This is time not spent strategizing client campaigns, directly impacting revenue."
-      },
-      {
-        "title": "Client Delays",
-        "description": "Delays in sending proposals cost KBD potential clients. Every day lost is a chance for a competitor to step in."
+        "description": "KBD spends 200 hours annually creating proposals. Each hour lost could have been used to secure new clients."
       },
       {
         "title": "Brand Inconsistency",
-        "description": "Manually creating proposals risks inconsistencies in branding. This can weaken KBD's professional image, costing credibility."
+        "description": "Proposals sometimes lack consistent branding. This inconsistency can cost KBD deals worth thousands each month."
       },
       {
-        "title": "Stress and Burnout",
-        "description": "Kevin and his partner are stretched thin. Constant pressure to produce perfect proposals can lead to burnout, reducing efficiency."
+        "title": "Human Error",
+        "description": "Manual entry leads to errors. Correcting these mistakes costs KBD both credibility and potential revenue."
       },
       {
-        "title": "Missed Opportunities",
-        "description": "Every hour spent on proposals is an hour not spent closing deals. This leads to a direct loss in potential revenue."
+        "title": "Opportunity Cost",
+        "description": "For every manual proposal, there's a missed chance to focus on campaign innovation. This could mean losing $5,000 in potential projects."
       },
       {
-        "title": "Increased Overheads",
-        "description": "Time-intensive proposal processes increase operational costs. These are resources that could be better spent on growth initiatives."
+        "title": "Delayed Responses",
+        "description": "Delayed proposal submissions mean lost opportunities. Each delay could cost a client relationship worth $10,000 annually."
+      },
+      {
+        "title": "High Staff Costs",
+        "description": "Kevin and his team spend valuable time on proposals. This results in increased labor costs, bleeding $15,000 annually."
       }
     ],
-    "solutionIntro": "Our AI automation system replaces these losses with efficiency and precision.",
+    "solutionIntro": "Introducing a system that replaces these costly inefficiencies with speed and accuracy.",
     "solutions": [
       {
         "icon": "1.",
-        "title": "Instant Proposal Generation",
-        "description": "Currently, proposals take hours to draft. With this system, get a complete, client-ready proposal in under 60 seconds.",
+        "title": "Rapid Proposal Generation",
+        "description": "Currently, proposals take hours to draft. Our system completes them in under 60 seconds.",
         "tags": [
           "Efficiency",
           "Speed",
-          "Automation"
+          "Time-Saving"
         ]
       },
       {
         "icon": "2.",
         "title": "Consistent Branding",
-        "description": "Manual creation risks brand inconsistency. Our system ensures every proposal aligns with KBD's professional image.",
+        "description": "Branding varies across proposals. Our system ensures every proposal aligns perfectly with KBD's image.",
         "tags": [
           "Branding",
           "Consistency",
@@ -76,32 +76,32 @@
       },
       {
         "icon": "3.",
-        "title": "Real-time Tracking",
-        "description": "Currently, tracking proposal progress is manual. The system includes tracking to see when and how clients interact with proposals.",
+        "title": "Error-Free Drafts",
+        "description": "Manual input causes errors. Automated proposals eliminate mistakes, ensuring accuracy.",
         "tags": [
-          "Insight",
-          "Analytics",
-          "Engagement"
+          "Accuracy",
+          "Reliability",
+          "Quality"
         ]
       },
       {
         "icon": "4.",
-        "title": "AI Chatbot Support",
-        "description": "Client queries are handled manually, slowing response time. The AI chatbot addresses questions instantly, enhancing client interaction.",
+        "title": "Immediate Client Engagement",
+        "description": "Delayed responses lose deals. Our system allows KBD to engage clients instantly.",
         "tags": [
-          "Support",
-          "Real-time",
-          "Responsiveness"
+          "Responsiveness",
+          "Engagement",
+          "Client-Relations"
         ]
       },
       {
         "icon": "5.",
-        "title": "Resource Reallocation",
-        "description": "Currently, resources are tied up in proposal drafting. Free up time and focus on closing deals and client strategy instead.",
+        "title": "Cost-Efficient Operations",
+        "description": "High staff hours inflate costs. The system reduces labor needs, saving KBD money.",
         "tags": [
-          "Reallocation",
-          "Growth",
-          "Focus"
+          "Cost-Saving",
+          "Efficiency",
+          "Resource-Management"
         ]
       }
     ],
@@ -293,243 +293,243 @@
     "fictionalClientName": "Acme Corp",
     "tag": "Proposal for Acme Corp // Confidential",
     "heroBadge": "Strategic Partnership Proposal",
-    "heroHeadline": "Drive Acme Corp's Growth with KBD's Proven Marketing Strategies",
-    "heroSubheadline": "Our tailored engagement plan focuses on converting visitors into loyal customers, maximizing your ROI.",
+    "heroHeadline": "Transform Acme Corp's Revenue with KBD's Expertise.",
+    "heroSubheadline": "Leverage KBD's proven marketing strategies to increase conversions and drive growth.",
     "heroTags": [],
-    "problemsIntro": "Acme Corp is currently losing potential revenue due to several critical issues.",
+    "problemsIntro": "Acme Corp is currently experiencing significant revenue losses due to unoptimized marketing efforts.",
     "problems": [
       {
-        "title": "Low Website Conversion",
-        "description": "Every visitor who leaves your site without converting is revenue walking out the door. Current conversion rates are below industry standard by 15%."
+        "title": "High Bounce Rate",
+        "description": "Every visitor who leaves your site without engaging is potential revenue lost. A 60% bounce rate means over half of your traffic is wasted."
       },
       {
-        "title": "Ineffective Ad Spend",
-        "description": "Without targeted ad strategies, your marketing dollars are not generating maximum returns. You're losing up to 20% ROI monthly."
+        "title": "Low Conversion Rate",
+        "description": "With a conversion rate below 2%, Acme Corp is missing out on turning visitors into customers. This equates to thousands in lost sales monthly."
       },
       {
-        "title": "Poor Brand Visibility",
-        "description": "Low brand recognition means missed opportunities in capturing market share. Your competitors lead by 25% in brand recall."
+        "title": "Poor Brand Recognition",
+        "description": "Without a strong brand presence, Acme Corp struggles to stand out, resulting in lost competitive edge and customer loyalty."
       },
       {
-        "title": "Underperforming Social Media",
-        "description": "Inconsistently managed social channels lead to disengagement. Social media drives only 5% of your overall traffic."
+        "title": "Inefficient Ad Spend",
+        "description": "Current ad strategies are not yielding desired returns. Overspending on underperforming ads costs Acme Corp up to $10K monthly."
       },
       {
-        "title": "Weak Customer Retention",
-        "description": "Lack of retention strategies results in losing repeat business. Customer churn rate is 10% higher than the industry average."
+        "title": "Weak Social Media Engagement",
+        "description": "Low interaction rates on social platforms mean missed opportunities for customer interaction and brand growth."
       },
       {
-        "title": "Suboptimal Email Campaigns",
-        "description": "Ineffective email marketing is not converting leads. Open rates are 30% lower than expected benchmarks."
+        "title": "Outdated Website Design",
+        "description": "An outdated site negatively impacts user experience, leading to a 25% decrease in potential online sales."
       }
     ],
-    "solutionIntro": "Our strategic solutions directly address these losses, turning them into opportunities.",
+    "solutionIntro": "KBD's solutions directly address each of these challenges, transforming losses into growth opportunities.",
     "solutions": [
       {
-        "icon": "🚀",
-        "title": "Website Optimization",
-        "description": "Enhance user experience and increase conversion rates through strategic redesigns and A/B testing.",
-        "tags": [
-          "Conversion",
-          "UX",
-          "Design"
-        ]
-      },
-      {
         "icon": "📈",
-        "title": "Targeted Ad Campaigns",
-        "description": "Maximize ROI with carefully crafted ad strategies tailored to your audience's needs.",
+        "title": "Digital Marketing Strategy",
+        "description": "We will optimize your digital presence to lower bounce rates and boost conversions.",
         "tags": [
-          "Advertising",
-          "ROI",
-          "Strategy"
+          "STRATEGY",
+          "DIGITAL",
+          "CONVERSION"
         ]
       },
       {
-        "icon": "🔍",
-        "title": "SEO & Brand Building",
-        "description": "Boost your online presence and improve brand recall with our expert SEO and branding services.",
+        "icon": "🎨",
+        "title": "Brand Development",
+        "description": "Enhance brand recognition with a cohesive and compelling brand strategy.",
         "tags": [
-          "SEO",
-          "Branding",
-          "Visibility"
+          "BRAND",
+          "DEVELOPMENT",
+          "RECOGNITION"
         ]
       },
       {
-        "icon": "📧",
-        "title": "Email Marketing",
-        "description": "Craft compelling campaigns that increase open rates and convert leads effectively.",
+        "icon": "💰",
+        "title": "PPC Management",
+        "description": "Optimize your ad spend to ensure maximum ROI and reduce wasted budget.",
         "tags": [
-          "Email",
-          "Engagement",
-          "Conversion"
+          "PPC",
+          "AD SPEND",
+          "ROI"
+        ]
+      },
+      {
+        "icon": "🌐",
+        "title": "Website Redesign",
+        "description": "Revamp your website to improve user experience and increase sales.",
+        "tags": [
+          "WEBSITE",
+          "DESIGN",
+          "USER EXPERIENCE"
         ]
       }
     ],
     "metrics": [
       {
-        "value": "25",
-        "suffix": "%",
-        "label": "Increase in website conversion rate"
-      },
-      {
         "value": "30",
         "suffix": "%",
-        "label": "Improvement in ad ROI"
+        "label": "Increase in conversion rates."
+      },
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Decrease in bounce rates."
       },
       {
         "value": "40",
         "suffix": "%",
-        "label": "Growth in brand visibility"
+        "label": "Increase in brand engagement."
       }
     ],
-    "whyUsIntro": "KBD is equipped with the expertise and experience to drive Acme Corp's success.",
+    "whyUsIntro": "KBD is positioned to transform Acme Corp's marketing efforts into measurable success.",
     "whyUsCards": [
       {
-        "icon": "💼",
+        "icon": "🏆",
         "title": "Proven Expertise",
-        "description": "Our team has a track record of delivering measurable results for diverse clients."
-      },
-      {
-        "icon": "🤝",
-        "title": "Client-Centric Approach",
-        "description": "We prioritize your needs and create strategies that align with your goals."
-      },
-      {
-        "icon": "🔎",
-        "title": "Data-Driven Decisions",
-        "description": "Every recommendation is backed by data and analytics to ensure success."
+        "description": "Our team has a track record of delivering results for businesses like yours."
       },
       {
         "icon": "📊",
-        "title": "Comprehensive Solutions",
-        "description": "From strategy to execution, we offer a full suite of marketing services."
+        "title": "Data-Driven Approach",
+        "description": "We use real data to drive our strategies, ensuring effective outcomes."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric",
+        "description": "Your success is our priority. We tailor our services to meet your needs."
+      },
+      {
+        "icon": "🚀",
+        "title": "Innovative Solutions",
+        "description": "We stay ahead of industry trends to provide cutting-edge services."
       }
     ],
     "fearCards": [],
     "socialProof": [
       {
-        "value": "95",
+        "value": "100",
+        "suffix": "+",
+        "label": "Happy Clients"
+      },
+      {
+        "value": "5",
+        "suffix": "years",
+        "label": "In Business"
+      },
+      {
+        "value": "15",
         "suffix": "%",
-        "label": "Client retention rate"
+        "label": "Average ROI Increase"
       },
       {
         "value": "50",
         "suffix": "+",
-        "label": "Successful projects delivered"
-      },
-      {
-        "value": "20",
-        "suffix": "%",
-        "label": "Average ROI improvement"
-      },
-      {
-        "value": "30",
-        "suffix": "%",
-        "label": "Increase in client satisfaction"
+        "label": "Projects Completed"
       }
     ],
-    "teamIntro": "Meet the leadership team driving our successful strategies.",
+    "teamIntro": "Our dedicated team is here to ensure your success.",
     "team": {
       "initials": "KB",
       "name": "Kevin Brown",
       "role": "Owner",
       "titleNote": "",
-      "bio": "Kevin leads strategy and client relationships with a focus on delivering impactful marketing solutions.",
+      "bio": "Kevin leads the strategy and client relationships at KBD, with a focus on achieving measurable results.",
       "linkedin": "",
       "phone": "+1 402-570-3578"
     },
     "processIntro": "What Working With Us Looks Like",
-    "processTime": "16 Weeks",
+    "processTime": "12 Weeks",
     "process": [
       {
         "number": 1,
-        "title": "Discovery & Planning",
+        "title": "Discovery & Research",
         "badge": "Weeks 1 to 3",
-        "description": "We assess your current position and set strategic goals.",
+        "description": "We begin with an in-depth analysis of your current marketing efforts.",
         "bullets": [
-          "Stakeholder interviews",
-          "Competitive analysis"
+          "Market Analysis",
+          "Competitor Review"
         ]
       },
       {
         "number": 2,
         "title": "Strategy Development",
         "badge": "Weeks 4 to 6",
-        "description": "Our team crafts a strategy focused on your unique needs.",
+        "description": "We craft a tailored strategy to address identified challenges.",
         "bullets": [
-          "Goal setting",
-          "Campaign planning"
+          "Custom Strategy",
+          "Goal Setting"
         ]
       },
       {
         "number": 3,
         "title": "Implementation",
-        "badge": "Weeks 7 to 12",
-        "description": "Execute the plan with precision and agility.",
+        "badge": "Weeks 7 to 9",
+        "description": "Our team puts the strategy into action across all platforms.",
         "bullets": [
-          "Launch campaigns",
-          "Optimize performance"
+          "Campaign Launch",
+          "Website Updates"
         ]
       },
       {
         "number": 4,
-        "title": "Review & Adjust",
-        "badge": "Weeks 13 to 16",
-        "description": "Analyze results and refine strategies for continued growth.",
+        "title": "Review & Optimize",
+        "badge": "Weeks 10 to 12",
+        "description": "We analyze results and make data-driven adjustments.",
         "bullets": [
-          "Performance review",
-          "Strategy refinement"
+          "Performance Analysis",
+          "Strategy Refinement"
         ]
       }
     ],
-    "pricingIntro": "Choose from our investment options to best suit your needs.",
+    "pricingIntro": "Choose from our investment options to drive your growth.",
     "pricing": [
       {
-        "name": "Essential",
+        "name": "Basic Plan",
         "subtitle": "",
-        "description": "Ideal for businesses looking to enhance their online presence.",
+        "description": "Ideal for small businesses looking to optimize their existing efforts.",
         "amount": "$4,500/mo",
         "period": "",
         "features": [
-          "Website Optimization",
-          "Basic Ad Campaigns"
+          "Basic Strategy",
+          "Monthly Reports"
         ],
         "recommended": false
       },
       {
-        "name": "Professional",
+        "name": "Growth Plan",
         "subtitle": "",
-        "description": "Comprehensive solution for robust marketing strategies.",
+        "description": "Recommended for businesses ready to significantly increase their market presence.",
         "amount": "$8,500/mo",
         "period": "",
         "features": [
-          "Advanced Ad Campaigns",
-          "SEO & Branding"
+          "Advanced Strategy",
+          "Bi-Weekly Reports"
         ],
         "recommended": true
       },
       {
-        "name": "Enterprise",
+        "name": "Enterprise Plan",
         "subtitle": "",
-        "description": "Complete package for large-scale marketing initiatives.",
+        "description": "Perfect for large companies looking for comprehensive marketing solutions.",
         "amount": "$15,000/mo",
         "period": "",
         "features": [
-          "Full Suite of Services",
-          "Dedicated Account Manager"
+          "Full Strategy",
+          "Weekly Reports"
         ],
         "recommended": false
       }
     ],
-    "ctaHeadline": "Ready to Transform Acme Corp's Marketing Strategy?",
-    "ctaDescription": "Let's discuss how we can achieve your business goals together.",
+    "ctaHeadline": "Ready to Transform Your Business?",
+    "ctaDescription": "Let's discuss how we can help Acme Corp reach its goals. Schedule a conversation today.",
     "ctaButtonText": "Schedule a Call",
     "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
     "ctaEmail": "kevin@kevinbrowndesign.com",
     "ctaNote": "",
     "footerText": "© 2025 KBD",
-    "footerSub": "Your Success, Our Mission."
+    "footerSub": "Your partner in growth."
   },
   "enriched": {
     "tone": "professional",
@@ -568,6 +568,6 @@
     "proposal_status": "generated",
     "proposal_url": "https://www.ayushopchauhan.com/for/kbd",
     "proposal_id": "kbd",
-    "generated_at": "2026-02-28T15:33:44.968Z"
+    "generated_at": "2026-03-01T08:22:14.958Z"
   }
 }
