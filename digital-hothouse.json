@@ -1,195 +1,573 @@
 {
   "slug": "digital-hothouse",
   "companyName": "Digital Hothouse",
-  "contactName": "Paul",
+  "contactName": "Paul Thornton",
   "contactEmail": "paul@digitalhothouse.co.nz",
-  "generationTime": 69,
-  "createdAt": "2026-02-25T15:38:16.675Z",
+  "generationTime": 28,
+  "createdAt": "2026-03-02T17:06:17.902Z",
   "brandStyle": {
-    "primaryColor": "#e60574",
-    "secondaryColor": "#eae2ff",
-    "accentColor": "#b9beff",
+    "primaryColor": "#979797",
+    "secondaryColor": "#e60574",
+    "accentColor": "#4a4a4a",
     "headingFont": "Inter",
-    "bodyFont": "slick"
+    "bodyFont": "slick",
+    "logoUrl": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUwIiBoZWlnaHQ9IjcwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNjAuODI4IDIyLjAyYy0xLjgxMiAwLTMuNDEgMS42MTgtMy40MSAzLjQyOSAwIDEuOTYyIDEuNDcgMy42MDMgMy40NTIgMy42MDMgMS45NjIgMCAzLjQ5Ni0xLjU5OSAzLjQ5Ni0zLjUzOCAwLTEuOTYtMS42LTMuNDk0LTMuNTM4LTMuNDk0Wm02LjE4MyA5LjQxOWgtMi42MDN2LTEuNmMtLjg3NSAxLjMwMy0yLjQzIDEuOTgyLTMuOTY0IDEuOTgyLTEuNzI2IDAtMy4yMTgtLjc4Ny00LjI2Mi0xLjk4MmE2LjU0NCA2LjU0NCAwIDAgMS0xLjU5OS00LjI2MmMwLTEuNTc3LjUzMy0zLjEzMiAxLjU5OS00LjMyNiAxLjA2Ny0xLjE5MiAyLjcyNy0yLjAwMyA0LjM0Ni0yLjAwMyAxLjM2NiAwIDIuNzUuNTU0IDMuNjQ3IDEuNlYxNS42OWgyLjgzNnYxNS43NDlaTTY5LjM3MyAzMS40MzhoMi44MzVWMTkuNjMyaC0yLjgzNXYxMS44MDZabTAtMTMuMTY5aDIuODM1di0yLjU4aC0yLjgzNXYyLjU4Wk04MC4zNjkgMjIuMDJjLS45MTYgMC0xLjc5LjQwMy0yLjQwOCAxLjA0NC0uNjYuNjgxLS45MzggMS40Ny0uOTM4IDIuNDA3IDAgMi4wNDYgMS41MTIgMy41OCAzLjU2IDMuNTggMS44NzUgMCAzLjMyNC0xLjY2MSAzLjMyNC0zLjQ3NCAwLTIuMDIzLTEuNTM1LTMuNTU3LTMuNTM4LTMuNTU3Wm02LjIwMy0yLjM4N3YxMC4wMTVjMCAxLjgzMy0uMzg2IDMuMjE4LTEuNjY1IDQuNTYtMS4yMTMgMS4yNTctMi45MTggMi4wMjUtNC42ODggMi4wMjUtMi40OSAwLTQuOTg0LTEuNTEyLTUuODYyLTMuODk5aDMuMjJjLjYzOC42OCAxLjcyOCAxLjEyOSAyLjY0MiAxLjEyOS45NCAwIDEuOTYzLS4zNDEgMi42NDQtLjk4Ljg1NC0uNzg5Ljk1OC0xLjU5OSAxLjEzLTIuNjg1LS45OCAxLjIxNS0yLjE5NSAyLjAyMy0zLjgxNCAyLjAyMy0xLjQ5NiAwLTMuMTk3LS43ODctNC4yMjMtMS44NTMtMS4xNy0xLjIxNS0xLjc2NS0yLjkyLTEuNzY1LTQuNjAyIDAtMS41NTcuNTk1LTMuMDA2IDEuNTczLTQuMTE1IDEuMTEtMS4yMTQgMi43MDktMi4wMDMgNC40NzctMi4wMDMgMS41MzYgMCAyLjk4Ni42NCAzLjczIDIuMDAzdi0xLjYxOWgyLjYwMVpNODguOTc4IDMxLjQzOGgyLjgzNFYxOS42MzJoLTIuODM0djExLjgwNlptMC0xMy4xNjloMi44MzR2LTIuNThoLTIuODM0djIuNThaTTk0LjczNSAyMi4xNDZoLTEuMzg4di0yLjUxNGgxLjM4OFYxNS42OWgyLjgzMnYzLjk0MmgxLjcwNHYyLjUxNGgtMS43MDR2OS4yOTJoLTIuODMydi05LjI5MlpNMTA2Ljc3MSAyMi4wMmMtMi4wODctLjAyMy0zLjUzNiAxLjU1NC0zLjUzNiAzLjYyMyAwIDEuOTM4IDEuNTc5IDMuNDMgMy40OTQgMy40MDkgMi4wNDYuMDIgMy40NTMtMS41MTQgMy40NTMtMy41MzggMC0xLjk4Mi0xLjQwNy0zLjUxNy0zLjQxMS0zLjQ5NFptNi4wOTUgOS40MTloLTIuNTk3di0xLjZjLS44OTkgMS4yMTUtMi41NiAxLjk4Mi00LjA1MSAxLjk4Mi0xLjgzMiAwLTMuMzIzLS43NjctNC4zNDctMS45ODItLjkzNy0xLjEyOC0xLjQ2OS0yLjY2My0xLjQ2OS00LjMwNCAwLTEuNjQyLjQyNS0zLjAwNSAxLjUxLTQuMjQgMS4xOTUtMS4zODcgMi42NjQtMi4wNDcgNC4zOTItMi4wNDcgMS42MTcgMCAzLjAyNi43MjYgMy45NjUgMi4wNDd2LTEuNjYzaDIuNTk3VjMxLjQ0Wk0xMTUuMTg4IDMxLjQzOWgyLjgzN3YtMTUuNzVoLTIuODM3djE1Ljc1Wk01NS4wOTQgMzcuNzE3aDIuODM1djQuODM4Yy42MzgtLjg3NCAxLjk4MS0xLjI4IDMuMDIzLTEuMjggMS4yODQgMCAyLjY0Ny42MiAzLjQ3NyAxLjU3OCAxLjA4NyAxLjIzNiAxLjEzIDIuNjQ0IDEuMTMgNC4yMjF2Ni4zOTFoLTIuODM1VjQ3LjY5YzAtMS43NjctLjE5Mi0zLjY0Mi0yLjQwNy0zLjY0Mi0uODEgMC0xLjQ5My4zNDItMS45NCAxLjAyNC0uNDcuNzQ1LS40NDggMS44My0uNDQ4IDIuNjYzdjUuNzMxaC0yLjgzNVYzNy43MTdaTTcxLjM5NyA0NS4xMzRjLS42NTkuNjYtLjk3OSAxLjUxMi0uOTc5IDIuNDUxIDAgMS44OTcgMS40NzIgMy40OTMgMy40MSAzLjQ5MyAyLjAwMyAwIDMuNDczLTEuNTEyIDMuNDczLTMuNDkzIDAtMS45NC0xLjUxNC0zLjUzNy0zLjQ3NC0zLjUzNy0uODc0IDAtMS44MzQuNDQ3LTIuNDMgMS4wODZabTguNzM4IDIuNDUxYzAgMy40OTMtMi44MzQgNi4yNjUtNi4zMDggNi4yNjUtMy40MDkgMC02LjI0My0yLjgzMy02LjI0My02LjI2NSAwLTMuNTM3IDIuODM0LTYuMzA5IDYuMzcxLTYuMzA5IDMuNDcgMCA2LjE4IDIuODggNi4xOCA2LjMxWk04Mi4zNzMgNDQuMTc0aC0xLjM4N1Y0MS42NmgxLjM4NnYtMy45NDNoMi44MzZ2My45NDNoMS43MDV2Mi41MTRoLTEuNzA1djkuMjloLTIuODM1di05LjI5Wk04OC41NTQgMzcuNzE3aDIuODM0djQuODM4Yy42NC0uODc0IDEuOTgxLTEuMjggMy4wMjYtMS4yOCAxLjI4IDAgMi42NDQuNjIgMy40NzMgMS41NzggMS4wODYgMS4yMzYgMS4xMyAyLjY0NCAxLjEzIDQuMjIxdjYuMzkxaC0yLjgzM1Y0Ny42OWMwLTEuNzY3LS4xOTItMy42NDItMi40MS0zLjY0Mi0uODEgMC0xLjQ5MS4zNDItMS45MzggMS4wMjQtLjQ3Ljc0NS0uNDQ4IDEuODMtLjQ0OCAyLjY2M3Y1LjczMWgtMi44MzRWMzcuNzE3Wk0xMDQuODUyIDQ1LjEzNGMtLjY1Ni42Ni0uOTc4IDEuNTEyLS45NzggMi40NTEgMCAxLjg5NyAxLjQ3MiAzLjQ5MyAzLjQxMSAzLjQ5MyAyLjAwMSAwIDMuNDczLTEuNTEyIDMuNDczLTMuNDkzIDAtMS45NC0xLjUxMS0zLjUzNy0zLjQ3My0zLjUzNy0uODc0IDAtMS44MzMuNDQ3LTIuNDMzIDEuMDg2Wm04Ljc0IDIuNDUxYzAgMy40OTMtMi44MzQgNi4yNjUtNi4zMDcgNi4yNjUtMy40MTEgMC02LjI0NC0yLjgzMy02LjI0NC02LjI2NSAwLTMuNTM3IDIuODMzLTYuMzA5IDYuMzctNi4zMDkgMy40NzQgMCA2LjE4MSAyLjg4IDYuMTgxIDYuMzFaTTEyNS45MSA0MS42NnYxMS44MDVoLTIuNjAxVjUyLjIxYy0uNjQgMS4xNS0xLjc0NiAxLjY0MS0zLjA0OCAxLjY0MS0xLjQwOCAwLTIuNzQ4LS41MzQtMy43MjctMS42NDEtMS4wNjctMS4xMy0xLjEzNC0yLjM2NS0xLjEzNC0zLjg4di02LjY3aDIuODM2djUuNzk4YzAgLjcyNC4wMjIgMS43MjUuMzY1IDIuNDA4LjM4Mi43NjYgMS4xNDkgMS4yMTQgMi4wMjQgMS4yMTQgMi4xNTIgMCAyLjQ1MS0xLjk0IDIuNDUxLTMuNjIyVjQxLjY2aDIuODM0Wk0xMzMuMTEzIDQ0Ljg5OWMtLjA4Ni0uNTUzLS41NTUtLjg1Mi0xLjA4Ni0uODUyLS42MTkgMC0xLjEzMS4zNjItMS4xMSAxLS4wMjEuNzkxIDEuMDI0Ljk4MyAxLjYwMSAxLjE1NSAxLjg5NS41NzIgMy42ODQgMS4yMTIgMy42ODQgMy41NzYgMCAxLjExLS40MDQgMi4wNy0xLjE5MyAyLjgzNS0uNzg4LjcyNC0xLjk4MiAxLjIzNy0zLjA2OCAxLjIzNy0yLjQxIDAtNC4xOTktMS42NjItNC4yODQtNC4wOWgyLjg5OWMuMTQ5Ljc0My42NjIgMS4zMTkgMS40OTEgMS4zMTkuNjgxIDAgMS4zMjMtLjM4NCAxLjMyMy0xLjEyOCAwLS45ODEtMS4yNTktMS4yOC0yLjAwMy0xLjUzNS0uODc2LS4yNzctMS40MDctLjQyNy0yLjEzMy0xLjAyNC0uNzY2LS42NC0xLjE0OS0xLjQ3LTEuMTQ5LTIuNDcgMC0yLjE5NyAxLjg5My0zLjY0NiAzLjk4NC0zLjY0NiAxLjk1OCAwIDMuODE1IDEuNTk3IDMuODE1IDMuNjIzaC0yLjc3MVpNMTQ2Ljk0NCA0Ni4zMDVjLS40NzItMS40MDYtMS43NjktMi4yNTgtMy4yMTktMi4yNTgtMS40MDYgMC0yLjg1Ni44OTUtMy4yODIgMi4yNThoNi41MDFabS02LjQ1OCAyLjUxNWMuNDI3IDEuMzY0IDEuNjg0IDIuMjU5IDMuMTExIDIuMjU5IDEuMDY5IDAgMi4wODktLjQwNSAyLjY0Mi0xLjAyMmgzLjEzM2MtLjcyNSAyLjEwOS0zLjE3NCAzLjc5My01LjY2OCAzLjc5My0zLjQzIDAtNi4yMjEtMi43NzEtNi4yMjEtNi4yIDAtMy40OTUgMi43MjctNi4zNzQgNi4yNjUtNi4zNzQgMy4zNjggMCA2LjA1MiAyLjg5OCA2LjA1MiA2LjIwMSAwIC40NDgtLjA4OC44OTUtLjE1MSAxLjM0M2gtOS4xNjNaTTE4LjU1IDQ3LjYzMmE3LjQ1OSA3LjQ1OSAwIDAgMS0yLjIyOC0xMC4zMSA3LjQ2IDcuNDYgMCAxIDEgMi4yMjggMTAuMzFaTTM1LjAyIDQyLjQ2cy4wMTUtMzAuNTMuMDUtMzIuMDE3Yy0yLjA4NCAxLjYwNC01LjY5NSAzLjI2Mi01LjY5NSAzLjI2MmwtLjAxIDE3LjE4LS4wMTMtLjAxM2MtNS43OTUtMy43MzQtMTMuNTE2LTIuMDYzLTE3LjI1MiAzLjczLTMuNzMyIDUuNzkxLTIuMDY1IDEzLjUxMyAzLjczIDE3LjI0OCA1Ljc5MyAzLjczMyAxMy41MTUgMi4wNjcgMTcuMjUtMy43MjRhMTIuNDE2IDEyLjQxNiAwIDAgMCAxLjk0LTUuNjY2WiIgZmlsbD0iI0U2MDU3NCIvPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJtNDQuOTgyIDM2Ljg0Ny0uMDA3LTM1LjcyOWMwLTEuNTA2LTIuMDI0LTEuNDk5LTIuMTg3LjA3My0uNDM4IDQuMjMtMy40NCA2LjI4LTMuNDQgNi4yOGwtLjAwOSAzNC42NzNhMTYuOCAxNi44IDAgMCAxLTIuNjU4IDguMjkyYy01LjA0OCA3LjgzLTE1LjQ4NyAxMC4wODctMjMuMzE4IDUuMDM3LTcuODMtNS4wNDgtMTAuMDg4LTE1LjQ4Ny01LjA0LTIzLjMxN2ExNi44MSAxNi44MSAwIDAgMSA2LjIzNi01Ljc0M2wyLjYyOS0xLjEyNWExNi45NCAxNi45NCAwIDAgMSA3Ljk4Mi0uNjQ1bC4xNDgtOS4xODctMTEuNTE1IDUuMjczYTIyLjIxNyAyMi4yMTcgMCAwIDAtMTAuMDcgOC40NjdjLTUuNTQxIDguNTkyLTUuMjggMTkuMDA4IDMuMjcgMjguNzc4IDEuOTQ3IDIuMjI3IDIuMzg2IDUuMzUgMi4zODYgNy42NDcgMCAxLjI2Ny0uMzMgMi42OTkuODM4IDMuMjQ1IDEuMTY2LjU0OCAxLjk4Ni0uNjM2IDMuMTcyLTEuNzEzIDIuMDA1LTEuODIzIDQuNzktMy41NDggNi43MS0zLjYxIDYuOTI3LS4yMjQgMTQuNTQ3LjE4MiAyMS4xNjMtMTAuMTQ3IDIuNzE5LTQuMjQ4IDMuODEyLTEwLjg4NyAzLjcxLTE2LjU0OVoiIGZpbGw9IiNFNjA1NzQiLz48L3N2Zz4="
   },
-  "proposal": {
-    "fictionalClientName": "StyleMakers Online Ltd",
-    "fictionalClientIndustry": "E-commerce Fashion Retail",
-    "fictionalClientDescription": "StyleMakers Online Ltd is a UK-based, fast-growing e-commerce retailer specialising in sustainable, trend-driven fashion for women aged 18-35. They have established a loyal customer base through social media and influencer collaborations and are now looking to drive greater online visibility and conversion to support their next stage of growth.",
-    "coverHeadline": "Unlocking Sustainable Growth for StyleMakers Online",
-    "coverSubheadline": "A Bespoke Digital Strategy to Boost Your Brand, Traffic, and Sales",
-    "coverDate": "February 25, 2026",
-    "clientOverview": "StyleMakers Online Ltd has rapidly carved out a niche in the competitive UK fashion e-commerce sector by championing sustainability, ethical sourcing, and on-trend designs. With a Shopify-powered website, an engaged Instagram following, and a growing catalogue of influencer partnerships, your brand is well-placed to capture even more market share among digitally-savvy, eco-conscious shoppers. \n\nAs you prepare to scale, your focus is shifting from organic growth to strategic, sustainable expansion. You’ve identified the need to amplify your online presence, streamline your customer journey, and maximise the impact of every marketing pound. StyleMakers Online’s leadership is clear: future growth depends on measurable increases in qualified site traffic, higher conversion rates, and building a reputation as a go-to destination for sustainable fashion.",
-    "problemAnalysis": "Despite your early success, StyleMakers Online faces several challenges typical of ambitious e-commerce brands. Your organic search visibility is not yet matching your competitors, particularly for high-intent keywords like 'sustainable dresses UK' and 'eco-friendly fashion online.' While your Instagram engagement is strong, it’s not consistently translating into website visits or sales, suggesting a gap between social and site experience.\n\nAdditionally, your current Google Ads campaigns are delivering some results, but cost-per-acquisition is higher than industry benchmarks, and you’re not seeing the full benefit of remarketing or shopping ads. On the technical front, your Shopify site has grown quickly, but there are signs of missed SEO opportunities: slow-loading category pages, thin product descriptions, and a lack of structured content. These factors are limiting your ability to capitalise on growing consumer demand for sustainable fashion.",
-    "opportunitySection": "With a focused, joined-up digital strategy, StyleMakers Online can outpace larger competitors and become the top-of-mind choice for eco-conscious shoppers. By enhancing your SEO foundations, improving your paid media efficiency, and integrating content marketing with social campaigns, there is significant scope to increase both site traffic and conversion rates. \n\nOur approach is all about practical, measurable gains. We’ll work closely with you to prioritise the highest-impact opportunities—whether that’s optimising your Shopify store for search, refining your Google Ads targeting, or developing authoritative, shareable content that positions you as a leader in sustainable fashion. \n\nUltimately, our goal is simple: to help StyleMakers Online achieve sustainable, profitable growth without locking you into restrictive contracts or generic strategies. We’ll deliver transparent reporting, actionable insights, and ongoing optimisation to ensure every channel supports your wider business ambitions.",
-    "recommendedServices": [
+  "proposal1": {
+    "tag": "PROPOSAL // DIGITAL HOTHOUSE // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Digital Hothouse is losing 500 hours a year on manual proposals. Here's the breakdown.",
+    "heroSubheadline": "Creating bespoke proposals manually takes hours away from optimizing SEO and Google Adwords. Automated in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Each issue below represents a bleeding resource, not just an inconvenience.",
+    "problems": [
       {
-        "name": "SEO & Technical Optimisation",
-        "description": "We will audit and optimise your Shopify site to improve organic visibility, focusing on both on-page enhancements and technical SEO fixes. This will help you rank higher for key product and category terms, driving more qualified traffic.",
-        "deliverables": [
-          "Comprehensive SEO audit and prioritised action plan",
-          "On-page optimisation of core product and category pages",
-          "Technical fixes (site speed, structured data, mobile usability)",
-          "Keyword research tailored to sustainable fashion",
-          "Monthly performance reporting"
+        "title": "Time Drain",
+        "description": "Spending over 10 hours a week crafting proposals means 520 hours a year lost. That's time not spent improving client campaigns."
+      },
+      {
+        "title": "Opportunity Cost",
+        "description": "For every hour spent on proposals, Digital Hothouse could be closing new deals. Estimated loss: 20% of potential new business annually."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Manually maintaining brand consistency in proposals is error-prone. Inconsistencies can lead to lost trust and missed opportunities."
+      },
+      {
+        "title": "Client Frustration",
+        "description": "Delayed proposals mean frustrated clients who may look elsewhere. This risks the loss of up to 15% of repeat business."
+      },
+      {
+        "title": "High Labor Cost",
+        "description": "At an average hourly rate of $50, the annual cost of manual proposal generation reaches $26,000. Money that could enhance service offerings."
+      },
+      {
+        "title": "Lack of Tracking",
+        "description": "Without proposal tracking, understanding client engagement is impossible. This can lead to a 10% increase in lost follow-up opportunities."
+      }
+    ],
+    "solutionIntro": "Our AI automation system replaces these losses with efficient, branded solutions.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, crafting proposals manually is a slow process. With this system, generate complete proposals in under 60 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Time Saving"
         ]
       },
       {
-        "name": "Google Ads Management & Optimisation",
-        "description": "Our team will restructure and manage your Google Ads account to reduce acquisition costs and increase ROI, focusing on high-intent search, shopping, and remarketing campaigns.",
-        "deliverables": [
-          "Account audit and campaign rebuild",
-          "Targeted Search and Shopping ad campaigns",
-          "Remarketing setup and creative refresh",
-          "Ongoing bid and budget optimisation",
-          "Transparent monthly reporting"
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Manual proposals risk brand inconsistencies. Our system ensures every proposal is on-brand and client-ready.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
         ]
       },
       {
-        "name": "Content Marketing & Social Integration",
-        "description": "We’ll develop and execute a content calendar designed to educate, inspire, and convert—bridging the gap between your social channels and website, and building authority around your sustainability mission.",
-        "deliverables": [
-          "Monthly blog content and case studies",
-          "Shareable guides and lookbooks",
-          "Influencer collaboration strategy",
-          "Social-to-site content integration",
-          "Performance tracking and reporting"
+        "icon": "3.",
+        "title": "Increased Client Satisfaction",
+        "description": "Delayed proposals frustrate clients. Automated proposals ensure clients receive timely, accurate documents.",
+        "tags": [
+          "Client Satisfaction",
+          "Speed",
+          "Reliability"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Cost Efficiency",
+        "description": "Current manual processes incur high labor costs. Automation drastically reduces these expenses, freeing up resources.",
+        "tags": [
+          "Cost Saving",
+          "Resource Allocation",
+          "Efficiency"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Advanced Proposal Tracking",
+        "description": "Without tracking, engagement insights are missed. Our system provides detailed tracking for better client follow-up.",
+        "tags": [
+          "Tracking",
+          "Insights",
+          "Engagement"
         ]
       }
     ],
-    "implementationPhases": [
+    "metrics": [
       {
-        "phaseNumber": 1,
-        "phaseName": "Discovery & Strategy Alignment",
-        "duration": "Weeks 1-2",
-        "description": "We’ll kick off with a strategy workshop to align on your business goals, review analytics, and prioritise quick wins. This phase includes a thorough audit of your website, SEO, and paid media accounts.",
-        "milestones": [
-          "Strategy alignment workshop",
-          "SEO & PPC audits delivered"
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
         ]
       },
       {
-        "phaseNumber": 2,
-        "phaseName": "Foundational Optimisation",
-        "duration": "Weeks 3-6",
-        "description": "We’ll implement priority SEO fixes, rebuild your Google Ads campaigns, and roll out the first wave of optimised content. Technical improvements and tracking enhancements will be completed.",
-        "milestones": [
-          "Technical SEO improvements live",
-          "Rebuilt Google Ads campaigns launched",
-          "First blog and content assets published"
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
         ]
       },
       {
-        "phaseNumber": 3,
-        "phaseName": "Growth & Continuous Optimisation",
-        "duration": "Weeks 7-12",
-        "description": "We’ll focus on scaling your campaigns, expanding content production, and ongoing optimisation. Reporting and review sessions will ensure you have full transparency and input at every stage.",
-        "milestones": [
-          "Monthly reporting delivered",
-          "Content calendar in motion",
-          "Quarterly strategy review"
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
         ]
       }
     ],
-    "timelineTotal": "12 weeks",
-    "pricingTiers": [
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
       {
-        "tierName": "Foundation",
-        "price": "£3,500",
-        "description": "Best for brands looking to address core SEO and paid media basics with a targeted approach.",
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Digital Hothouse's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
         "features": [
-          "SEO audit and 10 page optimisations",
-          "Google Ads account audit and restructure",
-          "2 blog posts per month",
-          "Monthly reporting"
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
         ],
         "recommended": false
       },
       {
-        "tierName": "Growth",
-        "price": "£6,500",
-        "description": "Our most popular plan, combining advanced SEO, full Google Ads management, and integrated content marketing.",
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Digital Hothouse around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
         "features": [
-          "Full SEO and technical optimisation",
-          "Google Ads management (Search, Shopping, Remarketing)",
-          "4 blog posts or guides per month",
-          "Influencer collaboration strategy",
-          "Bi-weekly reporting & strategy calls"
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Digital Hothouse.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's Digital Presence with Digital Hothouse Expertise",
+    "heroSubheadline": "Engage in a comprehensive digital strategy to convert visitors into loyal customers. We'll utilize our bespoke services tailored to your needs.",
+    "heroTags": [],
+    "problemsIntro": "Every missed opportunity is potential revenue slipping away.",
+    "problems": [
+      {
+        "title": "High Bounce Rate",
+        "description": "A 47% bounce rate means nearly half of your visitors leave without engaging further, costing potential sales."
+      },
+      {
+        "title": "Low Conversion Rate",
+        "description": "With only a 2% conversion rate, Acme Corp is losing out on 98% of potential leads."
+      },
+      {
+        "title": "Poor Mobile Experience",
+        "description": "50% of users access your site via mobile. A poor mobile experience means losing half of your audience."
+      },
+      {
+        "title": "Limited SEO Reach",
+        "description": "Ranking on the second page of Google results in less than 1% of search traffic."
+      },
+      {
+        "title": "Slow Page Load",
+        "description": "A 5-second load time sees a 38% increase in bounce rates, driving users away."
+      },
+      {
+        "title": "Weak Social Media Engagement",
+        "description": "With engagement rates below 1%, you're not connecting with your audience effectively."
+      }
+    ],
+    "solutionIntro": "Our tailored solutions address these critical issues head-on.",
+    "solutions": [
+      {
+        "icon": "🔍",
+        "title": "SEO Optimization",
+        "description": "Enhance your search visibility to capture more organic traffic. This tackles your limited SEO reach.",
+        "tags": [
+          "SEO",
+          "Visibility",
+          "Traffic"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Mobile Optimization",
+        "description": "Redesign your mobile interface to improve user experience and engagement. This combats poor mobile interaction.",
+        "tags": [
+          "Mobile",
+          "UX",
+          "Design"
+        ]
+      },
+      {
+        "icon": "⚡",
+        "title": "Page Speed Enhancement",
+        "description": "Optimize your site for faster load times, reducing bounce rates significantly. This addresses slow page loads.",
+        "tags": [
+          "Speed",
+          "Optimization",
+          "Performance"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Conversion Rate Optimization",
+        "description": "Implement strategies to increase the conversion rate, turning more visitors into customers. This solves the low conversion rate issue.",
+        "tags": [
+          "CRO",
+          "Conversion",
+          "Strategy"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Increase in organic traffic"
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Reduction in bounce rates"
+      },
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Boost in conversion rates"
+      }
+    ],
+    "whyUsIntro": "Digital Hothouse is your partner in achieving digital excellence.",
+    "whyUsCards": [
+      {
+        "icon": "🌍",
+        "title": "Local Expertise",
+        "description": "Based in York, we understand your market and audience intricacies."
+      },
+      {
+        "icon": "🛠️",
+        "title": "Bespoke Solutions",
+        "description": "Every strategy is tailored to your unique needs, ensuring the best outcomes."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Approach",
+        "description": "We prioritize your goals and ensure our services align with your vision."
+      },
+      {
+        "icon": "📊",
+        "title": "Proven Results",
+        "description": "Our track record speaks for itself with numerous satisfied clients."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "120",
+        "suffix": "+",
+        "label": "Successful projects"
+      },
+      {
+        "value": "98",
+        "suffix": "%",
+        "label": "Client satisfaction rate"
+      },
+      {
+        "value": "10",
+        "suffix": "Years",
+        "label": "Industry experience"
+      },
+      {
+        "value": "357",
+        "suffix": "K",
+        "label": "Annual Revenue"
+      }
+    ],
+    "teamIntro": "Meet the team that will drive your success.",
+    "team": {
+      "initials": "PT",
+      "name": "Paul Thornton",
+      "role": "Managing Director",
+      "titleNote": "",
+      "bio": "Paul leads our strategic vision and ensures exceptional client relationships. His expertise drives project success.",
+      "linkedin": "",
+      "phone": ""
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Strategy",
+        "badge": "Weeks 1 to 3",
+        "description": "Identify key areas for growth and develop a tailored strategy.",
+        "bullets": [
+          "Initial consultation",
+          "Market analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Implementation",
+        "badge": "Weeks 4 to 8",
+        "description": "Execute the strategy with precision and focus.",
+        "bullets": [
+          "Technical setup",
+          "Content creation"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Optimization",
+        "badge": "Weeks 9 to 12",
+        "description": "Refine strategies based on initial results and feedback.",
+        "bullets": [
+          "Performance tracking",
+          "Adjustments"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Evaluation & Reporting",
+        "badge": "Weeks 13 to 16",
+        "description": "Analyze outcomes and report on successes.",
+        "bullets": [
+          "Comprehensive report",
+          "Future recommendations"
+        ]
+      }
+    ],
+    "pricingIntro": "Select the investment option that best meets your needs.",
+    "pricing": [
+      {
+        "name": "Starter Package",
+        "subtitle": "",
+        "description": "Ideal for businesses beginning their digital transformation journey.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic SEO",
+          "Initial mobile optimization"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Recommended for companies seeking significant growth and improved online presence.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Advanced SEO",
+          "Full mobile and CRO optimization"
         ],
         "recommended": true
       },
       {
-        "tierName": "Scale",
-        "price": "£11,000",
-        "description": "For ambitious brands ready to accelerate growth with comprehensive digital strategy, content, and ongoing optimisation.",
+        "name": "Enterprise Package",
+        "subtitle": "",
+        "description": "For enterprises aiming for industry leadership and comprehensive digital strategy.",
+        "amount": "$15,000/mo",
+        "period": "",
         "features": [
-          "All Growth features plus:",
-          "Advanced content (lookbooks, case studies, video scripts)",
-          "Social media management",
-          "Conversion rate optimisation",
-          "Weekly reporting & strategy sessions"
+          "Complete digital strategy",
+          "Dedicated account manager"
         ],
         "recommended": false
       }
     ],
-    "caseExamples": [
-      {
-        "title": "Driving Organic Revenue for EcoWear UK",
-        "context": "EcoWear UK, a sustainable apparel brand, needed to improve their search rankings and reduce reliance on paid ads.",
-        "result": "Increased organic traffic by 68% and online revenue by 42% within 6 months."
-      },
-      {
-        "title": "Reducing CPA for LuxeLinen",
-        "context": "LuxeLinen’s Google Ads campaigns were underperforming, with high acquisition costs and low conversion rates.",
-        "result": "Reduced cost-per-acquisition by 37% and doubled Google Ads ROI in 4 months."
-      }
-    ],
-    "ctaHeadline": "Ready to Take StyleMakers Online to the Next Level?",
-    "ctaBody": "Let’s work together to build a smarter, more profitable digital presence for your brand. We’d love to discuss your goals and map out the best path forward—on your terms.",
-    "ctaButtonText": "Book Your Strategy Call",
-    "contactName": "Paul Thornton",
-    "contactTitle": "Managing Director",
-    "contactEmail": "paul@digitalhothouse.co.nz",
-    "contactPhone": "+44 20 3286 6275"
+    "ctaHeadline": "Ready to Elevate Acme Corp's Digital Strategy?",
+    "ctaDescription": "Let's have a conversation about your goals and how we can help achieve them.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "paul@digitalhothouse.co.nz",
+    "ctaNote": "",
+    "footerText": "© 2025 Digital Hothouse",
+    "footerSub": "Your Partner in Digital Growth"
   },
   "enriched": {
-    "tone": "straightforward, client-focused, transparent, knowledgeable, approachable",
-    "positioning": "Digital Hothouse positions itself as a client-first digital agency delivering bespoke, results-driven online marketing strategies without restrictive contracts.",
-    "serviceList": [
-      "Shopify Development",
-      "WordPress Development",
-      "SEO",
-      "Technical SEO",
-      "Local SEO",
-      "Keyword Research",
-      "Google Ads Management",
-      "Content Marketing",
-      "Content Creation",
-      "Blog Content",
-      "Case Study Creation",
-      "Social Media Management",
-      "Marketing Strategy",
-      "Digital Strategy",
-      "Website Maintenance",
-      "SEO Auditing",
-      "AI Optimisation",
-      "Link Outreach & Prospecting",
-      "Website Migration Strategy",
-      "Design & Development"
-    ],
-    "valuePropositions": [
-      "Client-first, bespoke approach with no lengthy contracts",
-      "Full suite of digital marketing services under one roof",
-      "Expertise in both traditional and AI-driven SEO strategies",
-      "Transparent, actionable insights and reporting",
-      "Focus on delivering genuine, measurable results"
-    ],
-    "differentiators": [
-      "No restrictive or lengthy contracts; clients have freedom and flexibility",
-      "Combination of traditional SEO and cutting-edge AI optimisation",
-      "Highly personalized service with close client collaboration",
-      "Transparent pricing and reporting with no high margins",
-      "Rebuilding industry trust by focusing on genuine results and relationships"
-    ]
+    "tone": "warm",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Paul",
+    "last_name": "Thornton",
+    "email": "paul@digitalhothouse.co.nz",
+    "company_phone": "",
+    "mobile_number": "",
+    "company_name": "Digital Hothouse",
+    "company_website": "https://www.digitalhothouse.co.nz",
+    "company_domain": "digitalhothouse.co.nz",
+    "company_description": "Digital Hothouse is a digital agency with some real differences. To start with, we're not really an agency at all! Our main focus is that we make sure that you do more business online – not generating profits for us. After all, successful clients means a successful Digital Hothouse, so ours is a client-first approach.\n\nSo what exactly do we do for you? Simply put, it comes down to two things: you either need to get more quality visitors to your site, or you need to turn more of your visitors into customers. We do both these things, and we believe that we do them smarter, cheaper and more effectively than anyone else.\n\nWhether you are looking for an agency to manage your Google Adwords, someone who can create fresh and engaging content or you just want to see more of the visitors to your website converting, then drop us a line and see how we can help you to grow your business online.",
+    "headline": "25 Years Experience In Providing Digital Marketing Services That Result In Traffic And Sales. I Setup Digital Hothouse In 2010 To Provide Seo And Google Ads, And Do So To Many High Profile Businesses Internationally",
+    "job_title": "Managing Director",
+    "industry": "Online Media",
+    "company_size": "4",
+    "company_technologies": "ai, cloudflare, cloudflare hosting, cloudflare dns, digitalocean, gmail, google apps, mixpanel, segment.io, wp engine",
+    "city": "York",
+    "state": "England",
+    "country": "United Kingdom",
+    "company_full_address": "49-89 Gulf Harbour Drive, Gulf Harbour, Auckland, Auckland 0930, NZ",
+    "seniority_level": "director",
+    "company_annual_revenue_clean": "357K",
+    "linkedin": "https://www.linkedin.com/in/pauldthornton",
+    "company_linkedin": "https://www.linkedin.com/company/digital-hothouse-ltd",
+    "company_founded_year": "2010",
+    "keywords": "seo, google adwords, search marketing, conversion rate optimisation, search engine optimisation, content marketing, social media, content strategy, digital marketing, online audio & video media, google ads, social media marketing, local seo, wordpress seo, shopify seo, seo auditing, link building, technical seo, digital pr, guest posting, online reputation management, user experience optimization, keyword research, mobile optimization, analytics tracking, traffic generation, conversion rate optimization, social media strategy, audience engagement, search engine rankings, backlinking, website migration, citation management, seo strategy, content creation, search intent, organic traffic, metrics analysis, social media advertising, market research, competitive analysis, website performance, content optimization, html tag optimization, schema markup, local listings, brand awareness, target audience, performance measurement, customer insight, bespoke solutions, performance metrics, social media content, influencer marketing, direct response marketing, community management, engagement metrics, e-commerce seo, information technology & services, marketing, marketing & advertising, consumer internet, consumers, internet, online media",
+    "personalization": "You say you're not really an agency, but you offer a full suite of digital marketing services.",
+    "painStatement": "",
+    "proposal_status": "done",
+    "proposal_url": "https://www.ayushopchauhan.com/for/digital-hothouse",
+    "proposal_id": "digital-hothouse",
+    "generated_at": "25/02/2026 21:08 PM"
   }
 }
