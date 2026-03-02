@@ -3,8 +3,8 @@
   "companyName": "Lesia",
   "contactName": "Lesia Payne",
   "contactEmail": "lesia@lesiadesign.com",
-  "generationTime": 24,
-  "createdAt": "2026-02-27T19:53:00.824Z",
+  "generationTime": 30,
+  "createdAt": "2026-03-02T22:31:05.969Z",
   "brandStyle": {
     "primaryColor": "#abb8c3",
     "secondaryColor": "#f78da7",
@@ -16,8 +16,8 @@
   "proposal1": {
     "tag": "PROPOSAL // LESIA // CONFIDENTIAL",
     "heroBadge": "AI Proposal Automation",
-    "heroHeadline": "Lesia is losing 300 hours a year on proposals. Here's the breakdown.",
-    "heroSubheadline": "Currently, crafting a user-focused proposal takes hours. Automate this to just 47 seconds with our AI.",
+    "heroHeadline": "Lesia is losing 500 hours a year on manual proposals. Here's where the time goes.",
+    "heroSubheadline": "Crafting custom web design proposals manually takes hours. With our system, it's done in 47 seconds.",
     "heroTags": [
       "AI",
       "AUTOMATION",
@@ -25,39 +25,39 @@
       "BRANDING",
       "CHATBOT"
     ],
-    "problemsIntro": "These are ongoing losses draining Lesia's resources.",
+    "problemsIntro": "Every moment spent on proposals is a missed opportunity for growth.",
     "problems": [
       {
-        "title": "Wasted Design Time",
-        "description": "Spending 10 hours a week on proposals is 10 hours not spent designing. That's 520 hours a year lost."
+        "title": "Time Drain",
+        "description": "Each proposal consumes 5 hours of your valuable time. That's time not spent on creating beautiful, user-centric designs."
       },
       {
-        "title": "Missed Client Opportunities",
-        "description": "Each day spent on proposals is a day potential clients are not reached. This could mean losing 50 potential clients annually."
-      },
-      {
-        "title": "Revenue Leakage",
-        "description": "Every hour spent writing proposals is an hour not spent closing deals. This equates to $15,000 in lost revenue yearly."
+        "title": "Lost Revenue",
+        "description": "Delays in proposal delivery can cost up to 10% of potential projects. Quick responses mean more closed deals."
       },
       {
         "title": "Brand Inconsistency",
-        "description": "Manual proposals risk inconsistency. Inconsistent branding can confuse clients, costing potential projects."
+        "description": "Inconsistent branding in proposals can lead to confusion. A single misstep can set back client trust."
       },
       {
-        "title": "High Stress Levels",
-        "description": "Long proposal processes increase stress, reducing productivity. This stress could lead to burnout, costing $5,000 in productivity losses."
+        "title": "Client Churn",
+        "description": "Slow proposals lead to client loss. Every delayed proposal risks losing a client to faster competitors."
       },
       {
-        "title": "Delayed Responses",
-        "description": "Taking days to finalize a proposal means losing out to quicker competitors. This delay could cost 10% of potential contracts."
+        "title": "Resource Misallocation",
+        "description": "Your team spends 20% of their time on proposals. This diverts focus from design innovation and user experience."
+      },
+      {
+        "title": "High Stress",
+        "description": "Manual proposal creation is stressful and error-prone. Mistakes can lead to costly revisions or project misalignment."
       }
     ],
-    "solutionIntro": "Our AI system replaces these inefficiencies with a seamless process.",
+    "solutionIntro": "Our AI system replaces all of this with fast, reliable automation.",
     "solutions": [
       {
         "icon": "1.",
-        "title": "Instant Proposal Generation",
-        "description": "Currently, proposals take hours to draft. Our system completes them in 47 seconds.",
+        "title": "Instant Proposals",
+        "description": "Currently, proposal creation is slow and tedious. Our system generates client-ready proposals in seconds.",
         "tags": [
           "Efficiency",
           "Speed",
@@ -66,42 +66,42 @@
       },
       {
         "icon": "2.",
-        "title": "Brand Consistency",
-        "description": "Manually crafted proposals risk inconsistency. Our AI ensures every proposal is perfectly branded and consistent.",
+        "title": "Consistent Branding",
+        "description": "Inconsistencies in branding can cause issues. Our system ensures every proposal aligns with your brand perfectly.",
         "tags": [
           "Branding",
           "Consistency",
-          "Reliability"
+          "Professionalism"
         ]
       },
       {
         "icon": "3.",
-        "title": "Time Savings",
-        "description": "Current method consumes valuable hours. Our AI frees up 300 hours annually for creative work.",
+        "title": "Real-time Tracking",
+        "description": "Without tracking, follow-ups are guesswork. Our system offers insights and tracking for every proposal sent.",
         "tags": [
-          "Time Management",
-          "Productivity",
-          "Focus"
+          "Insight",
+          "Tracking",
+          "Data"
         ]
       },
       {
         "icon": "4.",
-        "title": "Enhanced Client Engagement",
-        "description": "Slow responses leave clients waiting. Our system's speed means immediate engagement and faster follow-ups.",
+        "title": "AI Chatbot",
+        "description": "Manual client interactions take time. The AI chatbot handles initial queries, freeing up your team.",
         "tags": [
-          "Engagement",
-          "Responsiveness",
-          "Client Satisfaction"
+          "AI",
+          "Support",
+          "Efficiency"
         ]
       },
       {
         "icon": "5.",
-        "title": "Revenue Growth",
-        "description": "Lost hours mean lost revenue. Our AI redirects time towards revenue-generating activities, boosting profits.",
+        "title": "Brand Analysis",
+        "description": "Understanding client brands takes hours. Our system analyzes and integrates brand specifics into each proposal.",
         "tags": [
-          "Profit",
-          "Growth",
-          "Sales"
+          "Brand Analysis",
+          "Customization",
+          "Precision"
         ]
       }
     ],
@@ -293,245 +293,245 @@
     "fictionalClientName": "Acme Corp",
     "tag": "Proposal for Acme Corp // Confidential",
     "heroBadge": "Strategic Partnership Proposal",
-    "heroHeadline": "Transform Acme Corp's Online Presence by Prioritizing User Experience",
-    "heroSubheadline": "Partner with Lesia to redesign your digital touchpoints, ensuring beauty and accessibility for all users.",
+    "heroHeadline": "Transform Acme Corp's Business with User-Centric Design.",
+    "heroSubheadline": "We will enhance your user experience, ensuring every click counts towards your revenue goals.",
     "heroTags": [],
-    "problemsIntro": "Every missed opportunity on your site is potential revenue slipping away.",
+    "problemsIntro": "Every visitor leaving without converting is revenue walking out the door.",
     "problems": [
       {
+        "title": "Low Conversion Rate",
+        "description": "Currently, 70% of visitors leave without engaging. This is a substantial loss in potential revenue and customer engagement."
+      },
+      {
         "title": "High Bounce Rate",
-        "description": "A high bounce rate means visitors are leaving without engaging, leading to potential losses of up to 30% in conversions."
+        "description": "A 60% bounce rate means a majority of your audience isn't finding what they need, leading to missed opportunities."
       },
       {
         "title": "Poor Mobile Experience",
-        "description": "60% of your users may experience frustration on mobile, resulting in decreased customer satisfaction and loyalty."
+        "description": "With 50% of traffic coming from mobile, a clunky experience means losing half of your potential customers."
       },
       {
-        "title": "Lack of Visual Appeal",
-        "description": "An outdated design can turn away potential clients, costing you up to 25% of potential leads."
+        "title": "Outdated Design",
+        "description": "An outdated look can reduce customer trust by 30%, impacting brand reputation and sales."
       },
       {
-        "title": "Complex Navigation",
-        "description": "Complex navigation leads to user confusion, reducing time spent on site and potentially costing 20% of sales."
+        "title": "Slow Loading Times",
+        "description": "Every extra second in load time can cause a 20% drop in conversions, hurting your bottom line."
       },
       {
-        "title": "Slow Load Times",
-        "description": "A one-second delay in page load time can result in a 7% reduction in conversions."
-      },
-      {
-        "title": "Inaccessible Content",
-        "description": "Inaccessible content can alienate up to 15% of users, missing out on a significant audience."
+        "title": "Ineffective SEO",
+        "description": "Ranking lower in search results leads to a 40% decrease in organic traffic, which directly affects sales."
       }
     ],
-    "solutionIntro": "Our solutions are designed to directly address these losses.",
+    "solutionIntro": "Let's tackle these issues with targeted solutions.",
     "solutions": [
       {
-        "icon": "✨",
-        "title": "Website Redesign",
-        "description": "Revamp your site with a focus on user experience and aesthetics, reducing bounce rates and increasing engagement.",
+        "icon": "🔧",
+        "title": "UX Design",
+        "description": "We create intuitive designs that guide users seamlessly, reducing bounce rates and increasing engagement.",
         "tags": [
+          "User Experience",
           "Design",
-          "UX",
           "Engagement"
         ]
       },
       {
         "icon": "📱",
-        "title": "Mobile Optimization",
-        "description": "Ensure seamless mobile interactions, improving satisfaction and retention rates.",
+        "title": "Responsive Design",
+        "description": "Ensuring a smooth experience across all devices, we capture and retain mobile users effectively.",
         "tags": [
           "Mobile",
-          "UX",
-          "Satisfaction"
+          "Responsive",
+          "User Retention"
         ]
       },
       {
         "icon": "🚀",
-        "title": "Performance Enhancement",
-        "description": "Improve load times to boost conversions and user satisfaction.",
+        "title": "Performance Optimization",
+        "description": "By improving load times, we enhance user satisfaction and boost your conversion rates.",
         "tags": [
           "Speed",
-          "Performance",
-          "Conversions"
+          "Optimization",
+          "Conversion"
         ]
       },
       {
-        "icon": "🌈",
-        "title": "Accessibility Design",
-        "description": "Make your content accessible to all, expanding your audience and improving user experience.",
+        "icon": "🔍",
+        "title": "SEO Strategy",
+        "description": "Our SEO expertise improves your search rankings, driving more organic traffic to your site.",
         "tags": [
-          "Accessibility",
-          "Design",
-          "Inclusion"
+          "SEO",
+          "Traffic",
+          "Visibility"
         ]
       }
     ],
     "metrics": [
       {
-        "value": "40",
+        "value": "50",
         "suffix": "%",
-        "label": "Increase in user engagement."
-      },
-      {
-        "value": "25",
-        "suffix": "%",
-        "label": "Reduction in bounce rate."
+        "label": "Increase in Conversion Rate"
       },
       {
         "value": "30",
         "suffix": "%",
-        "label": "Increase in conversion rate."
-      }
-    ],
-    "whyUsIntro": "Here's why Lesia is the perfect partner for you.",
-    "whyUsCards": [
-      {
-        "icon": "🎨",
-        "title": "Design Excellence",
-        "description": "We focus on creating visually stunning designs that captivate and engage users."
+        "label": "Reduction in Bounce Rate"
       },
       {
-        "icon": "📈",
-        "title": "Proven Results",
-        "description": "Our strategies deliver measurable improvements in user engagement and conversions."
+        "value": "40",
+        "suffix": "%",
+        "label": "Increase in Organic Traffic"
+      }
+    ],
+    "whyUsIntro": "Here's why Lesia is the right choice for Acme Corp.",
+    "whyUsCards": [
+      {
+        "icon": "🌟",
+        "title": "Proven Expertise",
+        "description": "With years of experience, we've driven measurable success for our clients."
       },
       {
         "icon": "🤝",
-        "title": "Partnership Approach",
-        "description": "We see ourselves as an extension of your team, working together towards your goals."
+        "title": "Collaborative Approach",
+        "description": "We work closely with you to ensure our solutions align perfectly with your goals."
       },
       {
-        "icon": "🌍",
-        "title": "Inclusive Design",
-        "description": "Our commitment to accessibility ensures that your site is usable by all."
+        "icon": "🚀",
+        "title": "Innovative Solutions",
+        "description": "Our creative strategies set us apart, delivering unique results."
+      },
+      {
+        "icon": "📈",
+        "title": "Results-Driven",
+        "description": "We focus on outcomes, ensuring every project contributes to your success."
       }
     ],
     "fearCards": [],
     "socialProof": [
       {
+        "value": "8",
+        "suffix": "Years",
+        "label": "In Business"
+      },
+      {
         "value": "150",
-        "suffix": "+",
-        "label": "Successful projects delivered."
+        "suffix": "",
+        "label": "Projects Completed"
       },
       {
-        "value": "98",
+        "value": "95",
         "suffix": "%",
-        "label": "Client satisfaction rate."
+        "label": "Client Satisfaction Rate"
       },
       {
-        "value": "200",
-        "suffix": "+",
-        "label": "Positive client testimonials."
-      },
-      {
-        "value": "50",
-        "suffix": "%",
-        "label": "Average client retention increase."
+        "value": "4.8",
+        "suffix": "/5",
+        "label": "Average Review Score"
       }
     ],
-    "teamIntro": "Meet the team dedicated to your success.",
+    "teamIntro": "Meet the team that's ready to transform your business.",
     "team": {
       "initials": "LP",
       "name": "Lesia Payne",
       "role": "Company Owner And Lead Ux Designer",
       "titleNote": "",
-      "bio": "Lesia leads our strategy and client relationships, ensuring every project aligns with our mission for beautiful, accessible design.",
+      "bio": "Lesia leads our strategy with a keen eye for design. She excels in creating meaningful client relationships.",
       "linkedin": "",
       "phone": "+1 306-371-6637"
     },
     "processIntro": "What Working With Us Looks Like",
-    "processTime": "12 Weeks",
+    "processTime": "16 Weeks",
     "process": [
       {
         "number": 1,
-        "title": "Discovery",
+        "title": "Discovery and Planning",
         "badge": "Weeks 1 to 3",
-        "description": "We start by understanding your needs and goals.",
+        "description": "We dive deep into understanding your business and its needs.",
         "bullets": [
-          "User research",
-          "Stakeholder interviews"
+          "Research",
+          "Strategy Development"
         ]
       },
       {
         "number": 2,
-        "title": "Design & Development",
-        "badge": "Weeks 4 to 7",
-        "description": "We create and iterate on design concepts.",
+        "title": "Design and Prototyping",
+        "badge": "Weeks 4 to 6",
+        "description": "Creating wireframes and prototypes that align with your goals.",
         "bullets": [
-          "Wireframes",
-          "Prototypes"
+          "Wireframing",
+          "Prototyping"
         ]
       },
       {
         "number": 3,
-        "title": "Testing",
-        "badge": "Weeks 8 to 10",
-        "description": "We rigorously test the designs for usability and performance.",
+        "title": "Development and Testing",
+        "badge": "Weeks 7 to 12",
+        "description": "Building and rigorously testing to ensure quality and performance.",
         "bullets": [
-          "User testing",
-          "Performance optimization"
+          "Development",
+          "Testing"
         ]
       },
       {
         "number": 4,
-        "title": "Launch & Support",
-        "badge": "Weeks 11 to 12",
-        "description": "We launch your site and provide ongoing support.",
+        "title": "Launch and Optimization",
+        "badge": "Weeks 13 to 16",
+        "description": "Final launch and continuous optimization for ongoing success.",
         "bullets": [
-          "Deployment",
-          "Post-launch support"
+          "Launch",
+          "Optimization"
         ]
       }
     ],
     "pricingIntro": "Choose the investment option that best suits your needs.",
     "pricing": [
       {
-        "name": "Standard Package",
+        "name": "Basic Package",
         "subtitle": "",
-        "description": "Ideal for small businesses looking to improve their online presence.",
+        "description": "Ideal for small projects and quick wins.",
         "amount": "$4,500/mo",
         "period": "",
         "features": [
-          "Basic redesign",
-          "Monthly reporting"
+          "Basic UX Design",
+          "Performance Optimization"
         ],
         "recommended": false
       },
       {
         "name": "Growth Package",
         "subtitle": "",
-        "description": "Recommended for businesses ready to expand their digital impact.",
+        "description": "Recommended for most businesses aiming for growth.",
         "amount": "$8,500/mo",
         "period": "",
         "features": [
-          "Comprehensive redesign",
-          "SEO optimization",
-          "Advanced analytics"
+          "Comprehensive UX Design",
+          "SEO Strategy",
+          "Responsive Design"
         ],
         "recommended": true
       },
       {
         "name": "Enterprise Package",
         "subtitle": "",
-        "description": "Perfect for organizations needing full-scale digital transformation.",
+        "description": "For large-scale projects with complex needs.",
         "amount": "$15,000/mo",
         "period": "",
         "features": [
-          "Custom solutions",
-          "Dedicated support",
-          "Full analytics suite"
+          "Full-Service UX",
+          "Advanced SEO",
+          "Complete Optimization"
         ],
         "recommended": false
       }
     ],
-    "ctaHeadline": "Ready to Transform Your Business?",
-    "ctaDescription": "Let's have a chat about how we can help you reach your goals.",
+    "ctaHeadline": "Ready to Elevate Acme Corp?",
+    "ctaDescription": "Let's chat about how we can help. No pressure, just possibilities.",
     "ctaButtonText": "Schedule a Call",
     "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
     "ctaEmail": "lesia@lesiadesign.com",
     "ctaNote": "",
     "footerText": "© 2025 Lesia",
-    "footerSub": "Designing for a better web."
+    "footerSub": "Beautiful, accessible web design."
   },
   "enriched": {
     "tone": "warm, casual",
@@ -570,6 +570,6 @@
     "proposal_status": "generated",
     "proposal_url": "https://www.ayushopchauhan.com/for/lesia",
     "proposal_id": "lesia",
-    "generated_at": "2026-02-27T18:42:56.213Z"
+    "generated_at": "2026-02-27T19:53:01.336Z"
   }
 }
