@@ -1,0 +1,573 @@
+{
+  "slug": "slide-ux",
+  "companyName": "Slide UX",
+  "contactName": "Erin Young",
+  "contactEmail": "erin@slideux.com",
+  "generationTime": 20,
+  "createdAt": "2026-03-02T15:36:39.126Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Merriweather",
+    "bodyFont": "Merriweather",
+    "logoUrl": "https://images.squarespace-cdn.com/content/v1/594ef3c372af653baaac2ecd/1519363698992-9YBFSG835F121MKSTNTB/Slide-UX-Logo-235x40.png?format=1500w"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // SLIDE UX // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Slide UX is losing over 500 hours a year on manual proposal writing. Here's where it drains your resources.",
+    "heroSubheadline": "Currently, crafting a Slide UX proposal is a time-consuming task. Now, generate comprehensive proposals in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Below are the ongoing losses Slide UX incurs due to manual proposal processes.",
+    "problems": [
+      {
+        "title": "Time Drain",
+        "description": "Slide UX spends approximately 30 hours per month on writing proposals. This is time not spent improving user experience strategies."
+      },
+      {
+        "title": "Lost Deals",
+        "description": "Each delayed proposal risks losing client interest. This can translate into thousands of dollars in lost opportunities for Slide UX."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Manually crafted proposals often lack consistent branding. This inconsistency can cost Slide UX credibility, impacting client trust."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Paying skilled team members to write proposals is costly. Slide UX could save $50,000 annually by automating this task."
+      },
+      {
+        "title": "Missed Deadlines",
+        "description": "Proposal deadlines are sometimes missed due to manual processes. This can damage Slide UX's reputation in the fast-paced design industry."
+      },
+      {
+        "title": "Limited Scalability",
+        "description": "As Slide UX grows, the current process can't scale efficiently. This limitation constrains potential revenue growth and market expansion."
+      }
+    ],
+    "solutionIntro": "Our AI system seamlessly replaces the burdensome manual proposal process.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Creation",
+        "description": "Currently, proposals take hours to draft. Our system completes them in under 60 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Manual proposals risk inconsistent branding. Our system ensures every proposal aligns perfectly with Slide UX's brand.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Cost Reduction",
+        "description": "Proposal writing incurs high labor costs. Our system slashes these expenses, saving thousands annually.",
+        "tags": [
+          "Savings",
+          "Cost-Effective",
+          "Budget-Friendly"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Enhanced Client Engagement",
+        "description": "Delayed proposals risk losing clients. Instant proposals keep prospects engaged and interested.",
+        "tags": [
+          "Engagement",
+          "Timeliness",
+          "Retention"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Scalable Operations",
+        "description": "Current processes can't handle growth. Our system scales effortlessly with Slide UX's expansion.",
+        "tags": [
+          "Scalability",
+          "Growth",
+          "Flexibility"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Slide UX's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Slide UX around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Slide UX.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's User Engagement with Slide UX Expertise.",
+    "heroSubheadline": "We will craft a seamless user experience that turns visitors into loyal customers. Our team will work closely with you to revamp your digital presence over the next 12 weeks.",
+    "heroTags": [],
+    "problemsIntro": "Every visitor leaving without engaging is a missed opportunity for Acme Corp.",
+    "problems": [
+      {
+        "title": "Low Conversion Rates",
+        "description": "Acme Corp is losing potential customers daily due to an inefficient user journey. Each bounce is a lost sale."
+      },
+      {
+        "title": "Poor Mobile Experience",
+        "description": "With over 50% of users accessing your site via mobile, a non-optimized experience results in significant revenue loss."
+      },
+      {
+        "title": "High Cart Abandonment",
+        "description": "Every item left in an abandoned cart is a direct hit to your bottom line. Enhancing the checkout process could reclaim this lost revenue."
+      },
+      {
+        "title": "Slow Page Load Times",
+        "description": "Users expect quick load times. Each second delay means a 7% reduction in conversions for Acme Corp."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "A lack of cohesive branding confuses users, leading to mistrust and lost brand loyalty."
+      },
+      {
+        "title": "Complex Navigation",
+        "description": "Users struggle to find what they need, resulting in high exit rates and lost engagement opportunities."
+      }
+    ],
+    "solutionIntro": "Our solutions address these lost opportunities to enhance Acme Corp's digital success.",
+    "solutions": [
+      {
+        "icon": "💡",
+        "title": "User Experience Design",
+        "description": "We create intuitive design solutions that simplify user journeys, increasing conversions and engagement.",
+        "tags": [
+          "Design",
+          "User Experience",
+          "Engagement"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Mobile Optimization",
+        "description": "Our team ensures your mobile site is fast and user-friendly, reclaiming lost mobile users.",
+        "tags": [
+          "Mobile",
+          "Optimization",
+          "Speed"
+        ]
+      },
+      {
+        "icon": "🛒",
+        "title": "Checkout Process Streamlining",
+        "description": "We simplify the checkout process to reduce cart abandonment and boost sales.",
+        "tags": [
+          "E-commerce",
+          "Conversion",
+          "Sales"
+        ]
+      },
+      {
+        "icon": "🌐",
+        "title": "Brand Consistency",
+        "description": "We establish a cohesive brand experience across all touchpoints, building user trust and loyalty.",
+        "tags": [
+          "Branding",
+          "Trust",
+          "Loyalty"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Increase in conversion rate."
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Reduction in cart abandonment."
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Boost in mobile user retention."
+      }
+    ],
+    "whyUsIntro": "At Slide UX, we bring warmth and expertise to every project.",
+    "whyUsCards": [
+      {
+        "icon": "🌟",
+        "title": "Proven Expertise",
+        "description": "With years of experience, we know how to deliver results that matter."
+      },
+      {
+        "icon": "👥",
+        "title": "Collaborative Approach",
+        "description": "We work alongside your team to ensure our solutions fit your unique needs."
+      },
+      {
+        "icon": "🚀",
+        "title": "Fast Turnaround",
+        "description": "Our efficient processes mean we deliver quality work on time."
+      },
+      {
+        "icon": "📈",
+        "title": "Measurable Success",
+        "description": "We focus on metrics that show real improvements to your business."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Client retention rate."
+      },
+      {
+        "value": "100",
+        "suffix": "+",
+        "label": "Projects completed successfully."
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Average client conversion rate increase."
+      },
+      {
+        "value": "4.8",
+        "suffix": "/5",
+        "label": "Average client satisfaction rating."
+      }
+    ],
+    "teamIntro": "Meet the team dedicated to transforming your user experience.",
+    "team": {
+      "initials": "EY",
+      "name": "Erin Young",
+      "role": "Founder & Principal",
+      "titleNote": "",
+      "bio": "Erin leads strategy and client relationships, ensuring every client gets personalized attention and top-notch results.",
+      "linkedin": "",
+      "phone": "+1 737-201-6300"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Research",
+        "badge": "Weeks 1 to 3",
+        "description": "We dive deep into understanding your business and users.",
+        "bullets": [
+          "Stakeholder interviews",
+          "User research"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Design & Prototyping",
+        "badge": "Weeks 4 to 6",
+        "description": "Crafting design solutions that align with your goals.",
+        "bullets": [
+          "Wireframes",
+          "Prototyping"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Development & Testing",
+        "badge": "Weeks 7 to 9",
+        "description": "Bringing designs to life with rigorous testing.",
+        "bullets": [
+          "Development",
+          "Usability testing"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Launch & Optimization",
+        "badge": "Weeks 10 to 12",
+        "description": "Launching your optimized site and iterating based on feedback.",
+        "bullets": [
+          "Deployment",
+          "Post-launch support"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment that best fits your goals.",
+    "pricing": [
+      {
+        "name": "Essential Package",
+        "subtitle": "",
+        "description": "For businesses seeking a foundational UX overhaul.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic UX Design",
+          "Mobile Optimization"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Recommended for businesses aiming for significant growth.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Comprehensive UX Design",
+          "Checkout Optimization"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Package",
+        "subtitle": "",
+        "description": "For large-scale projects needing extensive UX solutions.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full UX Suite",
+          "Brand Strategy"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Your User Experience?",
+    "ctaDescription": "Let's chat about how we can elevate your digital presence. No commitments, just a conversation.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "erin@slideux.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Slide UX",
+    "footerSub": "Creating experiences people love."
+  },
+  "enriched": {
+    "tone": "warm, playful",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Erin",
+    "last_name": "Young",
+    "email": "erin@slideux.com",
+    "company_phone": "+1 737-201-6300",
+    "mobile_number": "15126992828",
+    "company_name": "Slide UX",
+    "company_website": "https://www.slideux.com",
+    "company_domain": "slideux.com",
+    "company_description": "Your journey to a user-centered product starts here. Established 2012. Based in Austin, TX.\n\n\"More approachable. Less preachy.\"\n\nThat's what one industry expert said about why our user experience consultancy is so unique.\n\nHeadquartered in Austin, TX, we help digital product teams deliver better user experiences through thoughtful UI design, UX strategy, and user research.\n\nAlong the way, our experienced design leaders help you shift your organization's culture to put the user at the center. Our job is done when we help you bring on full-time UX talent to support your successful product.\n\nWe've got concentrated experience in sectors including:\n- Manufacturing & Industrial Goods\n- Transportation & Logistics\n- Insurance & Risk Management\n- IT Security \n\nWe've been in business for over a decade, and have helped over 200 product & marketing teams create great user experiences. We can help you, too.\n\nOur programs make it easy to get started. Learn about our services, browse our clients, case studies or reviews, or just book a call to find our whether we're there's a fit.\n\nGet in touch with us at info@slideux.com.",
+    "headline": "Founder & Principal @ Slide Ux | Product Design, User Experience In Brain Health, Aging & Care #agetech",
+    "job_title": "Founder & Principal",
+    "industry": "Design",
+    "company_size": "15",
+    "company_technologies": "ai, active campaign, basis, data analytics, databricks, doubleclick, doubleclick conversion, dreamhost ssl, facebook custom audiences, facebook login (connect), facebook widget, gmail, google analytics, google apps, google dynamic remarketing, google tag manager, hotjar, iot, mobile friendly, nsone, remote, typekit",
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "company_full_address": "8113 ripplewood drive, austin, texas, united states, 78757",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "943K",
+    "linkedin": "https://www.linkedin.com/in/erinlynnyoung",
+    "company_linkedin": "https://www.linkedin.com/company/slide-ux",
+    "company_founded_year": "2012",
+    "keywords": "user experience design, interaction design, user interface design, information architecture, user research, branding, marketing, product design, strategic discovery workshops, competitive analysis, rapid prototyping, design systems, design services, ux design, user experience, ui design, product development, early stage product definition, usability testing, design leadership, consulting services, fractional product management, user interviews, wireframes, prototyping, style guides, design concepts, product management, client consultations, digital products, remote team, sustainable design, user-centered culture, project management, discovery workshops, ux audits, project roadmapping, user flows, design strategy, responsive design, continuous improvement, team collaboration, client feedback, implementation support, agency services, employee empowerment, client partnerships, brand development, digital transformation, cross-disciplinary teams, iterative design process, feedback loops, culture shift, client engagement, b2b ux solutions, data-driven design, performance optimization, service design, intermediate ux, information technology & services, ux, management consulting, sustainability, environmental services, renewables & environment, productivity",
+    "personalization": "You're the only UX firm focused on brain change and aging, which is a unique niche.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
