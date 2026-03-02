@@ -1,0 +1,573 @@
+{
+  "slug": "adonis",
+  "companyName": "Adonis",
+  "contactName": "Derek Buntin",
+  "contactEmail": "derek@adonis.media",
+  "generationTime": 31,
+  "createdAt": "2026-03-02T22:00:23.116Z",
+  "brandStyle": {
+    "primaryColor": "#2299dd",
+    "secondaryColor": "rgba(0, 0, 0, .6)",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": "https://www.adonis.media/storage/images/shared/logo.svg"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // ADONIS // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Adonis is burning $50,000 a year on manually crafted proposals. Here's where it leaks.",
+    "heroSubheadline": "Manually written proposals waste time better spent on strategic growth. Automate them in just 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Adonis faces significant ongoing losses from inefficient proposal processes.",
+    "problems": [
+      {
+        "title": "Lost Hours",
+        "description": "Every hour spent writing a proposal is an hour not spent acquiring new clients. Adonis loses up to 500 hours yearly on this."
+      },
+      {
+        "title": "Fragmented Efforts",
+        "description": "Fragmentation in proposal creation causes inconsistency. This results in missed opportunities to convert leads, costing Adonis potential revenue."
+      },
+      {
+        "title": "Unclear Ownership",
+        "description": "Without clear ownership, proposals get delayed. Each delay can cost Adonis a client, leading to an estimate of $10,000 in lost deals annually."
+      },
+      {
+        "title": "Reactive Decisions",
+        "description": "Decisions made under pressure often lead to errors. Mistakes in proposals can cost Adonis up to $5,000 in missed deal opportunities per year."
+      },
+      {
+        "title": "Tool Overload",
+        "description": "Using multiple tools for proposals leads to inefficiency. This inefficiency translates into $15,000 of wasted resources annually."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Inconsistent proposals weaken brand image. This inconsistency potentially costs Adonis several high-value B2B contracts annually."
+      }
+    ],
+    "solutionIntro": "Our AI system replaces all these inefficiencies with a seamless solution.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals take hours to draft. Our system completes them in under 60 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Manual processes lead to inconsistent messaging. Our system ensures every proposal aligns with Adonis's brand.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Clear Ownership",
+        "description": "Unclear roles delay proposal completion. Our system assigns and tracks ownership automatically.",
+        "tags": [
+          "Clarity",
+          "Accountability",
+          "Efficiency"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Integrated Tools",
+        "description": "Multiple tools create chaos. Our system integrates all necessary tools into one cohesive platform.",
+        "tags": [
+          "Integration",
+          "Simplicity",
+          "Productivity"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Proactive Decisions",
+        "description": "Reactive processes lead to errors. Our system provides data-driven insights for proactive decision making.",
+        "tags": [
+          "Insights",
+          "Data-Driven",
+          "Proactivity"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Adonis's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Adonis around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Adonis.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Elevate Acme Corp's Growth with Adonis's Strategic Marketing Solutions.",
+    "heroSubheadline": "Our tailored strategy focuses on maximizing your revenue streams and enhancing customer engagement through precise marketing tactics.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is facing significant revenue losses due to fragmented marketing efforts.",
+    "problems": [
+      {
+        "title": "Visitor Conversion Loss",
+        "description": "Every visitor who leaves your site without converting is revenue walking out the door. This results in an estimated 20% loss in potential sales monthly."
+      },
+      {
+        "title": "Brand Visibility Decline",
+        "description": "Without a cohesive brand presence, Acme Corp loses market share to competitors. This visibility gap could account for a 15% decline in brand recognition."
+      },
+      {
+        "title": "Inefficient Communication",
+        "description": "Unclear ownership and broken handoffs result in mismanaged campaigns. This inefficiency can lead to a 25% increase in operational costs."
+      },
+      {
+        "title": "Tool Overload",
+        "description": "The multiplication of tools leads to fragmented data and increased complexity, costing Acme Corp an estimated 30 hours a month in productivity."
+      },
+      {
+        "title": "Reactive Decision Making",
+        "description": "Decisions made reactively rather than strategically lead to missed opportunities. This could result in a 10% decrease in potential growth."
+      },
+      {
+        "title": "Customer Engagement Drop",
+        "description": "Lack of targeted campaigns leads to decreased customer interaction, potentially reducing customer retention by 18%."
+      }
+    ],
+    "solutionIntro": "Our solutions address these issues, transforming them into opportunities for growth.",
+    "solutions": [
+      {
+        "icon": "📈",
+        "title": "Targeted Digital Campaigns",
+        "description": "Enhance your online presence and convert visitors into loyal customers. Our campaigns are designed to increase conversion rates and engagement.",
+        "tags": [
+          "Digital Marketing",
+          "Conversion",
+          "Engagement"
+        ]
+      },
+      {
+        "icon": "🔍",
+        "title": "Brand Strategy Development",
+        "description": "Create a cohesive brand strategy that increases visibility and market share. This helps in establishing a strong market position.",
+        "tags": [
+          "Brand Strategy",
+          "Market Visibility",
+          "Recognition"
+        ]
+      },
+      {
+        "icon": "🛠",
+        "title": "Streamlined Communication Tools",
+        "description": "Implement tools that clarify ownership and improve campaign management. This reduces operational inefficiencies and costs.",
+        "tags": [
+          "Communication",
+          "Efficiency",
+          "Management"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Data-Driven Decision Making",
+        "description": "Utilize data to make informed decisions, turning reactive processes into strategic growth opportunities.",
+        "tags": [
+          "Data Analysis",
+          "Strategy",
+          "Growth"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Increase in conversion rate."
+      },
+      {
+        "value": "20",
+        "suffix": "%",
+        "label": "Reduction in operational costs."
+      },
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Increase in customer retention."
+      }
+    ],
+    "whyUsIntro": "Adonis positions itself as a leader in strategic marketing solutions.",
+    "whyUsCards": [
+      {
+        "icon": "💼",
+        "title": "Proven Expertise",
+        "description": "With years of experience, we deliver effective marketing strategies that drive results."
+      },
+      {
+        "icon": "📈",
+        "title": "Results-Driven Approach",
+        "description": "Our focus is on measurable outcomes that align with your business goals."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Service",
+        "description": "We prioritize clear communication and strong partnerships with our clients."
+      },
+      {
+        "icon": "⚙️",
+        "title": "Innovative Solutions",
+        "description": "Our team uses cutting-edge tools and methodologies for optimal performance."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Increase in brand engagement for clients."
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Reduction in marketing costs with our strategies."
+      },
+      {
+        "value": "35",
+        "suffix": "%",
+        "label": "Boost in customer acquisition rates."
+      },
+      {
+        "value": "80",
+        "suffix": "%",
+        "label": "Client retention rate reflecting satisfaction."
+      }
+    ],
+    "teamIntro": "Our team is dedicated to delivering exceptional marketing strategies.",
+    "team": {
+      "initials": "DB",
+      "name": "Derek Buntin",
+      "role": "CEO & Founder",
+      "titleNote": "",
+      "bio": "Derek leads our strategic initiatives, ensuring each client receives tailored solutions. He is committed to fostering strong client relationships.",
+      "linkedin": "",
+      "phone": "+44 333 939 8331"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Analysis",
+        "badge": "Weeks 1 to 3",
+        "description": "We conduct a thorough analysis of your current marketing strategies.",
+        "bullets": [
+          "Identify key challenges",
+          "Gather data insights"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Develop a comprehensive strategy tailored to your needs.",
+        "bullets": [
+          "Set clear objectives",
+          "Plan actionable steps"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 12",
+        "description": "Execute the strategy with precision and expertise.",
+        "bullets": [
+          "Launch campaigns",
+          "Optimize processes"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Evaluation & Adjustment",
+        "badge": "Weeks 13 to 16",
+        "description": "Assess the outcomes and make necessary adjustments.",
+        "bullets": [
+          "Monitor performance",
+          "Refine strategies"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose from our investment options to unlock your business potential.",
+    "pricing": [
+      {
+        "name": "Essential Plan",
+        "subtitle": "",
+        "description": "Ideal for businesses looking to establish a strong online presence.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic campaigns",
+          "Monthly reporting"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Plan",
+        "subtitle": "",
+        "description": "Recommended for businesses aiming to increase market share.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Advanced strategies",
+          "Bi-weekly updates"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Plan",
+        "subtitle": "",
+        "description": "For businesses seeking comprehensive marketing solutions.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full service",
+          "Weekly consultations"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Schedule Your Strategy Session Today.",
+    "ctaDescription": "Let's discuss how we can transform your business. No commitments required.",
+    "ctaButtonText": "Book a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "derek@adonis.media",
+    "ctaNote": "",
+    "footerText": "© 2025 Adonis",
+    "footerSub": "Strategic Marketing. Real Results."
+  },
+  "enriched": {
+    "tone": "technical, corporate",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Derek",
+    "last_name": "Buntin",
+    "email": "derek@adonis.media",
+    "company_phone": "+44 333 939 8331",
+    "mobile_number": "",
+    "company_name": "Adonis",
+    "company_website": "https://www.adonis.media",
+    "company_domain": "adonis.media",
+    "company_description": "At Adonis Media, we help SMEs drive revenue growth and achieve measurable business impact. We focus on delivering tangible outcomes, such as reducing customer acquisition costs, accelerating sales velocity, and maximising ROI.\n\nWe ensure your digital presence stands out and converts high-value customers, while our digital solutions streamline operations and future-proof your growth.\n\nUltimately, we become an extension of your team, dedicated to driving results that truly matter for your bottom line.",
+    "headline": " CEO @ Adonis Media | B2b Growth Agency | Helping Tech & Professional Service Brands Drive Predictable Revenue | Fcmo | Cpm (pami) | Pg Dip Digm",
+    "job_title": "CEO & Founder",
+    "industry": "Marketing & Advertising",
+    "company_size": "3",
+    "company_technologies": "android, basis, bing ads, data analytics, facebook custom audiences, facebook login (connect), facebook widget, flutter, gitlab, gmail, google apps, google cloud hosting, google plus, google tag manager, google workspace, gusto, hotjar, hubspot, laravel, linkedin marketing solutions, micro, mobile friendly, python, react native, remote, reviews, sharepoint, tiktok, vultr, webmail, xamarin, recaptcha",
+    "city": "Brisbane",
+    "state": "Queensland",
+    "country": "Australia",
+    "company_full_address": "Level 9/307 Queen St, Brisbane, Queensland 4000, AU",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "301K",
+    "linkedin": "https://www.linkedin.com/in/derekbuntin",
+    "company_linkedin": "https://www.linkedin.com/company/adonismedia",
+    "company_founded_year": "2010",
+    "keywords": "inbound marketing for ecommerce, website development, website design, software development, website hosting, domain registration, website support, maintenance, website training, search engine optimisation, revenue growth operations, social media management, accountbased marketing, advocacy marketing, demand generation, inbound marketing, sales enablement, content marketing, sales, martech consulting, digital advertising, marketing services, inbound sales, branding, digital transformation, lead generation, customer engagement, sales funnel optimization, crm integration, user experience optimization, search engine optimization, data-driven marketing, automated workflows, personalized outreach, analytics & reporting, conversion rate optimization, customer relationship management, responsive web design, cloud solutions, e-commerce development, artificial intelligence integration, business strategy, digital solutions, marketing automation, source qualified leads, brand identity, social media marketing, digital marketing, visual design, performance tracking, customer insights, market research, customer loyalty programs, digital ecosystem integration, brand awareness, strategic partnerships, online reputation management, competitor analysis, website performance optimization, customer journey mapping, trust building strategies, user-centric design, content strategy development, business growth strategies, metrics & kpis, web development, information technology & services, web design, seo, search marketing, marketing, marketing & advertising, crm, enterprise software, enterprises, computer software, b2b, cloud computing, saas, consumer internet, consumers, internet",
+    "personalization": "You limit engagements to protect system integrity, which is pretty rare for a small agency like yours.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
