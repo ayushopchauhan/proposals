@@ -4,7 +4,7 @@
   "contactName": "George Aye",
   "contactEmail": "george@greatergoodstudio.com",
   "generationTime": 32,
-  "createdAt": "2026-03-02T13:04:18.910Z",
+  "createdAt": "2026-03-02T13:04:30.650Z",
   "brandStyle": {
     "primaryColor": "#121212",
     "secondaryColor": "#f01d4f",
@@ -16,8 +16,8 @@
   "proposal1": {
     "tag": "PROPOSAL // GGS // CONFIDENTIAL",
     "heroBadge": "AI Proposal Automation",
-    "heroHeadline": "GGS is losing 500 hours a year on proposal writing. Here is exactly where it goes.",
-    "heroSubheadline": "Currently, GGS spends hours crafting proposals. With our AI, generate them in just 47 seconds.",
+    "heroHeadline": "GGS is losing 1,000 hours annually on manual proposal writing. Here is exactly where it goes.",
+    "heroSubheadline": "Manually crafting proposals is draining time from GGS's mission to innovate. Switch to 47-second automation.",
     "heroTags": [
       "AI",
       "AUTOMATION",
@@ -25,83 +25,83 @@
       "BRANDING",
       "CHATBOT"
     ],
-    "problemsIntro": "These are not just inefficiencies, they are ongoing losses.",
+    "problemsIntro": "Every moment spent on outdated processes is costing GGS time and money.",
     "problems": [
       {
-        "title": "Hours Wasted",
-        "description": "Every hour spent writing proposals is an hour not spent on designing inclusive solutions. This costs GGS over 500 hours annually."
+        "title": "Time Wasted",
+        "description": "Each proposal takes hours to craft. That's hundreds of hours not spent on designing inclusive solutions for partners."
       },
       {
-        "title": "Lost Revenue",
-        "description": "Manual proposal creation delays mean potential clients might move on. GGS could be missing out on $50,000 in opportunities every year."
+        "title": "Lost Opportunities",
+        "description": "Delayed proposals mean missed chances. Every day waiting costs potential partnerships in the design sector."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Manual proposals lead to brand inconsistencies. Every inconsistency dilutes GGS's reputation in equity-driven design."
+      },
+      {
+        "title": "Resource Drain",
+        "description": "Limited team size means every hour counts. Wasting time on proposals strains resources that could enhance project impact."
       },
       {
         "title": "High Labor Costs",
-        "description": "Paying skilled staff to draft proposals instead of strategizing wastes $30,000 annually. Their expertise is better used on client projects."
+        "description": "Paying skilled staff for mundane tasks is inefficient. Every dollar spent on proposal writing is a dollar not invested in innovation."
       },
       {
-        "title": "Inconsistency Issues",
-        "description": "Inconsistent proposals can confuse prospects. This could be costing GGS 3 potential deals per year."
-      },
-      {
-        "title": "Delayed Outputs",
-        "description": "Extended proposal timelines mean slower project starts. This impacts GGS's ability to meet client demands promptly, costing reputational equity."
-      },
-      {
-        "title": "Client Dissatisfaction",
-        "description": "Proposals that lack personal touch can lead to client disengagement. GGS risks losing $20,000 annually in repeat business."
+        "title": "Competitive Disadvantage",
+        "description": "Slow proposal turnaround affects competitiveness. Quick responses are vital in the fast-paced design industry."
       }
     ],
-    "solutionIntro": "Our AI system replaces all the above inefficiencies.",
+    "solutionIntro": "Our AI system replaces these inefficiencies with precision and speed.",
     "solutions": [
       {
         "icon": "1.",
-        "title": "Instant Proposal Generation",
-        "description": "Currently, GGS drafts proposals manually over several hours. Our system generates them in 47 seconds with precise branding.",
+        "title": "Instant Proposals",
+        "description": "Currently, proposals take too long to write. Our system delivers complete, branded proposals in under 60 seconds.",
         "tags": [
           "Efficiency",
           "Speed",
-          "Branding"
+          "Automation"
         ]
       },
       {
         "icon": "2.",
-        "title": "Prospect Analysis",
-        "description": "GGS spends time researching prospects manually. Our AI analyzes potential clients in seconds, ensuring tailored proposals.",
-        "tags": [
-          "Research",
-          "Customization",
-          "Speed"
-        ]
-      },
-      {
-        "icon": "3.",
         "title": "Consistent Branding",
-        "description": "Inconsistent branding confuses clients. Our system ensures every proposal is aligned with GGS’s brand, every time.",
+        "description": "Manual processes cause branding errors. Our AI ensures every proposal aligns perfectly with GGS's brand.",
         "tags": [
+          "Branding",
           "Consistency",
-          "Brand",
           "Professionalism"
         ]
       },
       {
-        "icon": "4.",
-        "title": "AI Chatbot Assistance",
-        "description": "Currently, client follow-ups are manual and time-consuming. Our AI chatbot handles initial queries, freeing up your team to focus on design.",
+        "icon": "3.",
+        "title": "Enhanced Focus",
+        "description": "Time spent writing proposals detracts from project work. Automation allows GGS to focus on creating impactful designs.",
         "tags": [
-          "Automation",
-          "Client Engagement",
+          "Focus",
+          "Productivity",
+          "Impact"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Cost Efficiency",
+        "description": "Paying for manual tasks is costly. Our system reduces labor costs by automating proposal generation.",
+        "tags": [
+          "Cost",
+          "Savings",
           "Efficiency"
         ]
       },
       {
         "icon": "5.",
-        "title": "Proposal Tracking",
-        "description": "Post-send proposal tracking is manual and often neglected. Our system automatically tracks interactions, providing insights into client behavior.",
+        "title": "Competitive Edge",
+        "description": "Slow proposals hinder competitiveness. Automated proposals provide the speed needed to stay ahead in design.",
         "tags": [
-          "Insights",
-          "Data",
-          "Follow-Up"
+          "Competitive",
+          "Advantage",
+          "Speed"
         ]
       }
     ],
@@ -293,149 +293,149 @@
     "fictionalClientName": "Acme Corp",
     "tag": "Proposal for Acme Corp // Confidential",
     "heroBadge": "Strategic Partnership Proposal",
-    "heroHeadline": "Unlock Acme Corp's Potential with Human-Centered Design",
-    "heroSubheadline": "We will transform Acme Corp's approach through an inclusive, innovative design strategy. Our engagement plan focuses on tangible impact from day one.",
+    "heroHeadline": "Transform Acme Corp's Reach with Human-Centered Design.",
+    "heroSubheadline": "By leveraging GGS's expertise in human-centered design, we will enhance Acme Corp's inclusivity and innovation to drive impact.",
     "heroTags": [],
-    "problemsIntro": "Acme Corp is currently experiencing significant revenue losses due to inefficiencies in user engagement.",
+    "problemsIntro": "Every missed opportunity to engage is potential growth lost.",
     "problems": [
       {
         "title": "High Bounce Rate",
-        "description": "Every visitor leaving your site without engaging is a lost opportunity. This results in hundreds of potential customers slipping away each month."
-      },
-      {
-        "title": "Low Conversion Rate",
-        "description": "With only 2% of visitors converting, Acme Corp is losing out on thousands in potential revenue monthly."
-      },
-      {
-        "title": "Ineffective Branding",
-        "description": "Without a cohesive brand message, Acme Corp is missing out on customer loyalty and repeat business, leading to a significant sales gap."
+        "description": "Every visitor who leaves your site without engaging is lost revenue. A 60% bounce rate could mean thousands of dollars in unrealized potential."
       },
       {
         "title": "Poor User Experience",
-        "description": "A cumbersome user interface causes frustration, leading to a 20% decrease in customer satisfaction and retention."
+        "description": "A complicated user journey can cost you repeat business. 75% of users will not return to a site after a bad experience."
       },
       {
-        "title": "Lack of Mobile Optimization",
-        "description": "With 60% of users accessing via mobile, a non-optimized site results in a major loss of engagement and transactions."
+        "title": "Weak Brand Identity",
+        "description": "A diluted brand presence leads to lower customer loyalty. Losing even 10% of returning clients can result in significant revenue loss."
       },
       {
-        "title": "Inadequate Analytics",
-        "description": "Without proper tracking, Acme Corp is missing critical insights that could drive up to 30% better decision making results."
+        "title": "Ineffective Communication",
+        "description": "Your message should resonate with your audience. Misaligned messaging can lead to a 25% decrease in engagement."
+      },
+      {
+        "title": "Limited Market Reach",
+        "description": "Not tapping into new demographics restricts growth. Missing out on emerging markets could mean forfeiting a 20% increase in market share."
+      },
+      {
+        "title": "Suboptimal Conversion Rate",
+        "description": "Every unconverted lead is a missed sale. Improving your conversion rate by just 1% can lead to significant revenue increase."
       }
     ],
-    "solutionIntro": "Our solutions directly address these losses, turning them into opportunities for growth.",
+    "solutionIntro": "Our solutions directly address these losses by enhancing user engagement and brand presence.",
     "solutions": [
       {
-        "icon": "💡",
+        "icon": "🎨",
         "title": "User Experience Design",
-        "description": "We enhance user interfaces to boost satisfaction and retention. This directly addresses poor user experience.",
+        "description": "Enhances user interaction to reduce bounce rates. A streamlined journey keeps visitors engaged and more likely to convert.",
         "tags": [
           "UX",
           "Design",
-          "Satisfaction"
+          "Engagement"
         ]
       },
       {
-        "icon": "📱",
-        "title": "Mobile Optimization",
-        "description": "By optimizing for mobile, we capture and convert the 60% of users accessing your site on these devices. This solves the issue of lost mobile engagement.",
-        "tags": [
-          "Mobile",
-          "Optimization",
-          "Conversion"
-        ]
-      },
-      {
-        "icon": "📊",
-        "title": "Data Analytics",
-        "description": "We implement robust analytics to provide insights that inform better decisions. This transforms data into actionable strategies.",
-        "tags": [
-          "Data",
-          "Analytics",
-          "Insights"
-        ]
-      },
-      {
-        "icon": "🎨",
+        "icon": "🖌️",
         "title": "Brand Development",
-        "description": "A strong, cohesive brand message will drive customer loyalty and repeat business, addressing ineffective branding.",
+        "description": "Strengthens brand identity to foster loyalty. A clear brand message builds trust and repeat business.",
         "tags": [
-          "Brand",
-          "Development",
+          "Branding",
+          "Identity",
           "Loyalty"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Market Research",
+        "description": "Identifies new market opportunities for expansion. Understanding your audience leads to targeted growth strategies.",
+        "tags": [
+          "Research",
+          "Growth",
+          "Strategy"
+        ]
+      },
+      {
+        "icon": "📢",
+        "title": "Communication Strategy",
+        "description": "Refines your messaging for better audience connection. Clear communication enhances engagement and conversion rates.",
+        "tags": [
+          "Messaging",
+          "Communication",
+          "Engagement"
         ]
       }
     ],
     "metrics": [
       {
-        "value": "25",
+        "value": "30",
         "suffix": "%",
-        "label": "Increase in user engagement."
+        "label": "Projected increase in user engagement."
+      },
+      {
+        "value": "20",
+        "suffix": "%",
+        "label": "Anticipated growth in market share."
       },
       {
         "value": "15",
         "suffix": "%",
-        "label": "Improvement in conversion rate."
-      },
-      {
-        "value": "30",
-        "suffix": "%",
-        "label": "Growth in customer retention."
+        "label": "Expected rise in conversion rates."
       }
     ],
-    "whyUsIntro": "GGS stands as a leader in using human-centered design to drive impactful change.",
+    "whyUsIntro": "GGS provides innovative solutions driven by a commitment to equity and impact.",
     "whyUsCards": [
       {
-        "icon": "🌟",
+        "icon": "💼",
         "title": "Proven Expertise",
-        "description": "Our team has successfully transformed over 100 businesses with innovative design strategies."
+        "description": "Years of experience in transforming brands through human-centered design."
+      },
+      {
+        "icon": "🌍",
+        "title": "Social Impact",
+        "description": "We focus on building a more equitable society with every project we undertake."
       },
       {
         "icon": "🤝",
-        "title": "Client-Centric Approach",
-        "description": "We prioritize your goals, ensuring every strategy is tailored to your unique needs."
+        "title": "Client Partnership",
+        "description": "We build lasting relationships with our clients, ensuring continuous support and growth."
       },
       {
         "icon": "🚀",
-        "title": "Results-Oriented",
-        "description": "Our focus is on delivering measurable outcomes that propel your business forward."
-      },
-      {
-        "icon": "🔍",
-        "title": "Comprehensive Analytics",
-        "description": "We provide in-depth insights that drive smarter, data-backed decisions."
+        "title": "Innovative Solutions",
+        "description": "Our team uses cutting-edge strategies to solve complex business challenges."
       }
     ],
     "fearCards": [],
     "socialProof": [
       {
-        "value": "95",
-        "suffix": "%",
-        "label": "Client satisfaction rate."
-      },
-      {
-        "value": "200+",
-        "suffix": "",
+        "value": "50",
+        "suffix": "+",
         "label": "Successful projects completed."
       },
       {
-        "value": "50",
-        "suffix": "+",
-        "label": "Industries served."
+        "value": "30",
+        "suffix": "%",
+        "label": "Average client growth in the first year."
       },
       {
         "value": "10",
-        "suffix": "years",
-        "label": "of design excellence."
+        "suffix": "+",
+        "label": "Years of industry-leading service."
+      },
+      {
+        "value": "95",
+        "suffix": "%",
+        "label": "Client satisfaction rate."
       }
     ],
-    "teamIntro": "Our team is dedicated to delivering excellence through a collaborative approach.",
+    "teamIntro": "Meet the team that will drive your project's success.",
     "team": {
       "initials": "GA",
       "name": "George Aye",
       "role": "Co-founder And Co-executive Director",
       "titleNote": "",
-      "bio": "George leads our strategy and client relationships with a focus on achieving impactful results. His expertise ensures that every project is a success.",
+      "bio": "George leads strategy and client relationships, ensuring tailored solutions that align with client goals.",
       "linkedin": "",
       "phone": "+1 773-599-9717"
     },
@@ -444,9 +444,9 @@
     "process": [
       {
         "number": 1,
-        "title": "Discovery & Research",
+        "title": "Discovery and Research",
         "badge": "Weeks 1 to 3",
-        "description": "We immerse ourselves in understanding your business and its unique challenges.",
+        "description": "We dive deep into understanding your business and your audience.",
         "bullets": [
           "Stakeholder interviews",
           "Market analysis"
@@ -456,80 +456,79 @@
         "number": 2,
         "title": "Strategy Development",
         "badge": "Weeks 4 to 6",
-        "description": "We create a strategic plan focused on addressing core issues.",
+        "description": "Crafting a tailored strategy for your unique needs.",
         "bullets": [
           "Goal setting",
-          "KPI definition"
+          "Roadmap creation"
         ]
       },
       {
         "number": 3,
-        "title": "Design & Implementation",
+        "title": "Design and Implementation",
         "badge": "Weeks 7 to 12",
-        "description": "Our team designs and implements solutions tailored to your needs.",
+        "description": "Bringing the strategy to life with innovative design solutions.",
         "bullets": [
-          "UX/UI design",
-          "Brand messaging"
+          "Prototyping",
+          "Iterative design"
         ]
       },
       {
         "number": 4,
-        "title": "Evaluation & Optimization",
+        "title": "Launch and Evaluation",
         "badge": "Weeks 13 to 16",
-        "description": "We assess performance and make necessary adjustments for optimal results.",
+        "description": "Ensuring successful implementation and measuring impact.",
         "bullets": [
-          "Performance testing",
-          "Data analysis"
+          "Launch support",
+          "Performance metrics"
         ]
       }
     ],
-    "pricingIntro": "Choose from our tailored investment options designed to maximize your growth.",
+    "pricingIntro": "Consider our pricing tiers as strategic investments for your growth.",
     "pricing": [
       {
-        "name": "Essential Package",
+        "name": "Essential Plan",
         "subtitle": "",
-        "description": "For businesses looking to address core challenges with foundational strategies.",
+        "description": "For those needing foundational improvements.",
         "amount": "$4,500/mo",
         "period": "",
         "features": [
-          "Basic analytics",
-          "User experience design"
+          "Basic UX enhancements"
         ],
         "recommended": false
       },
       {
-        "name": "Growth Package",
+        "name": "Growth Plan",
         "subtitle": "",
-        "description": "Recommended for those ready to make significant strides in their market.",
+        "description": "Recommended for businesses targeting significant growth.",
         "amount": "$8,500/mo",
         "period": "",
         "features": [
-          "Comprehensive analytics",
-          "Full mobile optimization"
+          "Comprehensive user experience overhaul",
+          "Brand strategy"
         ],
         "recommended": true
       },
       {
-        "name": "Premium Package",
+        "name": "Enterprise Plan",
         "subtitle": "",
-        "description": "For enterprises aiming for a complete transformation and market leadership.",
+        "description": "For organizations seeking industry leadership.",
         "amount": "$15,000/mo",
         "period": "",
         "features": [
-          "All-inclusive services",
-          "Priority support"
+          "Full-service design and strategy",
+          "Ongoing support"
         ],
         "recommended": false
       }
     ],
-    "ctaHeadline": "Let's Transform Acme Corp's Future Together",
-    "ctaDescription": "Schedule a conversation with us to explore how we can partner for success.",
+    "ctaHeadline": "Ready to Transform Acme Corp's Future?",
+    "ctaDescription": "Let's have a conversation to explore how we can partner for success.",
     "ctaButtonText": "Schedule a Call",
     "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
     "ctaEmail": "george@greatergoodstudio.com",
     "ctaNote": "",
     "footerText": "© 2025 GGS",
-    "footerSub": "Designing a better future, together."
+    "footerSub": "Designing a more equitable world."
   },
   "enriched": {
     "tone": "corporate, warm",
@@ -565,7 +564,7 @@
     "keywords": "humancentered design, social impact, social innovation, programs & services, visual design, design research, design strategy, human-centered design, community engagement, design consulting, equity, inclusivity, nonprofit collaboration, program development, service design, design thinking, public policy design, capacity building, prototyping, research facilitation, strategy co-design, stakeholder engagement, design for equity, transformative design, social justice, user-centered design, civic engagement, visual identity, community development, training programs, workshop facilitation, evidence-based design, impact evaluation, design facilitation, collaborative design, digital tools, program design, community health, youth development, education initiatives, economic inclusion, arts & culture, communication strategies, sustainable design, advocacy, grassroots organizing, well-being design, interdisciplinary collaboration, participatory design, environmental design, insight synthesis, design ethics, social sector partnerships, equitable access, user experience design, sustainability, environmental services, renewables & environment",
     "personalization": "You really nailed that 'Pissed-Off Optimists™' vibe with your focus on social change.",
     "painStatement": "",
-    "proposal_status": "",
+    "proposal_status": "generating",
     "proposal_url": "",
     "proposal_id": "",
     "generated_at": ""
