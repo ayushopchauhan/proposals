@@ -1,0 +1,585 @@
+{
+  "slug": "ascender",
+  "companyName": "Ascender",
+  "contactName": "Emma Dinmore",
+  "contactEmail": "emma@trebuchetcreative.co.uk",
+  "generationTime": 27,
+  "createdAt": "2026-03-02T13:22:38.436Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // ASCENDER // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Ascender is losing 300 hours a year on proposal creation. Here's how to stop it.",
+    "heroSubheadline": "Creating proposals for strategy, creative, and communication services manually is time-consuming. With automated AI, it's done in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Each issue below represents a significant leak in your time and resources.",
+    "problems": [
+      {
+        "title": "Wasted Team Hours",
+        "description": "Ascender spends over 200 hours annually on proposal writing. That's time not spent on creative execution or client strategy development."
+      },
+      {
+        "title": "Lost Deals",
+        "description": "Delayed proposals lead to missed opportunities. Each day waiting for a proposal is a day your competition gets ahead."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Manual processes risk inconsistent proposals that dilute your brand. Every inconsistency chips away at the 'big thinking' image of Ascender."
+      },
+      {
+        "title": "High Opportunity Cost",
+        "description": "For every proposal written, potential client engagements are postponed. Each hour spent writing proposals is an hour not spent solving client problems."
+      },
+      {
+        "title": "Resource Drain",
+        "description": "Producing proposals pulls valuable resources away from billable work. This costs Ascender thousands in potential revenue each year."
+      },
+      {
+        "title": "Stress and Burnout",
+        "description": "Constantly crafting proposals by hand leads to employee burnout. High stress levels reduce overall productivity and creativity."
+      }
+    ],
+    "solutionIntro": "Our AI system is the answer to these ongoing losses.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals take hours of manual effort. Our AI generates them in under 60 seconds, freeing up your team.",
+        "tags": [
+          "Efficiency",
+          "Time-saving",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "1.",
+        "title": "Consistent Branding",
+        "description": "Manual processes risk inconsistency. Our system ensures every proposal is perfectly on-brand, every time.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "1.",
+        "title": "Real-Time Tracking",
+        "description": "Without tracking, you miss valuable insights. Our system provides real-time data on proposal engagement, so you know when to follow up.",
+        "tags": [
+          "Analytics",
+          "Insight",
+          "Follow-up"
+        ]
+      },
+      {
+        "icon": "1.",
+        "title": "AI Chatbot Assistance",
+        "description": "Currently, client questions slow down the process. Our AI chatbot handles inquiries instantly, keeping the momentum going.",
+        "tags": [
+          "Communication",
+          "Engagement",
+          "Support"
+        ]
+      },
+      {
+        "icon": "1.",
+        "title": "Focus on Core Services",
+        "description": "Time-consuming proposals detract from your core services. With automation, your team can focus on strategy and creative work.",
+        "tags": [
+          "Productivity",
+          "Core Competency",
+          "Focus"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Ascender's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Ascender around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Ascender.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Elevate Acme Corp's Brand Visibility with Ascender's Expertise",
+    "heroSubheadline": "We're ready to transform Acme Corp's brand with a strategic, creative, and tech-driven approach.",
+    "heroTags": [],
+    "problemsIntro": "Every day Acme Corp is losing potential revenue due to untapped opportunities.",
+    "problems": [
+      {
+        "title": "Lack of Brand Awareness",
+        "description": "Acme Corp is losing potential customers daily because they simply don't know you exist. Increasing brand visibility by 20% could enhance market share significantly."
+      },
+      {
+        "title": "Inconsistent Brand Messaging",
+        "description": "Inconsistent messaging results in confused customers. This can lead to a 15% decrease in customer loyalty and trust."
+      },
+      {
+        "title": "Outdated Website",
+        "description": "A slow, outdated website can lead to a 25% bounce rate increase, driving potential customers away."
+      },
+      {
+        "title": "Ineffective Marketing Strategy",
+        "description": "Without a coherent strategy, marketing spend can be wasted. This could mean up to 30% of your budget is not driving returns."
+      },
+      {
+        "title": "Low Engagement",
+        "description": "Low social media engagement results in missed connections with potential customers, costing up to 20% in potential revenue."
+      },
+      {
+        "title": "Lack of Technological Advantage",
+        "description": "Not leveraging technology means falling behind competitors, potentially losing 15% of market share."
+      }
+    ],
+    "solutionIntro": "Let's address these losses with targeted solutions.",
+    "solutions": [
+      {
+        "icon": "🎨",
+        "title": "Creative: Elevating your brand",
+        "description": "We craft engaging brand stories that resonate and convert. This will directly address Acme Corp's brand awareness and messaging challenges.",
+        "tags": [
+          "Branding",
+          "Design",
+          "Engagement"
+        ]
+      },
+      {
+        "icon": "🧠",
+        "title": "Strategy: Seeing the bigger picture",
+        "description": "Our strategic insights will streamline your marketing efforts, ensuring every dollar spent is a dollar well-invested.",
+        "tags": [
+          "Strategy",
+          "Efficiency",
+          "ROI"
+        ]
+      },
+      {
+        "icon": "💬",
+        "title": "Communication: Changing perceptions",
+        "description": "We'll refine your messaging to ensure it consistently reflects your brand's core values.",
+        "tags": [
+          "Messaging",
+          "Consistency",
+          "Trust"
+        ]
+      },
+      {
+        "icon": "💻",
+        "title": "Technology: Using technology to gain advantage",
+        "description": "Enhancing your digital presence with the latest technology can reduce bounce rate and improve user experience.",
+        "tags": [
+          "Technology",
+          "Innovation",
+          "Advantage"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Increase in brand visibility"
+      },
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Improvement in website engagement"
+      },
+      {
+        "value": "20",
+        "suffix": "%",
+        "label": "Growth in social media interactions"
+      }
+    ],
+    "whyUsIntro": "Here's why Ascender is the perfect partner for Acme Corp.",
+    "whyUsCards": [
+      {
+        "icon": "🌍",
+        "title": "Holistic Approach",
+        "description": "We see the bigger picture and provide solutions that are comprehensive and effective."
+      },
+      {
+        "icon": "🚀",
+        "title": "Innovative Solutions",
+        "description": "Our team leverages cutting-edge technology to keep you ahead of the competition."
+      },
+      {
+        "icon": "💡",
+        "title": "Creative Excellence",
+        "description": "We craft creative solutions that elevate your brand and captivate your audience."
+      },
+      {
+        "icon": "🤝",
+        "title": "Proven Track Record",
+        "description": "Our results speak for themselves, with numerous satisfied clients experiencing growth."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "50",
+        "suffix": "+",
+        "label": "Successful Projects"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Satisfaction"
+      },
+      {
+        "value": "15",
+        "suffix": "M",
+        "label": "Revenue Generated for Clients"
+      },
+      {
+        "value": "20",
+        "suffix": "Years",
+        "label": "Industry Experience"
+      }
+    ],
+    "teamIntro": "Meet the team that's ready to elevate Acme Corp.",
+    "team": {
+      "initials": "ED",
+      "name": "Emma Dinmore",
+      "role": "Founder & Business Development Director",
+      "titleNote": "",
+      "bio": "Emma leads strategy and client relationships, ensuring every project aligns with client goals and exceeds expectations.",
+      "linkedin": "",
+      "phone": "+44 147 321 3000"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Strategy",
+        "badge": "Weeks 1 to 3",
+        "description": "Understanding your brand and setting strategic goals.",
+        "bullets": [
+          "Initial consultations",
+          "Market research"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Creative Development",
+        "badge": "Weeks 4 to 7",
+        "description": "Creating compelling brand narratives and visuals.",
+        "bullets": [
+          "Brand storytelling",
+          "Design concepts"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 8 to 11",
+        "description": "Bringing strategies to life with precision and creativity.",
+        "bullets": [
+          "Website updates",
+          "Campaign launches"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Evaluation & Optimization",
+        "badge": "Weeks 12 to 16",
+        "description": "Measuring success and refining approaches.",
+        "bullets": [
+          "Performance analysis",
+          "Strategy refinement"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose an investment tier that aligns with your goals.",
+    "pricing": [
+      {
+        "name": "Essential Plan",
+        "subtitle": "",
+        "description": "Ideal for businesses starting their branding journey.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic branding",
+          "Initial strategy"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Plan",
+        "subtitle": "",
+        "description": "Recommended for businesses aiming for accelerated growth and visibility.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Advanced branding",
+          "Comprehensive strategy",
+          "In-depth analysis"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Plan",
+        "subtitle": "",
+        "description": "Perfect for established brands seeking market dominance.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full-service branding",
+          "Complete market strategy",
+          "Continuous optimization"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Let's Transform Acme Corp Together",
+    "ctaDescription": "We're here to chat about how we can help. No pressure, just a friendly conversation.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "emma@trebuchetcreative.co.uk",
+    "ctaNote": "",
+    "footerText": "© 2025 Ascender",
+    "footerSub": "Seeing the bigger picture."
+  },
+  "enriched": {
+    "tone": "warm, casual",
+    "positioning": "Full-service agency",
+    "serviceList": [
+      "Strategy",
+      "Creative",
+      "Communication",
+      "Technology",
+      "Strategy",
+      "Strategy",
+      "Creative",
+      "Communication",
+      "Technology"
+    ],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Emma",
+    "last_name": "Dinmore",
+    "email": "emma@trebuchetcreative.co.uk",
+    "company_phone": "+44 147 321 3000",
+    "mobile_number": "",
+    "company_name": "Ascender",
+    "company_website": "https://www.weareascender.co.uk",
+    "company_domain": "weareascender.co.uk",
+    "company_description": "A like-minded team of experienced thinkers, writers, designers, strategists, developers and doers, all together in the same space. We use creativity to inspire action. Our speciality lies in shaping the way brands communicate, elevating them to be more, to achieve more. We believe that creativity and design driven by intelligent and actionable strategy is what will set your business apart.",
+    "headline": "Founder & Business Development Director",
+    "job_title": "Founder & Business Development Director",
+    "industry": "Marketing & Advertising",
+    "company_size": "14",
+    "company_technologies": "bootstrap framework, cloudflare hosting, cloudflare dns, gmail, google apps, mobile friendly, typekit, wordpress.org",
+    "city": "Ipswich",
+    "state": "England",
+    "country": "United Kingdom",
+    "company_full_address": "Epsilon House, West Road, Ipswich, England IP3 9FJ, GB",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "9.8M",
+    "linkedin": "https://www.linkedin.com/in/emmadinmore",
+    "company_linkedin": "https://www.linkedin.com/company/ascendercreative",
+    "company_founded_year": "2003",
+    "keywords": "strategic marketing, design, advertising, copywriting, digital marketing, branding, social media, events, web design, build, marketing services, creative agency, brand strategy, advertising campaigns, visual identity, print design, social media marketing, client management, content creation, ux/ui design, e-commerce integration, graphic design, strategic consulting, experience design, market research, tangible results, growth solutions, digital experiences, collaborative projects, client care, multimedia marketing, business innovation, cutting-edge design, content strategy, nonprofit branding, integrated marketing, performance marketing, lead generation, custom web development, out-of-home advertising, product branding, online presence, email marketing, event marketing, promotional design, cross-channel campaigns, digital strategy, interactive design, user-centered design, value proposition, brand positioning, experience management, insight-driven marketing, campaign management, brand awareness, writing & editing, marketing & advertising, consumer internet, consumers, internet, information technology & services, b2b, management consulting, sales, events services, marketing",
+    "personalization": "You’ve got clients sticking around for over 25 years, that’s some serious loyalty.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
