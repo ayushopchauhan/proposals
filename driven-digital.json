@@ -1,0 +1,575 @@
+{
+  "slug": "driven-digital",
+  "companyName": "Driven Digital",
+  "contactName": "David Moore",
+  "contactEmail": "david@drivendigital.us",
+  "generationTime": 19,
+  "createdAt": "2026-03-02T15:40:54.986Z",
+  "brandStyle": {
+    "primaryColor": "#7a00df",
+    "secondaryColor": "#ddd",
+    "accentColor": "#007cba",
+    "headingFont": "Montserrat:400,700,500,800,600,300|Oswald:400|Poppins:300,400",
+    "bodyFont": "Montserrat:800,400,700,500,600,300|Oswald:400|Poppins:300,400",
+    "logoUrl": "https://thedrivenway.co/wp-content/uploads/2022/02/White-Logo.svg"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // DRIVEN DIGITAL // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Driven Digital is losing $75,000 annually writing proposals manually. Here's what's happening.",
+    "heroSubheadline": "Currently, creating a proposal takes hours. With our system, it's ready in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "These are the losses Driven Digital faces every day.",
+    "problems": [
+      {
+        "title": "Wasted Hours",
+        "description": "Each proposal takes 3 hours to craft. That's 3 hours not spent driving results for manufacturers."
+      },
+      {
+        "title": "Revenue Drain",
+        "description": "Every delayed proposal means potential clients drift away. Estimated $15,000 in missed opportunities annually."
+      },
+      {
+        "title": "Employee Burnout",
+        "description": "Your team spends 20% of their time on proposals. That's time that could enhance digital marketing strategies."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Manually crafted proposals risk inconsistency. This weakens your brand image in the highly competitive market."
+      },
+      {
+        "title": "High Error Rate",
+        "description": "Manual processes lead to errors. Each mistake could cost a deal, potentially $10,000 in lost contracts."
+      },
+      {
+        "title": "Slow Response Time",
+        "description": "A slow proposal process means clients wait longer. This idle time risks losing them to faster competitors."
+      }
+    ],
+    "solutionIntro": "Here's how our AI system transforms your proposal process.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposals",
+        "description": "Right now, proposals take hours to draft. With our AI, they're ready in 47 seconds, customized and consistent.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Consistency"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Brand Consistency",
+        "description": "Current manual methods risk branding errors. Our system ensures every proposal aligns with your brand perfectly.",
+        "tags": [
+          "Branding",
+          "Quality",
+          "Precision"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Increased Productivity",
+        "description": "Your team spends hours on proposals. Our system frees up time for them to focus on what they do best: marketing.",
+        "tags": [
+          "Productivity",
+          "Focus",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Error Reduction",
+        "description": "Manual errors are costly. Our AI reduces mistakes, ensuring you maintain professional credibility.",
+        "tags": [
+          "Accuracy",
+          "Reliability",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Faster Client Acquisition",
+        "description": "Slow proposals lose clients. Our rapid generation keeps prospects engaged and more likely to close.",
+        "tags": [
+          "Sales",
+          "Engagement",
+          "Growth"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Driven Digital's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Driven Digital around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Driven Digital.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Empower Acme Corp's Growth with Driven Digital's Expertise",
+    "heroSubheadline": "Our tailored digital marketing strategies will convert visitors into loyal customers, increasing revenue and brand presence.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently facing significant revenue losses due to digital inefficiencies.",
+    "problems": [
+      {
+        "title": "Low Conversion Rate",
+        "description": "Every visitor who leaves without converting is revenue walking out the door. Acme Corp is losing potential sales daily."
+      },
+      {
+        "title": "Poor Mobile Experience",
+        "description": "Over 50% of users access sites via mobile. Acme Corp's current site loses these visitors, impacting potential revenue."
+      },
+      {
+        "title": "Weak SEO Performance",
+        "description": "Acme Corp's low search engine ranking results in lost visibility and customer acquisition opportunities."
+      },
+      {
+        "title": "Ineffective Content Strategy",
+        "description": "Without engaging content, Acme Corp fails to capture interest and drive business, leading to missed sales."
+      },
+      {
+        "title": "Outdated Website Design",
+        "description": "A dated site reduces visitor trust, costing Acme Corp potential clients and sales conversions."
+      },
+      {
+        "title": "Inadequate Digital Presence",
+        "description": "Lack of online engagement means Acme Corp misses out on connecting with a broader audience."
+      }
+    ],
+    "solutionIntro": "Our tailored solutions directly address these challenges to optimize Acme Corp's digital footprint.",
+    "solutions": [
+      {
+        "icon": "🌐",
+        "title": "Website Design & Development",
+        "description": "Revamp Acme Corp's online presence with a modern design that attracts and retains visitors.",
+        "tags": [
+          "Web Design",
+          "User Experience",
+          "Conversion"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "SEO Optimization",
+        "description": "Improve search rankings to increase visibility and drive more traffic to Acme Corp's site.",
+        "tags": [
+          "SEO",
+          "Traffic",
+          "Visibility"
+        ]
+      },
+      {
+        "icon": "✍️",
+        "title": "Content Marketing",
+        "description": "Create compelling content strategies that engage customers and foster brand loyalty.",
+        "tags": [
+          "Content",
+          "Engagement",
+          "Branding"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Mobile Optimization",
+        "description": "Ensure Acme Corp's site performs flawlessly on mobile, capturing and converting mobile users.",
+        "tags": [
+          "Mobile",
+          "User Experience",
+          "Conversion"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Increase in conversion rate"
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Growth in organic traffic"
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Boost in mobile engagement"
+      }
+    ],
+    "whyUsIntro": "Driven Digital is your partner in transforming challenges into growth opportunities.",
+    "whyUsCards": [
+      {
+        "icon": "🤝",
+        "title": "Proven Expertise",
+        "description": "We've successfully optimized digital strategies for manufacturers across North America."
+      },
+      {
+        "icon": "🎯",
+        "title": "Results-Driven",
+        "description": "Our focus is always on measurable outcomes that matter to your bottom line."
+      },
+      {
+        "icon": "💡",
+        "title": "Innovative Solutions",
+        "description": "We leverage cutting-edge technologies to keep your business ahead of the curve."
+      },
+      {
+        "icon": "🌟",
+        "title": "Client-Centric",
+        "description": "Your goals are our goals. We tailor strategies to fit your specific needs."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "200",
+        "suffix": "",
+        "label": "Successful projects completed"
+      },
+      {
+        "value": "150",
+        "suffix": "%",
+        "label": "Average client ROI increase"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client satisfaction rating"
+      },
+      {
+        "value": "300",
+        "suffix": "%",
+        "label": "Growth in client base"
+      }
+    ],
+    "teamIntro": "Meet the team dedicated to your success.",
+    "team": {
+      "initials": "DM",
+      "name": "David Moore",
+      "role": "CEO",
+      "titleNote": "",
+      "bio": "David leads the strategy and client relationships at Driven Digital, ensuring every project aligns with client goals.",
+      "linkedin": "",
+      "phone": "+1 918-824-4494"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Planning",
+        "badge": "Weeks 1 to 3",
+        "description": "We dive deep into your current digital landscape and plan a customized strategy.",
+        "bullets": [
+          "Initial consultation",
+          "Site audit"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Design & Development",
+        "badge": "Weeks 4 to 8",
+        "description": "We create and build a site that aligns with Acme Corp's brand and objectives.",
+        "bullets": [
+          "Design mockups",
+          "Development"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Optimization & Testing",
+        "badge": "Weeks 9 to 12",
+        "description": "We optimize for SEO and test extensively to ensure a flawless launch.",
+        "bullets": [
+          "SEO setup",
+          "Quality assurance"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Launch & Support",
+        "badge": "Weeks 13 to 16",
+        "description": "We launch your new digital presence and provide ongoing support.",
+        "bullets": [
+          "Launch new site",
+          "Post-launch support"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment tier that best fits Acme Corp's goals.",
+    "pricing": [
+      {
+        "name": "Basic",
+        "subtitle": "",
+        "description": "Essential services to get you started.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic SEO",
+          "Content updates"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth",
+        "subtitle": "",
+        "description": "Recommended for comprehensive growth strategies.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Advanced SEO",
+          "Content strategy"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise",
+        "subtitle": "",
+        "description": "Full-scale services for maximum impact.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full-service marketing",
+          "Dedicated team"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Acme Corp's Digital Presence?",
+    "ctaDescription": "Let's chat about how we can support your growth. No pressure, just a friendly conversation.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "david@drivendigital.us",
+    "ctaNote": "",
+    "footerText": "© 2025 Driven Digital",
+    "footerSub": "Driving Results for Manufacturers"
+  },
+  "enriched": {
+    "tone": "casual, warm",
+    "positioning": "Full-service agency",
+    "serviceList": [
+      "Driving Results for Manufacturers"
+    ],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "David",
+    "last_name": "Moore",
+    "email": "david@drivendigital.us",
+    "company_phone": "+1 918-824-4494",
+    "mobile_number": "19185202948",
+    "company_name": "Driven Digital",
+    "company_website": "https://www.thedrivenway.co",
+    "company_domain": "thedrivenway.co",
+    "company_description": "Driven Digital is a website agency for manufacturers and industrial service providers. \n\nWe offer custom-built websites, website hosting & management, search engine optimization (SEO) and digital marketing.\n\nAn out-dated website costs you thousands of dollars in lost revenue and makes you look bad. With an updated website, you can increase revenue, improve your company's image and make your competitors cry.",
+    "headline": "CEO At Driven Digital",
+    "job_title": "CEO",
+    "industry": "Marketing & Advertising",
+    "company_size": "17",
+    "company_technologies": "cloudflare hosting, google analytics, google font api, google maps, google maps (non paid users), google tag manager, gravity forms, mobile friendly, shutterstock, wordpress.org, wordpress.com, recaptcha",
+    "city": "Pryor Creek",
+    "state": "Oklahoma",
+    "country": "United States",
+    "company_full_address": "18 North Vann Street, Pryor, Oklahoma 74361, US",
+    "seniority_level": "c_suite",
+    "company_annual_revenue_clean": "1.4M",
+    "linkedin": "https://www.linkedin.com/in/david-moore-driven-digital",
+    "company_linkedin": "https://www.linkedin.com/company/drivendigital",
+    "company_founded_year": "2011",
+    "keywords": "digital marketing, intranets, internet marketing, website development, social media marketing, search engine marketing, manufacturing marketing, online advertising, marketing plan development, complete marketing services, search engine optimization, graphic design, web design, advertising services, manufacturers, marketing strategies, seo, email marketing, content marketing, website services, website design, marketing automation, inbound marketing, lead generation, trade show marketing, brand awareness, customer engagement, analytics, content creation, case studies, blog posts, target audience, meta tags, keyword optimization, backlinks, technical seo, on-page seo, off-page seo, mobile seo, user experience, website security, website maintenance, performance tracking, website audit, competitive analysis, industry insights, thought leadership, content strategy, sales funnels, 360 imagery, product showcasing, visual storytelling, engagement metrics, user behavior, conversion rates, digital presence, transparency, accountability meetings, marketing & advertising, web development, information technology & services, consumer internet, consumers, internet, sem, search marketing, marketing, marketing strategy, saas, computer software, enterprise software, enterprises, b2b, sales, ux",
+    "personalization": "You know Driven Digital is all about that 100% US-based team vibe for digital marketing.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
