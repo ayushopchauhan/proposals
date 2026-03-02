@@ -1,0 +1,573 @@
+{
+  "slug": "ggs",
+  "companyName": "GGS",
+  "contactName": "George Aye",
+  "contactEmail": "george@greatergoodstudio.com",
+  "generationTime": 32,
+  "createdAt": "2026-03-02T13:04:18.910Z",
+  "brandStyle": {
+    "primaryColor": "#121212",
+    "secondaryColor": "#f01d4f",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": "https://greatergoodstudio.com/wp-content/uploads/home-hero-scaled-e1619755203683.jpg"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // GGS // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "GGS is losing 500 hours a year on proposal writing. Here is exactly where it goes.",
+    "heroSubheadline": "Currently, GGS spends hours crafting proposals. With our AI, generate them in just 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "These are not just inefficiencies, they are ongoing losses.",
+    "problems": [
+      {
+        "title": "Hours Wasted",
+        "description": "Every hour spent writing proposals is an hour not spent on designing inclusive solutions. This costs GGS over 500 hours annually."
+      },
+      {
+        "title": "Lost Revenue",
+        "description": "Manual proposal creation delays mean potential clients might move on. GGS could be missing out on $50,000 in opportunities every year."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Paying skilled staff to draft proposals instead of strategizing wastes $30,000 annually. Their expertise is better used on client projects."
+      },
+      {
+        "title": "Inconsistency Issues",
+        "description": "Inconsistent proposals can confuse prospects. This could be costing GGS 3 potential deals per year."
+      },
+      {
+        "title": "Delayed Outputs",
+        "description": "Extended proposal timelines mean slower project starts. This impacts GGS's ability to meet client demands promptly, costing reputational equity."
+      },
+      {
+        "title": "Client Dissatisfaction",
+        "description": "Proposals that lack personal touch can lead to client disengagement. GGS risks losing $20,000 annually in repeat business."
+      }
+    ],
+    "solutionIntro": "Our AI system replaces all the above inefficiencies.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, GGS drafts proposals manually over several hours. Our system generates them in 47 seconds with precise branding.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Branding"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Prospect Analysis",
+        "description": "GGS spends time researching prospects manually. Our AI analyzes potential clients in seconds, ensuring tailored proposals.",
+        "tags": [
+          "Research",
+          "Customization",
+          "Speed"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Consistent Branding",
+        "description": "Inconsistent branding confuses clients. Our system ensures every proposal is aligned with GGS’s brand, every time.",
+        "tags": [
+          "Consistency",
+          "Brand",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "AI Chatbot Assistance",
+        "description": "Currently, client follow-ups are manual and time-consuming. Our AI chatbot handles initial queries, freeing up your team to focus on design.",
+        "tags": [
+          "Automation",
+          "Client Engagement",
+          "Efficiency"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Proposal Tracking",
+        "description": "Post-send proposal tracking is manual and often neglected. Our system automatically tracks interactions, providing insights into client behavior.",
+        "tags": [
+          "Insights",
+          "Data",
+          "Follow-Up"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for GGS's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for GGS around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for GGS.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Unlock Acme Corp's Potential with Human-Centered Design",
+    "heroSubheadline": "We will transform Acme Corp's approach through an inclusive, innovative design strategy. Our engagement plan focuses on tangible impact from day one.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently experiencing significant revenue losses due to inefficiencies in user engagement.",
+    "problems": [
+      {
+        "title": "High Bounce Rate",
+        "description": "Every visitor leaving your site without engaging is a lost opportunity. This results in hundreds of potential customers slipping away each month."
+      },
+      {
+        "title": "Low Conversion Rate",
+        "description": "With only 2% of visitors converting, Acme Corp is losing out on thousands in potential revenue monthly."
+      },
+      {
+        "title": "Ineffective Branding",
+        "description": "Without a cohesive brand message, Acme Corp is missing out on customer loyalty and repeat business, leading to a significant sales gap."
+      },
+      {
+        "title": "Poor User Experience",
+        "description": "A cumbersome user interface causes frustration, leading to a 20% decrease in customer satisfaction and retention."
+      },
+      {
+        "title": "Lack of Mobile Optimization",
+        "description": "With 60% of users accessing via mobile, a non-optimized site results in a major loss of engagement and transactions."
+      },
+      {
+        "title": "Inadequate Analytics",
+        "description": "Without proper tracking, Acme Corp is missing critical insights that could drive up to 30% better decision making results."
+      }
+    ],
+    "solutionIntro": "Our solutions directly address these losses, turning them into opportunities for growth.",
+    "solutions": [
+      {
+        "icon": "💡",
+        "title": "User Experience Design",
+        "description": "We enhance user interfaces to boost satisfaction and retention. This directly addresses poor user experience.",
+        "tags": [
+          "UX",
+          "Design",
+          "Satisfaction"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Mobile Optimization",
+        "description": "By optimizing for mobile, we capture and convert the 60% of users accessing your site on these devices. This solves the issue of lost mobile engagement.",
+        "tags": [
+          "Mobile",
+          "Optimization",
+          "Conversion"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Data Analytics",
+        "description": "We implement robust analytics to provide insights that inform better decisions. This transforms data into actionable strategies.",
+        "tags": [
+          "Data",
+          "Analytics",
+          "Insights"
+        ]
+      },
+      {
+        "icon": "🎨",
+        "title": "Brand Development",
+        "description": "A strong, cohesive brand message will drive customer loyalty and repeat business, addressing ineffective branding.",
+        "tags": [
+          "Brand",
+          "Development",
+          "Loyalty"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Increase in user engagement."
+      },
+      {
+        "value": "15",
+        "suffix": "%",
+        "label": "Improvement in conversion rate."
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Growth in customer retention."
+      }
+    ],
+    "whyUsIntro": "GGS stands as a leader in using human-centered design to drive impactful change.",
+    "whyUsCards": [
+      {
+        "icon": "🌟",
+        "title": "Proven Expertise",
+        "description": "Our team has successfully transformed over 100 businesses with innovative design strategies."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Approach",
+        "description": "We prioritize your goals, ensuring every strategy is tailored to your unique needs."
+      },
+      {
+        "icon": "🚀",
+        "title": "Results-Oriented",
+        "description": "Our focus is on delivering measurable outcomes that propel your business forward."
+      },
+      {
+        "icon": "🔍",
+        "title": "Comprehensive Analytics",
+        "description": "We provide in-depth insights that drive smarter, data-backed decisions."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "95",
+        "suffix": "%",
+        "label": "Client satisfaction rate."
+      },
+      {
+        "value": "200+",
+        "suffix": "",
+        "label": "Successful projects completed."
+      },
+      {
+        "value": "50",
+        "suffix": "+",
+        "label": "Industries served."
+      },
+      {
+        "value": "10",
+        "suffix": "years",
+        "label": "of design excellence."
+      }
+    ],
+    "teamIntro": "Our team is dedicated to delivering excellence through a collaborative approach.",
+    "team": {
+      "initials": "GA",
+      "name": "George Aye",
+      "role": "Co-founder And Co-executive Director",
+      "titleNote": "",
+      "bio": "George leads our strategy and client relationships with a focus on achieving impactful results. His expertise ensures that every project is a success.",
+      "linkedin": "",
+      "phone": "+1 773-599-9717"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Research",
+        "badge": "Weeks 1 to 3",
+        "description": "We immerse ourselves in understanding your business and its unique challenges.",
+        "bullets": [
+          "Stakeholder interviews",
+          "Market analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "We create a strategic plan focused on addressing core issues.",
+        "bullets": [
+          "Goal setting",
+          "KPI definition"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Design & Implementation",
+        "badge": "Weeks 7 to 12",
+        "description": "Our team designs and implements solutions tailored to your needs.",
+        "bullets": [
+          "UX/UI design",
+          "Brand messaging"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Evaluation & Optimization",
+        "badge": "Weeks 13 to 16",
+        "description": "We assess performance and make necessary adjustments for optimal results.",
+        "bullets": [
+          "Performance testing",
+          "Data analysis"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose from our tailored investment options designed to maximize your growth.",
+    "pricing": [
+      {
+        "name": "Essential Package",
+        "subtitle": "",
+        "description": "For businesses looking to address core challenges with foundational strategies.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic analytics",
+          "User experience design"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Recommended for those ready to make significant strides in their market.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Comprehensive analytics",
+          "Full mobile optimization"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Premium Package",
+        "subtitle": "",
+        "description": "For enterprises aiming for a complete transformation and market leadership.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "All-inclusive services",
+          "Priority support"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Let's Transform Acme Corp's Future Together",
+    "ctaDescription": "Schedule a conversation with us to explore how we can partner for success.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "george@greatergoodstudio.com",
+    "ctaNote": "",
+    "footerText": "© 2025 GGS",
+    "footerSub": "Designing a better future, together."
+  },
+  "enriched": {
+    "tone": "corporate, warm",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "George",
+    "last_name": "Aye",
+    "email": "george@greatergoodstudio.com",
+    "company_phone": "+1 773-599-9717",
+    "mobile_number": "",
+    "company_name": "GGS",
+    "company_website": "https://www.greatergoodstudio.com",
+    "company_domain": "greatergoodstudio.com",
+    "company_description": "Greater Good Studio advances people-centered social change.\n\nBy working alongside people who are impacted by social inequity, we co-design strategies and solutions that challenge the status quo.\n\nWe envision a world where all social change efforts are inclusive and working towards equity.",
+    "headline": "Pissed-off Optimist",
+    "job_title": "Co-founder And Co-executive Director",
+    "industry": "Design",
+    "company_size": "10",
+    "company_technologies": "apache, basis, eventbrite, gmail, google apps, google tag manager, mobile friendly, remote, vimeo, wordpress.org",
+    "city": "Chicago",
+    "state": "Illinois",
+    "country": "United States",
+    "company_full_address": "2864 north milwaukee avenue, chicago, illinois, united states",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "947K",
+    "linkedin": "https://www.linkedin.com/in/georgeaye",
+    "company_linkedin": "https://www.linkedin.com/company/greater-good-studio",
+    "company_founded_year": "2011",
+    "keywords": "humancentered design, social impact, social innovation, programs & services, visual design, design research, design strategy, human-centered design, community engagement, design consulting, equity, inclusivity, nonprofit collaboration, program development, service design, design thinking, public policy design, capacity building, prototyping, research facilitation, strategy co-design, stakeholder engagement, design for equity, transformative design, social justice, user-centered design, civic engagement, visual identity, community development, training programs, workshop facilitation, evidence-based design, impact evaluation, design facilitation, collaborative design, digital tools, program design, community health, youth development, education initiatives, economic inclusion, arts & culture, communication strategies, sustainable design, advocacy, grassroots organizing, well-being design, interdisciplinary collaboration, participatory design, environmental design, insight synthesis, design ethics, social sector partnerships, equitable access, user experience design, sustainability, environmental services, renewables & environment",
+    "personalization": "You really nailed that 'Pissed-Off Optimists™' vibe with your focus on social change.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
