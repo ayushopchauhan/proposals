@@ -1,0 +1,575 @@
+{
+  "slug": "cinchlocal",
+  "companyName": "CinchLocal",
+  "contactName": "Cary Byrd",
+  "contactEmail": "cary@cinchlocal.com",
+  "generationTime": 22,
+  "createdAt": "2026-03-03T13:07:13.823Z",
+  "brandStyle": {
+    "primaryColor": "rgba(58,58,58,1)",
+    "secondaryColor": "rgba(100,100,100,1)",
+    "accentColor": "rgba(255, 126, 41, 1)",
+    "headingFont": "Source Sans Pro",
+    "bodyFont": "dm-social-icons!important",
+    "logoUrl": "https://lirp.cdn-website.com/e6c7cb13/dms3rep/multi/opt/CinchLocal-1920w.png"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // CINCHLOCAL // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "CinchLocal is burning 300 hours a year on proposals. Here is exactly where it goes.",
+    "heroSubheadline": "Currently, your team spends hours crafting proposals for roofing clients. With our system, generate them in just 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Every minute spent on proposals is a minute bleeding away potential profits.",
+    "problems": [
+      {
+        "title": "Time Drain",
+        "description": "Each proposal takes hours to create. That's hundreds of hours a year not spent on getting more roofing clients."
+      },
+      {
+        "title": "Lost Deals",
+        "description": "Slow proposal turnaround can cost you deals. Every day a proposal is delayed, potential clients may choose a competitor."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Inconsistent proposals can confuse clients. Each inconsistency weakens your brand's position as the 'Go to' Roofer."
+      },
+      {
+        "title": "High Labor Cost",
+        "description": "Your time is valuable. Spending it on proposals rather than strategic growth initiatives is costly."
+      },
+      {
+        "title": "Error-Prone Process",
+        "description": "Manual proposals are ripe for errors. Each mistake can undermine your reputation and cost you clients."
+      },
+      {
+        "title": "Opportunity Cost",
+        "description": "Every hour on proposals is an hour not spent expanding your market reach and bringing in more roofing leads."
+      }
+    ],
+    "solutionIntro": "Our AI system replaces the inefficiencies and losses outlined above.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Manually crafting each proposal takes hours. Our system does it in 47 seconds with full branding.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Branding"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Brand inconsistency weakens your message. Our system ensures every proposal aligns perfectly with your brand.",
+        "tags": [
+          "Consistency",
+          "Professionalism",
+          "Image"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Error-Free Proposals",
+        "description": "Manual processes are prone to errors. Our AI eliminates mistakes, protecting your reputation.",
+        "tags": [
+          "Accuracy",
+          "Reliability",
+          "Trust"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Increased Productivity",
+        "description": "Time spent on proposals is time lost. Automate it and focus on growing your client base.",
+        "tags": [
+          "Productivity",
+          "Growth",
+          "Focus"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Competitive Edge",
+        "description": "Slow proposals can cost you clients. With fast generation, you stay ahead of competitors.",
+        "tags": [
+          "Competitiveness",
+          "Speed",
+          "Advantage"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for CinchLocal's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for CinchLocal around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for CinchLocal.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Become the Leading Roofer in Your City with CinchLocal's Expertise",
+    "heroSubheadline": "We’ll guide Acme Corp through a proven strategy to attract more local clients who want only your services.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently losing potential revenue with every unconverted visitor.",
+    "problems": [
+      {
+        "title": "Low Website Traffic",
+        "description": "Acme Corp's current web presence is underperforming. You could be missing out on hundreds of potential clients each month."
+      },
+      {
+        "title": "Poor Local Visibility",
+        "description": "Without strong local SEO, Acme Corp is losing ground to competitors who are more visible in search results."
+      },
+      {
+        "title": "Ineffective Ad Spend",
+        "description": "Current advertising efforts are not optimized, resulting in wasted budget and missed leads."
+      },
+      {
+        "title": "High Bounce Rates",
+        "description": "A high percentage of visitors leave the site without interaction. This is potential revenue walking away."
+      },
+      {
+        "title": "Weak Brand Presence",
+        "description": "Acme Corp lacks a compelling brand story online, leading to lost trust and credibility with potential clients."
+      },
+      {
+        "title": "Low Conversion Rates",
+        "description": "The website is not effectively converting visitors into clients, resulting in lost sales opportunities."
+      }
+    ],
+    "solutionIntro": "Our solutions will directly address these losses and turn them into growth opportunities.",
+    "solutions": [
+      {
+        "icon": "📈",
+        "title": "Roofers Expansion System",
+        "description": "Boosts your visibility and draws in qualified local leads. This system turns potential losses into gains.",
+        "tags": [
+          "SEO",
+          "Leads",
+          "Visibility"
+        ]
+      },
+      {
+        "icon": "🌐",
+        "title": "Local SEO Optimization",
+        "description": "Enhances your search rankings to ensure that local customers can find you easily. It addresses poor visibility.",
+        "tags": [
+          "SEO",
+          "Local",
+          "Search Rankings"
+        ]
+      },
+      {
+        "icon": "💡",
+        "title": "Targeted Digital Ads",
+        "description": "Optimizes your advertising budget to ensure that your ads reach the right audience, reducing wasted spend.",
+        "tags": [
+          "Ads",
+          "Targeting",
+          "Efficiency"
+        ]
+      },
+      {
+        "icon": "🖥️",
+        "title": "Website Conversion Optimization",
+        "description": "Transforms your website into a conversion powerhouse, lowering bounce rates and increasing client inquiries.",
+        "tags": [
+          "Conversion",
+          "Website",
+          "Optimization"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "75",
+        "suffix": "%",
+        "label": "Increase in qualified leads"
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Improvement in conversion rate"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Reduction in ad spend waste"
+      }
+    ],
+    "whyUsIntro": "Here's why CinchLocal is the right choice for Acme Corp.",
+    "whyUsCards": [
+      {
+        "icon": "🏆",
+        "title": "Proven Track Record",
+        "description": "We've helped numerous roofing companies dominate their local markets."
+      },
+      {
+        "icon": "🛠️",
+        "title": "Industry Expertise",
+        "description": "Our team specializes exclusively in roofing marketing, ensuring tailored strategies."
+      },
+      {
+        "icon": "📊",
+        "title": "Data-Driven Strategies",
+        "description": "We use the latest data to tailor our plans and maximize your ROI."
+      },
+      {
+        "icon": "🤝",
+        "title": "Dedicated Support",
+        "description": "Our team is always here to support and guide you through each step."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "200",
+        "suffix": "+",
+        "label": "Happy roofing clients"
+      },
+      {
+        "value": "1,000",
+        "suffix": "+",
+        "label": "Successful campaigns"
+      },
+      {
+        "value": "10",
+        "suffix": "+",
+        "label": "Years in business"
+      },
+      {
+        "value": "500",
+        "suffix": "%",
+        "label": "Average ROI increase"
+      }
+    ],
+    "teamIntro": "Meet the expert team dedicated to your success.",
+    "team": {
+      "initials": "CB",
+      "name": "Cary Byrd",
+      "role": "Founder",
+      "titleNote": "",
+      "bio": "Cary leads strategic initiatives at CinchLocal and excels in building lasting client relationships. His experience ensures that your needs are met with precision.",
+      "linkedin": "",
+      "phone": "+1 210-789-2973"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Strategy",
+        "badge": "Weeks 1 to 3",
+        "description": "We conduct a comprehensive assessment of your current marketing efforts.",
+        "bullets": [
+          "Market analysis",
+          "Competitive research"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Implementation",
+        "badge": "Weeks 4 to 7",
+        "description": "Implementing the tailored strategy to boost your market presence.",
+        "bullets": [
+          "SEO enhancements",
+          "Ad campaign setup"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Optimization",
+        "badge": "Weeks 8 to 12",
+        "description": "We monitor and tweak campaigns for maximum efficiency.",
+        "bullets": [
+          "Conversion tracking",
+          "Ad performance tuning"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Scale",
+        "badge": "Weeks 13 to 16",
+        "description": "Review results and plan for scaling up successful strategies.",
+        "bullets": [
+          "Performance review",
+          "Scaling strategies"
+        ]
+      }
+    ],
+    "pricingIntro": "Explore our investment options to grow Acme Corp.",
+    "pricing": [
+      {
+        "name": "Starter Package",
+        "subtitle": "",
+        "description": "Perfect for businesses just starting to scale.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic SEO",
+          "Initial ad setup"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Our recommended package for comprehensive growth.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Advanced SEO",
+          "Ongoing ad management"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Domination Package",
+        "subtitle": "",
+        "description": "Maximize your market presence with full support.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full SEO suite",
+          "Complete ad management"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Become the Top Roofer in Your Area?",
+    "ctaDescription": "Let's discuss how CinchLocal can help you achieve your goals. No strings attached.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "cary@cinchlocal.com",
+    "ctaNote": "",
+    "footerText": "© 2025 CinchLocal",
+    "footerSub": "Your Growth is Our Business"
+  },
+  "enriched": {
+    "tone": "casual, corporate",
+    "positioning": "Full-service agency",
+    "serviceList": [
+      "Roofing Marketing for Roofing Companies."
+    ],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Cary",
+    "last_name": "Byrd",
+    "email": "cary@cinchlocal.com",
+    "company_phone": "+1 210-789-2973",
+    "mobile_number": "",
+    "company_name": "CinchLocal",
+    "company_website": "https://www.cinchlocal.com",
+    "company_domain": "cinchlocal.com",
+    "company_description": "Wanna become the 'Best Known' #roofingcontractor in your city? We help your #roofingcompany become  with our proprietary #roofermarketing and #roofingseo system.\n\n Click the link in bio to learn more ↴",
+    "headline": "Dominate Google Maps & Grow Your Roofing Business!claim Your Free Geogrid Ranking Report & Start Generating 2-3 Exclusive, Pre-sold Leads Daily. Results That Keep Your Phone Ringing! ",
+    "job_title": "Founder",
+    "industry": "Marketing & Advertising",
+    "company_size": "1",
+    "company_technologies": "",
+    "city": "Boerne",
+    "state": "Texas",
+    "country": "United States",
+    "company_full_address": "1207 Breeze Way Suite #103, Boerne, Texas 78006, US",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "2M",
+    "linkedin": "https://www.linkedin.com/in/cary-byrd-6441343",
+    "company_linkedin": "https://www.linkedin.com/company/cinchlocal",
+    "company_founded_year": "2013",
+    "keywords": "seo, facebook ads specialist, google ads specialist, website design, content marketing, social media marketing, search engine optimization, roofers marketing, marketing for roofers, roofing leads, roofers seo, roof marketing, advertising services, information technology & services, search marketing, marketing, marketing & advertising, web design, consumer internet, consumers, internet",
+    "personalization": "You're the only agency laser-focused on roofing contractors, which is pretty rare in the marketing world.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
