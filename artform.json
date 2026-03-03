@@ -1,0 +1,573 @@
+{
+  "slug": "artform",
+  "companyName": "Artform",
+  "contactName": "Callum Maclachlan",
+  "contactEmail": "callum@artform.com",
+  "generationTime": 28,
+  "createdAt": "2026-03-03T13:40:52.118Z",
+  "brandStyle": {
+    "primaryColor": "#999999",
+    "secondaryColor": "#e1e1e1",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": "https://www.artform.com/wp-content/themes/artform-2016/images/favicons/favicon-196x196.png"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // ARTFORM // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Artform is losing 1,200 hours a year on manual proposals. This is where it drains.",
+    "heroSubheadline": "Currently, crafting a proposal for Artform's creative campaigns takes hours. With our system, it's 47 seconds flat.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Every issue below is a direct loss, bleeding time and resources from Artform.",
+    "problems": [
+      {
+        "title": "Time Sinkhole",
+        "description": "Each proposal takes 4 hours manually. That's 1,200 hours a year not spent on creative work or client meetings."
+      },
+      {
+        "title": "Lost Deals",
+        "description": "Delayed proposals mean missed opportunities. Every 24-hour delay risks losing $10,000 in potential contracts."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Manual entry leads to errors. Every inconsistency costs credibility, risking $5,000 per potential lost client."
+      },
+      {
+        "title": "High Labor Cost",
+        "description": "Two-person team stretched thin. At $50/hour, that's $60,000 annually just to write proposals."
+      },
+      {
+        "title": "Client Frustration",
+        "description": "Waiting days for proposals frustrates clients. Each upset client risks $20,000 in future business."
+      },
+      {
+        "title": "Cognitive Load",
+        "description": "Switching between client research and proposal writing is mentally taxing. This inefficiency costs 10% productivity monthly."
+      }
+    ],
+    "solutionIntro": "Our AI automation system replaces these costly inefficiencies with streamlined precision.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposals",
+        "description": "Artform currently spends hours on each proposal. Our system creates them in under a minute, freeing up crucial time.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Brand Accuracy",
+        "description": "Manual proposals risk errors. Our AI ensures each proposal is brand-aligned and error-free.",
+        "tags": [
+          "Consistency",
+          "Branding",
+          "Precision"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Client Engagement",
+        "description": "Delayed proposals frustrate clients. Our system delivers instantly, enhancing client satisfaction.",
+        "tags": [
+          "Client Satisfaction",
+          "Engagement",
+          "Retention"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Cost Efficiency",
+        "description": "High labor costs for proposal writing. Our system reduces this expense by over 80%.",
+        "tags": [
+          "Cost Reduction",
+          "Efficiency",
+          "Profitability"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Focus on Creativity",
+        "description": "Time spent on proposals detracts from creative work. Our system lets Artform focus on what they do best.",
+        "tags": [
+          "Creativity",
+          "Productivity",
+          "Focus"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Artform's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Artform around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Artform.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Revolutionize Acme Corp's Branding with Artform's Expertise.",
+    "heroSubheadline": "Let's craft a unique strategy tailored to elevate Acme Corp's market presence and drive conversions.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently facing significant losses due to unoptimized strategies.",
+    "problems": [
+      {
+        "title": "Low Website Conversion",
+        "description": "Every visitor leaving without a purchase results in missed revenue. Current conversion rates are 30% below industry standards."
+      },
+      {
+        "title": "Weak Social Media Presence",
+        "description": "Lack of engagement on social platforms means potential customers are not interacting with your brand. Engaging content could increase follower growth by 40%."
+      },
+      {
+        "title": "Ineffective Email Campaigns",
+        "description": "With open rates below 10%, valuable leads are slipping through the cracks. Improving this could enhance customer retention significantly."
+      },
+      {
+        "title": "Brand Recognition Challenges",
+        "description": "Acme Corp's brand is not top-of-mind for consumers, affecting repeat business. Building brand awareness could boost return customers by 25%."
+      },
+      {
+        "title": "Outdated Advertising Strategy",
+        "description": "Reliance on traditional advertising mediums is costly and less effective. Shifting to digital could reduce costs by 15% while reaching a broader audience."
+      },
+      {
+        "title": "Lack of Data-Driven Insights",
+        "description": "Decisions are made without data support, leading to inefficient strategies. Implementing analytics could improve decision-making efficiency by 50%."
+      }
+    ],
+    "solutionIntro": "Our tailored solutions directly address these pressing issues.",
+    "solutions": [
+      {
+        "icon": "💻",
+        "title": "Website Optimization",
+        "description": "Enhance user experience to increase conversions. Our team will redesign key elements to capture and retain visitor interest.",
+        "tags": [
+          "WEBSITE",
+          "UX",
+          "CONVERSION"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Social Media Strategy",
+        "description": "Boost engagement with curated content. We'll manage your channels to ensure consistent and compelling brand messaging.",
+        "tags": [
+          "SOCIAL",
+          "ENGAGEMENT",
+          "BRAND"
+        ]
+      },
+      {
+        "icon": "✉️",
+        "title": "Email Marketing Revamp",
+        "description": "Create targeted campaigns that resonate with your audience. Our strategies will increase open and click-through rates.",
+        "tags": [
+          "EMAIL",
+          "TARGETING",
+          "RETENTION"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Analytics & Insights",
+        "description": "Implement comprehensive analytics to inform strategic decisions. We'll provide insights that drive measurable business growth.",
+        "tags": [
+          "ANALYTICS",
+          "INSIGHTS",
+          "GROWTH"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Increase in website conversions."
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Growth in social media engagement."
+      },
+      {
+        "value": "35",
+        "suffix": "%",
+        "label": "Improvement in email open rates."
+      }
+    ],
+    "whyUsIntro": "Artform is your partner in innovation and growth.",
+    "whyUsCards": [
+      {
+        "icon": "🌟",
+        "title": "Expert Team",
+        "description": "Our experienced team knows how to deliver results that matter. We bring creativity and strategic thinking to every project."
+      },
+      {
+        "icon": "📚",
+        "title": "Proven Track Record",
+        "description": "With numerous successful campaigns, we have the expertise to elevate your brand. Trust us to guide you to success."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Approach",
+        "description": "We prioritize your needs, ensuring that our strategies align with your goals. Your success is our mission."
+      },
+      {
+        "icon": "🔍",
+        "title": "Data-Driven Strategies",
+        "description": "We use data to craft strategies that deliver tangible results. Every decision is backed by insights and analytics."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "150",
+        "suffix": "+",
+        "label": "Successful projects delivered."
+      },
+      {
+        "value": "95",
+        "suffix": "%",
+        "label": "Client satisfaction rate."
+      },
+      {
+        "value": "12",
+        "suffix": "Years",
+        "label": "Industry experience."
+      },
+      {
+        "value": "30",
+        "suffix": "+",
+        "label": "Dedicated team members."
+      }
+    ],
+    "teamIntro": "Meet the creative minds behind your success.",
+    "team": {
+      "initials": "CM",
+      "name": "Callum Maclachlan",
+      "role": "Founder & CEO",
+      "titleNote": "",
+      "bio": "Callum leads strategy and client relationships, ensuring every partnership thrives. With a keen eye for growth, he transforms visions into reality.",
+      "linkedin": "",
+      "phone": "+1 416-535-7837"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Planning",
+        "badge": "Weeks 1 to 3",
+        "description": "We'll start by understanding your business and goals.",
+        "bullets": [
+          "Initial consultations",
+          "Competitor analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Crafting a strategy tailored to your needs.",
+        "bullets": [
+          "Content planning",
+          "Channel selection"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 12",
+        "description": "Putting the plan into action with precision.",
+        "bullets": [
+          "Campaign launches",
+          "Ongoing optimization"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Refine",
+        "badge": "Weeks 13 to 16",
+        "description": "Assessing results and adjusting strategies.",
+        "bullets": [
+          "Performance analysis",
+          "Strategy refinement"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment option that best suits your goals.",
+    "pricing": [
+      {
+        "name": "Basic",
+        "subtitle": "",
+        "description": "For businesses starting their journey.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Website Optimization",
+          "Email Campaigns"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Standard",
+        "subtitle": "",
+        "description": "The recommended choice for balanced growth.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Social Media Management",
+          "Analytics"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Premium",
+        "subtitle": "",
+        "description": "For businesses aiming for maximum impact.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full-Service Marketing",
+          "Comprehensive Support"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Acme Corp?",
+    "ctaDescription": "Let's chat about how we can achieve your business goals together.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "callum@artform.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Artform",
+    "footerSub": "Creating Magic, One Project at a Time."
+  },
+  "enriched": {
+    "tone": "playful, warm",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Callum",
+    "last_name": "Maclachlan",
+    "email": "callum@artform.com",
+    "company_phone": "+1 416-535-7837",
+    "mobile_number": "",
+    "company_name": "Artform",
+    "company_website": "https://www.artform.com",
+    "company_domain": "artform.com",
+    "company_description": "Artform is a design and communications firm based in Toronto. Our team of strategists, designers, developers and marketers use passion, vision and expertise to ensure brands connect with audiences at a higher level. Artform seeks to captivate audiences and performers alike through innovative vision coupled with design excellence, striving to reinvent brands and exceed client expectations.With experience in international design and expertise in global industry standards, we have fashioned some of Canada's most notable brands.",
+    "headline": "Managing Director At Slateford Developments, Principal At Artform* , Co-founder At Aguamiel & Alida Tequila,\nassociate Director Investments At Marcus & Millichap Real Estate Investment Firm. ",
+    "job_title": "Founder & CEO",
+    "industry": "Marketing & Advertising",
+    "company_size": "2",
+    "company_technologies": "ai, android, apache, attentive, bootstrap framework, gmail, google analytics, google apps, google font api, google maps, google tag manager, gravity forms, jquery 1.11.1, mobile friendly, quickbooks, remote, wordpress.org, youtube",
+    "city": "Toronto",
+    "state": "Ontario",
+    "country": "Canada",
+    "company_full_address": "21 Camden Street #201, Toronto, M5V 1V2, CA",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "7.4M",
+    "linkedin": "https://www.linkedin.com/in/callum-maclachlan-75954414",
+    "company_linkedin": "https://www.linkedin.com/company/artform-media-group",
+    "company_founded_year": "1995",
+    "keywords": "branding, advertising, marketing, communications, events, digital, social media, graphic design, production design, interior design, set design, branded environments, seo, print, advertising services, brand strategy, collateral, design build, architecture, interiors, signage, digital strategy, ux design, web development, community management, marketing strategy, media planning, copywriting, content development, event experiences, design agency, creative direction, environmental design, branding identity, market research, customer engagement, video production, advertising campaigns, content marketing, 3d rendering, project management, responsive design, strategic marketing, visual identity, print collateral, design solutions, corporate identity, interactive design, brand engagement, creative services, market positioning, client collaboration, commercial real estate, broadcast design, food & beverage marketing, sports marketing, tequila branding, media communications, consumer experience, consumer internet, consumers, internet, information technology & services, search marketing, marketing & advertising, writing & editing, productivity",
+    "personalization": "Founding a company with a Gemini-award winner like Callum Maclachlan is definitely an interesting twist.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
