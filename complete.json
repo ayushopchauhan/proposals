@@ -1,0 +1,573 @@
+{
+  "slug": "complete",
+  "companyName": "Complete",
+  "contactName": "Brian Cross",
+  "contactEmail": "brian@wearecomplete.com",
+  "generationTime": 32,
+  "createdAt": "2026-03-03T13:13:19.287Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": ""
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // COMPLETE // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Complete is losing 30 hours a month on manual proposals. Let's change that.",
+    "heroSubheadline": "Currently, proposals are manual and time-consuming. Automate and complete them in just 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "These are the ongoing losses you are facing without realizing.",
+    "problems": [
+      {
+        "title": "Wasted Hours",
+        "description": "Each proposal takes 4 hours to draft. With 7 employees, that's 28 hours a week not spent on strategic tasks."
+      },
+      {
+        "title": "Lost Deals",
+        "description": "Delayed proposals mean clients move on. A 10% loss in conversion can cost you $50,000 annually."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Manual efforts lead to inconsistent branding. This confuses clients and results in a 5% drop in trust, costing $15,000 in lost opportunities."
+      },
+      {
+        "title": "High Error Rate",
+        "description": "Human errors in proposals cost you credibility. Each mistake leads to a 3% drop in client retention, risking $12,000 in revenue."
+      },
+      {
+        "title": "Resource Drain",
+        "description": "Proposal creation ties up 2 employees full-time. This is $80,000 a year spent on non-billable hours."
+      },
+      {
+        "title": "Competitive Disadvantage",
+        "description": "Competitors using automation respond faster. This delay costs you a potential 15% market share."
+      }
+    ],
+    "solutionIntro": "Replace inefficiency with instant proposal generation.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Drafts",
+        "description": "Manually drafting proposals is slow. Our system generates them instantly, saving you time.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Current methods risk inconsistency. Our system ensures every proposal aligns with your brand.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Error Reduction",
+        "description": "Manual errors hurt your image. Automated proposals eliminate mistakes, enhancing reliability.",
+        "tags": [
+          "Accuracy",
+          "Reliability",
+          "Trust"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Resource Optimization",
+        "description": "Staff time is wasted on proposals. Automation frees them for higher-value tasks.",
+        "tags": [
+          "Productivity",
+          "Resource Management",
+          "Cost Savings"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Competitive Edge",
+        "description": "Manual processes slow you down. Gain an edge with rapid, automated responses.",
+        "tags": [
+          "Competitive Advantage",
+          "Speed",
+          "Growth"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Complete's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Complete around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Complete.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Elevate Acme Corp's Brand with Complete's Proven Marketing Strategies",
+    "heroSubheadline": "We propose a comprehensive marketing strategy to enhance your brand's visibility and drive growth through targeted campaigns.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently facing significant revenue losses due to missed opportunities.",
+    "problems": [
+      {
+        "title": "Low Online Engagement",
+        "description": "Every unengaged visitor is potential revenue lost. Current website traffic is not converting, resulting in a 30% drop in potential sales."
+      },
+      {
+        "title": "Ineffective Advertising Spend",
+        "description": "Without optimized ads, advertising dollars are wasted. This leads to a 25% higher cost per acquisition than industry standards."
+      },
+      {
+        "title": "Weak Brand Recognition",
+        "description": "Inconsistent branding results in lower trust and recognition, causing a 15% decrease in customer retention rates."
+      },
+      {
+        "title": "Poor Social Media Impact",
+        "description": "Underutilized social channels lead to a lack of engagement, with a 40% decrease in follower growth over the past year."
+      },
+      {
+        "title": "Limited Market Insights",
+        "description": "Without proper analytics, decisions are made blindly, causing a 20% slower response to market changes and trends."
+      },
+      {
+        "title": "Unoptimized Content Strategy",
+        "description": "Content that does not resonate with your audience results in a 35% lower click-through rate on digital platforms."
+      }
+    ],
+    "solutionIntro": "Our tailored solutions directly address these challenges to transform your business.",
+    "solutions": [
+      {
+        "icon": "📈",
+        "title": "Digital Marketing Strategy",
+        "description": "We create targeted campaigns to improve online engagement and conversion rates.",
+        "tags": [
+          "Digital Marketing",
+          "Strategy",
+          "Engagement"
+        ]
+      },
+      {
+        "icon": "💡",
+        "title": "Brand Development",
+        "description": "Our team enhances your brand identity for stronger market presence and customer loyalty.",
+        "tags": [
+          "Branding",
+          "Identity",
+          "Loyalty"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Market Analytics",
+        "description": "We provide in-depth insights to ensure data-driven decision-making and strategic adjustments.",
+        "tags": [
+          "Analytics",
+          "Insights",
+          "Data-Driven"
+        ]
+      },
+      {
+        "icon": "🖥️",
+        "title": "Content Creation",
+        "description": "Our content strategies are designed to captivate your audience and increase engagement.",
+        "tags": [
+          "Content",
+          "Engagement",
+          "Strategy"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Increase in online conversion rates projected."
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Reduction in advertising costs expected."
+      },
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Boost in brand recognition anticipated."
+      }
+    ],
+    "whyUsIntro": "Complete is the trusted partner you need to overcome these challenges.",
+    "whyUsCards": [
+      {
+        "icon": "🎯",
+        "title": "Proven Expertise",
+        "description": "Our team has a track record of delivering results across various industries."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Approach",
+        "description": "We prioritize your business goals and tailor our strategies to meet your specific needs."
+      },
+      {
+        "icon": "🚀",
+        "title": "Innovative Solutions",
+        "description": "We employ cutting-edge strategies to keep your brand ahead of the competition."
+      },
+      {
+        "icon": "📈",
+        "title": "Data-Driven Insights",
+        "description": "Our strategies are backed by comprehensive data analysis for optimal outcomes."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "200",
+        "suffix": "+",
+        "label": "Successful campaigns launched."
+      },
+      {
+        "value": "150",
+        "suffix": "%",
+        "label": "Average client growth in first year."
+      },
+      {
+        "value": "50",
+        "suffix": "",
+        "label": "Industry awards won."
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client satisfaction rate."
+      }
+    ],
+    "teamIntro": "Meet the team dedicated to driving your success.",
+    "team": {
+      "initials": "BC",
+      "name": "Brian Cross",
+      "role": "Managing Director",
+      "titleNote": "",
+      "bio": "Brian leads strategy and client relationships, ensuring every project aligns with business objectives.",
+      "linkedin": "",
+      "phone": "+44 (0) 20 8166 5940"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery Phase",
+        "badge": "Weeks 1 to 3",
+        "description": "We dive deep into your business to understand your challenges and goals.",
+        "bullets": [
+          "Stakeholder interviews",
+          "Market analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "We craft a personalized strategy to address your specific needs.",
+        "bullets": [
+          "Campaign planning",
+          "Resource allocation"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Execution",
+        "badge": "Weeks 7 to 12",
+        "description": "Our team implements the strategy with precision and expertise.",
+        "bullets": [
+          "Content creation",
+          "Ad deployment"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Optimization and Reporting",
+        "badge": "Weeks 13 to 16",
+        "description": "We analyze the results and optimize for ongoing success.",
+        "bullets": [
+          "Performance analysis",
+          "Strategy refinement"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment level that best suits your growth ambitions.",
+    "pricing": [
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Ideal for businesses looking to expand their market presence.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic strategy development",
+          "Standard reporting"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Advanced Package",
+        "subtitle": "",
+        "description": "Recommended for comprehensive growth and brand elevation.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Enhanced strategy development",
+          "Advanced analytics"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Package",
+        "subtitle": "",
+        "description": "For organizations seeking full-scale transformation.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Complete marketing overhaul",
+          "Premium support"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Acme Corp's Future?",
+    "ctaDescription": "Let's explore how we can work together to achieve your goals. No commitment required.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "brian@wearecomplete.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Complete",
+    "footerSub": "Your Partner in Success"
+  },
+  "enriched": {
+    "tone": "professional",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Brian",
+    "last_name": "Cross",
+    "email": "brian@wearecomplete.com",
+    "company_phone": "+44 (0) 20 8166 5940",
+    "mobile_number": "+447535720017",
+    "company_name": "Complete",
+    "company_website": "https://www.wearecomplete.com",
+    "company_domain": "wearecomplete.com",
+    "company_description": "With design and marketing all under one roof, we create brand-led strategies that help your business achieve more online. Measurable performance driven through clear messaging, well executed campaigns and beautifully designed websites.",
+    "headline": "Managing Director @ Complete Digital | Ba Hons, Digital Marketing",
+    "job_title": "Managing Director",
+    "industry": "Marketing & Advertising",
+    "company_size": "7",
+    "company_technologies": "ai, doubleclick, doubleclick conversion, facebook custom audiences, facebook login (connect), facebook widget, gmail, google apps, google cloud hosting, google dynamic remarketing, google font api, google tag manager, gravity forms, hubspot, mailchimp spf, mobile friendly, nginx, python, react native, typekit, vimeo, wordpress.org",
+    "city": "",
+    "state": "England",
+    "country": "United Kingdom",
+    "company_full_address": "79-81 Borough Rd, Complete, London, England SE1 1DN, GB",
+    "seniority_level": "director",
+    "company_annual_revenue_clean": "2M",
+    "linkedin": "https://www.linkedin.com/in/briancross01",
+    "company_linkedin": "https://www.linkedin.com/company/complete-marketing-agency",
+    "company_founded_year": "2015",
+    "keywords": "web design, search engine optimisation, social media marketing, paid search, email marketing, ux design, branding, corporate identity, copy writing, photography, videography, e commerce, mobile design, advertising services, digital marketing, seo, social media, brand strategy, content creation, crm, lead management, website design, ux/ui design, video marketing, animation services, performance marketing, data analytics, conversion optimization, marketing automation, social media management, influencer marketing, branding solutions, customer engagement, digital advertising, customer journey, user experience, website accessibility, paid media management, target audience, social media analytics, community management, graphic design, search engine optimization, lead generation, client acquisition, digital strategy, customer insight, project management, visual storytelling, market research, branding identity, user demographics, video production, social media graphics, digital pr, data-driven strategy, website strategy, performance tracking, website development, compelling messaging, innovative design, mobile optimization, information technology & services, search marketing, marketing, marketing & advertising, consumer internet, consumers, internet, copywriting, writing & editing, e-commerce, sales, enterprise software, enterprises, computer software, b2b, saas, ux, productivity, web development",
+    "personalization": "You claim to offer design and marketing all under one roof, but your site doesn't detail those services.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
