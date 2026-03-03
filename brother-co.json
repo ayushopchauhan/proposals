@@ -1,0 +1,573 @@
+{
+  "slug": "brother-co",
+  "companyName": "Brother & Co",
+  "contactName": "Piet Human",
+  "contactEmail": "piet@brotherandco.com",
+  "generationTime": 19,
+  "createdAt": "2026-03-03T02:27:22.005Z",
+  "brandStyle": {
+    "primaryColor": "#abb8c3",
+    "secondaryColor": "#f78da7",
+    "accentColor": "#cf2e2e",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": "https://www.brotherandco.com/wp-content/uploads/logo.svg"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // BROTHER & CO // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Brother & Co is losing 1,200 hours annually on manual proposals. Here is the breakdown.",
+    "heroSubheadline": "Currently, crafting a proposal for your award-winning services is a 5-hour task. With our AI, it's done in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Each of these issues represents ongoing losses for Brother & Co.",
+    "problems": [
+      {
+        "title": "Time-Consuming Proposals",
+        "description": "Spending 5 hours on each proposal costs you 1,200 hours annually. This is time that could go toward closing more deals."
+      },
+      {
+        "title": "Reduced Client Engagement",
+        "description": "Delayed proposals mean less client interaction. Every 24-hour delay in response translates to potential client loss."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Manually crafted proposals can miss branding marks. Every inconsistency can cost up to $10,000 in lost client trust."
+      },
+      {
+        "title": "Missed Opportunities",
+        "description": "Without instant proposals, fast-moving prospects slip away. Each missed opportunity can cost upwards of $50,000 in potential revenue."
+      },
+      {
+        "title": "Overhead Costs",
+        "description": "Manual proposal creation requires extended employee hours. This results in an extra $20,000 spent annually on overhead."
+      },
+      {
+        "title": "Competitive Disadvantage",
+        "description": "Competitors with faster proposal turnaround are winning. Each lost proposal is a direct hit to your market positioning."
+      }
+    ],
+    "solutionIntro": "Our AI automation system replaces every inefficiency described above.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposals",
+        "description": "Currently, each proposal takes hours to craft. Our system generates them in under a minute.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Manual proposals often miss branding elements. Our AI ensures every proposal is on-brand and client-ready.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Quality"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Increased Client Interaction",
+        "description": "Long proposal times reduce interaction. Automation allows immediate follow-up and engagement.",
+        "tags": [
+          "Engagement",
+          "Client Interaction",
+          "Communication"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Opportunity Capture",
+        "description": "Slow proposals let opportunities slip. Instant proposals mean never missing a lead.",
+        "tags": [
+          "Opportunities",
+          "Leads",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Reduced Overhead",
+        "description": "Manual processes are costly. Automation reduces hours spent, cutting overhead significantly.",
+        "tags": [
+          "Cost Saving",
+          "Efficiency",
+          "Productivity"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Brother & Co's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Brother & Co around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Brother & Co.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Unlock Acme Corp's Potential with Brother & Co's Rigorous Strategy.",
+    "heroSubheadline": "Our tailored marketing strategy will transform Acme Corp's engagement, driving growth and revenue through strategic insights and creative excellence.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently losing potential revenue due to several key issues.",
+    "problems": [
+      {
+        "title": "High Bounce Rate",
+        "description": "Every visitor who leaves Acme Corp's site without engaging is a missed opportunity. With a 70% bounce rate, potential customers are slipping away."
+      },
+      {
+        "title": "Poor Brand Awareness",
+        "description": "Acme Corp's brand is not top of mind for its target audience. Competitors are gaining market share due to lack of brand visibility."
+      },
+      {
+        "title": "Low Conversion Rate",
+        "description": "With a conversion rate of only 1.5%, Acme Corp is not maximizing its traffic. This results in significant revenue loss each month."
+      },
+      {
+        "title": "Ineffective Advertising",
+        "description": "Current advertising campaigns are not yielding a positive ROI. This inefficient spending leads to financial losses."
+      },
+      {
+        "title": "Weak Customer Retention",
+        "description": "Current retention strategies are not effective. With a churn rate of 25%, Acme Corp is losing loyal customers."
+      },
+      {
+        "title": "Lack of Market Insight",
+        "description": "Without deep market insights, Acme Corp is making decisions in the dark, leading to missed strategic opportunities."
+      }
+    ],
+    "solutionIntro": "Brother & Co offers targeted solutions to address these challenges directly.",
+    "solutions": [
+      {
+        "icon": "📊",
+        "title": "Comprehensive Market Analysis",
+        "description": "We will provide detailed market insights, enabling Acme Corp to make informed decisions and capture market opportunities.",
+        "tags": [
+          "Strategy",
+          "Insights",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "🎨",
+        "title": "Creative Branding",
+        "description": "Enhancing brand visibility through distinct and engaging creative work, ensuring Acme Corp stands out in the market.",
+        "tags": [
+          "Branding",
+          "Creative",
+          "Awareness"
+        ]
+      },
+      {
+        "icon": "💼",
+        "title": "Targeted Advertising",
+        "description": "Implementing targeted campaigns to increase ROI and drive meaningful engagement with Acme Corp's audience.",
+        "tags": [
+          "Advertising",
+          "ROI",
+          "Engagement"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Conversion Rate Optimization",
+        "description": "Improving the user experience to boost conversion rates, turning site visitors into loyal customers.",
+        "tags": [
+          "Optimization",
+          "Conversion",
+          "Growth"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Increase in Brand Awareness"
+      },
+      {
+        "value": "15",
+        "suffix": "%",
+        "label": "Boost in Conversion Rates"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Improvement in Customer Retention"
+      }
+    ],
+    "whyUsIntro": "Brother & Co is your strategic partner for comprehensive marketing solutions.",
+    "whyUsCards": [
+      {
+        "icon": "🤝",
+        "title": "Collaborative Approach",
+        "description": "We work closely with you to ensure our strategies align with your business goals."
+      },
+      {
+        "icon": "💡",
+        "title": "Innovative Strategies",
+        "description": "Our team applies creative and cutting-edge strategies to drive results."
+      },
+      {
+        "icon": "📈",
+        "title": "Proven Track Record",
+        "description": "We have a history of delivering measurable results for our clients."
+      },
+      {
+        "icon": "🌟",
+        "title": "Client-Centric Focus",
+        "description": "Your success is our priority, and we tailor our services to meet your needs."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "50",
+        "suffix": "+",
+        "label": "Clients Served"
+      },
+      {
+        "value": "95",
+        "suffix": "%",
+        "label": "Client Satisfaction Rate"
+      },
+      {
+        "value": "3.7",
+        "suffix": "M",
+        "label": "Annual Revenue"
+      },
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Years of Experience"
+      }
+    ],
+    "teamIntro": "Meet the team dedicated to your success.",
+    "team": {
+      "initials": "PH",
+      "name": "Piet Human",
+      "role": "Co-founder And Executive Creative Director",
+      "titleNote": "",
+      "bio": "Piet leads strategy and client relationships, ensuring each project aligns with your goals and delivers results. He brings over a decade of experience in creative direction.",
+      "linkedin": "",
+      "phone": "+61 7 3666 0062"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Research",
+        "badge": "Weeks 1 to 3",
+        "description": "Understanding your brand, goals, and challenges.",
+        "bullets": [
+          "Market research",
+          "Competitor analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Creating a tailored strategy to address your needs.",
+        "bullets": [
+          "Strategic planning",
+          "Goal alignment"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 12",
+        "description": "Executing the strategy with precision and creativity.",
+        "bullets": [
+          "Campaign launch",
+          "Creative execution"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Evaluation & Optimization",
+        "badge": "Weeks 13 to 16",
+        "description": "Assessing results and optimizing for continued success.",
+        "bullets": [
+          "Performance review",
+          "Strategy refinement"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment option that best aligns with your goals.",
+    "pricing": [
+      {
+        "name": "Starter Package",
+        "subtitle": "",
+        "description": "Ideal for initial brand uplift and market entry.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Market analysis",
+          "Basic branding"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Recommended for robust growth and expansion.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Comprehensive strategy",
+          "Advanced advertising"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Premium Package",
+        "subtitle": "",
+        "description": "For industry leaders seeking maximum impact.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full-service marketing",
+          "Priority support"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Acme Corp?",
+    "ctaDescription": "Let's discuss how we can drive success for Acme Corp. Schedule a conversation with us today.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "piet@brotherandco.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Brother & Co",
+    "footerSub": "Marketing Excellence, Delivered."
+  },
+  "enriched": {
+    "tone": "corporate, warm",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Piet",
+    "last_name": "Human",
+    "email": "piet@brotherandco.com",
+    "company_phone": "+61 7 3666 0062",
+    "mobile_number": "",
+    "company_name": "Brother & Co",
+    "company_website": "https://www.brotherandco.com",
+    "company_domain": "brotherandco.com",
+    "company_description": "Brother was founded on the belief that there had to be a better way. We recognised the traditional agency model wasn't offering enough value or impact and a change was required.\n\nTo us that meant creating a place that offered a true understanding of our client's business, honest partnership with accountability, greater flexibility and agility and meaningful difference with tangible outcomes\n\n…. just like a Brother should.",
+    "headline": "Co-founder Brother & Co. Relentless Brand Builder.",
+    "job_title": "Co-founder And Executive Creative Director",
+    "industry": "Marketing & Advertising",
+    "company_size": "10",
+    "company_technologies": "android, gmail, google apps, google font api, google tag manager, mobile friendly, remote, typekit, vimeo, wordpress.org, recaptcha",
+    "city": "Brisbane",
+    "state": "Queensland",
+    "country": "Australia",
+    "company_full_address": "5 Kyabra St, Unit 2.2, Newstead, Queensland 4006, AU",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "3.7M",
+    "linkedin": "https://www.linkedin.com/in/piet-human-96b48113",
+    "company_linkedin": "https://www.linkedin.com/company/brother-&-co",
+    "company_founded_year": "2013",
+    "keywords": "strategy brand strategy, research analysis, creative strategy, channel strategy, production organise, oversee production of radio, tv, digital, events, more, creative, design concept development, execution across all channels traditional, new, advertising services, creative agency, branding, advertising campaigns, digital marketing, brand strategy, brand identity, graphic design, user experience, content creation, video production, social media marketing, campaign development, website design, seo optimization, motion graphics, marketing strategy, branding refresh, brand positioning, consumer insights, performance marketing, collaborative design, advertising production, client engagement, stakeholder management, branding solutions, creative content, digital transformation, branding workshops, design audit, brand messaging, brand purpose, campaign effectiveness, idea generation, customer segmentation, project management, copywriting, visual storytelling, social media strategy, community engagement, content strategy, native advertising, business impact, creative direction, website development, cross-platform marketing, design thinking, branding events, branding for startups, creative collaborations, identity design, marketing & advertising, ux, consumer internet, consumers, internet, information technology & services, web design, productivity, writing & editing, web development",
+    "personalization": "You’re shaking things up with a new take on the agency model, which is pretty interesting.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
