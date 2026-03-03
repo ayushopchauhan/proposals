@@ -1,0 +1,575 @@
+{
+  "slug": "brothership",
+  "companyName": "Brothership",
+  "contactName": "Charlie Lebess",
+  "contactEmail": "charlie@brothership.film",
+  "generationTime": 24,
+  "createdAt": "2026-03-03T15:33:17.263Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Roboto",
+    "bodyFont": "Roboto",
+    "logoUrl": "https://images.squarespace-cdn.com/content/v1/63fd0879ffa41d1bf253e514/a941ab72-91d1-48d0-99e1-24070ca65ed9/Brothership_Logo_White+%281%29.png?format=1500w"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // BROTHERSHIP // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Brothership is burning 1,200 hours a year on proposals. Here is exactly where it goes.",
+    "heroSubheadline": "Currently, creating a proposal for your film craftsmanship takes hours. With our system, it's ready in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Every minute spent on proposals is a minute not spent creating great videos.",
+    "problems": [
+      {
+        "title": "Wasted Creative Energy",
+        "description": "150 hours per year lost on proposal writing means less time for your team to create compelling videos. This translates to missed opportunities in showcasing Brothership's unique film craftsmanship."
+      },
+      {
+        "title": "Delayed Client Responses",
+        "description": "Manual proposal generation delays responses by up to 48 hours, potentially costing Brothership 5% of annual revenue. Every delay risks losing a client to competitors."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Proposal drafting consumes over 300 hours annually. At an average cost of $50/hour, Brothership spends $15,000 that could be reinvested into production."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Manual proposals risk inconsistent branding, weakening Brothership's image as Miami's top-rated video company. Inconsistencies can cost up to 10% in client trust."
+      },
+      {
+        "title": "Missed Deadlines",
+        "description": "Manual processes lead to missed proposal deadlines, risking $50,000 in lost contracts annually. Timeliness is crucial in securing new projects."
+      },
+      {
+        "title": "Inefficient Tracking",
+        "description": "Without automated tracking, follow-ups fall through the cracks. This inefficiency can result in a 20% lower conversion rate for Brothership."
+      }
+    ],
+    "solutionIntro": "Our AI system replaces these inefficiencies with speed and precision.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposals",
+        "description": "Currently, proposals take hours to craft. Our system delivers them in under 60 seconds, freeing up your team for creative work.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Creativity"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Inconsistencies mar manual proposals. Our system ensures every proposal matches Brothership's top-rated brand instantly.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Automated Tracking",
+        "description": "Following up on proposals is manual and error-prone. Our system tracks and notifies, ensuring no opportunity is missed.",
+        "tags": [
+          "Tracking",
+          "Automation",
+          "Sales"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Cost Efficiency",
+        "description": "Current methods waste labor hours and money. Our system saves both, letting you reinvest in your core video production business.",
+        "tags": [
+          "Savings",
+          "Investment",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Faster Client Responses",
+        "description": "Manual processes delay client communication. Our system accelerates it, improving Brothership's chances to close deals swiftly.",
+        "tags": [
+          "Communication",
+          "Response",
+          "Deals"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Brothership's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Brothership around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Brothership.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's Reach with Brothership's Film Craftsmanship.",
+    "heroSubheadline": "We will create compelling visual stories to captivate your audience and drive measurable results. Our plan integrates seamlessly with your brand's vision.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently losing potential revenue due to several critical issues.",
+    "problems": [
+      {
+        "title": "High Bounce Rate",
+        "description": "Every visitor who leaves your site without converting is revenue walking out the door. With a bounce rate of 70%, potential customers are not engaging with your content."
+      },
+      {
+        "title": "Weak Brand Presence",
+        "description": "Without a strong brand presence, Acme Corp is missing out on market opportunities. Your current visibility is limited, resulting in a 30% lower brand recall among target demographics."
+      },
+      {
+        "title": "Outdated Visual Content",
+        "description": "With visual content that doesn't resonate, you're losing the interest of modern consumers. This results in a 40% reduction in engagement on digital platforms."
+      },
+      {
+        "title": "Ineffective Advertising Spend",
+        "description": "Without strategic ad placements, Acme Corp is wasting 20% of its advertising budget. This inefficiency leads to fewer conversions and lower ROI."
+      },
+      {
+        "title": "Inconsistent Customer Experience",
+        "description": "A disjointed customer journey is costing repeat business. Acme Corp faces a 15% lower customer retention rate due to inconsistent messaging."
+      },
+      {
+        "title": "Lack of Social Media Strategy",
+        "description": "Without a cohesive strategy, social media is underutilized. Acme Corp is missing out on a 25% increase in potential customer interactions."
+      }
+    ],
+    "solutionIntro": "Brothership's solutions directly address these challenges, reversing these losses.",
+    "solutions": [
+      {
+        "icon": "🎥",
+        "title": "Film Production",
+        "description": "Create captivating visual content that resonates with your audience. This will reduce bounce rates and enhance brand engagement.",
+        "tags": [
+          "Content",
+          "Engagement",
+          "Branding"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Strategic Advertising",
+        "description": "Optimize your advertising spend with targeted placements. This will improve ROI and drive more conversions.",
+        "tags": [
+          "Advertising",
+          "ROI",
+          "Conversion"
+        ]
+      },
+      {
+        "icon": "🌐",
+        "title": "Brand Development",
+        "description": "Strengthen your brand presence with consistent and powerful messaging. This will increase brand recall and market reach.",
+        "tags": [
+          "Branding",
+          "Strategy",
+          "Market Reach"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Social Media Strategy",
+        "description": "Develop a cohesive social media strategy to increase customer interactions. This will leverage digital platforms for greater engagement.",
+        "tags": [
+          "Social Media",
+          "Engagement",
+          "Strategy"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Increase in engagement"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Improvement in ROI"
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Boost in brand recall"
+      }
+    ],
+    "whyUsIntro": "Brothership is your partner in crafting compelling stories and building brand loyalty.",
+    "whyUsCards": [
+      {
+        "icon": "🤝",
+        "title": "Collaborative Approach",
+        "description": "We work with you as partners, ensuring your vision is realized through creative collaboration."
+      },
+      {
+        "icon": "🏆",
+        "title": "Proven Track Record",
+        "description": "With years of experience, our projects consistently deliver results that exceed client expectations."
+      },
+      {
+        "icon": "🎬",
+        "title": "Expert Craftsmanship",
+        "description": "Our team excels in film production, bringing your brand stories to life with creativity and precision."
+      },
+      {
+        "icon": "🌟",
+        "title": "Client-Centric Focus",
+        "description": "Your success is our success. We prioritize your goals and work tirelessly to achieve them."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "200",
+        "suffix": "+",
+        "label": "Successful Campaigns"
+      },
+      {
+        "value": "98",
+        "suffix": "%",
+        "label": "Client Satisfaction"
+      },
+      {
+        "value": "50",
+        "suffix": "+",
+        "label": "Industry Awards"
+      },
+      {
+        "value": "10",
+        "suffix": "years",
+        "label": "In Business"
+      }
+    ],
+    "teamIntro": "Meet the team that will guide your project.",
+    "team": {
+      "initials": "CL",
+      "name": "Charlie Lebess",
+      "role": "Partner, Managing Director At Brothership",
+      "titleNote": "",
+      "bio": "Charlie leads strategy and client relationships at Brothership. With a keen eye for detail and a commitment to excellence, he ensures every project aligns with client goals.",
+      "linkedin": "",
+      "phone": "+1 305-801-6620"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Research",
+        "badge": "Weeks 1 to 3",
+        "description": "We dive into your brand, understanding your goals and challenges.",
+        "bullets": [
+          "Conduct in-depth market analysis",
+          "Identify key opportunities"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Craft a tailored strategy that aligns with your vision.",
+        "bullets": [
+          "Develop comprehensive strategy",
+          "Align with your business objectives"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Execution & Production",
+        "badge": "Weeks 7 to 12",
+        "description": "Bring the strategy to life with our expert team.",
+        "bullets": [
+          "Film production and editing",
+          "Launch advertising campaigns"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Optimization & Reporting",
+        "badge": "Weeks 13 to 16",
+        "description": "Refine strategies based on performance data.",
+        "bullets": [
+          "Analyze campaign results",
+          "Optimize for better outcomes"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment option that best fits your needs.",
+    "pricing": [
+      {
+        "name": "Starter Package",
+        "subtitle": "",
+        "description": "Ideal for businesses looking to enhance their online presence.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic film production",
+          "Standard advertising"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Recommended for businesses aiming for significant growth.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Advanced production",
+          "Strategic advertising",
+          "Comprehensive brand development"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Package",
+        "subtitle": "",
+        "description": "For large enterprises seeking extensive market impact.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full-scale production",
+          "Premium advertising",
+          "Complete social media strategy"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Let's Elevate Acme Corp Together.",
+    "ctaDescription": "Reach out for a casual conversation about how we can work together.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "charlie@brothership.film",
+    "ctaNote": "",
+    "footerText": "© 2025 Brothership",
+    "footerSub": "Creating stories, building brands."
+  },
+  "enriched": {
+    "tone": "professional",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Charlie",
+    "last_name": "Lebess",
+    "email": "charlie@brothership.film",
+    "company_phone": "+1 305-801-6620",
+    "mobile_number": "",
+    "company_name": "Brothership",
+    "company_website": "https://www.brothership.film",
+    "company_domain": "brothership.film",
+    "company_description": "We're a full-service video agency, deployed around the world at a moment's notice to transform brand and business directives into compelling film work. We're passionate about taking projects from start to finish, or plugging into any aspect of production as needed, for clients of all sizes.",
+    "headline": "Partner, Managing Director At Brothership",
+    "job_title": "Partner, Managing Director At Brothership",
+    "industry": "Marketing & Advertising",
+    "company_size": "13",
+    "company_technologies": "adobe media optimizer, basis, cedexis radar, gmail, google apps, google tag manager, mobile friendly, nsone, remote, squarespace ecommerce, typekit, vimeo",
+    "city": "Miami",
+    "state": "Florida",
+    "country": "United States",
+    "company_full_address": "711 NW 23rd St, Miami, Florida 33127, US",
+    "seniority_level": "partner",
+    "company_annual_revenue_clean": "8.3M",
+    "linkedin": "https://www.linkedin.com/in/charlielebess",
+    "company_linkedin": "https://www.linkedin.com/company/brothershipvideoagency",
+    "company_founded_year": "2005",
+    "keywords": "preproduction, conceptualization, postproduction, photography, motion graphics, animation, commercials, music videos, product videos, visual effects, concept development, creative development, production, video production, advertising, online advertising, tv ads, tv advertising, digital video, video, preroll video, unskipable video, sound design, color grading, editing, director, advertising services, creative direction, animation services, post production, color correction, editing services, strategy-driven production, art direction, music composition, crew building, project management, commercial production, social media videos, high-quality content, miami video agency, brand storytelling, client collaboration, film craftsmanship, 360 video, documentary filmmaking, corporate videos, event coverage, scriptwriting, casting services, production logistics, live-action production, 2d animation, 3d animation, graphic design, cinematic storytelling, audio mixing, video marketing, digital content creation, media production, advertising campaigns, marketing videos, product launches, celebrity partnerships, animation production, multimedia storytelling, brand partnerships, creative concepts, talent management, on-location filming, feature films, film editing, customer testimonials, remote video production, marketing & advertising, post-production, productivity, professional services, video/film production",
+    "personalization": "You guys went from a dorm room in 2005 to a top-rated agency, that's quite the journey.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
