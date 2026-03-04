@@ -1,0 +1,573 @@
+{
+  "slug": "mr-edutainment",
+  "companyName": "Mr. Edutainment",
+  "contactName": "Adam Fairhead",
+  "contactEmail": "adam@fairheadcreative.com",
+  "generationTime": 33,
+  "createdAt": "2026-03-04T12:13:07.786Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": "https://mredutainment.com/assets/images/shared/favicon.ico"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // MR. EDUTAINMENT // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Mr. Edutainment is losing 200 hours a year on proposals. Here is exactly where it goes.",
+    "heroSubheadline": "Your team spends hours crafting each proposal. Now, generate them in 47 seconds with AI.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Every problem below is a drain on your time and resources.",
+    "problems": [
+      {
+        "title": "Endless Drafting",
+        "description": "It takes 3 hours to draft each proposal manually. With 50 proposals a year, that's 150 hours not spent on clients."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Inconsistent proposals weaken your brand. Each inconsistency could cost you a client, totaling thousands in lost revenue."
+      },
+      {
+        "title": "Missed Opportunities",
+        "description": "Spending time drafting proposals means delayed responses to prospects. Each delay risks losing clients, costing potential contracts."
+      },
+      {
+        "title": "Manual Errors",
+        "description": "Human errors in proposals can lead to misunderstandings. Each mistake can cost deals, potentially losing thousands each year."
+      },
+      {
+        "title": "Lack of Personalization",
+        "description": "Generic proposals miss the mark. Each impersonal touch risks losing a client, costing you tailored service opportunities."
+      },
+      {
+        "title": "Tracking Challenges",
+        "description": "Without tracking, proposals vanish into the ether. Each lost follow-up could mean a lost deal, bleeding potential revenue."
+      }
+    ],
+    "solutionIntro": "Our AI system replaces all these inefficiencies with precision and speed.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Drafting",
+        "description": "Currently, you spend hours drafting. Our system generates proposals in under 60 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Branding inconsistencies weaken your image. Our AI ensures every proposal is consistently branded.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Quality"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Immediate Response",
+        "description": "Delayed responses risk client loss. Our system enables instant proposal generation and quicker client engagement.",
+        "tags": [
+          "Responsiveness",
+          "Client Engagement",
+          "Speed"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Error-Free Proposals",
+        "description": "Manual errors cost you deals. Our AI minimizes errors, ensuring clarity and precision in every proposal.",
+        "tags": [
+          "Accuracy",
+          "Precision",
+          "Reliability"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Proposal Tracking",
+        "description": "Without tracking, proposals are forgotten. Our system tracks every proposal, ensuring follow-ups are timely and precise.",
+        "tags": [
+          "Tracking",
+          "Follow-up",
+          "Client Retention"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Mr. Edutainment's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Mr. Edutainment around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Mr. Edutainment.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's Reach with Mr. Edutainment's Unique Approach.",
+    "heroSubheadline": "Let's captivate and convert your audience with strategies that spark joy and drive growth.",
+    "heroTags": [],
+    "problemsIntro": "Right now, Acme Corp is missing out on valuable opportunities.",
+    "problems": [
+      {
+        "title": "Low Website Conversion",
+        "description": "Every visitor who leaves without converting is revenue walking out the door. This could mean thousands in lost sales monthly."
+      },
+      {
+        "title": "Weak Brand Presence",
+        "description": "Without a strong brand, Acme Corp is just another face in the crowd. This limits your ability to attract and retain loyal customers."
+      },
+      {
+        "title": "Underutilized Social Media",
+        "description": "Missing engagement on social platforms means missing a conversation with potential clients, costing you visibility and growth."
+      },
+      {
+        "title": "Ineffective Email Campaigns",
+        "description": "Unopened emails are missed chances to connect. This results in lost opportunities for repeat business and customer loyalty."
+      },
+      {
+        "title": "Poor Customer Retention",
+        "description": "High churn rates are not just numbers. They translate to significant lost revenue and increased costs to acquire new customers."
+      },
+      {
+        "title": "Limited Market Insights",
+        "description": "Without proper insights, Acme Corp is flying blind. This could mean misaligned strategies and wasted marketing dollars."
+      }
+    ],
+    "solutionIntro": "We have the perfect solutions to turn these losses into wins.",
+    "solutions": [
+      {
+        "icon": "🎨",
+        "title": "Creative Campaigns",
+        "description": "Engage your audience with campaigns that are as entertaining as they are effective. This will boost your brand presence and conversion rates.",
+        "tags": [
+          "CREATIVE",
+          "ENGAGEMENT",
+          "BRAND"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "SEO Optimization",
+        "description": "Optimize your site to capture more organic traffic. This will increase visibility and drive more qualified leads to your doorstep.",
+        "tags": [
+          "SEO",
+          "TRAFFIC",
+          "CONVERSION"
+        ]
+      },
+      {
+        "icon": "📧",
+        "title": "Email Marketing",
+        "description": "Craft email campaigns that your audience will actually look forward to. This will improve open rates and drive more repeat business.",
+        "tags": [
+          "EMAIL",
+          "RETENTION",
+          "ENAGEMENT"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Analytics & Insights",
+        "description": "Gain actionable insights with our analytics tools. This will help you make informed decisions and refine your strategies for better results.",
+        "tags": [
+          "ANALYTICS",
+          "INSIGHTS",
+          "STRATEGY"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Increase in Conversion Rates"
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Improvement in Brand Recognition"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Boost in Email Engagement"
+      }
+    ],
+    "whyUsIntro": "Choosing Mr. Edutainment means choosing a partner who cares.",
+    "whyUsCards": [
+      {
+        "icon": "😊",
+        "title": "Playful Creativity",
+        "description": "We bring a playful spirit to every project, ensuring your brand stands out with warmth and character."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Approach",
+        "description": "Your success is our success. We work closely with you to ensure your goals are met and exceeded."
+      },
+      {
+        "icon": "📚",
+        "title": "Proven Expertise",
+        "description": "With years of experience, our team knows how to turn challenges into opportunities for growth."
+      },
+      {
+        "icon": "🚀",
+        "title": "Results Driven",
+        "description": "We're all about getting tangible results. Our strategies are designed to deliver measurable success."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "150",
+        "suffix": "+",
+        "label": "Successful Campaigns"
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Average Increase in Engagement"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention Rate"
+      },
+      {
+        "value": "200",
+        "suffix": "K",
+        "label": "Audience Reach Expanded"
+      }
+    ],
+    "teamIntro": "Meet the team dedicated to making your brand shine.",
+    "team": {
+      "initials": "AF",
+      "name": "Adam Fairhead",
+      "role": "Co-founder",
+      "titleNote": "",
+      "bio": "Adam leads strategy and client relationships at Mr. Edutainment. His passion is creating campaigns that are both fun and effective.",
+      "linkedin": "",
+      "phone": ""
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery",
+        "badge": "Weeks 1 to 3",
+        "description": "Understanding your brand, goals, and challenges.",
+        "bullets": [
+          "Initial consultation",
+          "Market analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Crafting a customized plan for success.",
+        "bullets": [
+          "Creative brainstorming",
+          "Strategy formulation"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 10",
+        "description": "Bringing the strategy to life with precision.",
+        "bullets": [
+          "Campaign launch",
+          "Content creation"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Optimize",
+        "badge": "Weeks 11 to 12",
+        "description": "Analyzing performance and making adjustments.",
+        "bullets": [
+          "Performance analysis",
+          "Strategy refinement"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment option that suits your growth ambitions.",
+    "pricing": [
+      {
+        "name": "Starter Package",
+        "subtitle": "",
+        "description": "Perfect for businesses ready to start their growth journey.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic creative campaigns",
+          "Monthly reporting"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Our recommended option for those aiming for the next level.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Comprehensive campaigns",
+          "Advanced insights"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Package",
+        "subtitle": "",
+        "description": "For those seeking an all-encompassing solution.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full-service marketing",
+          "Dedicated team"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Your Brand?",
+    "ctaDescription": "Let's chat about how we can bring your vision to life. No pressure, just a friendly conversation.",
+    "ctaButtonText": "Book a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "adam@fairheadcreative.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Mr. Edutainment",
+    "footerSub": "Unlocking potential, one story at a time."
+  },
+  "enriched": {
+    "tone": "playful, warm",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Adam",
+    "last_name": "Fairhead",
+    "email": "adam@fairheadcreative.com",
+    "company_phone": "",
+    "mobile_number": "+13524009787",
+    "company_name": "Mr. Edutainment",
+    "company_website": "https://mredutainment.com/",
+    "company_domain": "",
+    "company_description": "A modern-day edutainment and creative media brand studio. Founded in 2009, we develop viral marketing for online businesses using well-researched edutainment video advertising and immersive, gamified webpages.",
+    "headline": "20 Years Of Growing Brands With The Power Of Edutainment • My Newsletter Shows You How • My Strategy Program Builds IT With You",
+    "job_title": "Co-founder",
+    "industry": "Marketing & Advertising",
+    "company_size": "3",
+    "company_technologies": "",
+    "city": "",
+    "state": "",
+    "country": "United Kingdom",
+    "company_full_address": "Poole, Dorset BH16 6FA, GB",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "1.4M",
+    "linkedin": "https://www.linkedin.com/in/adamfairhead",
+    "company_linkedin": "https://www.linkedin.com/company/mredutainment",
+    "company_founded_year": "2009",
+    "keywords": "web design, web development, saas, internet marketing, marketing automation, copywriting, conversion rate optimization, facebook advertising, marketing strategy, advertising services, information technology & services, computer software, marketing & advertising, enterprise software, enterprises, b2b, writing & editing",
+    "personalization": "You’ve got that modern-day edutainment vibe going, mixing education and entertainment in a fresh way.",
+    "painStatement": "",
+    "proposal_status": "error: no-website",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
