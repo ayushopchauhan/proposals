@@ -1,0 +1,575 @@
+{
+  "slug": "studiovb",
+  "companyName": "StudioVB",
+  "contactName": "Valerie Betz",
+  "contactEmail": "valerie@studiovbdesign.com",
+  "generationTime": 28,
+  "createdAt": "2026-03-04T17:20:24.428Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": "https://images.squarespace-cdn.com/content/v1/57dcac8720099eab7d6c7a82/3bca8c99-1504-410d-8617-aac0d4460f99/StudioVB+-+LOGO+white+-+2022.png?format=1500w"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // STUDIOVB // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "StudioVB is losing $20,000 a year on manual proposals. This is how it happens.",
+    "heroSubheadline": "Currently taking hours for proposals. Now, generate in 47 seconds with AI.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Let's explore where the losses bleed from StudioVB's current proposal process.",
+    "problems": [
+      {
+        "title": "Time Sinkhole",
+        "description": "Every 10 hours spent writing proposals is 10 hours not designing beautiful spaces. That's $5,000 a year in lost design revenue."
+      },
+      {
+        "title": "Lost Deals",
+        "description": "Every delayed proposal is a potential client lost. StudioVB misses 2 clients monthly, costing $10,000 in potential earnings."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Inconsistent proposals weaken your brand. This costs $3,000 a year in diminished client trust and retention."
+      },
+      {
+        "title": "Hidden Errors",
+        "description": "Manual entries lead to costly errors. StudioVB loses $1,000 annually fixing mistakes instead of creating livable spaces."
+      },
+      {
+        "title": "Overhead Drain",
+        "description": "Proposal tasks eat into operational hours. Annually, StudioVB spends $800 on unnecessary admin work."
+      },
+      {
+        "title": "Stress and Burnout",
+        "description": "Valerie spends 5 extra hours a week on proposals. This leads to burnout, impacting creativity and costing $200 monthly in stress management."
+      }
+    ],
+    "solutionIntro": "Here's how our AI system transforms StudioVB's proposal process.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals take hours to craft. Our system delivers them in seconds, freeing up valuable time.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Productivity"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Manual entries risk inconsistency. Our AI ensures every proposal is on-brand and polished.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Error-Free Outputs",
+        "description": "Manual errors can be costly. Our system minimizes mistakes, saving time and money.",
+        "tags": [
+          "Accuracy",
+          "Reliability",
+          "Quality"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Enhanced Client Engagement",
+        "description": "Delayed responses lose clients. Our AI speeds up interaction, securing more deals.",
+        "tags": [
+          "Engagement",
+          "Conversion",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Reduced Stress",
+        "description": "Proposal stress affects creativity. Our system reduces workload, boosting creativity and well-being.",
+        "tags": [
+          "Well-being",
+          "Creativity",
+          "Balance"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for StudioVB's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for StudioVB around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for StudioVB.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's Future with StudioVB's Cutting-Edge Design Solutions",
+    "heroSubheadline": "We're excited to partner with Acme Corp for a tailored design strategy that turns visitors into engaged customers.",
+    "heroTags": [],
+    "problemsIntro": "Right now, Acme Corp is experiencing significant revenue losses due to missed opportunities.",
+    "problems": [
+      {
+        "title": "Low Conversion Rates",
+        "description": "Every visitor who leaves without converting is revenue walking out the door. This means potential sales slipping away daily."
+      },
+      {
+        "title": "Outdated Branding",
+        "description": "An outdated brand image can lead to a 30% loss in potential customer engagement. Your competitors are capturing your market share."
+      },
+      {
+        "title": "Poor User Experience",
+        "description": "A confusing user interface results in a 40% higher bounce rate. Users leave before they even learn about your offerings."
+      },
+      {
+        "title": "Ineffective Marketing Strategies",
+        "description": "Without targeted marketing, you're missing out on reaching the right audience, leading to a potential 25% drop in sales."
+      },
+      {
+        "title": "Lack of Social Media Presence",
+        "description": "By not engaging on social media, Acme Corp is losing direct interaction with 50% of its potential customer base."
+      },
+      {
+        "title": "Weak Online Visibility",
+        "description": "Low search engine rankings mean you're invisible to new customers, resulting in a 35% loss of potential online traffic."
+      }
+    ],
+    "solutionIntro": "Our solutions are designed to address these specific challenges and turn losses into gains.",
+    "solutions": [
+      {
+        "icon": "🎨",
+        "title": "Brand Refresh",
+        "description": "We'll revamp your brand to reconnect with your audience and boost engagement by 30%.",
+        "tags": [
+          "Branding",
+          "Identity",
+          "Design"
+        ]
+      },
+      {
+        "icon": "🖥️",
+        "title": "Website Redesign",
+        "description": "Enhance your user experience to reduce bounce rates by 40% and increase conversions.",
+        "tags": [
+          "Web Design",
+          "UX/UI",
+          "Development"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Marketing Strategy",
+        "description": "A customized marketing plan will target your ideal customers, increasing sales by up to 25%.",
+        "tags": [
+          "Marketing",
+          "Strategy",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Social Media Management",
+        "description": "Improve your social media presence to engage 50% more of your potential audience.",
+        "tags": [
+          "Social Media",
+          "Engagement",
+          "Management"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Increase in customer engagement"
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Reduction in bounce rate"
+      },
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Increase in targeted sales"
+      }
+    ],
+    "whyUsIntro": "StudioVB is your partner in creating memorable design experiences.",
+    "whyUsCards": [
+      {
+        "icon": "💡",
+        "title": "Creative Expertise",
+        "description": "Our team excels in innovative design solutions that set you apart."
+      },
+      {
+        "icon": "🤝",
+        "title": "Collaborative Approach",
+        "description": "We work closely with you to understand your unique needs and goals."
+      },
+      {
+        "icon": "🚀",
+        "title": "Proven Success",
+        "description": "With a track record of boosting client engagement, we deliver results."
+      },
+      {
+        "icon": "🌟",
+        "title": "Comprehensive Services",
+        "description": "From branding to website design, we offer a full suite of design services."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "150",
+        "suffix": "%",
+        "label": "Increase in client satisfaction"
+      },
+      {
+        "value": "200",
+        "suffix": "%",
+        "label": "Growth in social media engagement"
+      },
+      {
+        "value": "300",
+        "suffix": "%",
+        "label": "Improvement in website traffic"
+      },
+      {
+        "value": "4.8",
+        "suffix": "M",
+        "label": "Annual revenue managed"
+      }
+    ],
+    "teamIntro": "Meet the team that's ready to elevate your brand.",
+    "team": {
+      "initials": "VB",
+      "name": "Valerie Betz",
+      "role": "Owner + Interior Designer",
+      "titleNote": "",
+      "bio": "Valerie leads the strategy with a keen eye for design and a passion for building strong client relationships.",
+      "linkedin": "",
+      "phone": "+1 717-884-8243"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Research",
+        "badge": "Weeks 1 to 3",
+        "description": "We dive deep to understand your brand and objectives.",
+        "bullets": [
+          "Client workshops",
+          "Market analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Creating a roadmap for success tailored to your needs.",
+        "bullets": [
+          "Strategic planning",
+          "Concept development"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Design & Execution",
+        "badge": "Weeks 7 to 10",
+        "description": "Bringing your brand to life with compelling design.",
+        "bullets": [
+          "Design iterations",
+          "Feedback loops"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Launch & Optimization",
+        "badge": "Weeks 11 to 12",
+        "description": "Final touches and ongoing optimization for peak performance.",
+        "bullets": [
+          "Launch preparation",
+          "Performance monitoring"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment option that best fits your goals.",
+    "pricing": [
+      {
+        "name": "Starter Plan",
+        "subtitle": "",
+        "description": "Ideal for small projects and quick wins.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic branding",
+          "Simple web design"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Plan",
+        "subtitle": "",
+        "description": "Our recommended option for comprehensive growth.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Full branding",
+          "Advanced web design",
+          "Marketing strategy"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Plan",
+        "subtitle": "",
+        "description": "Perfect for large-scale projects and ongoing support.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Complete branding suite",
+          "Custom web solutions",
+          "Full marketing package"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Take the Next Step with StudioVB?",
+    "ctaDescription": "Let's chat about how we can transform Acme Corp. into a market leader. No pressure, just a friendly conversation.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayush-chauhan-hfecid/15min",
+    "ctaEmail": "valerie@studiovbdesign.com",
+    "ctaNote": "",
+    "footerText": "© 2025 StudioVB",
+    "footerSub": "Design with Intent"
+  },
+  "enriched": {
+    "tone": "warm, playful",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Valerie",
+    "last_name": "Betz",
+    "email": "valerie@studiovbdesign.com",
+    "company_phone": "+1 717-884-8243",
+    "mobile_number": "",
+    "company_name": "StudioVB",
+    "company_website": "https://www.studiovbdesign.com",
+    "company_domain": "studiovbdesign.com",
+    "company_description": "Functional. Beautiful. Livable. A full-service interior design studio - taking projects from concept to completion!",
+    "headline": "Owner + Interior Designer",
+    "job_title": "Owner + Interior Designer",
+    "industry": "Design",
+    "company_size": "2",
+    "company_technologies": "android, flutter, gmail, google apps, mobile friendly, python, remote, sharepoint, typekit",
+    "city": "Camp Hill",
+    "state": "Pennsylvania",
+    "country": "United States",
+    "company_full_address": "Camp Hill, PA, US",
+    "seniority_level": "owner",
+    "company_annual_revenue_clean": "4.8M",
+    "linkedin": "https://www.linkedin.com/in/studiovb",
+    "company_linkedin": "https://www.linkedin.com/company/studiovb-interior-design",
+    "company_founded_year": "2010",
+    "keywords": "interior design, residential interior design, commercial interior design, interior styling, project management, renovation, design services, productivity",
+    "personalization": "Your design studio in that sprawling ranch home in Camp Hill is such a unique setup.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
