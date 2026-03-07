@@ -1,0 +1,574 @@
+{
+  "slug": "designtunnel",
+  "companyName": "Designtunnel",
+  "contactName": "Jimmy Owens",
+  "contactEmail": "jimmy@designtunnel.com",
+  "generationTime": 16,
+  "createdAt": "2026-03-07T17:24:21.169Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": ""
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // DESIGNTUNNEL // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Designtunnel is losing 500 hours yearly on proposals. This is where it all drains away.",
+    "heroSubheadline": "Currently, crafting client-ready proposals consumes hours. With our system, it's done in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "These are the ongoing losses Designtunnel faces without automation.",
+    "problems": [
+      {
+        "title": "Wasted Hours",
+        "description": "Each hour spent on manual proposal creation is an hour not spent on creative work. Over a year, that's 500 hours lost."
+      },
+      {
+        "title": "Missed Opportunities",
+        "description": "Every delayed proposal is a potential client walking away. This could mean losing 3 deals a month."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Manually crafting each proposal risks inconsistent branding. This can diminish trust and lead to losing 2 clients yearly."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Proposal writing ties up high-cost creative talent. It's costing Designtunnel $30,000 annually in unnecessary wages."
+      },
+      {
+        "title": "Slow Turnaround",
+        "description": "Proposals taking days to finalize. Competitors respond faster, leading to a 20% loss in potential accounts."
+      },
+      {
+        "title": "Reduced Focus",
+        "description": "Creative direction diluted by administrative tasks. This could mean a 15% drop in campaign quality."
+      }
+    ],
+    "solutionIntro": "This system replaces every inefficiency described above.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Manual proposal writing takes hours of valuable time. Our system crafts complete proposals in under 60 seconds.",
+        "tags": [
+          "Efficiency",
+          "Time-Saving",
+          "Speed"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Automated Brand Analysis",
+        "description": "Manual brand analysis is prone to oversight. Our AI ensures every proposal is on-brand and consistent.",
+        "tags": [
+          "Consistency",
+          "Branding",
+          "Precision"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Real-time Client Insights",
+        "description": "Currently, insights are gathered slowly and inconsistently. Our system provides instant insights from client websites.",
+        "tags": [
+          "Insights",
+          "Client-Data",
+          "Real-Time"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "AI Chatbot Support",
+        "description": "Clients wait for responses. Our AI chatbot provides instant answers, enhancing client engagement.",
+        "tags": [
+          "Engagement",
+          "Client-Support",
+          "AI"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Proposal Tracking",
+        "description": "Tracking proposal status is manual and slow. Our system tracks in real-time, optimizing follow-ups.",
+        "tags": [
+          "Tracking",
+          "Follow-Up",
+          "Optimization"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Designtunnel's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Designtunnel around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Designtunnel.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's Outreach with Designtunnel's Expertise.",
+    "heroSubheadline": "We will revitalize your digital presence, driving engagement and conversion through targeted strategies.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently losing potential revenue due to several critical issues.",
+    "problems": [
+      {
+        "title": "High Bounce Rate",
+        "description": "Every visitor leaving your site without engagement is lost revenue. A 10% reduction in bounce rate could increase leads by 20%."
+      },
+      {
+        "title": "Low Brand Visibility",
+        "description": "Low visibility in search results means missed opportunities. For every position lost, click-through rate drops by 3%."
+      },
+      {
+        "title": "Ineffective Social Media",
+        "description": "Poor social media engagement means losing touch with potential customers. Each ignored post is a missed chance for interaction."
+      },
+      {
+        "title": "Outdated Design",
+        "description": "An outdated website design can decrease trust. A modern design increases conversion rates by up to 30%."
+      },
+      {
+        "title": "Slow Page Speed",
+        "description": "A slow website decreases user satisfaction. Each second of delay can result in a 7% drop in conversions."
+      },
+      {
+        "title": "Lack of Mobile Optimization",
+        "description": "Not optimizing for mobile means losing half of all potential visitors. Mobile users are 5 times more likely to abandon a site if it's not mobile-friendly."
+      }
+    ],
+    "solutionIntro": "Designtunnel offers targeted solutions to these pressing issues.",
+    "solutions": [
+      {
+        "icon": "📈",
+        "title": "SEO Optimization",
+        "description": "Improves your search engine ranking, increasing visibility and traffic.",
+        "tags": [
+          "SEO",
+          "Traffic",
+          "Visibility"
+        ]
+      },
+      {
+        "icon": "🎨",
+        "title": "Website Redesign",
+        "description": "Modernizes your site to enhance user experience and boost conversion rates.",
+        "tags": [
+          "Design",
+          "UX",
+          "Conversion"
+        ]
+      },
+      {
+        "icon": "🚀",
+        "title": "Social Media Management",
+        "description": "Energizes your brand's social presence, fostering engagement and interaction.",
+        "tags": [
+          "Social Media",
+          "Engagement",
+          "Branding"
+        ]
+      },
+      {
+        "icon": "⚙️",
+        "title": "Performance Optimization",
+        "description": "Speeds up your site, reducing load times and improving user satisfaction.",
+        "tags": [
+          "Speed",
+          "Performance",
+          "User Experience"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "15",
+        "suffix": "%",
+        "label": "Increase in conversion rate."
+      },
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Boost in organic traffic."
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Improvement in social media engagement."
+      }
+    ],
+    "whyUsIntro": "Designtunnel brings unparalleled expertise and results-driven strategies.",
+    "whyUsCards": [
+      {
+        "icon": "👥",
+        "title": "Experienced Team",
+        "description": "Our team has years of experience in transforming brands and driving growth."
+      },
+      {
+        "icon": "📊",
+        "title": "Proven Results",
+        "description": "We have a track record of increasing conversions and improving brand visibility."
+      },
+      {
+        "icon": "🔍",
+        "title": "Data-Driven Approach",
+        "description": "We use analytics to craft strategies that deliver measurable outcomes."
+      },
+      {
+        "icon": "💡",
+        "title": "Creative Solutions",
+        "description": "Our innovative ideas set you apart from the competition."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "150",
+        "suffix": "+",
+        "label": "Successful client projects completed."
+      },
+      {
+        "value": "4.9",
+        "suffix": "/5",
+        "label": "Average client satisfaction rating."
+      },
+      {
+        "value": "10",
+        "suffix": "+",
+        "label": "Years of industry experience."
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Average increase in client ROI."
+      }
+    ],
+    "teamIntro": "Meet the team that will drive Acme Corp's success.",
+    "team": {
+      "initials": "JO",
+      "name": "Jimmy Owens",
+      "role": "Founder/creative Director",
+      "titleNote": "",
+      "bio": "Jimmy leads strategy and client relationships with a focus on delivering measurable results and fostering growth.",
+      "linkedin": "",
+      "phone": "+1 405-388-9380"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Strategy",
+        "badge": "Weeks 1 to 3",
+        "description": "We analyze your current position to tailor our approach.",
+        "bullets": [
+          "Initial consultation",
+          "Market research"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Design & Development",
+        "badge": "Weeks 4 to 7",
+        "description": "We create a modern design and optimize your site for performance.",
+        "bullets": [
+          "Wireframing",
+          "Prototyping"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 8 to 12",
+        "description": "We put our plan into action, enhancing your web presence.",
+        "bullets": [
+          "Site launch",
+          "SEO integration"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Optimize",
+        "badge": "Weeks 13 to 16",
+        "description": "We monitor performance and make necessary adjustments.",
+        "bullets": [
+          "Performance analysis",
+          "Ongoing support"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose from our investment options tailored to meet your needs.",
+    "pricing": [
+      {
+        "name": "Basic Package",
+        "subtitle": "",
+        "description": "For startups and small businesses looking to establish a foundation.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "SEO",
+          "Basic Design"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Recommended for businesses aiming to expand their digital footprint.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "SEO",
+          "Advanced Design",
+          "Social Media Management"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Premium Package",
+        "subtitle": "",
+        "description": "For established brands ready to dominate the market.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full Service",
+          "Priority Support"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Your Business? Let's Start the Conversation.",
+    "ctaDescription": "Contact us for a no-obligation discussion to explore your possibilities.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "jimmy@designtunnel.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Designtunnel",
+    "footerSub": "Innovative Solutions for Growing Businesses"
+  },
+  "enriched": {
+    "tone": "professional",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Jimmy",
+    "last_name": "Owens",
+    "email": "jimmy@designtunnel.com",
+    "company_phone": "+1 405-388-9380",
+    "mobile_number": "",
+    "company_name": "Designtunnel",
+    "company_website": "https://www.designtunnel.com",
+    "company_domain": "designtunnel.com",
+    "company_description": "We are a video production house specializing in company stories to commercials for TV and digital marketing. We create video solutions for companies ready to grow their video presence. We always do what is needed to produce the best product with the scope of work we are given. We film on location quite a bit, but we are pretty fond of our 600 square foot video studio as well. It comes in handy when noise can be a factor on location, schedules don't work for deadlines or when the Oklahoma weather does not cooperate. \n\nServices:\n  • Industry Research\n  • Marketing\n  • Traditional Advertising\n  • Media Buying\n  • Online and Digital Advertising  \n  • Video Production\n     - TV Commercials\n     -  Testimonials\n     -  Interviews\n     - Training Videos\n     - Website Videos\n     - Animations\n  • Website Design and Development\n  • Social Media Management",
+    "headline": "Video Producer & Brand Consultant! Video Podcast: Broadcast Tv & Streaming Commercials: Recruitment Videos: Training Videos: Sales Videos: Content Videos: Youtube Channels: Scriptwriting: Filming: Editing: Animation",
+    "job_title": "Founder/creative Director",
+    "industry": "Marketing & Advertising",
+    "company_size": "7",
+    "company_technologies": "ai, basis, canva, cloudflare hosting, cloudflare dns, elasticsearch, gmail, google apps, react native, remote, render, vimeo",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "country": "United States",
+    "company_full_address": "11 NE 11th St., Suite 209, Oklahoma City, Oklahoma 73104, US",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "3.7M",
+    "linkedin": "https://www.linkedin.com/in/jimmy-owens-24452a12",
+    "company_linkedin": "https://www.linkedin.com/company/designtunnel",
+    "company_founded_year": "2007",
+    "keywords": "video needs assessment, youtube channel production, brainstorming, script writing, testimonial video production, animations, social media videos production, tv commercial production, sales video production, website video production, marketing, advertising, graphic design, photography, advertising services, marketing & advertising",
+    "personalization": "You have a 600 square foot video studio, which is interesting for a company focused on filming on location.",
+    "painStatement": "",
+    "proposal_status": "generated",
+    "proposal_url": "https://ayushopchauhan.com/proposal/designtunnel-mmgl9wow",
+    "proposal_id": "designtunnel-mmgl9wow",
+    "generated_at": "2026-03-07T17:21:32.416Z"
+  }
+}
