@@ -1,0 +1,573 @@
+{
+  "slug": "8bit",
+  "companyName": "8bit",
+  "contactName": "Matthew Schroeder",
+  "contactEmail": "matthew@8bitstudio.com",
+  "generationTime": 23,
+  "createdAt": "2026-03-09T18:06:13.387Z",
+  "brandStyle": {
+    "primaryColor": "#D9FF00",
+    "secondaryColor": "#ECEFF3",
+    "accentColor": "#F9FAFB",
+    "headingFont": "Red Hat Display:600,400|Montserrat:900,800,700,600|Raleway:700|Montserrat:600,600italic,700,700italic",
+    "bodyFont": "Red Hat Display",
+    "logoUrl": "https://www.8bitstudio.com/wp-content/uploads/2026/02/gmsb-project-card-2.webp"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // 8BIT // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "8bit is losing over $30,000 annually on manual proposals. Here's the breakdown.",
+    "heroSubheadline": "Crafting each proposal by hand takes hours. Our system does it in just 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "For 8bit, each problem below is a direct hit to efficiency and revenue.",
+    "problems": [
+      {
+        "title": "Time Drain",
+        "description": "8bit spends over 150 hours annually on proposal creation. That's time not spent on client work or closing new deals."
+      },
+      {
+        "title": "Inconsistency Costs",
+        "description": "Without a streamlined process, proposal quality varies. Each inconsistency risks losing a potential client."
+      },
+      {
+        "title": "High Opportunity Cost",
+        "description": "Every hour spent on proposals is an hour not spent enhancing SEO strategies for clients. This results in lost revenue opportunities."
+      },
+      {
+        "title": "Client Drop-Off",
+        "description": "Delayed proposals can result in losing client interest. Every day a proposal is late can cost a potential contract."
+      },
+      {
+        "title": "Brand Misalignment",
+        "description": "Manually created proposals can miss the mark on 8bit's branding. This misalignment can confuse clients and cost deals."
+      },
+      {
+        "title": "Resource Overload",
+        "description": "With only 4 team members, time spent on proposals is a strain. It diverts critical resources from project execution."
+      }
+    ],
+    "solutionIntro": "Introducing a solution that replaces all inefficiencies with speed and precision.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals take hours. Our system slashes this to under a minute, freeing up your team.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Inconsistent proposals confuse clients. Our AI ensures every proposal aligns perfectly with 8bit's brand.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Quality"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Enhanced Focus",
+        "description": "Time is wasted on repetitive tasks. With automation, focus shifts back to client strategy and service delivery.",
+        "tags": [
+          "Focus",
+          "Productivity",
+          "Strategy"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Real-Time Insights",
+        "description": "Currently, tracking proposal engagement is manual. Our system provides instant feedback on client interactions.",
+        "tags": [
+          "Insights",
+          "Tracking",
+          "Engagement"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Resource Optimization",
+        "description": "Small teams are stretched thin with manual work. Automation reallocates resources to high-impact areas.",
+        "tags": [
+          "Optimization",
+          "Resource Management",
+          "Scalability"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for 8bit's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for 8bit around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for 8bit.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Turn Every Click Into a Customer with 8bit's Cutting-Edge Solutions.",
+    "heroSubheadline": "Our tailored approach will optimize your digital presence, ensuring conversions and growth. Let's transform your business together.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently losing potential revenue due to missed digital opportunities.",
+    "problems": [
+      {
+        "title": "High Bounce Rate",
+        "description": "Visitors are leaving before engaging, resulting in a 40% loss in potential leads. This significantly impacts your sales pipeline."
+      },
+      {
+        "title": "Poor Mobile Optimization",
+        "description": "With 50% of traffic coming from mobile, an unoptimized site means losing half of your audience. That's half the potential revenue gone."
+      },
+      {
+        "title": "Ineffective SEO",
+        "description": "Low search engine rankings mean you're missing out on 70% of organic traffic. This is a major revenue loss."
+      },
+      {
+        "title": "Slow Load Times",
+        "description": "Every second of delay in load time results in a 7% decrease in conversions. This directly impacts your bottom line."
+      },
+      {
+        "title": "Inadequate Analytics",
+        "description": "Without proper data insights, you're missing out on understanding customer behavior, leading to a 30% inefficiency in marketing spend."
+      },
+      {
+        "title": "Lack of Brand Engagement",
+        "description": "Without engaging content, you're losing customer loyalty, resulting in a 25% drop in repeat business."
+      }
+    ],
+    "solutionIntro": "8bit's solutions directly address these losses, transforming them into growth opportunities.",
+    "solutions": [
+      {
+        "icon": "🚀",
+        "title": "Website Optimization",
+        "description": "Revamp your site for speed and engagement, reducing bounce rates and increasing conversions.",
+        "tags": [
+          "Web Development",
+          "UX Design",
+          "Performance"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Mobile Optimization",
+        "description": "Ensure seamless mobile experiences to capture and convert the growing mobile audience.",
+        "tags": [
+          "Mobile Design",
+          "Responsive",
+          "User Experience"
+        ]
+      },
+      {
+        "icon": "🔍",
+        "title": "SEO Enhancement",
+        "description": "Boost your search rankings to capture a larger share of organic traffic, driving more potential leads.",
+        "tags": [
+          "SEO",
+          "Content Strategy",
+          "Traffic Growth"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Data Analytics",
+        "description": "Implement robust analytics to gain insights into your audience, optimizing marketing efforts.",
+        "tags": [
+          "Analytics",
+          "Data Insights",
+          "Strategy"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Increase in conversion rate."
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Growth in organic traffic."
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Improvement in marketing ROI."
+      }
+    ],
+    "whyUsIntro": "At 8bit, we blend creativity with technical expertise to drive your success.",
+    "whyUsCards": [
+      {
+        "icon": "✨",
+        "title": "Proven Track Record",
+        "description": "We have a history of transforming digital experiences that lead to real business growth."
+      },
+      {
+        "icon": "🎯",
+        "title": "Client-Centric",
+        "description": "Your goals are our goals. We tailor solutions to meet your specific needs."
+      },
+      {
+        "icon": "🤝",
+        "title": "Collaborative Approach",
+        "description": "We work closely with you, ensuring transparency and alignment every step of the way."
+      },
+      {
+        "icon": "🔧",
+        "title": "Technical Expertise",
+        "description": "Our team is skilled in the latest technologies, ensuring your business stays ahead of the curve."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "150",
+        "suffix": "+",
+        "label": "Projects completed successfully"
+      },
+      {
+        "value": "20",
+        "suffix": "%",
+        "label": "Average increase in client revenue"
+      },
+      {
+        "value": "98",
+        "suffix": "%",
+        "label": "Client satisfaction rate"
+      },
+      {
+        "value": "50",
+        "suffix": "+",
+        "label": "Industries served"
+      }
+    ],
+    "teamIntro": "Meet the team that makes it all happen.",
+    "team": {
+      "initials": "MS",
+      "name": "Matthew Schroeder",
+      "role": "CEO, Founder",
+      "titleNote": "",
+      "bio": "Matthew leads strategy and client relationships with a passion for innovation and excellence.",
+      "linkedin": "",
+      "phone": "+1 612-208-8248"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Planning",
+        "badge": "Weeks 1 to 3",
+        "description": "Understand your business and set clear goals.",
+        "bullets": [
+          "Client workshops",
+          "Goal setting"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Design & Development",
+        "badge": "Weeks 4 to 7",
+        "description": "Create engaging and functional digital assets.",
+        "bullets": [
+          "Wireframing",
+          "Prototype development"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Testing & Optimization",
+        "badge": "Weeks 8 to 10",
+        "description": "Ensure everything works perfectly before launch.",
+        "bullets": [
+          "User testing",
+          "Performance tuning"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Launch & Support",
+        "badge": "Weeks 11 to 12",
+        "description": "Go live with continued support and optimization.",
+        "bullets": [
+          "Launch strategy",
+          "Ongoing support"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment that best fits your strategic goals.",
+    "pricing": [
+      {
+        "name": "Basic Package",
+        "subtitle": "",
+        "description": "Ideal for small businesses looking to optimize their digital presence.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic website optimization",
+          "Monthly reporting"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Standard Package",
+        "subtitle": "",
+        "description": "Comprehensive solution for growing businesses. Recommended for best value.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Advanced SEO services",
+          "Priority support"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Premium Package",
+        "subtitle": "",
+        "description": "All-inclusive package for businesses ready to dominate their market.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full-service digital marketing",
+          "Custom analytics"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to transform Acme Corp's digital future?",
+    "ctaDescription": "Let's chat about how we can help you achieve your goals without any pressure.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "matthew@8bitstudio.com",
+    "ctaNote": "",
+    "footerText": "© 2025 8bit",
+    "footerSub": "Innovate. Transform. Lead."
+  },
+  "enriched": {
+    "tone": "playful, technical",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Matthew",
+    "last_name": "Schroeder",
+    "email": "matthew@8bitstudio.com",
+    "company_phone": "+1 612-208-8248",
+    "mobile_number": "",
+    "company_name": "8bit",
+    "company_website": "https://www.8bitstudio.com",
+    "company_domain": "8bitstudio.com",
+    "company_description": "Tap into a web design agency that truly understands what it takes to compete on the internet. 8bitstudio is a Minneapolis web design company that has been a trusted leader in Minnesota for over 16 years.",
+    "headline": "Founder Of Anthem, Inc. / 8bitstudio",
+    "job_title": "CEO, Founder",
+    "industry": "Information Technology & Services",
+    "company_size": "4",
+    "company_technologies": "ai, android, domo, gmail, google apps, google font api, google tag manager, iot, knime, mailchimp, mobile friendly, python, remote, render, sharepoint, sisense, splunk, wordpress.org",
+    "city": "Hutchinson",
+    "state": "Minnesota",
+    "country": "United States",
+    "company_full_address": "720 Century Ave SW Suite 114, Hutchinson, Minnesota 55350, US",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "897K",
+    "linkedin": "https://www.linkedin.com/in/mschroed",
+    "company_linkedin": "https://www.linkedin.com/company/8bitstudio-agency",
+    "company_founded_year": "2005",
+    "keywords": "ux, ui design, web design, ecommerce, digital marketing, web development, technology, information & internet, seo, e-commerce, responsive websites, custom design, paid advertising, website optimization, content management, brand awareness, lead generation, ux/ui design, user-friendly interface, mobile-friendly, online appointment booking, customer engagement, adaptive pricing, unlimited support, free consultation, digital presence, financial services websites, government websites, non-profit websites, healthcare websites, user experience, enhanced security, data privacy, api integrations, seo strategies, market expansion, targeted marketing, community engagement, digital strategy, traffic conversion, social media marketing, performance analytics, search engine rankings, digital transformation, business growth, website maintenance, virtual front desk, customer feedback loops, agile development, online customer support, digital asset management, brand credibility, web project management, creative design solutions, website performance, consumer internet, consumers, internet, information technology & services, marketing & advertising, search marketing, marketing, sales",
+    "personalization": "You're calling yourself a Minneapolis web design company while being based in Hutchinson, which is interesting.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
