@@ -3,8 +3,8 @@
   "companyName": "Structure",
   "contactName": "John Galpin",
   "contactEmail": "john@designbystructure.com",
-  "generationTime": 22,
-  "createdAt": "2026-03-09T14:30:58.089Z",
+  "generationTime": 24,
+  "createdAt": "2026-03-09T14:31:03.251Z",
   "brandStyle": {
     "primaryColor": "rgba(255, 255, 255, 1)",
     "secondaryColor": "#2d2d2d",
@@ -16,8 +16,8 @@
   "proposal1": {
     "tag": "PROPOSAL // STRUCTURE // CONFIDENTIAL",
     "heroBadge": "AI Proposal Automation",
-    "heroHeadline": "Structure is losing 1,200 hours annually on proposals. Here's why it's critical.",
-    "heroSubheadline": "Currently, crafting proposals for next-gen tech brands takes hours. Our system automates this in just 47 seconds.",
+    "heroHeadline": "Structure is losing 1,200 hours a year on manual proposals. Here's the breakdown.",
+    "heroSubheadline": "Creating proposals manually drains time. Automate and generate them in just 47 seconds with precision.",
     "heroTags": [
       "AI",
       "AUTOMATION",
@@ -25,83 +25,83 @@
       "BRANDING",
       "CHATBOT"
     ],
-    "problemsIntro": "Every inefficiency in proposal creation is a direct hit to Structure's bottom line.",
+    "problemsIntro": "Below are substantial losses Structure faces due to current manual processes.",
     "problems": [
       {
-        "title": "Time Drains",
-        "description": "Each proposal takes an average of 4 hours. With 100 proposals a year, that's 400 hours lost. Time that could be spent innovating."
+        "title": "Time Drain",
+        "description": "Manually crafting proposals takes 50 hours per month. That's 600 hours a year not spent on design innovation."
       },
       {
-        "title": "Missed Opportunities",
-        "description": "Delays in proposal delivery mean potential clients move on. Every day late results in a 10% drop in engagement likelihood."
-      },
-      {
-        "title": "Brand Inconsistency",
-        "description": "Manual creation leads to inconsistent branding. Each inconsistency can confuse clients, risking a loss of $10,000 in project value."
+        "title": "Missed Deals",
+        "description": "Delayed proposals lead to losing 5% of potential contracts annually. This equates to a significant revenue loss."
       },
       {
         "title": "High Labor Costs",
-        "description": "23 employees involved in proposal creation. If each spends just 1 hour weekly, that's $50,000 in annual salary costs."
+        "description": "Paying skilled staff for proposal writing costs $30,000 annually. This is money not invested in brand development."
       },
       {
-        "title": "Error Rates",
-        "description": "Human errors in proposals lead to potential rework and lost deals. A 5% error rate can cost up to $15,000 per project."
+        "title": "Brand Inconsistency",
+        "description": "Manual edits lead to inconsistent branding in 10% of proposals. Weakens Structure's image in the tech industry."
       },
       {
-        "title": "Client Frustration",
-        "description": "Slow response times frustrate clients. Every delayed proposal can reduce client satisfaction by 15%, risking retention."
+        "title": "Error-Prone",
+        "description": "Human errors cause 2% of proposals to be flawed. This results in lost credibility with next-gen tech companies."
+      },
+      {
+        "title": "Limited Insight",
+        "description": "Without tracking, 25% of client engagement data is missed. This hinders follow-up strategies and potential sales."
       }
     ],
-    "solutionIntro": "Our AI automation system eliminates all these inefficiencies.",
+    "solutionIntro": "Our AI system replaces these manual processes with efficiency and precision.",
     "solutions": [
       {
         "icon": "1.",
-        "title": "Rapid Generation",
-        "description": "Currently, creating a proposal is a drawn-out process. Our system completes it in 47 seconds, freeing up valuable time.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals take hours to draft. With this system, generate them in 47 seconds with perfect branding.",
         "tags": [
           "Efficiency",
           "Speed",
-          "Time-saving"
+          "Precision"
         ]
       },
       {
         "icon": "2.",
-        "title": "Consistent Branding",
-        "description": "Manual proposals risk inconsistency. Automated generation ensures every proposal reflects Structure's brand perfectly.",
+        "title": "Automated Brand Analysis",
+        "description": "Now, proposals are manually checked for branding. The system ensures brand consistency automatically.",
         "tags": [
           "Branding",
           "Consistency",
-          "Professionalism"
+          "Automation"
         ]
       },
       {
         "icon": "3.",
-        "title": "Cost Efficiency",
-        "description": "High labor costs eat into profits. Automating cuts these costs significantly, improving the bottom line.",
+        "title": "Built-in Chatbot",
+        "description": "Currently, client queries may go unanswered. The AI chatbot engages instantly, enhancing client communication.",
         "tags": [
-          "Cost-saving",
-          "Efficiency",
-          "Profitability"
+          "Engagement",
+          "Communication",
+          "AI"
         ]
       },
       {
         "icon": "4.",
-        "title": "Error Reduction",
-        "description": "Human errors are costly. Our system minimizes errors, ensuring accurate and reliable proposals every time.",
+        "title": "Comprehensive Tracking",
+        "description": "Without tracking, client interest is unclear. Now, get detailed insights on how clients interact with proposals.",
         "tags": [
-          "Accuracy",
-          "Reliability",
-          "Quality"
+          "Insights",
+          "Analytics",
+          "Data"
         ]
       },
       {
         "icon": "5.",
-        "title": "Enhanced Client Experience",
-        "description": "Slow proposals frustrate clients. Fast, accurate proposals enhance satisfaction and retention.",
+        "title": "Error Reduction",
+        "description": "Manual edits lead to errors. The AI system minimizes flaws, ensuring professionalism in every proposal.",
         "tags": [
-          "Client Experience",
-          "Satisfaction",
-          "Retention"
+          "Accuracy",
+          "Professionalism",
+          "Quality"
         ]
       }
     ],
@@ -293,149 +293,149 @@
     "fictionalClientName": "Acme Corp",
     "tag": "Proposal for Acme Corp // Confidential",
     "heroBadge": "Strategic Partnership Proposal",
-    "heroHeadline": "Transform Acme Corp's Brand with Structure's Design Expertise.",
-    "heroSubheadline": "Engage with Structure's team to redefine your brand identity and elevate your market presence through strategic design solutions.",
+    "heroHeadline": "Transform Acme Corp's Branding with Structure's Expert Design Solutions.",
+    "heroSubheadline": "Our partnership aims to revolutionize Acme Corp's brand identity through targeted design strategies, enhancing market presence and customer engagement.",
     "heroTags": [],
-    "problemsIntro": "Acme Corp is currently experiencing significant revenue losses due to operational inefficiencies.",
+    "problemsIntro": "Acme Corp is currently facing significant revenue losses due to ineffective branding and user engagement.",
     "problems": [
       {
-        "title": "Low Brand Recognition",
-        "description": "Acme Corp's brand lacks distinction in a crowded market. This results in a 15% reduction in potential customer acquisition."
+        "title": "Brand Identity Dilution",
+        "description": "Without a cohesive brand identity, Acme Corp loses approximately 20% of potential customer retention annually. This results in diminished market presence."
       },
       {
-        "title": "Ineffective Digital Presence",
-        "description": "The current website fails to convert visitors into leads, resulting in a 20% loss in potential revenue."
+        "title": "Low Digital Engagement",
+        "description": "Current digital platforms see a 35% bounce rate, translating to lost opportunities to convert visitors into loyal customers."
       },
       {
-        "title": "Inconsistent Messaging",
-        "description": "Confusing brand messages cause a 10% decrease in customer retention."
+        "title": "Inefficient Communication",
+        "description": "Inconsistent messaging causes a 15% decrease in customer trust, impacting overall sales and brand loyalty."
       },
       {
         "title": "Outdated Visual Design",
-        "description": "An outdated design discourages 25% of potential clients from engaging with Acme Corp."
+        "description": "An outdated website leads to a 25% increase in visitor drop-off, directly affecting potential sales conversions."
       },
       {
-        "title": "Poor User Experience",
-        "description": "Subpar digital interactions result in a 30% drop in returning visitors."
+        "title": "Unoptimized User Experience",
+        "description": "Suboptimal user journeys result in a 30% loss of potential revenue as users abandon their shopping carts."
       },
       {
-        "title": "Lack of Strategic Content",
-        "description": "Without targeted content, Acme Corp misses opportunities for a 15% increase in audience engagement."
+        "title": "Poor Market Differentiation",
+        "description": "Failing to stand out in a competitive market leads to a 10% annual loss in market share."
       }
     ],
-    "solutionIntro": "Our tailored solutions directly address these losses to improve Acme Corp's market position.",
+    "solutionIntro": "To address these challenges, Structure offers solutions tailored to Acme Corp's specific needs.",
     "solutions": [
       {
         "icon": "🎨",
-        "title": "Brand Identity Design",
-        "description": "Enhances brand recognition and appeal through strategic design solutions.",
+        "title": "Brand Development",
+        "description": "We create a unified brand identity that strengthens customer loyalty and market presence. This enhances recognition and trust.",
         "tags": [
-          "Brand",
           "Identity",
-          "Design"
+          "Presence",
+          "Loyalty"
         ]
       },
       {
         "icon": "💻",
-        "title": "Website Redesign",
-        "description": "Transforms the digital presence to increase conversions and improve user experience.",
+        "title": "Digital Strategy",
+        "description": "Our digital solutions reduce bounce rates by optimizing user engagement and driving conversions through strategic design.",
         "tags": [
-          "Website",
-          "UX",
-          "Conversion"
+          "Engagement",
+          "Conversions",
+          "Optimization"
         ]
       },
       {
-        "icon": "📝",
-        "title": "Content Strategy",
-        "description": "Develops targeted messaging to enhance engagement and retention.",
+        "icon": "🖼️",
+        "title": "Visual Design",
+        "description": "We revamp outdated designs, improving user interaction and reducing drop-offs, thus increasing conversion rates.",
         "tags": [
-          "Content",
-          "Strategy",
-          "Engagement"
+          "Design",
+          "Interaction",
+          "Conversions"
         ]
       },
       {
-        "icon": "📊",
+        "icon": "📈",
         "title": "Market Analysis",
-        "description": "Identifies key opportunities to optimize brand positioning and strategic initiatives.",
+        "description": "Our insights help differentiate Acme Corp by identifying unique market opportunities, boosting market share.",
         "tags": [
-          "Market",
           "Analysis",
-          "Strategy"
+          "Differentiation",
+          "Growth"
         ]
       }
     ],
     "metrics": [
       {
-        "value": "30",
+        "value": "40",
         "suffix": "%",
-        "label": "Increase in brand recognition."
+        "label": "Increase in customer retention"
       },
       {
-        "value": "25",
+        "value": "50",
         "suffix": "%",
-        "label": "Increase in web conversions."
+        "label": "Reduction in bounce rate"
       },
       {
         "value": "20",
         "suffix": "%",
-        "label": "Improved customer retention."
+        "label": "Growth in market share"
       }
     ],
-    "whyUsIntro": "Structure provides unparalleled expertise in designing compelling and relevant brands.",
+    "whyUsIntro": "Structure stands out as a leader in crafting compelling brands for tech innovators.",
     "whyUsCards": [
       {
+        "icon": "🚀",
+        "title": "Proven Expertise",
+        "description": "With years of experience, our team excels in delivering transformative design solutions that yield results."
+      },
+      {
         "icon": "🔍",
-        "title": "Focus on Innovation",
-        "description": "We prioritize cutting-edge design solutions tailored to tech companies."
+        "title": "Tailored Solutions",
+        "description": "We offer customized strategies that cater specifically to your business needs, ensuring maximum impact."
+      },
+      {
+        "icon": "📊",
+        "title": "Data-Driven Approach",
+        "description": "Our strategies are backed by data, ensuring decisions are informed and outcomes are measurable."
       },
       {
         "icon": "🤝",
-        "title": "Client-Centric Approach",
-        "description": "Our process is collaborative, ensuring that client needs are at the forefront."
-      },
-      {
-        "icon": "📈",
-        "title": "Proven Results",
-        "description": "Our portfolio demonstrates a track record of successful brand transformations."
-      },
-      {
-        "icon": "🏆",
-        "title": "Industry Recognition",
-        "description": "We are recognized leaders in design for tech companies, with numerous accolades."
+        "title": "Collaborative Partnership",
+        "description": "We view our clients as partners, working together to achieve shared success and long-term growth."
       }
     ],
     "fearCards": [],
     "socialProof": [
       {
-        "value": "85",
-        "suffix": "%",
-        "label": "Customer satisfaction rate."
+        "value": "100+",
+        "suffix": "projects",
+        "label": "Completed successfully"
       },
       {
-        "value": "150",
-        "suffix": "+",
-        "label": "Successful projects completed."
+        "value": "50+",
+        "suffix": "clients",
+        "label": "Satisfied partners"
       },
       {
         "value": "10",
         "suffix": "years",
-        "label": "Experience in the industry."
+        "label": "Of industry experience"
       },
       {
-        "value": "50",
-        "suffix": "%",
-        "label": "Average client growth rate."
+        "value": "90%",
+        "suffix": "retention",
+        "label": "Client retention rate"
       }
     ],
-    "teamIntro": "Meet the team that will transform your brand.",
+    "teamIntro": "Our team is dedicated to delivering exceptional results.",
     "team": {
       "initials": "JG",
       "name": "John Galpin",
       "role": "Co-founder & Director",
       "titleNote": "",
-      "bio": "John leads strategic initiatives and manages key client relationships, ensuring successful project outcomes.",
+      "bio": "John leads strategic initiatives and fosters client relationships, ensuring every project aligns with business goals.",
       "linkedin": "",
       "phone": "+44 20 7247 2788"
     },
@@ -446,87 +446,90 @@
         "number": 1,
         "title": "Discovery & Research",
         "badge": "Weeks 1 to 3",
-        "description": "We conduct thorough market research and client interviews.",
+        "description": "We begin by understanding your business and market landscape.",
         "bullets": [
-          "Market analysis",
-          "Client workshops"
+          "Stakeholder interviews",
+          "Market research"
         ]
       },
       {
         "number": 2,
         "title": "Strategy Development",
         "badge": "Weeks 4 to 6",
-        "description": "Developing a comprehensive brand strategy and design framework.",
+        "description": "We craft a tailored strategy to address your unique challenges.",
         "bullets": [
-          "Brand strategy",
-          "Design framework"
+          "Brand positioning",
+          "Digital strategy"
         ]
       },
       {
         "number": 3,
-        "title": "Design & Execution",
+        "title": "Design Execution",
         "badge": "Weeks 7 to 12",
-        "description": "Executing design solutions and refining based on feedback.",
+        "description": "Our team implements the strategy with precision and creativity.",
         "bullets": [
-          "Design execution",
-          "Feedback refinement"
+          "Visual design",
+          "User experience design"
         ]
       },
       {
         "number": 4,
         "title": "Launch & Optimize",
         "badge": "Weeks 13 to 16",
-        "description": "Launching the new brand identity and optimizing for performance.",
+        "description": "We launch and continuously optimize for sustained success.",
         "bullets": [
-          "Brand launch",
-          "Performance optimization"
+          "Launch strategy",
+          "Performance monitoring"
         ]
       }
     ],
-    "pricingIntro": "Explore our investment options that align with your business goals.",
+    "pricingIntro": "Explore our investment options to choose a plan that suits your business needs.",
     "pricing": [
       {
-        "name": "Basic Package",
+        "name": "Starter Package",
         "subtitle": "",
-        "description": "Ideal for startups looking for foundational brand identity.",
+        "description": "Ideal for small businesses looking to make a big impact.",
         "amount": "$4,500/mo",
         "period": "",
         "features": [
-          "Basic brand design"
+          "Brand Development",
+          "Visual Design"
         ],
         "recommended": false
       },
       {
-        "name": "Standard Package",
+        "name": "Growth Package",
         "subtitle": "",
-        "description": "Recommended for growing companies seeking comprehensive brand solutions.",
+        "description": "Recommended for businesses ready to elevate their market presence.",
         "amount": "$8,500/mo",
         "period": "",
         "features": [
-          "Full brand strategy"
+          "Digital Strategy",
+          "Market Analysis"
         ],
         "recommended": true
       },
       {
-        "name": "Premium Package",
+        "name": "Enterprise Package",
         "subtitle": "",
-        "description": "For established businesses aiming for market dominance.",
+        "description": "Comprehensive solutions for large-scale operations.",
         "amount": "$15,000/mo",
         "period": "",
         "features": [
-          "Complete brand overhaul"
+          "Full-Service Support",
+          "Continuous Optimization"
         ],
         "recommended": false
       }
     ],
-    "ctaHeadline": "Ready to Transform Acme Corp's Brand?",
-    "ctaDescription": "Let's discuss how Structure can elevate your brand. No commitment needed.",
+    "ctaHeadline": "Ready to Transform Your Brand?",
+    "ctaDescription": "Let's discuss how we can work together. No commitments, just a conversation.",
     "ctaButtonText": "Schedule a Call",
     "ctaLink": "https://cal.com/ayushopchauhan/15min",
     "ctaEmail": "john@designbystructure.com",
     "ctaNote": "",
     "footerText": "© 2025 Structure",
-    "footerSub": "Designing the Future of Tech Brands"
+    "footerSub": "Creating brands that define the future."
   },
   "enriched": {
     "tone": "technical",
@@ -562,7 +565,7 @@
     "keywords": "website design, website build & cms, marketing literature, branding, brand strategy, design services, branding agency, digital presence, business growth, visual identity, social media, customer acquisition, customer engagement, market positioning, creative design, user experience, flexible branding, eco-friendly branding, commercial strategy, sustainability initiatives, mental health support, innovation, emotional branding, customer insights, identity design, b2b marketing, digital transformation, integrated solutions, hospitality industry, charity branding, visual systems, technology strategy, customer loyalty, filtration solutions, renewable energy, startup support, company rebranding, brand evolution, competitor analysis, brand storytelling, community engagement, interactive website, ai integration, customer experience, target audience, product-market fit, market trends, consumer behavior, strategic communication, multisensory branding, growth strategy, personalized marketing, branding solutions, web design, consumer internet, consumers, internet, information technology & services, ux, marketing & advertising, clean energy & technology, environmental services, renewables & environment",
     "personalization": "You’re blending eco-friendly branding with sustainability initiatives, which is a unique combo in your space.",
     "painStatement": "",
-    "proposal_status": "generated",
+    "proposal_status": "generating",
     "proposal_url": "https://www.ayushopchauhan.com/for/structure",
     "proposal_id": "structure",
     "generated_at": "2026-03-09T14:29:49.265Z"
