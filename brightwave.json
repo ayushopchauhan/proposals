@@ -1,0 +1,553 @@
+{
+  "slug": "brightwave",
+  "companyName": "Brightwave",
+  "contactName": "there",
+  "contactEmail": "sarah@brightwave.agency",
+  "generationTime": 23,
+  "createdAt": "2026-03-10T17:07:40.952Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": ""
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // BRIGHTWAVE // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Brightwave is losing 2,000 hours a year on proposals. Here is exactly where it goes.",
+    "heroSubheadline": "Currently, crafting a proposal drains hours. With our system, it’s done in 47 seconds, tailored to your services.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "These are not inconveniences, these are ongoing losses for Brightwave.",
+    "problems": [
+      {
+        "title": "Time Drain",
+        "description": "Brightwave spends 2,000 hours annually on proposal creation. Each hour not spent on client engagement is a missed revenue opportunity."
+      },
+      {
+        "title": "Costly Errors",
+        "description": "Manual proposal creation leads to errors costing Brightwave $50,000 annually. Errors erode client trust and lead to lost deals."
+      },
+      {
+        "title": "Lost Deals",
+        "description": "Delayed proposals cost Brightwave 10% of potential deals each year. Every delayed response is a client lost to competitors."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Inconsistent proposal branding costs Brightwave $30,000 in lost brand value. Brand inconsistency reduces market perception and client retention."
+      },
+      {
+        "title": "Resource Overload",
+        "description": "Proposal creation overwhelms staff, costing $100,000 in overtime and burnout. Employee burnout decreases productivity and increases turnover costs."
+      },
+      {
+        "title": "Opportunity Cost",
+        "description": "Time spent on proposals detracts from innovation, costing Brightwave $200,000 in potential growth. Lack of focus on core services stifles business expansion."
+      }
+    ],
+    "solutionIntro": "Introducing a system that replaces all these losses with streamlined efficiency.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposals",
+        "description": "Currently, proposals take precious hours. The system delivers them in 47 seconds. Time saved is time earned.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Error-Free Output",
+        "description": "Manual processes lead to costly errors. The AI ensures every proposal is accurate and brand-aligned.",
+        "tags": [
+          "Accuracy",
+          "Consistency",
+          "Trust"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Consistent Branding",
+        "description": "Inconsistent branding confuses clients. Our system ensures every proposal reflects Brightwave's brand perfectly.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Resource Optimization",
+        "description": "Staff overwhelmed by proposals lose focus. The system frees them to innovate and engage with clients.",
+        "tags": [
+          "Productivity",
+          "Focus",
+          "Innovation"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Enhanced Deal Closure",
+        "description": "Delayed responses lose deals. With instant proposals, capture opportunities and increase closure rates.",
+        "tags": [
+          "Revenue",
+          "Growth",
+          "Opportunities"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Peakdigital's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Peakdigital around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Brightwave.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Elevate Acme Corp's Digital Presence with Brightwave's Expertise.",
+    "heroSubheadline": "We propose a comprehensive strategy to boost your online conversion rates and enhance customer engagement.",
+    "heroTags": [],
+    "problemsIntro": "Every day, Acme Corp is experiencing losses due to untapped digital potential.",
+    "problems": [
+      {
+        "title": "Low Conversion Rates",
+        "description": "With a current conversion rate of just 1.5%, Acme Corp is losing potential revenue from 98.5% of website visitors."
+      },
+      {
+        "title": "High Cart Abandonment",
+        "description": "Over 70% of customers leave their cart without purchasing, resulting in significant revenue loss."
+      },
+      {
+        "title": "Poor Mobile Experience",
+        "description": "An outdated mobile interface is causing a 60% bounce rate on mobile visits."
+      },
+      {
+        "title": "Limited Audience Reach",
+        "description": "Current strategies reach only 40% of the target audience, missing out on valuable market segments."
+      },
+      {
+        "title": "Insufficient Brand Engagement",
+        "description": "Low engagement levels result in missed opportunities for repeat business and customer loyalty."
+      },
+      {
+        "title": "Underperforming Email Campaigns",
+        "description": "An average open rate of 15% means most of your emails are not read, leading to lost sales opportunities."
+      }
+    ],
+    "solutionIntro": "Brightwave offers tailored solutions to address these losses and drive growth for Acme Corp.",
+    "solutions": [
+      {
+        "icon": "🚀",
+        "title": "Website Optimization",
+        "description": "Enhances user experience and increases conversion rates by improving site design and functionality.",
+        "tags": [
+          "UX Design",
+          "Conversion Rate",
+          "SEO"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Mobile App Development",
+        "description": "Creates a seamless mobile experience to reduce bounce rates and improve engagement.",
+        "tags": [
+          "Mobile Experience",
+          "App Development",
+          "User Engagement"
+        ]
+      },
+      {
+        "icon": "📧",
+        "title": "Email Marketing",
+        "description": "Boosts open and conversion rates with targeted, personalized email campaigns.",
+        "tags": [
+          "Email Campaigns",
+          "Personalization",
+          "Customer Retention"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Digital Advertising",
+        "description": "Expands audience reach and brand visibility through strategic ad placements.",
+        "tags": [
+          "Audience Expansion",
+          "Ad Strategy",
+          "Brand Visibility"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Projected increase in conversion rates."
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Reduction in cart abandonment."
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Increase in mobile user engagement."
+      }
+    ],
+    "whyUsIntro": "Brightwave stands as a leader in driving digital transformations with proven results.",
+    "whyUsCards": [
+      {
+        "icon": "🏆",
+        "title": "Proven Track Record",
+        "description": "We have successfully transformed digital strategies for numerous industry leaders."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Approach",
+        "description": "Our solutions are tailored to the specific needs and goals of each client."
+      },
+      {
+        "icon": "💡",
+        "title": "Innovative Solutions",
+        "description": "We leverage the latest technologies to deliver cutting-edge digital experiences."
+      },
+      {
+        "icon": "📊",
+        "title": "Data-Driven Strategies",
+        "description": "Our approach is informed by data and analytics to ensure maximum ROI."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "500",
+        "suffix": "+",
+        "label": "Successful campaigns delivered."
+      },
+      {
+        "value": "200",
+        "suffix": "%",
+        "label": "Average increase in client engagement."
+      },
+      {
+        "value": "150",
+        "suffix": "%",
+        "label": "Growth in conversion rates for clients."
+      },
+      {
+        "value": "5",
+        "suffix": "/5",
+        "label": "Client satisfaction rating."
+      }
+    ],
+    "teamIntro": "Meet our dedicated team of digital strategists.",
+    "team": {
+      "initials": "tC",
+      "name": "there",
+      "role": "Executive Director",
+      "titleNote": "",
+      "bio": "Leading strategy and client relationships with over 15 years of experience in digital marketing.",
+      "linkedin": "",
+      "phone": ""
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Strategy",
+        "badge": "Weeks 1 to 3",
+        "description": "We conduct a thorough analysis of your current digital presence.",
+        "bullets": [
+          "Market Research",
+          "Competitor Analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Design & Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Creating customized solutions to enhance user experience.",
+        "bullets": [
+          "Wireframing",
+          "Prototyping"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 9",
+        "description": "Deploying new strategies and tools across platforms.",
+        "bullets": [
+          "Platform Integration",
+          "Testing"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Optimization & Reporting",
+        "badge": "Weeks 10 to 12",
+        "description": "Fine-tuning strategies for optimal performance.",
+        "bullets": [
+          "Performance Analysis",
+          "Monthly Reporting"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose from our investment options designed to deliver value.",
+    "pricing": [
+      {
+        "name": "Basic Package",
+        "subtitle": "",
+        "description": "Ideal for small scale improvements and optimizations.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Website Optimization"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Recommended for comprehensive digital strategy overhauls.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Website Optimization",
+          "Email Marketing"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Package",
+        "subtitle": "",
+        "description": "For organizations aiming for significant market impact.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Website Optimization",
+          "Email Marketing",
+          "Digital Advertising"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Acme Corp's Digital Future?",
+    "ctaDescription": "Let's discuss how we can help you achieve your business goals.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "sarah@brightwave.agency",
+    "ctaNote": "",
+    "footerText": "© 2025 Brightwave",
+    "footerSub": "Driving digital success together."
+  },
+  "enriched": {
+    "tone": "professional",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "email": "sarah@brightwave.agency",
+    "first_name": "there",
+    "last_name": "",
+    "company_name": "Brightwave",
+    "company_website": "https://brightwave.agency",
+    "company_domain": "brightwave.agency",
+    "industry": "",
+    "personalization": "",
+    "painStatement": "",
+    "proposal_id": "brightwave"
+  }
+}
