@@ -1,0 +1,554 @@
+{
+  "slug": "quickcheck",
+  "companyName": "Quickcheck",
+  "contactName": "there",
+  "contactEmail": "testdirect@quickcheck.io",
+  "generationTime": 21,
+  "createdAt": "2026-03-10T16:22:08.561Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": ""
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // QUICKCHECK // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Quickcheck is losing 1,000 hours a year on manual proposals. Here's where it vanishes.",
+    "heroSubheadline": "Currently, crafting proposals manually bleeds time. Switch to 47-second automated perfection.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Below are the ongoing hemorrhages affecting Quickcheck's efficiency and bottom line.",
+    "problems": [
+      {
+        "title": "Time Sink",
+        "description": "Each manual proposal costs you 2 hours of valuable time. That's time not spent closing deals for Quickcheck."
+      },
+      {
+        "title": "Lost Deals",
+        "description": "Delayed proposals mean missed opportunities. Every day a proposal is late, Quickcheck risks losing potential clients."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Manual processes lead to inconsistent branding. This inconsistency can cost Quickcheck client trust and loyalty."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Paying skilled employees to draft proposals is expensive. Quickcheck could save thousands by automating this task."
+      },
+      {
+        "title": "Error Prone",
+        "description": "Manual input leads to errors which can lose clients. Errors in proposals cost Quickcheck credibility and future business."
+      },
+      {
+        "title": "Resource Drain",
+        "description": "Resources spent on proposals cannot be used elsewhere. This misallocation is costly for Quickcheck's growth potential."
+      }
+    ],
+    "solutionIntro": "Our AI system is the answer to all these costly problems.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Current method takes hours per proposal. Our system delivers client-ready proposals in under 60 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Productivity"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Branding varies manually. Our AI ensures every proposal aligns with Quickcheck's brand identity.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Trust"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Error Elimination",
+        "description": "Manual errors are costly. Our system ensures accuracy in every proposal, safeguarding Quickcheck's reputation.",
+        "tags": [
+          "Accuracy",
+          "Reliability",
+          "Reputation"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Resource Reallocation",
+        "description": "Current method ties up valuable resources. Our system frees up time and talent for more strategic initiatives.",
+        "tags": [
+          "Optimization",
+          "Growth",
+          "Strategy"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Deal Closure Acceleration",
+        "description": "Delayed proposals slow down deals. Our system speeds up proposal delivery, accelerating closure rates for Quickcheck.",
+        "tags": [
+          "Sales",
+          "Velocity",
+          "Revenue"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Quickcheck's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Quickcheck around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Quickcheck.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's Revenue with Quickcheck's Market Insights.",
+    "heroSubheadline": "We propose a targeted strategy to convert lost opportunities into loyal customers.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently experiencing significant revenue losses due to inefficiencies.",
+    "problems": [
+      {
+        "title": "Low Conversion Rates",
+        "description": "Acme Corp loses approximately 20% of potential revenue as visitors leave without converting. This is a critical gap in capturing market share."
+      },
+      {
+        "title": "Inefficient Marketing Spend",
+        "description": "Without precise targeting, 30% of the marketing budget is wasted on audiences that don't engage. This is money that could be driving actual sales."
+      },
+      {
+        "title": "Poor Customer Retention",
+        "description": "Acme Corp sees a 25% churn rate, which translates to thousands in lost recurring revenue monthly. Retaining customers is cheaper than acquiring new ones."
+      },
+      {
+        "title": "Brand Awareness Deficit",
+        "description": "A lack of strong brand presence results in a 15% lower market penetration compared to competitors. Visibility is crucial for growth."
+      },
+      {
+        "title": "Slow Response Times",
+        "description": "Delayed customer service responses lead to a 10% drop in customer satisfaction. This undermines long-term loyalty and advocacy."
+      },
+      {
+        "title": "Underutilized Digital Channels",
+        "description": "40% of potential digital interactions go unutilized, missing out on engaging a tech-savvy audience that prefers online communication."
+      }
+    ],
+    "solutionIntro": "Quickcheck offers targeted services to address these specific issues.",
+    "solutions": [
+      {
+        "icon": "📊",
+        "title": "Market Analysis",
+        "description": "Our in-depth analysis identifies key areas for improvement, optimizing your marketing spend and boosting conversions.",
+        "tags": [
+          "Analysis",
+          "Strategy",
+          "Optimization"
+        ]
+      },
+      {
+        "icon": "💬",
+        "title": "Customer Engagement",
+        "description": "Enhance retention with personalized engagement strategies that reduce churn and increase lifetime value.",
+        "tags": [
+          "Retention",
+          "Loyalty",
+          "Value"
+        ]
+      },
+      {
+        "icon": "👥",
+        "title": "Brand Development",
+        "description": "Strengthen your brand presence with strategic initiatives that improve market penetration and visibility.",
+        "tags": [
+          "Brand",
+          "Awareness",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "🌐",
+        "title": "Digital Transformation",
+        "description": "Leverage digital channels effectively to engage audiences, improving interaction and satisfaction.",
+        "tags": [
+          "Digital",
+          "Engagement",
+          "Satisfaction"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "15",
+        "suffix": "%",
+        "label": "Increase in conversion rates."
+      },
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Reduction in marketing waste."
+      },
+      {
+        "value": "20",
+        "suffix": "%",
+        "label": "Boost in brand recognition."
+      }
+    ],
+    "whyUsIntro": "Quickcheck is the partner you need for data-driven growth.",
+    "whyUsCards": [
+      {
+        "icon": "🏆",
+        "title": "Proven Results",
+        "description": "Our strategies have consistently delivered increased revenues for our clients."
+      },
+      {
+        "icon": "🛠️",
+        "title": "Custom Solutions",
+        "description": "We develop tailored strategies that align with your unique business objectives."
+      },
+      {
+        "icon": "📈",
+        "title": "Expert Team",
+        "description": "Our team of experts is dedicated to your business success and growth."
+      },
+      {
+        "icon": "🤝",
+        "title": "Partnership Approach",
+        "description": "We work closely with you to ensure our solutions are effectively implemented."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "100",
+        "suffix": "+",
+        "label": "Clients served globally."
+      },
+      {
+        "value": "98",
+        "suffix": "%",
+        "label": "Client satisfaction rate."
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Average growth in client revenue."
+      },
+      {
+        "value": "200",
+        "suffix": "%",
+        "label": "Increase in client engagement."
+      }
+    ],
+    "teamIntro": "Meet the team committed to your success.",
+    "team": {
+      "initials": "tC",
+      "name": "there ",
+      "role": "Executive Director",
+      "titleNote": "",
+      "bio": "Leading strategy and client relationships, with over a decade of experience in driving growth. Specializes in aligning business goals with actionable insights.",
+      "linkedin": "",
+      "phone": ""
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Analysis",
+        "badge": "Weeks 1 to 3",
+        "description": "We dive deep into understanding your business and current challenges.",
+        "bullets": [
+          "Stakeholder Interviews",
+          "Market Research"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Crafting a tailored strategy to address identified challenges.",
+        "bullets": [
+          "Strategic Planning",
+          "Solution Design"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 9",
+        "description": "Executing the strategy with precision and agility.",
+        "bullets": [
+          "Project Management",
+          "Execution"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Optimize",
+        "badge": "Weeks 10 to 12",
+        "description": "Assessing results and optimizing for continuous improvement.",
+        "bullets": [
+          "Performance Review",
+          "Refinement"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment option that best suits your growth ambitions.",
+    "pricing": [
+      {
+        "name": "Basic Plan",
+        "subtitle": "",
+        "description": "Ideal for small businesses looking to optimize specific areas.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Market Analysis",
+          "Customer Engagement"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Plan",
+        "subtitle": "",
+        "description": "Our recommended plan for comprehensive growth.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "All Basic Features",
+          "Brand Development",
+          "Digital Transformation"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Plan",
+        "subtitle": "",
+        "description": "For large enterprises aiming for market leadership.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "All Growth Features",
+          "Custom Solutions"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Acme Corp's Future?",
+    "ctaDescription": "Let's discuss how we can help you achieve your business goals.",
+    "ctaButtonText": "Schedule a Consultation",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "testdirect@quickcheck.io",
+    "ctaNote": "",
+    "footerText": "© 2025 Quickcheck",
+    "footerSub": "Your Partner in Growth"
+  },
+  "enriched": {
+    "tone": "professional",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "email": "testdirect@quickcheck.io",
+    "first_name": "there",
+    "last_name": "",
+    "company_name": "Quickcheck",
+    "company_website": "https://quickcheck.io",
+    "company_domain": "quickcheck.io",
+    "industry": "",
+    "personalization": "",
+    "painStatement": "",
+    "proposal_id": "quickcheck"
+  }
+}
