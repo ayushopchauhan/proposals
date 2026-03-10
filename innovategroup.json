@@ -1,0 +1,553 @@
+{
+  "slug": "innovategroup",
+  "companyName": "Innovategroup",
+  "contactName": "there",
+  "contactEmail": "alex@innovategroup.io",
+  "generationTime": 23,
+  "createdAt": "2026-03-10T17:07:55.621Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": ""
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // INNOVATEGROUP // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Innovategroup is losing $300,000 yearly on proposal writing. Here's the breakdown.",
+    "heroSubheadline": "Your team spends hours manually drafting proposals for your services. Our AI does it in 47 seconds, tailored and branded.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "These are the continuous financial drains Innovategroup faces.",
+    "problems": [
+      {
+        "title": "Wasted Hours",
+        "description": "Innovategroup spends 2,000 hours annually crafting proposals. That's 2,000 hours not spent closing new deals and servicing clients."
+      },
+      {
+        "title": "Lost Deals",
+        "description": "Every delayed proposal loses momentum. This results in an estimated 10% drop in conversion rate, costing thousands in potential revenue."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Manual proposals risk brand misalignment. Every inconsistency can confuse clients, risking a 5% churn increase."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Paying skilled employees for proposal writing is burning $100,000 a year. This is labor not maximized for strategic tasks."
+      },
+      {
+        "title": "Error Prone",
+        "description": "Manual processes lead to errors. Each mistake costs time to correct and damages credibility, risking at least $50,000 in lost trust."
+      },
+      {
+        "title": "Inefficiency",
+        "description": "Innovategroup's current method is slow and cumbersome, causing delays that extend closing cycles by 20%, bleeding potential income."
+      }
+    ],
+    "solutionIntro": "Our AI system transforms and replaces all these costly inefficiencies.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals are crafted manually, taking hours. Our system does it in 47 seconds with precision and branding.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Brand Consistency",
+        "description": "Manual proposals risk brand inconsistency. Our AI ensures every proposal aligns perfectly with your brand.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Precision"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Cost Reduction",
+        "description": "Currently, high labor costs are tied to proposal writing. Our system slashes these costs, freeing up resources for growth.",
+        "tags": [
+          "Cost-saving",
+          "Resource Allocation",
+          "Efficiency"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Error Elimination",
+        "description": "Manual processes are error-prone. Our AI minimizes errors, enhancing credibility and client trust.",
+        "tags": [
+          "Accuracy",
+          "Reliability",
+          "Trust"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Enhanced Conversion",
+        "description": "Slow proposals lose deals. Our system's speed increases conversion rates, boosting your bottom line.",
+        "tags": [
+          "Conversion",
+          "Revenue",
+          "Growth"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Innovategroup's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Innovategroup around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Innovategroup.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Revitalize Acme Corp's Growth with Innovategroup's Expertise.",
+    "heroSubheadline": "We will implement targeted strategies to enhance your market presence, driving measurable results.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently facing significant revenue losses due to these challenges.",
+    "problems": [
+      {
+        "title": "Low Conversion Rates",
+        "description": "Every visitor who leaves your site without converting is revenue walking out the door. This is causing an estimated 20% drop in potential sales monthly."
+      },
+      {
+        "title": "High Customer Churn",
+        "description": "Losing existing customers is costing Acme Corp around 15% of its annual revenue. Retaining customers is more cost-effective than acquiring new ones."
+      },
+      {
+        "title": "Ineffective Marketing",
+        "description": "Current marketing strategies are underperforming, leading to a 25% shortfall in expected quarterly performance targets."
+      },
+      {
+        "title": "Brand Visibility Decline",
+        "description": "A 30% reduction in brand recognition over the past year is leading to missed opportunities in capturing new market segments."
+      },
+      {
+        "title": "Outdated Technology",
+        "description": "Using outdated systems is leading to inefficiencies and a 10% increase in operational costs annually."
+      },
+      {
+        "title": "Weak Online Engagement",
+        "description": "A lack of engagement on digital platforms is resulting in a 15% decrease in potential customer interactions each quarter."
+      }
+    ],
+    "solutionIntro": "Innovategroup offers tailored solutions to address each of these losses effectively.",
+    "solutions": [
+      {
+        "icon": "🎯",
+        "title": "Digital Marketing Strategy",
+        "description": "We will overhaul your marketing campaigns to increase engagement and conversions. Expect improved ROI on your marketing spend.",
+        "tags": [
+          "Marketing",
+          "Strategy",
+          "Engagement"
+        ]
+      },
+      {
+        "icon": "🔧",
+        "title": "Technology Upgrade",
+        "description": "We will modernize your systems to reduce inefficiencies, cutting operational costs and improving productivity.",
+        "tags": [
+          "Technology",
+          "Efficiency",
+          "Cost Reduction"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Customer Retention Program",
+        "description": "Our strategies will enhance customer loyalty, reducing churn and stabilizing your revenue.",
+        "tags": [
+          "Retention",
+          "Loyalty",
+          "Revenue Stability"
+        ]
+      },
+      {
+        "icon": "🌐",
+        "title": "Brand Revitalization",
+        "description": "We will boost your brand's visibility through strategic positioning, capturing new market segments.",
+        "tags": [
+          "Brand",
+          "Visibility",
+          "Growth"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "30%",
+        "suffix": "",
+        "label": "Increase in Conversion Rates"
+      },
+      {
+        "value": "25%",
+        "suffix": "",
+        "label": "Reduction in Customer Churn"
+      },
+      {
+        "value": "40%",
+        "suffix": "",
+        "label": "Improvement in Brand Recognition"
+      }
+    ],
+    "whyUsIntro": "Innovategroup stands out as the strategic partner Acme Corp needs.",
+    "whyUsCards": [
+      {
+        "icon": "🏆",
+        "title": "Proven Success",
+        "description": "Our track record in transforming businesses speaks for itself with numerous satisfied clients."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Approach",
+        "description": "We prioritize your goals, ensuring our strategies align with your vision for success."
+      },
+      {
+        "icon": "🚀",
+        "title": "Innovative Solutions",
+        "description": "Our team is dedicated to bringing cutting-edge solutions that drive tangible results."
+      },
+      {
+        "icon": "📊",
+        "title": "Data-Driven Decisions",
+        "description": "We leverage data to inform our strategies, ensuring optimal outcomes for your business."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "50+",
+        "suffix": "Clients",
+        "label": "Satisfied Clients"
+      },
+      {
+        "value": "100%",
+        "suffix": "Success Rate",
+        "label": "Project Completion"
+      },
+      {
+        "value": "15",
+        "suffix": "Years",
+        "label": "Industry Experience"
+      },
+      {
+        "value": "200%",
+        "suffix": "Growth",
+        "label": "Average Client Growth"
+      }
+    ],
+    "teamIntro": "Our team is committed to guiding Acme Corp to success.",
+    "team": {
+      "initials": "tC",
+      "name": "there ",
+      "role": "Executive Director",
+      "titleNote": "",
+      "bio": "As Executive Director, I lead our strategic initiatives and nurture client relationships to ensure success.",
+      "linkedin": "",
+      "phone": ""
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Planning",
+        "badge": "Weeks 1 to 3",
+        "description": "We assess your current challenges and outline a strategic plan.",
+        "bullets": [
+          "Initial consultations",
+          "Market analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Implementation",
+        "badge": "Weeks 4 to 8",
+        "description": "Our team executes the plan with precision and agility.",
+        "bullets": [
+          "Deploy new strategies",
+          "Optimize systems"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Monitoring & Adjustment",
+        "badge": "Weeks 9 to 12",
+        "description": "We track performance and make necessary adjustments.",
+        "bullets": [
+          "Performance analytics",
+          "Strategy refinement"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Scaling",
+        "badge": "Weeks 13 to 16",
+        "description": "We review outcomes and discuss scaling opportunities.",
+        "bullets": [
+          "Outcome evaluation",
+          "Growth planning"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the best investment option for your growth.",
+    "pricing": [
+      {
+        "name": "Starter Package",
+        "subtitle": "",
+        "description": "Ideal for small businesses looking to make a big impact.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic strategy implementation",
+          "Monthly reporting"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Recommended for businesses aiming for significant growth.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Comprehensive strategy",
+          "Bi-weekly reporting"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Package",
+        "subtitle": "",
+        "description": "For large enterprises ready to dominate their market.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full-scale strategy",
+          "Weekly reporting"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Acme Corp?",
+    "ctaDescription": "Let's start a conversation about how we can drive your success.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "alex@innovategroup.io",
+    "ctaNote": "",
+    "footerText": "© 2025 Innovategroup",
+    "footerSub": "Driving Growth Through Innovation"
+  },
+  "enriched": {
+    "tone": "professional",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "email": "alex@innovategroup.io",
+    "first_name": "there",
+    "last_name": "",
+    "company_name": "Innovategroup",
+    "company_website": "https://innovategroup.io",
+    "company_domain": "innovategroup.io",
+    "industry": "",
+    "personalization": "",
+    "painStatement": "",
+    "proposal_id": "innovategroup"
+  }
+}
