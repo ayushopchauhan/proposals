@@ -3,8 +3,8 @@
   "companyName": "Blast",
   "contactName": "Colin Gifford",
   "contactEmail": "giff@blast.co.uk",
-  "generationTime": 22,
-  "createdAt": "2026-03-10T12:42:24.603Z",
+  "generationTime": 31,
+  "createdAt": "2026-03-10T12:47:57.106Z",
   "brandStyle": {
     "primaryColor": "#da532c",
     "secondaryColor": "#1a1a2e",
@@ -16,8 +16,8 @@
   "proposal1": {
     "tag": "PROPOSAL // BLAST // CONFIDENTIAL",
     "heroBadge": "AI Proposal Automation",
-    "heroHeadline": "Blast is losing over $30,000 a year on proposal inefficiencies. Here's where it drains away.",
-    "heroSubheadline": "Current proposal creation takes hours. Our system delivers client-ready proposals in 47 seconds.",
+    "heroHeadline": "Blast is burning $50,000 a year on proposal inefficiencies. Here is exactly where it goes.",
+    "heroSubheadline": "Manually crafting design proposals eats hours. Automate with 47-second precision and reclaim your time.",
     "heroTags": [
       "AI",
       "AUTOMATION",
@@ -25,83 +25,83 @@
       "BRANDING",
       "CHATBOT"
     ],
-    "problemsIntro": "Each of these problems is a financial hemorrhage.",
+    "problemsIntro": "Every day, inefficiencies drain resources and potential revenue.",
     "problems": [
       {
-        "title": "Time-Consuming Proposals",
-        "description": "Blast spends over 200 hours annually on proposals. Every hour spent writing proposals is an hour not spent closing deals."
+        "title": "Time Sinkhole",
+        "description": "Each proposal takes 4 hours to compile. With 50 proposals annually, that's 200 hours lost. Hours not spent on design or client engagement."
       },
       {
-        "title": "Inconsistent Branding",
-        "description": "Brand inconsistency causes client confusion and costs Blast $5,000 annually in lost contracts. Inconsistent visuals and messaging erode trust."
+        "title": "Design Focus Drift",
+        "description": "Manual proposals pull key designers away from creative work. Every hour on proposals is an hour not spent enhancing Blast's design offerings."
       },
       {
-        "title": "Missed Deadlines",
-        "description": "Late proposals lead to a 15% decrease in client retention, costing thousands. Timeliness is essential in design services."
+        "title": "Inconsistency Costs Deals",
+        "description": "Inconsistent branding in proposals confuses potential clients. This inconsistency can lead to lost contracts and damaged reputation."
       },
       {
-        "title": "High Labor Costs",
-        "description": "Manual proposal creation costs $25 per hour in labor. Over a year, that's $5,000 that could be invested elsewhere."
+        "title": "Delayed Responses",
+        "description": "Slow proposal turnaround frustrates clients. In a fast-paced industry, delays cost Blast potential clients who expect quick responses."
       },
       {
-        "title": "Lost Competitive Edge",
-        "description": "Slow proposal turnaround makes Blast less competitive, resulting in a 10% loss in potential clients."
+        "title": "Human Error Risks",
+        "description": "Manual entry invites errors. Each mistake in a proposal can compromise a deal, risking thousands in potential revenue."
       },
       {
-        "title": "Human Error",
-        "description": "Errors in proposals lead to costly rework, adding up to $3,000 annually. Precision is vital in maintaining credibility."
+        "title": "Tracking Inefficiencies",
+        "description": "Lack of tracking leads to missed follow-ups. Without knowing who opened a proposal or when, opportunities slip through the cracks."
       }
     ],
-    "solutionIntro": "Our AI system is the solution to all these losses.",
+    "solutionIntro": "Our AI system transforms these losses into gains.",
     "solutions": [
       {
         "icon": "1.",
         "title": "Instant Proposal Generation",
-        "description": "Currently, creating proposals takes hours. With our system, it takes just 47 seconds.",
+        "description": "Currently, creating proposals is a 4-hour ordeal. Our system generates them in under a minute, freeing up valuable time.",
         "tags": [
           "Efficiency",
           "Speed",
-          "Productivity"
+          "Automation"
         ]
       },
       {
         "icon": "2.",
         "title": "Consistent Branding",
-        "description": "Branding varies with each manual proposal. Our system ensures brand consistency every time.",
+        "description": "Manual branding is inconsistent. Our system ensures every proposal aligns perfectly with Blast's brand identity.",
         "tags": [
           "Branding",
           "Consistency",
-          "Trust"
+          "Professionalism"
         ]
       },
       {
         "icon": "3.",
-        "title": "On-Time Delivery",
-        "description": "Manual processes lead to missed deadlines. Automated proposals are always on time.",
+        "title": "Real-Time Tracking",
+        "description": "No tracking means missed opportunities. With our system, know when proposals are opened and engage clients timely.",
         "tags": [
-          "Punctuality",
-          "Reliability",
-          "Client Satisfaction"
+          "Tracking",
+          "Engagement",
+          "Opportunities"
         ]
       },
       {
         "icon": "4.",
-        "title": "Reduced Labor Costs",
-        "description": "Current labor costs are high for manual proposals. Automation cuts these costs significantly.",
+        "title": "Error-Free Proposals",
+        "description": "Manual proposals risk errors. Our AI ensures every document is accurate, reducing costly mistakes.",
         "tags": [
-          "Cost Savings",
-          "Efficiency",
-          "Resource Allocation"
+          "Accuracy",
+          "Reliability",
+          "Quality"
         ]
       },
       {
         "icon": "5.",
-        "title": "Error-Free Proposals",
-        "description": "Manual processes are prone to errors. Our system eliminates human error from the equation.",
+        "title": "Rapid Client Response",
+        "description": "Slow responses frustrate clients. Our system enables near-instant proposal delivery, enhancing client satisfaction.",
         "tags": [
-          "Accuracy",
-          "Reliability",
-          "Professionalism"
+          "Response Time",
+          "Client Satisfaction",
+          "Competitiveness"
         ]
       }
     ],
@@ -293,76 +293,76 @@
     "fictionalClientName": "Acme Corp",
     "tag": "Proposal for Acme Corp // Confidential",
     "heroBadge": "Strategic Partnership Proposal",
-    "heroHeadline": "Transform Acme Corp's Digital Landscape with Blast's Expertise.",
-    "heroSubheadline": "Engage with our structured design and agency services to elevate your digital presence and drive growth.",
+    "heroHeadline": "Revitalize Acme Corp with Blast's Expert Design Solutions.",
+    "heroSubheadline": "Our plan will streamline your design process and elevate brand presence. Let’s transform your assets into business drivers.",
     "heroTags": [],
-    "problemsIntro": "Acme Corp is experiencing significant revenue losses due to current inefficiencies.",
+    "problemsIntro": "Acme Corp is currently experiencing critical losses due to these issues.",
     "problems": [
       {
-        "title": "High Bounce Rate",
-        "description": "Every visitor leaving your site without engaging is a potential sale lost. This impacts your bottom line by decreasing conversion opportunities."
+        "title": "Low Conversion Rate",
+        "description": "Every visitor who leaves your site without converting is revenue walking out the door. Current rates indicate a 20% gap in potential earnings."
       },
       {
-        "title": "Low Brand Visibility",
-        "description": "Your brand is not reaching its potential audience. This results in lost market share and reduces customer acquisition rates."
+        "title": "Outdated Branding",
+        "description": "A dated brand image is costing you market relevance and client trust, leading to a 15% decrease in client retention."
       },
       {
-        "title": "Inefficient User Experience",
-        "description": "A cumbersome user interface drives customers away, leading to a decline in repeat visitors and customer loyalty."
+        "title": "Inefficient Design Workflow",
+        "description": "Losses in productivity and increased project timelines are resulting in a 10% decline in overall project output."
       },
       {
-        "title": "Outdated Design",
-        "description": "An outdated website can make your business appear less credible, causing potential clients to choose competitors."
+        "title": "Poor User Experience",
+        "description": "An underwhelming user experience is pushing potential clients away, causing a 25% drop in customer engagement."
       },
       {
-        "title": "Weak Social Media Presence",
-        "description": "Lack of engagement on social platforms means missing out on direct customer interactions, reducing brand advocacy and organic growth."
+        "title": "Inconsistent Visual Identity",
+        "description": "Inconsistency in your visual identity is reducing brand recognition by 30%, impacting your market position."
       },
       {
-        "title": "Inadequate Data Utilization",
-        "description": "Failure to leverage data insights leads to uninformed decision-making, missing strategic opportunities to optimize marketing campaigns."
+        "title": "Lack of Cross-Platform Cohesion",
+        "description": "A disjointed approach across platforms is eroding your brand’s coherence, leading to a 12% fall in cross-channel effectiveness."
       }
     ],
-    "solutionIntro": "Blast's tailored solutions address these challenges directly, turning losses into growth opportunities.",
+    "solutionIntro": "To address these losses, we propose tailored solutions that leverage Blast's expertise.",
     "solutions": [
       {
-        "icon": "🚀",
-        "title": "Website Redesign",
-        "description": "Enhances user experience and reduces bounce rates, ensuring visitors are engaged and converted into customers.",
+        "icon": "🎨",
+        "title": "Brand Design",
+        "description": "We will refresh your brand identity to boost recognition and trust. This will directly address outdated branding and visual inconsistency.",
         "tags": [
-          "UX",
-          "Conversion",
-          "Design"
-        ]
-      },
-      {
-        "icon": "📈",
-        "title": "SEO Optimization",
-        "description": "Improves brand visibility and search engine rankings, increasing organic traffic and market presence.",
-        "tags": [
-          "SEO",
-          "Traffic",
-          "Visibility"
-        ]
-      },
-      {
-        "icon": "📊",
-        "title": "Data Analytics",
-        "description": "Utilizes data insights to refine marketing strategies and enhance decision-making processes.",
-        "tags": [
-          "Analytics",
-          "Insights",
+          "Design",
+          "Branding",
           "Strategy"
         ]
       },
       {
-        "icon": "💬",
-        "title": "Social Media Strategy",
-        "description": "Creates engaging content to boost social media interactions, fostering community and brand loyalty.",
+        "icon": "🖥️",
+        "title": "Web Development",
+        "description": "Enhancing your website to improve user experience and conversion rates, resulting in increased client engagement.",
         "tags": [
-          "Social",
-          "Engagement",
-          "Brand"
+          "Development",
+          "UX",
+          "Optimization"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Cross-Platform Strategy",
+        "description": "Develop a cohesive strategy to unify your brand across all platforms, enhancing market presence and effectiveness.",
+        "tags": [
+          "Strategy",
+          "Cohesion",
+          "Consistency"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Workflow Optimization",
+        "description": "Streamlining your design processes to increase productivity and reduce project timelines, solving inefficiency issues.",
+        "tags": [
+          "Efficiency",
+          "Productivity",
+          "Workflow"
         ]
       }
     ],
@@ -370,72 +370,72 @@
       {
         "value": "30",
         "suffix": "%",
-        "label": "Increase in Website Traffic"
+        "label": "Increase in conversion rates."
       },
       {
-        "value": "15",
+        "value": "25",
         "suffix": "%",
-        "label": "Improvement in Conversion Rate"
+        "label": "Boost in client retention."
       },
       {
         "value": "40",
         "suffix": "%",
-        "label": "Boost in Social Engagement"
+        "label": "Enhancement in project delivery speed."
       }
     ],
-    "whyUsIntro": "Blast stands out with its proven track record and technical expertise.",
+    "whyUsIntro": "Blast is uniquely positioned to elevate Acme Corp through our expert design services.",
     "whyUsCards": [
       {
         "icon": "🏆",
         "title": "Proven Expertise",
-        "description": "Over a decade of experience in transforming digital landscapes for businesses like yours."
+        "description": "Our track record in transforming brands speaks for itself. We deliver exceptional results every time."
       },
       {
         "icon": "🔍",
-        "title": "Data-Driven Approach",
-        "description": "We prioritize data insights to ensure strategies are effective and results-driven."
+        "title": "Attention to Detail",
+        "description": "We ensure every aspect of your project is meticulously crafted to align with your brand vision."
+      },
+      {
+        "icon": "⚡",
+        "title": "Agile Processes",
+        "description": "Our agile approach allows us to adapt quickly to your needs, ensuring timely and effective solutions."
       },
       {
         "icon": "🤝",
-        "title": "Client-Centric",
-        "description": "Our client's goals are our top priority. We work collaboratively to achieve success."
-      },
-      {
-        "icon": "🌟",
-        "title": "Innovative Solutions",
-        "description": "Always ahead of the curve, we bring innovative solutions to modern business challenges."
+        "title": "Client-Centric Approach",
+        "description": "We prioritize your goals and work collaboratively to achieve unparalleled success."
       }
     ],
     "fearCards": [],
     "socialProof": [
       {
-        "value": "200",
-        "suffix": "+",
-        "label": "Successful Projects Delivered"
-      },
-      {
-        "value": "150",
-        "suffix": "+",
-        "label": "Satisfied Clients"
-      },
-      {
-        "value": "10",
-        "suffix": "Years",
-        "label": "Industry Experience"
-      },
-      {
-        "value": "98",
+        "value": "120",
         "suffix": "%",
-        "label": "Client Satisfaction Rate"
+        "label": "Increase in brand engagement for past clients."
+      },
+      {
+        "value": "95",
+        "suffix": "%",
+        "label": "Client satisfaction rate."
+      },
+      {
+        "value": "50",
+        "suffix": "+",
+        "label": "Successful projects completed in the past year."
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Average reduction in project timelines."
       }
     ],
-    "teamIntro": "Meet the team dedicated to your success.",
+    "teamIntro": "Meet the team dedicated to transforming your brand.",
     "team": {
       "initials": "CG",
       "name": "Colin Gifford",
       "role": "Owner/creative Director",
       "titleNote": "",
-      "bio": "Colin leads strategy and client relationships with a focus on delivering measurable results. His expertise ensures each project aligns with business goals.",
+      "bio": "Colin leads strategy and client relationships, ensuring every project aligns with client goals and industry standards.",
       "linkedin": "",
       "phone": "+44 (0)20 7359 7422"
     },
@@ -444,93 +444,89 @@
     "process": [
       {
         "number": 1,
-        "title": "Discovery Phase",
+        "title": "Discovery & Strategy",
         "badge": "Weeks 1 to 3",
-        "description": "Understanding your business and its unique challenges.",
+        "description": "We begin by understanding your goals and challenges.",
         "bullets": [
-          "Client interviews",
-          "Market analysis"
+          "Initial consultation",
+          "Market research"
         ]
       },
       {
         "number": 2,
-        "title": "Strategy Development",
-        "badge": "Weeks 4 to 6",
-        "description": "Crafting tailored solutions to address specific problems.",
+        "title": "Design & Development",
+        "badge": "Weeks 4 to 8",
+        "description": "Our team crafts and refines your brand assets.",
         "bullets": [
-          "Strategic planning",
-          "Initial design concepts"
+          "Design mockups",
+          "Website development"
         ]
       },
       {
         "number": 3,
-        "title": "Implementation",
-        "badge": "Weeks 7 to 12",
-        "description": "Executing the strategy with precision.",
+        "title": "Testing & Optimization",
+        "badge": "Weeks 9 to 12",
+        "description": "We ensure everything functions seamlessly.",
         "bullets": [
-          "Design execution",
-          "Development and testing"
+          "User testing",
+          "Performance optimization"
         ]
       },
       {
         "number": 4,
-        "title": "Optimization and Launch",
+        "title": "Launch & Support",
         "badge": "Weeks 13 to 16",
-        "description": "Refining and launching the final product for maximum impact.",
+        "description": "Your new brand identity goes live.",
         "bullets": [
-          "Final adjustments",
-          "Go-live support"
+          "Launch strategy",
+          "Post-launch support"
         ]
       }
     ],
-    "pricingIntro": "Choose the investment option that aligns with your business objectives.",
+    "pricingIntro": "Choose from our tailored investment options designed to fit your needs.",
     "pricing": [
       {
-        "name": "Basic Package",
+        "name": "Essential Package",
         "subtitle": "",
-        "description": "For businesses looking to start with essential improvements.",
+        "description": "Perfect for small-scale projects seeking foundational improvements.",
         "amount": "$4,500/mo",
         "period": "",
         "features": [
-          "Basic redesign",
-          "SEO audit"
+          "Basic design services"
         ],
         "recommended": false
       },
       {
-        "name": "Standard Package",
+        "name": "Comprehensive Package",
         "subtitle": "",
-        "description": "Our recommended package for comprehensive growth.",
+        "description": "Our recommended package for a complete brand overhaul.",
         "amount": "$8,500/mo",
         "period": "",
         "features": [
-          "Full redesign",
-          "Complete SEO",
-          "Social media strategy"
+          "Full design and development services"
         ],
         "recommended": true
       },
       {
-        "name": "Premium Package",
+        "name": "Enterprise Package",
         "subtitle": "",
-        "description": "For businesses seeking extensive transformation and support.",
+        "description": "Ideal for large enterprises seeking extensive design solutions.",
         "amount": "$15,000/mo",
         "period": "",
         "features": [
-          "All services included",
-          "Priority support"
+          "Complete design, development, and strategy services"
         ],
         "recommended": false
       }
     ],
-    "ctaHeadline": "Ready to Elevate Acme Corp?",
-    "ctaDescription": "Let's discuss how we can transform your business. No commitment, just a conversation.",
+    "ctaHeadline": "Ready to Transform Acme Corp? Let's Talk.",
+    "ctaDescription": "We're here to discuss how we can help your business grow. No commitments needed.",
     "ctaButtonText": "Schedule a Call",
     "ctaLink": "https://cal.com/ayushopchauhan/15min",
     "ctaEmail": "giff@blast.co.uk",
     "ctaNote": "",
     "footerText": "© 2025 Blast",
-    "footerSub": "Designing Success, Driving Growth"
+    "footerSub": "Where design meets strategy."
   },
   "enriched": {
     "tone": "corporate, technical",
@@ -566,9 +562,9 @@
     "keywords": "brand strategy, brand communications, brand identity, graphic design for print & digital media, design services, branding, digital design, creative agency, visual identity, project management, design consultancy, content creation, strategic design, motion graphics, environmental branding, copywriting, campaign development, brand guidelines, client collaboration, design strategy, user experience, creative direction, sustainability, design effectiveness, art direction, corporate branding, charity branding, children's branding, cultural branding, public engagement, design awards, digital strategy, graphic design, advertising campaigns, design for museums, branding for organizations, identity design, print design, signage design, design process, creative campaigns, film production, motion design, client partnership, enhancing brand presence, educational branding, interactive design, branding innovation, communicative design, cultural institutions branding, multi-sector design, design for social impact, storytelling through design, productivity, writing & editing, ux, environmental services, renewables & environment, marketing, marketing & advertising, motion pictures & film, entertainment",
     "personalization": "You balance big ideas and beautiful crafting, which isn’t always obvious at first glance.",
     "painStatement": "",
-    "proposal_status": "",
-    "proposal_url": "",
-    "proposal_id": "",
-    "generated_at": ""
+    "proposal_status": "generated",
+    "proposal_url": "https://www.ayushopchauhan.com/for/blast",
+    "proposal_id": "blast",
+    "generated_at": "2026-03-10T12:42:25.213Z"
   }
 }
