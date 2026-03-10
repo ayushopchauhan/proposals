@@ -1,0 +1,553 @@
+{
+  "slug": "cloudstep",
+  "companyName": "Cloudstep",
+  "contactName": "there",
+  "contactEmail": "md@cloudstep.co",
+  "generationTime": 29,
+  "createdAt": "2026-03-10T17:16:09.385Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": ""
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // CLOUDSTEP // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Cloudstep is losing 1,200 hours annually on manual proposal drafting. Here's the breakdown.",
+    "heroSubheadline": "Drafting proposals manually consumes hours. Our system delivers in 47 seconds, tailored to your services.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Every moment spent manually creating proposals is a drain on Cloudstep's resources.",
+    "problems": [
+      {
+        "title": "Time Drain",
+        "description": "Spending 20 hours a week on proposals translates to 1,040 hours a year. That's over a month of lost productivity."
+      },
+      {
+        "title": "Revenue Leakage",
+        "description": "Each missed opportunity due to slow proposal turnaround can cost Cloudstep an average of $5,000 in potential revenue."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Manually crafted proposals risk deviating from Cloudstep's brand. Inconsistencies can lead to a 15% decrease in client trust."
+      },
+      {
+        "title": "Increased Labor Costs",
+        "description": "Paying staff to manually draft proposals at $30/hour results in $36,000 spent annually just on drafting."
+      },
+      {
+        "title": "Lost Deals",
+        "description": "Delayed responses mean lost deals. Each day a proposal is late can decrease the close rate by 10%."
+      },
+      {
+        "title": "Error Prone",
+        "description": "Manual entries lead to errors. Each error can cost $1,000 in corrections and potential loss of client trust."
+      }
+    ],
+    "solutionIntro": "Our AI system solves these issues by automating and optimizing proposal creation.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Rapid Proposal Generation",
+        "description": "Currently, proposals take hours to draft manually. Our system creates them in under 60 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Brand Consistency",
+        "description": "Manual proposals risk off-brand content. Our AI ensures brand alignment every time.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Trust"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Cost Reduction",
+        "description": "Labor costs skyrocket with manual drafting. Automation slashes these costs significantly.",
+        "tags": [
+          "Cost",
+          "Savings",
+          "Efficiency"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Error Minimization",
+        "description": "Manual processes are prone to mistakes. Our system reduces errors through precision automation.",
+        "tags": [
+          "Accuracy",
+          "Reliability",
+          "Trust"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Opportunity Maximization",
+        "description": "Delayed proposals mean missed opportunities. Our system ensures timely delivery to capture every deal.",
+        "tags": [
+          "Opportunity",
+          "Timeliness",
+          "Growth"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Cloudstep's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Cloudstep around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Cloudstep.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's Revenue Through Proven Digital Strategies.",
+    "heroSubheadline": "Partner with Cloudstep for a targeted digital transformation plan that maximizes revenue and engagement.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently experiencing significant revenue losses due to inefficient digital strategies.",
+    "problems": [
+      {
+        "title": "Low Conversion Rates",
+        "description": "Each visitor who leaves without converting represents potential revenue lost. Acme Corp's current conversion rate is 2%, below the industry average of 5%."
+      },
+      {
+        "title": "High Bounce Rate",
+        "description": "A 70% bounce rate results in lost engagement opportunities. This is 20% higher than acceptable benchmarks, costing Acme Corp valuable interactions."
+      },
+      {
+        "title": "Ineffective Social Media",
+        "description": "With a 0.5% engagement rate, Acme Corp is missing out on potential leads. Industry standards suggest a minimum 1.5% rate for effective outreach."
+      },
+      {
+        "title": "Poor SEO Performance",
+        "description": "Ranking below competitors for key terms means missed visibility. Each lower rank position costs Acme Corp an estimated 10% potential traffic."
+      },
+      {
+        "title": "Weak Mobile Experience",
+        "description": "Mobile users account for 60% of traffic, yet they convert 50% less than desktop users due to a suboptimal mobile experience."
+      },
+      {
+        "title": "Underperforming Email Campaigns",
+        "description": "With an open rate of only 10%, Acme Corp is missing out on re-engaging 90% of its existing customer base."
+      }
+    ],
+    "solutionIntro": "Cloudstep's tailored solutions directly address these critical issues, turning losses into growth.",
+    "solutions": [
+      {
+        "icon": "📈",
+        "title": "Conversion Optimization",
+        "description": "Increase conversion rates by refining user journeys and A/B testing. This will directly enhance revenue per visitor.",
+        "tags": [
+          "CONVERSION",
+          "OPTIMIZATION",
+          "REVENUE"
+        ]
+      },
+      {
+        "icon": "🌐",
+        "title": "SEO Enhancement",
+        "description": "Improve search rankings through targeted keyword strategies, driving more organic traffic to Acme Corp's site.",
+        "tags": [
+          "SEO",
+          "TRAFFIC",
+          "VISIBILITY"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Mobile Experience Design",
+        "description": "Revamp mobile interfaces to ensure seamless navigation and engagement, increasing mobile conversion rates.",
+        "tags": [
+          "MOBILE",
+          "DESIGN",
+          "UX"
+        ]
+      },
+      {
+        "icon": "✉️",
+        "title": "Email Campaign Revitalization",
+        "description": "Redesign email strategies to boost open and click-through rates, driving greater engagement and sales.",
+        "tags": [
+          "EMAIL",
+          "ENGAGEMENT",
+          "SALES"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "3",
+        "suffix": "%",
+        "label": "Increase in conversion rate"
+      },
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Reduction in bounce rate"
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Increase in mobile conversions"
+      }
+    ],
+    "whyUsIntro": "Cloudstep is uniquely positioned to elevate Acme Corp with our proven expertise and client-focused approach.",
+    "whyUsCards": [
+      {
+        "icon": "🛠️",
+        "title": "Tailored Solutions",
+        "description": "We craft custom strategies that fit your specific needs, ensuring optimal outcomes."
+      },
+      {
+        "icon": "📊",
+        "title": "Data-Driven Results",
+        "description": "Our decisions are backed by data to guarantee measurable improvements."
+      },
+      {
+        "icon": "🤝",
+        "title": "Collaborative Partnership",
+        "description": "We work closely with your team to ensure alignment and success throughout the project."
+      },
+      {
+        "icon": "🌟",
+        "title": "Proven Track Record",
+        "description": "Our clients consistently see enhanced performance and growth as a result of our strategies."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "500",
+        "suffix": "K",
+        "label": "Monthly increase in client revenue"
+      },
+      {
+        "value": "200",
+        "suffix": "%",
+        "label": "Growth in client social engagement"
+      },
+      {
+        "value": "150",
+        "suffix": "%",
+        "label": "Boost in client organic traffic"
+      },
+      {
+        "value": "95",
+        "suffix": "%",
+        "label": "Client satisfaction rate"
+      }
+    ],
+    "teamIntro": "Meet the team that will be guiding Acme Corp's success.",
+    "team": {
+      "initials": "tC",
+      "name": "there ",
+      "role": "Executive Director",
+      "titleNote": "",
+      "bio": "Leading strategy and client relationships with over 15 years of industry experience. Committed to delivering results and fostering strong partnerships.",
+      "linkedin": "",
+      "phone": ""
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Planning",
+        "badge": "Weeks 1 to 3",
+        "description": "We start by understanding your business, goals, and current challenges.",
+        "bullets": [
+          "Conduct stakeholder interviews",
+          "Analyze current digital performance"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Crafting a tailored strategy based on insights gathered in the discovery phase.",
+        "bullets": [
+          "Identify key performance metrics",
+          "Develop a comprehensive action plan"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 10",
+        "description": "Executing the strategy with precision and ongoing optimization.",
+        "bullets": [
+          "Launch new campaigns",
+          "Monitor and adjust tactics"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Optimize",
+        "badge": "Weeks 11 to 12",
+        "description": "Assessing results and refining strategies for continued success.",
+        "bullets": [
+          "Evaluate performance data",
+          "Optimize for continuous improvement"
+        ]
+      }
+    ],
+    "pricingIntro": "Consider these investment options for Acme Corp's growth.",
+    "pricing": [
+      {
+        "name": "Essential Package",
+        "subtitle": "",
+        "description": "Basic strategy and support for foundational improvements.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Monthly reporting",
+          "Basic conversion optimization"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Comprehensive strategy with a focus on growth and optimization.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Enhanced SEO strategies",
+          "Advanced analytics and insights"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Premium Package",
+        "subtitle": "",
+        "description": "Full-service package for maximum impact and rapid growth.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "All-inclusive services",
+          "Priority support and customization"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Acme Corp?",
+    "ctaDescription": "Let's discuss how we can drive your business forward. No obligation, just a conversation.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "md@cloudstep.co",
+    "ctaNote": "",
+    "footerText": "© 2025 Cloudstep",
+    "footerSub": "Empowering Your Digital Transformation."
+  },
+  "enriched": {
+    "tone": "professional",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "email": "md@cloudstep.co",
+    "first_name": "there",
+    "last_name": "",
+    "company_name": "Cloudstep",
+    "company_website": "https://cloudstep.co",
+    "company_domain": "cloudstep.co",
+    "industry": "",
+    "personalization": "",
+    "painStatement": "",
+    "proposal_id": "cloudstep"
+  }
+}
