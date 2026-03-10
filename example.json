@@ -1,0 +1,554 @@
+{
+  "slug": "example",
+  "companyName": "Example",
+  "contactName": "there",
+  "contactEmail": "test@example.com",
+  "generationTime": 30,
+  "createdAt": "2026-03-10T12:40:58.626Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": ""
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // EXAMPLE // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Example is losing countless hours and potential deals every month on manual proposal generation.",
+    "heroSubheadline": "Currently, creating proposals for their services takes hours. Now, it happens in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Below are the ongoing losses Example faces without automation.",
+    "problems": [
+      {
+        "title": "Wasted Hours",
+        "description": "Example spends over 30 hours monthly on proposal writing. This is time not spent on closing deals or improving client relationships."
+      },
+      {
+        "title": "Delayed Responses",
+        "description": "Every day a proposal is late, Example risks losing client interest. Delays erode trust and can result in lost contracts."
+      },
+      {
+        "title": "Inconsistency",
+        "description": "Manual processes lead to inconsistent branding. Each mistake impacts Example's professional image and reduces client confidence."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Paying staff to draft proposals is costly. Funds are drained on repetitive tasks rather than strategic growth."
+      },
+      {
+        "title": "Reduced Capacity",
+        "description": "Time on proposals limits the number of clients Example can engage. Fewer proposals mean fewer opportunities for revenue."
+      },
+      {
+        "title": "Missed Opportunities",
+        "description": "Without quick turnarounds, potential clients may choose competitors. Each missed opportunity is lost revenue."
+      }
+    ],
+    "solutionIntro": "Our AI system replaces all these inefficiencies.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposals",
+        "description": "Currently, proposals take hours to draft. With our system, they are ready in under 60 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Productivity"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Manual efforts lead to branding errors. Our system ensures every proposal is perfectly branded.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Cost Savings",
+        "description": "High labor costs for proposal writing drain resources. Our solution cuts these costs significantly.",
+        "tags": [
+          "Savings",
+          "Cost-effective",
+          "Resource Allocation"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Increased Engagement",
+        "description": "Limited proposal capacity reduces engagement. Automated proposals allow Example to reach more clients.",
+        "tags": [
+          "Growth",
+          "Engagement",
+          "Opportunity"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Real-time Tracking",
+        "description": "Currently, Example lacks insight into proposal reception. Our system provides real-time tracking for better follow-ups.",
+        "tags": [
+          "Insight",
+          "Analytics",
+          "Follow-up"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Example's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Example around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Example.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Elevate Acme Corp's Digital Presence with Example's Expertise.",
+    "heroSubheadline": "Our comprehensive approach will enhance your online footprint and drive measurable results.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently experiencing losses due to various operational inefficiencies.",
+    "problems": [
+      {
+        "title": "Underperforming Website",
+        "description": "Every visitor who leaves your site without converting is revenue walking out the door. Current bounce rates indicate a significant loss of potential leads."
+      },
+      {
+        "title": "Ineffective Social Media",
+        "description": "Your social media channels aren't generating engagement, resulting in lost brand visibility and customer acquisition opportunities."
+      },
+      {
+        "title": "Poor SEO Ranking",
+        "description": "Low search engine rankings mean your competition is capturing potential clients, causing a direct loss in market share."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Brand inconsistency across platforms leads to customer confusion, which can result in lost loyalty and sales."
+      },
+      {
+        "title": "Outdated Content Strategy",
+        "description": "Your current content fails to convert due to lack of engagement, leading to a loss in customer retention and authority."
+      },
+      {
+        "title": "Limited Market Analysis",
+        "description": "Without comprehensive market insights, strategic decisions may lead to missed opportunities and revenue loss."
+      }
+    ],
+    "solutionIntro": "Our solutions are designed to address these losses and enhance Acme Corp's market position.",
+    "solutions": [
+      {
+        "icon": "💻",
+        "title": "Website Development",
+        "description": "Revamp your website to increase user engagement and conversion rates. This will capture potential revenue currently being lost.",
+        "tags": [
+          "Development",
+          "User Experience",
+          "Conversion"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "SEO Optimization",
+        "description": "Improve search rankings to ensure your brand captures market share from competitors. This directly addresses lost visibility.",
+        "tags": [
+          "SEO",
+          "Visibility",
+          "Ranking"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Social Media Management",
+        "description": "Enhance social media presence to boost engagement and brand recognition, recovering lost opportunities for customer acquisition.",
+        "tags": [
+          "Engagement",
+          "Branding",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "📝",
+        "title": "Content Strategy",
+        "description": "Develop a robust content strategy to increase engagement and authority, transforming your current content losses into gains.",
+        "tags": [
+          "Content",
+          "Strategy",
+          "Retention"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Increase in website conversions."
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Boost in social media engagement."
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Improvement in SEO rankings."
+      }
+    ],
+    "whyUsIntro": "Example is positioned to drive Acme Corp's success with proven expertise.",
+    "whyUsCards": [
+      {
+        "icon": "🏆",
+        "title": "Proven Track Record",
+        "description": "Our history of successful projects speaks for itself. We consistently deliver results that exceed expectations."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Approach",
+        "description": "We prioritize your goals and tailor our strategies to ensure you achieve them efficiently."
+      },
+      {
+        "icon": "💡",
+        "title": "Innovative Solutions",
+        "description": "We bring fresh, creative ideas to the table, ensuring your brand stands out in the market."
+      },
+      {
+        "icon": "📊",
+        "title": "Data-Driven Strategies",
+        "description": "Our decisions are based on in-depth analysis and real-time data to optimize your ROI."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "300",
+        "suffix": "%",
+        "label": "Average increase in client engagement."
+      },
+      {
+        "value": "95",
+        "suffix": "%",
+        "label": "Client retention rate."
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Improvement in brand visibility."
+      },
+      {
+        "value": "200",
+        "suffix": "%",
+        "label": "Growth in online conversions."
+      }
+    ],
+    "teamIntro": "Our team is dedicated to your success.",
+    "team": {
+      "initials": "tC",
+      "name": "there ",
+      "role": "Executive Director",
+      "titleNote": "",
+      "bio": "As the Executive Director, I lead strategic initiatives and foster strong client relationships to ensure successful outcomes.",
+      "linkedin": "",
+      "phone": ""
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Planning",
+        "badge": "Weeks 1 to 3",
+        "description": "We begin by understanding your business needs and setting clear objectives.",
+        "bullets": [
+          "Conduct market analysis",
+          "Define project scope"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Design & Development",
+        "badge": "Weeks 4 to 7",
+        "description": "Our team designs and develops tailored solutions to meet your goals.",
+        "bullets": [
+          "Create design prototypes",
+          "Develop website and content"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 8 to 11",
+        "description": "We implement strategies and monitor their performance closely.",
+        "bullets": [
+          "Launch campaigns",
+          "Monitor initial results"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Optimization & Review",
+        "badge": "Weeks 12 to 16",
+        "description": "We refine strategies based on data and feedback to enhance results.",
+        "bullets": [
+          "Analyze performance metrics",
+          "Optimize ongoing strategies"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment option that aligns with your business goals.",
+    "pricing": [
+      {
+        "name": "Basic Plan",
+        "subtitle": "",
+        "description": "Ideal for small businesses looking to improve their online presence.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Website development",
+          "Basic SEO"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Plan",
+        "subtitle": "",
+        "description": "Recommended for businesses aiming to expand their market reach.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Website development",
+          "Advanced SEO",
+          "Social media management"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Plan",
+        "subtitle": "",
+        "description": "Comprehensive package for businesses seeking full-scale transformation.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "All-inclusive services",
+          "Priority support"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Your Business?",
+    "ctaDescription": "Let's discuss how we can help you achieve your goals. No strings attached.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "test@example.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Example",
+    "footerSub": "Your Success is Our Business."
+  },
+  "enriched": {
+    "tone": "professional",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "email": "test@example.com",
+    "first_name": "there",
+    "last_name": "",
+    "company_name": "Example",
+    "company_website": "https://example.com",
+    "company_domain": "example.com",
+    "industry": "",
+    "personalization": "",
+    "painStatement": "",
+    "proposal_id": "example"
+  }
+}
