@@ -1,0 +1,553 @@
+{
+  "slug": "clearviewagency",
+  "companyName": "Clearviewagency",
+  "contactName": "there",
+  "contactEmail": "mark.v7test@clearviewagency.com",
+  "generationTime": 22,
+  "createdAt": "2026-03-10T16:35:58.511Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": "https://clearviewagency.com/images/header_copy.jpg"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // CLEARVIEWAGENCY // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Clearviewagency is losing over 100 hours a year on manual proposal writing. Here's the breakdown.",
+    "heroSubheadline": "Currently, proposals are manual and slow. With our system, generate them in just 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Below are specific ways Clearviewagency is bleeding resources without this system.",
+    "problems": [
+      {
+        "title": "Time Draining",
+        "description": "Each proposal takes an average of 3 hours to craft manually. That's 150 hours a year not spent finding Mansfield, Ohio homes."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Manual efforts lead to inconsistent branding. This inconsistency costs potential clients' confidence and trust, impacting your bottom line."
+      },
+      {
+        "title": "Missed Opportunities",
+        "description": "Every delay in proposal delivery risks losing a deal. A single lost client could mean $10,000 in lost revenue."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Paying staff to write proposals manually costs approximately $8,000 annually. This is money that could be reinvested into marketing or client acquisition."
+      },
+      {
+        "title": "Stress and Burnout",
+        "description": "Repetitive proposal writing leads to employee burnout, reducing productivity. This results in a 20% decrease in effective working hours."
+      },
+      {
+        "title": "Reduced Focus on Clients",
+        "description": "Every hour on proposals is an hour not spent nurturing client relationships. This lack of focus could lead to a 15% drop in client retention."
+      }
+    ],
+    "solutionIntro": "Our AI system transforms the entire proposal process.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals take hours to write. Our system produces them in under 60 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Time Saving"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Manual branding varies with each proposal. Our AI ensures every proposal aligns perfectly with your brand.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Trust"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Automated Client Insights",
+        "description": "Without data, proposals lack personalization. Our system analyzes client websites for tailored insights.",
+        "tags": [
+          "Insight",
+          "Personalization",
+          "Client Focus"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Cost Reduction",
+        "description": "Proposal writing labor costs are high. Our system cuts those costs by over 50%.",
+        "tags": [
+          "Cost Efficiency",
+          "Savings",
+          "Profit"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Enhanced Focus",
+        "description": "Time spent on proposals detracts from client care. Our system frees up time for valuable client interactions.",
+        "tags": [
+          "Focus",
+          "Client Care",
+          "Productivity"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Clearviewagency's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Clearviewagency around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Clearviewagency.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Unleash Acme Corp's Potential with Clearviewagency's Winning Strategies.",
+    "heroSubheadline": "Together, we'll transform your digital presence into a powerhouse that captures and converts. Let's get the world talking about Acme Corp.",
+    "heroTags": [],
+    "problemsIntro": "Every missed opportunity is a potential customer slipping through the cracks.",
+    "problems": [
+      {
+        "title": "Low Website Traffic",
+        "description": "Acme Corp is losing visibility in the crowded online marketplace. With traffic numbers down 30% from last year, your brand's reach is decreasing rapidly."
+      },
+      {
+        "title": "High Bounce Rate",
+        "description": "Visitors leave too quickly. A 60% bounce rate means more than half of potential customers aren't engaging with your content, leading to revenue loss."
+      },
+      {
+        "title": "Poor Conversion Rates",
+        "description": "Current conversion rates are at a mere 1.5%. This is below the industry average, translating into significant revenue walking away."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Without a cohesive brand story, Acme Corp's identity gets lost. This inconsistency results in a 25% drop in brand recall among potential clients."
+      },
+      {
+        "title": "Outdated SEO Strategy",
+        "description": "You're not ranking for critical keywords. Missing out on 40% of potential organic traffic due to outdated SEO practices."
+      },
+      {
+        "title": "Ineffective Social Media",
+        "description": "Engagement on social platforms is below 2%, far from the industry benchmark. This means missing out on countless interactions with potential customers."
+      }
+    ],
+    "solutionIntro": "Let's turn these losses into wins with our tailored solutions.",
+    "solutions": [
+      {
+        "icon": "🚀",
+        "title": "Web Development",
+        "description": "Revamp your website to increase traffic and engagement. Our development team will ensure a seamless and appealing user experience.",
+        "tags": [
+          "Design",
+          "SEO",
+          "UX"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "SEO Optimization",
+        "description": "Enhance your search visibility by updating your SEO strategies. We'll get you ranking higher and seen by the right audience.",
+        "tags": [
+          "SEO",
+          "Traffic",
+          "Visibility"
+        ]
+      },
+      {
+        "icon": "🎨",
+        "title": "Branding Services",
+        "description": "Craft a consistent and compelling brand story. Our team will ensure Acme Corp stands out and resonates with your audience.",
+        "tags": [
+          "Branding",
+          "Identity",
+          "Recognition"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Social Media Management",
+        "description": "Boost your presence on social platforms. We will increase engagement and turn followers into loyal customers.",
+        "tags": [
+          "Social Media",
+          "Engagement",
+          "Growth"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Increase in traffic"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Improvement in conversion rate"
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Increase in social engagement"
+      }
+    ],
+    "whyUsIntro": "Clearviewagency is your partner in creating memorable brand experiences.",
+    "whyUsCards": [
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Approach",
+        "description": "We tailor our strategies to your unique needs, ensuring the best outcomes for Acme Corp."
+      },
+      {
+        "icon": "💡",
+        "title": "Innovative Solutions",
+        "description": "Our team stays ahead of industry trends to provide cutting-edge solutions."
+      },
+      {
+        "icon": "📊",
+        "title": "Proven Track Record",
+        "description": "We've helped numerous clients achieve their goals. You're next on our list of success stories."
+      },
+      {
+        "icon": "🏆",
+        "title": "Award-Winning Team",
+        "description": "Our work has been recognized by industry leaders, setting us apart from the rest."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "200",
+        "suffix": "+",
+        "label": "Successful projects"
+      },
+      {
+        "value": "150",
+        "suffix": "+",
+        "label": "Satisfied clients"
+      },
+      {
+        "value": "95",
+        "suffix": "%",
+        "label": "Client retention rate"
+      },
+      {
+        "value": "10",
+        "suffix": "years",
+        "label": "Industry experience"
+      }
+    ],
+    "teamIntro": "Meet the team that will bring your vision to life.",
+    "team": {
+      "initials": "tC",
+      "name": "there",
+      "role": "Executive Director",
+      "titleNote": "",
+      "bio": "Leading strategy and client relationships, ensuring every project exceeds expectations. Passionate about turning ideas into reality.",
+      "linkedin": "",
+      "phone": ""
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery and Research",
+        "badge": "Weeks 1 to 3",
+        "description": "Understanding your business, market, and goals.",
+        "bullets": [
+          "Client workshops",
+          "Market analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Crafting a tailored plan to meet your objectives.",
+        "bullets": [
+          "Strategic planning",
+          "Goal setting"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Execution",
+        "badge": "Weeks 7 to 12",
+        "description": "Bringing the strategy to life with precision.",
+        "bullets": [
+          "Implementing solutions",
+          "Regular updates"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review and Optimize",
+        "badge": "Weeks 13 to 16",
+        "description": "Analyzing results and optimizing for even better performance.",
+        "bullets": [
+          "Performance review",
+          "Continuous improvement"
+        ]
+      }
+    ],
+    "pricingIntro": "Explore our investment options designed to fit your needs.",
+    "pricing": [
+      {
+        "name": "Basic Package",
+        "subtitle": "",
+        "description": "Ideal for startups and small businesses looking to establish a presence.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic web development",
+          "SEO optimization"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Recommended for businesses ready to expand their reach and impact.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Advanced web development",
+          "Comprehensive branding"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Package",
+        "subtitle": "",
+        "description": "Perfect for established companies aiming for market leadership.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full-service management",
+          "Tailored strategies"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Let's Start Transforming Acme Corp Today.",
+    "ctaDescription": "Ready to take the next step? Let's chat about how we can help.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "mark.v7test@clearviewagency.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Clearviewagency",
+    "footerSub": "Your partner in digital growth."
+  },
+  "enriched": {
+    "tone": "warm, playful",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "email": "mark.v7test@clearviewagency.com",
+    "first_name": "there",
+    "last_name": "",
+    "company_name": "Clearviewagency",
+    "company_website": "https://clearviewagency.com",
+    "company_domain": "clearviewagency.com",
+    "industry": "",
+    "personalization": "",
+    "painStatement": "",
+    "proposal_id": "clearviewagency"
+  }
+}
