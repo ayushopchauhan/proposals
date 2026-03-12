@@ -1,0 +1,552 @@
+{
+  "slug": "greatoutdoorguides",
+  "companyName": "Greatoutdoorguides",
+  "contactName": "there",
+  "contactEmail": "mario tackett <mario.tackett@greatoutdoorguides.com>",
+  "generationTime": 26,
+  "createdAt": "2026-03-12T10:28:29.992Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": ""
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // GREATOUTDOORGUIDES // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Greatoutdoorguides is losing 200 hours annually on manual proposals. Here's why it matters.",
+    "heroSubheadline": "Your guides spend hours crafting proposals manually. With our system, proposals are ready in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Every problem below siphons time and resources from your core guiding services.",
+    "problems": [
+      {
+        "title": "Time-Consuming Drafts",
+        "description": "Each proposal takes 3 hours to draft manually. That's 600 hours a year not spent guiding clients through nature."
+      },
+      {
+        "title": "Lost Opportunities",
+        "description": "Delays in proposal delivery can cost you new clients. Every 24-hour delay risks a lost booking to competitors."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Inconsistent proposal branding causes confusion. It's an estimated $10,000 in lost potential trust and bookings annually."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Staff time spent on proposals costs $15,000 a year. This is money not reinvested in expanding your guiding team."
+      },
+      {
+        "title": "Error-Prone Processes",
+        "description": "Errors in manual proposals lead to corrections and client distrust. Fixing mistakes leaks $5,000 yearly."
+      },
+      {
+        "title": "Wasted Resources",
+        "description": "Manual tracking of proposals wastes both time and effort. It's an extra 100 hours a year that should be spent outdoors."
+      }
+    ],
+    "solutionIntro": "Our AI system eliminates these inefficiencies, transforming your proposal process entirely.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposals",
+        "description": "Currently, proposals are drafted by hand. Our system generates them in under a minute, saving hours.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Manual proposals risk brand inconsistency. Our system ensures every proposal aligns perfectly with your brand.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Error-Free Documents",
+        "description": "Manual entries lead to errors. Our AI ensures each proposal is error-free, boosting client confidence.",
+        "tags": [
+          "Accuracy",
+          "Reliability",
+          "Trust"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Automated Tracking",
+        "description": "Tracking proposals manually wastes time. Our system tracks everything automatically, providing real-time updates.",
+        "tags": [
+          "Tracking",
+          "Automation",
+          "Insight"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "AI Chatbot Integration",
+        "description": "Client queries require manual responses. Our integrated chatbot handles them instantly, improving client interactions.",
+        "tags": [
+          "Communication",
+          "AI",
+          "Client Service"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Greatoutdoorguides's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Greatoutdoorguides around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Greatoutdoorguides.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Unlock Acme Corp's Potential with Expert Guidance from Greatoutdoorguides",
+    "heroSubheadline": "Partner with us for a tailored strategy to enhance your customer engagement and drive growth.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently facing significant losses due to missed opportunities and inefficiencies.",
+    "problems": [
+      {
+        "title": "Low Conversion Rates",
+        "description": "Every visitor who leaves your site without converting is revenue walking out the door. This results in an estimated 30% potential revenue loss monthly."
+      },
+      {
+        "title": "Poor Customer Retention",
+        "description": "Retention rates are dropping, causing an estimated 20% loss in repeat business annually. Loyal customers are crucial for sustainability."
+      },
+      {
+        "title": "Ineffective Marketing",
+        "description": "Current marketing strategies are not reaching the target audience, leading to a 25% underperformance in brand awareness."
+      },
+      {
+        "title": "Operational Inefficiencies",
+        "description": "Inefficiencies in operations are costing Acme Corp around 15% in potential profit annually. Streamlining processes is essential."
+      },
+      {
+        "title": "Subpar Client Engagement",
+        "description": "Missed opportunities in client engagement result in a 10% loss in potential upsells and cross-sells monthly."
+      },
+      {
+        "title": "Lack of Market Adaptation",
+        "description": "Failure to adapt to market trends results in a 22% loss in competitive edge, affecting overall growth."
+      }
+    ],
+    "solutionIntro": "Our comprehensive solutions directly address these losses, turning potential into profit.",
+    "solutions": [
+      {
+        "icon": "🎯",
+        "title": "Targeted Marketing Solutions",
+        "description": "Enhances reach and engagement with precision-targeted campaigns, reducing ineffective spend.",
+        "tags": [
+          "Marketing",
+          "Engagement",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "🔧",
+        "title": "Operational Optimization",
+        "description": "Streamlines processes to improve efficiency and profitability, minimizing wastage.",
+        "tags": [
+          "Efficiency",
+          "Profitability",
+          "Streamlining"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Customer Retention Strategies",
+        "description": "Boosts loyalty and repeat business through personalized engagement plans.",
+        "tags": [
+          "Retention",
+          "Loyalty",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "🔍",
+        "title": "Market Trend Analysis",
+        "description": "Keeps you ahead of trends, ensuring your offerings remain competitive.",
+        "tags": [
+          "Adaptation",
+          "Trends",
+          "Competitive Edge"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Increase in conversion rates"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Improvement in customer retention"
+      },
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Reduction in operational costs"
+      }
+    ],
+    "whyUsIntro": "Greatoutdoorguides stands as the ideal partner for Acme Corp's transformation.",
+    "whyUsCards": [
+      {
+        "icon": "🌟",
+        "title": "Proven Expertise",
+        "description": "Years of experience in guiding businesses to success."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Approach",
+        "description": "We prioritize your unique needs and goals for tailored solutions."
+      },
+      {
+        "icon": "🚀",
+        "title": "Results-Oriented",
+        "description": "Our focus is on delivering measurable outcomes."
+      },
+      {
+        "icon": "📊",
+        "title": "Data-Driven Decisions",
+        "description": "We leverage data to guide strategy for optimal results."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "300",
+        "suffix": "+",
+        "label": "Successful projects"
+      },
+      {
+        "value": "150",
+        "suffix": "+",
+        "label": "Satisfied clients"
+      },
+      {
+        "value": "20",
+        "suffix": "+",
+        "label": "Years in business"
+      },
+      {
+        "value": "95",
+        "suffix": "%",
+        "label": "Client satisfaction rate"
+      }
+    ],
+    "teamIntro": "Our team is dedicated to providing unparalleled service and expertise.",
+    "team": {
+      "initials": "tC",
+      "name": "there ",
+      "role": "Executive Director",
+      "titleNote": "",
+      "bio": "Leading strategy and building strong client relationships is at the core of our success. We ensure every engagement is results-driven.",
+      "linkedin": "",
+      "phone": ""
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery and Planning",
+        "badge": "Weeks 1 to 3",
+        "description": "We dive deep into understanding your business needs.",
+        "bullets": [
+          "Conduct stakeholder interviews",
+          "Perform market analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Crafting a tailored roadmap to address your challenges.",
+        "bullets": [
+          "Draft strategic plan",
+          "Set key performance indicators"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 12",
+        "description": "Executing the strategy with precision and agility.",
+        "bullets": [
+          "Launch marketing campaigns",
+          "Optimize operations"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review and Optimize",
+        "badge": "Weeks 13 to 16",
+        "description": "Assessing results and refining strategies for continued success.",
+        "bullets": [
+          "Analyze outcomes",
+          "Adjust tactics as needed"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose from our investment options tailored to fit your needs.",
+    "pricing": [
+      {
+        "name": "Basic Plan",
+        "subtitle": "",
+        "description": "Essential services to kickstart your growth journey.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic marketing insights"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Plan",
+        "subtitle": "",
+        "description": "Comprehensive strategy for accelerated growth.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Advanced analytics",
+          "Full operational audit"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Plan",
+        "subtitle": "",
+        "description": "All-inclusive services for large-scale transformation.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Dedicated account manager",
+          "Complete market analysis"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Acme Corp's Future?",
+    "ctaDescription": "Let's discuss how we can help you achieve your business goals.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "mario tackett <mario.tackett@greatoutdoorguides.com>",
+    "ctaNote": "",
+    "footerText": "© 2025 Greatoutdoorguides",
+    "footerSub": "Your Partner in Success"
+  },
+  "enriched": {
+    "tone": "professional",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "email": "mario tackett <mario.tackett@greatoutdoorguides.com>",
+    "first_name": "there",
+    "last_name": "",
+    "company_name": "Greatoutdoorguides",
+    "company_website": "https://greatoutdoorguides.com>",
+    "company_domain": "greatoutdoorguides.com>",
+    "industry": "",
+    "personalization": "",
+    "painStatement": "",
+    "proposal_id": "greatoutdoorguides"
+  }
+}
