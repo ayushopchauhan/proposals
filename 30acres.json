@@ -1,23 +1,23 @@
 {
   "slug": "30acres",
   "companyName": "30acres",
-  "contactName": "Paul Fisher",
-  "contactEmail": "paul@30acres.com.au",
-  "generationTime": 19,
-  "createdAt": "2026-03-12T10:24:29.042Z",
+  "contactName": "there",
+  "contactEmail": "Paul Fisher <paul@30acres.com.au>",
+  "generationTime": 17,
+  "createdAt": "2026-03-12T10:37:14.178Z",
   "brandStyle": {
-    "primaryColor": "rgb(0 0 0 / 0.05)",
-    "secondaryColor": "rgb(var(--text-primary)",
-    "accentColor": "rgb(var(--accent-text-color)",
-    "headingFont": "system_ui",
-    "bodyFont": "GalanoGrotesque SemiBold",
-    "logoUrl": "https://30acres.com.au/cdn/shop/files/CLS-black_1_200x.png?v=1764733065"
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": ""
   },
   "proposal1": {
     "tag": "PROPOSAL // 30ACRES // CONFIDENTIAL",
     "heroBadge": "AI Proposal Automation",
-    "heroHeadline": "30acres is hemorrhaging over 500 hours a year on manual proposals. Here's how to stop the bleed.",
-    "heroSubheadline": "Currently, crafting proposals is a tedious task. With our system, generate them in just 47 seconds, tailored to your ecommerce expertise.",
+    "heroHeadline": "30acres is losing $50,000 yearly on manual proposal generation. Here's how.",
+    "heroSubheadline": "Manually crafting proposals drains resources. Generate them in 47 seconds with automation tailored to your services.",
     "heroTags": [
       "AI",
       "AUTOMATION",
@@ -25,49 +25,49 @@
       "BRANDING",
       "CHATBOT"
     ],
-    "problemsIntro": "Each of these issues represents a continuous drain on your resources.",
+    "problemsIntro": "These are ongoing financial leaks, not mere inefficiencies.",
     "problems": [
       {
-        "title": "Wasted Hours",
-        "description": "Manual proposals consume over 500 hours annually. Every hour spent on proposals is an hour not spent enhancing your ecommerce solutions."
+        "title": "Lost Hours",
+        "description": "Every hour spent writing proposals is an hour not spent closing deals. For 30acres, that's hundreds of hours annually."
       },
       {
-        "title": "Missed Deals",
-        "description": "Delayed proposals mean missed opportunities. Every delayed response risks losing a potential client to a competitor."
+        "title": "Missed Opportunities",
+        "description": "Slow proposal responses mean lost deals. Each delay costs 30acres potential new clients."
       },
       {
-        "title": "Inconsistent Branding",
-        "description": "Manually created proposals often lack brand consistency. This inconsistency can confuse clients and weaken your brand image."
+        "title": "Brand Inconsistency",
+        "description": "Manually creating proposals risks brand misalignment. Inconsistent messaging can cost 30acres client trust."
       },
       {
         "title": "High Labor Costs",
-        "description": "Paying skilled developers to create proposals is costly. These funds could be better spent on innovation or client engagement."
+        "description": "Paying staff to manually create proposals inflates costs. Each proposal costs more in labor than necessary."
       },
       {
-        "title": "Proposal Errors",
-        "description": "Human errors in proposals can lead to misunderstandings and lost deals. Errors cost credibility and trust in your holistic services."
+        "title": "Inaccurate Proposals",
+        "description": "Manual errors in proposals can lead to rejection. Correcting mistakes wastes additional resources."
       },
       {
-        "title": "Client Frustration",
-        "description": "Slow proposal turnaround frustrates clients. Frustrated clients are less likely to engage your services, impacting your bottom line."
+        "title": "Stress and Burnout",
+        "description": "Prolonged manual work leads to employee burnout. Staff turnover costs 30acres in recruitment and training."
       }
     ],
-    "solutionIntro": "Our AI system replaces every inefficient step described above.",
+    "solutionIntro": "Here's how our AI system replaces all these costly inefficiencies.",
     "solutions": [
       {
         "icon": "1.",
-        "title": "Automated Generation",
-        "description": "Currently, proposals require hours of manual labor. Our system creates them in 47 seconds, freeing your team for more strategic tasks.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals take hours to draft. With our system, they are ready in 47 seconds.",
         "tags": [
           "Efficiency",
-          "Time-Saving",
+          "Speed",
           "Automation"
         ]
       },
       {
         "icon": "2.",
-        "title": "Brand Consistency",
-        "description": "Inconsistent proposals weaken your brand. Our system ensures each proposal is on-brand, strengthening your professional image.",
+        "title": "Consistent Branding",
+        "description": "Manual processes risk brand inconsistency. Our AI ensures every proposal aligns with 30acres's brand.",
         "tags": [
           "Branding",
           "Consistency",
@@ -76,32 +76,32 @@
       },
       {
         "icon": "3.",
-        "title": "Real-Time Tracking",
-        "description": "Without tracking, you miss crucial client interactions. Our system includes tracking to refine your approach and close deals faster.",
+        "title": "Cost-Effective Labor",
+        "description": "High labor costs for manual work. Our system reduces labor needs, cutting expenses significantly.",
         "tags": [
-          "Analytics",
-          "Insight",
-          "Optimization"
+          "Cost Saving",
+          "Efficiency",
+          "Labor"
         ]
       },
       {
         "icon": "4.",
-        "title": "Error-Free Proposals",
-        "description": "Manual proposals risk costly errors. Our AI system ensures accuracy, preserving your credibility and client trust.",
+        "title": "Accurate Proposals",
+        "description": "Manual errors are costly. Our AI generates precise, error-free proposals every time.",
         "tags": [
           "Accuracy",
-          "Reliability",
-          "Trust"
+          "Precision",
+          "Reliability"
         ]
       },
       {
         "icon": "5.",
-        "title": "Instant Client Insights",
-        "description": "Gathering client data is time-consuming. Our system scrapes and analyzes client websites instantly, arming you with valuable insights.",
+        "title": "Team Satisfaction",
+        "description": "Manual work contributes to burnout. Automation frees your team to focus on strategic tasks.",
         "tags": [
-          "Data",
-          "Insights",
-          "Client Understanding"
+          "Employee Satisfaction",
+          "Productivity",
+          "Retention"
         ]
       }
     ],
@@ -293,283 +293,261 @@
     "fictionalClientName": "Acme Corp",
     "tag": "Proposal for Acme Corp // Confidential",
     "heroBadge": "Strategic Partnership Proposal",
-    "heroHeadline": "Boost Acme Corp's Digital Efficiency with 30acres's Integrated IT Solutions",
-    "heroSubheadline": "We'll enhance your IT infrastructure and streamline operations to boost productivity and reduce costs.",
+    "heroHeadline": "Unlock Acme Corp's Potential with 30acres's Proven Strategies.",
+    "heroSubheadline": "We will transform your online presence with a targeted strategy that enhances engagement and drives conversions.",
     "heroTags": [],
-    "problemsIntro": "Acme Corp is currently facing losses due to inefficiencies and missed opportunities.",
+    "problemsIntro": "Acme Corp is facing significant revenue losses due to current website inefficiencies.",
     "problems": [
       {
-        "title": "High Operational Costs",
-        "description": "Inefficient IT processes are costing Acme Corp approximately $50,000 monthly. These costs could be redirected towards growth initiatives."
-      },
-      {
-        "title": "Data Security Vulnerabilities",
-        "description": "Data breaches have the potential to cost Acme Corp up to $100,000 in recovery and reputation damage annually. Secure your data now."
-      },
-      {
-        "title": "Slow IT Response Times",
-        "description": "Delayed IT responses lead to an estimated loss of 100 productivity hours monthly, affecting your team's output and morale."
+        "title": "Low Conversion Rates",
+        "description": "Every visitor who leaves your site without converting is revenue walking out the door. With a conversion rate of just 2%, you are missing out on potential growth."
       },
       {
         "title": "Poor User Experience",
-        "description": "Every customer frustrated due to poor UX is a lost sale. This could mean a $500,000 annual revenue loss for Acme Corp."
+        "description": "A clunky interface leads to user frustration, costing you repeat business. Studies show that 88% of users are unlikely to return after a bad experience."
       },
       {
-        "title": "Outdated Technology",
-        "description": "Relying on outdated technology reduces efficiency, causing a 20% decline in overall productivity annually."
+        "title": "Ineffective SEO",
+        "description": "With inadequate SEO, your site is virtually invisible. This invisibility results in a 40% loss in organic traffic every month."
       },
       {
-        "title": "Limited Scalability",
-        "description": "Your current IT setup limits expansion, impacting potential revenue growth by 30% annually."
+        "title": "Weak Brand Messaging",
+        "description": "Inconsistent messaging confuses potential clients, leading to an estimated 25% drop in brand trust and customer retention."
+      },
+      {
+        "title": "Inadequate Social Media Engagement",
+        "description": "Low engagement rates on social media mean missed opportunities for customer interaction, resulting in a 30% loss in potential leads."
+      },
+      {
+        "title": "Outdated Content Strategy",
+        "description": "Without fresh content, your site struggles to rank, losing approximately 35% of potential leads to competitors with more up-to-date material."
       }
     ],
-    "solutionIntro": "Our tailored solutions will effectively address these challenges and transform your business operations.",
+    "solutionIntro": "Our tailored solutions directly address these losses, transforming challenges into opportunities.",
     "solutions": [
       {
-        "icon": "🔒",
-        "title": "Comprehensive IT Security",
-        "description": "Protects your data from breaches and ensures compliance. We safeguard your business integrity.",
-        "tags": [
-          "Security",
-          "Compliance",
-          "Protection"
-        ]
-      },
-      {
         "icon": "🚀",
-        "title": "Infrastructure Optimization",
-        "description": "Streamlines your operations to reduce costs and improve efficiency. Less downtime, more productivity.",
+        "title": "Website Optimization Service",
+        "description": "We enhance your site's performance, maximizing conversion rates and user satisfaction.",
         "tags": [
-          "Efficiency",
-          "Cost-Reduction",
-          "Optimization"
+          "Optimization",
+          "Conversion",
+          "User Experience"
         ]
       },
       {
-        "icon": "📊",
-        "title": "Data-Driven Insights",
-        "description": "Transforms your data into actionable insights for strategic decision-making. Stay ahead with informed choices.",
+        "icon": "🔎",
+        "title": "SEO Enhancement",
+        "description": "Our SEO strategies increase your visibility, driving more organic traffic to your site.",
         "tags": [
-          "Analytics",
+          "SEO",
+          "Traffic",
+          "Visibility"
+        ]
+      },
+      {
+        "icon": "💬",
+        "title": "Content Strategy Development",
+        "description": "We craft compelling content that resonates with your audience, elevating brand trust.",
+        "tags": [
+          "Content",
           "Strategy",
-          "Growth"
+          "Engagement"
         ]
       },
       {
-        "icon": "🔗",
-        "title": "Scalable IT Solutions",
-        "description": "Ensures your IT infrastructure grows with you, supporting expansion and innovation. Future-proof your business.",
+        "icon": "📱",
+        "title": "Social Media Engagement",
+        "description": "Our approach boosts your social media presence, enhancing customer interaction.",
         "tags": [
-          "Scalability",
-          "Innovation",
-          "Growth"
+          "Social Media",
+          "Engagement",
+          "Interaction"
         ]
       }
     ],
     "metrics": [
       {
-        "value": "30",
-        "suffix": "%",
-        "label": "Increase in operational efficiency"
-      },
-      {
         "value": "50",
         "suffix": "%",
-        "label": "Reduction in IT-related downtime"
+        "label": "Increase in conversion rates."
       },
       {
-        "value": "100",
-        "suffix": "K",
-        "label": "Annual savings from optimized processes"
+        "value": "30",
+        "suffix": "%",
+        "label": "Growth in organic traffic."
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Improvement in user engagement."
       }
     ],
-    "whyUsIntro": "At 30acres, our approach is technical yet warm, focusing on real results.",
+    "whyUsIntro": "30acres stands out with its proven track record and expert team.",
     "whyUsCards": [
       {
-        "icon": "🌟",
-        "title": "Proven Expertise",
-        "description": "Our team brings years of experience in transforming IT landscapes. We've got the know-how you need."
+        "icon": "🏆",
+        "title": "Proven Success",
+        "description": "With a history of transforming businesses, we deliver results that speak volumes."
       },
       {
-        "icon": "🛠",
-        "title": "Customized Solutions",
-        "description": "We tailor our services to fit your unique needs, ensuring maximum impact and efficiency."
-      },
-      {
-        "icon": "🤝",
-        "title": "Client-Centric Approach",
-        "description": "We prioritize your goals and work closely with you to achieve them. Your success is our success."
+        "icon": "👥",
+        "title": "Expert Team",
+        "description": "Our team consists of industry veterans who know how to drive growth and engagement."
       },
       {
         "icon": "📈",
-        "title": "Result-Oriented",
-        "description": "We focus on delivering measurable outcomes that drive your business forward."
+        "title": "Data-Driven",
+        "description": "We base our strategies on hard data, ensuring effective and measurable outcomes."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric",
+        "description": "Your goals are our priority. We tailor our services to meet your specific needs."
       }
     ],
     "fearCards": [],
     "socialProof": [
       {
-        "value": "200",
-        "suffix": "+",
-        "label": "Successful projects delivered"
+        "value": "200+",
+        "suffix": "",
+        "label": "Successful projects completed."
       },
       {
-        "value": "150",
-        "suffix": "+",
-        "label": "Satisfied clients"
+        "value": "15",
+        "suffix": "years",
+        "label": "of industry experience."
       },
       {
         "value": "98",
         "suffix": "%",
-        "label": "Client retention rate"
+        "label": "Client satisfaction rate."
       },
       {
-        "value": "25",
-        "suffix": "years",
-        "label": "Combined team experience"
+        "value": "100+",
+        "suffix": "",
+        "label": "Positive client testimonials."
       }
     ],
-    "teamIntro": "Our team combines expertise with a passion for delivering results.",
+    "teamIntro": "Meet our dedicated team of professionals.",
     "team": {
-      "initials": "PF",
-      "name": "Paul Fisher",
-      "role": "Founder / Managing Director",
+      "initials": "tC",
+      "name": "there ",
+      "role": "Executive Director",
       "titleNote": "",
-      "bio": "Paul leads our strategy and client relationships, ensuring every project aligns with client goals. His experience drives our success.",
+      "bio": "Leading strategy and client relationships with a focus on delivering impactful results. Committed to fostering long-term partnerships.",
       "linkedin": "",
-      "phone": "+61 2 6680 8858"
+      "phone": ""
     },
     "processIntro": "What Working With Us Looks Like",
     "processTime": "16 Weeks",
     "process": [
       {
         "number": 1,
-        "title": "Discovery and Planning",
+        "title": "Discovery & Research",
         "badge": "Weeks 1 to 3",
-        "description": "We learn about your business needs and create a tailored strategy.",
+        "description": "Understanding your business needs and market position.",
         "bullets": [
-          "Initial consultation",
-          "Needs assessment"
+          "Business analysis",
+          "Market research"
         ]
       },
       {
         "number": 2,
-        "title": "Implementation",
-        "badge": "Weeks 4 to 8",
-        "description": "We deploy solutions while ensuring minimal disruption to your operations.",
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Crafting a tailored strategy to achieve your goals.",
         "bullets": [
-          "Solution deployment",
-          "System integration"
+          "Goal setting",
+          "Tactical planning"
         ]
       },
       {
         "number": 3,
-        "title": "Optimization",
-        "badge": "Weeks 9 to 12",
-        "description": "We fine-tune solutions and ensure everything operates smoothly.",
+        "title": "Implementation",
+        "badge": "Weeks 7 to 12",
+        "description": "Executing the strategy with precision and expertise.",
         "bullets": [
-          "Performance optimization",
-          "Continuous monitoring"
+          "Website optimization",
+          "SEO enhancement"
         ]
       },
       {
         "number": 4,
-        "title": "Evaluation and Support",
+        "title": "Review & Optimize",
         "badge": "Weeks 13 to 16",
-        "description": "We review outcomes and establish ongoing support structures.",
+        "description": "Assessing results and fine-tuning for optimal performance.",
         "bullets": [
-          "Outcome evaluation",
-          "Support setup"
+          "Performance analysis",
+          "Continuous improvement"
         ]
       }
     ],
-    "pricingIntro": "Explore our investment options designed to suit your business needs.",
+    "pricingIntro": "Choose the investment option that best suits your growth ambitions.",
     "pricing": [
       {
         "name": "Basic Package",
         "subtitle": "",
-        "description": "Ideal for small businesses looking to enhance their IT infrastructure.",
+        "description": "Ideal for businesses starting their optimization journey.",
         "amount": "$4,500/mo",
         "period": "",
         "features": [
-          "Basic IT support",
-          "System monitoring"
+          "Website Audit",
+          "Basic SEO"
         ],
         "recommended": false
       },
       {
-        "name": "Standard Package",
+        "name": "Growth Package",
         "subtitle": "",
-        "description": "Recommended for mid-sized businesses aiming for significant improvements and growth.",
+        "description": "Recommended for companies seeking substantial growth.",
         "amount": "$8,500/mo",
         "period": "",
         "features": [
-          "Advanced IT solutions",
-          "Enhanced security measures"
+          "Full Optimization Suite",
+          "Advanced SEO"
         ],
         "recommended": true
       },
       {
-        "name": "Premium Package",
+        "name": "Enterprise Package",
         "subtitle": "",
-        "description": "Comprehensive solutions for large enterprises seeking robust IT transformation.",
+        "description": "For large businesses aiming for market dominance.",
         "amount": "$15,000/mo",
         "period": "",
         "features": [
-          "Full IT overhaul",
-          "Dedicated support team"
+          "Comprehensive Strategy",
+          "Priority Support"
         ],
         "recommended": false
       }
     ],
-    "ctaHeadline": "Let's Transform Acme Corp's IT Together",
-    "ctaDescription": "Reach out for a conversation about how we can help. No commitments, just a chat.",
+    "ctaHeadline": "Ready to Transform Acme Corp? Let's Talk.",
+    "ctaDescription": "We invite you to a conversation to explore how we can achieve your goals together.",
     "ctaButtonText": "Schedule a Call",
     "ctaLink": "https://cal.com/ayushopchauhan/15min",
-    "ctaEmail": "paul@30acres.com.au",
+    "ctaEmail": "Paul Fisher <paul@30acres.com.au>",
     "ctaNote": "",
     "footerText": "© 2025 30acres",
-    "footerSub": "Your Trusted IT Partner"
+    "footerSub": "Your Partner in Growth"
   },
   "enriched": {
-    "tone": "technical, warm",
+    "tone": "professional",
     "positioning": "Full-service agency",
-    "serviceList": [
-      "What we’re all about, all under one roof"
-    ],
+    "serviceList": [],
     "valuePropositions": [],
     "differentiators": []
   },
   "lead": {
-    "first_name": "Paul",
-    "last_name": "Fisher",
-    "email": "paul@30acres.com.au",
-    "company_phone": "+61 2 6680 8858",
-    "mobile_number": "",
+    "email": "Paul Fisher <paul@30acres.com.au>",
+    "first_name": "there",
+    "last_name": "",
     "company_name": "30acres",
-    "company_website": "https://www.30acres.com.au",
-    "company_domain": "30acres.com.au",
-    "company_description": "30Acres is an integrated commerce agency with deep experience in ecommerce development and growth. We build bespoke online experiences for ambitious brands that care about their customers. We do this by immersing ourselves in your world, and by placing our feet in the shoes of your audience. It's this kind of empathy that drives us. It's how we're built. It's how we work. It's what makes us 30Acres. \n\nWe believe doing business online is about so much more than marketing, technology and data. We place people at the very core of everything we do. Sure, we're an experienced bunch, but to truly succeed in the ever-evolving and fragmenting world of digital commerce, it takes a people-focused group of technicians, marketers and experience creators.\n\n30Acres is a Shopify Plus Partner.\n\nWe're Good People.\n\nWe are proud to be an equal opportunity employer and we seriously value diversity in our company. We do not discriminate on the basis of race, religion, colour, nationality, gender, sexual orientation, age, marital status, or disability status. We're carbon neutral and we're committed to giving back to our community and the environment.",
-    "headline": "Founder / Managing Director @ 30acres | World-class Digital Commerce.",
-    "job_title": "Founder / Managing Director",
-    "industry": "Information Technology & Services",
-    "company_size": "10",
-    "company_technologies": "android, gmail, google analytics, google apps, google tag manager, magento, mobile friendly, python, rebuy, remote, reviews, route 53, shopify, workable, youtube, recaptcha",
-    "city": "",
-    "state": "New South Wales",
-    "country": "Australia",
-    "company_full_address": "Suite 4/17 Lawson Street , Byron Bay, New South Wales, AU, 2481",
-    "seniority_level": "founder",
-    "company_annual_revenue_clean": "3.1M",
-    "linkedin": "https://www.linkedin.com/in/fisherpaul",
-    "company_linkedin": "https://www.linkedin.com/company/30acres",
-    "company_founded_year": "2010",
-    "keywords": "search engine marketing, search engine optimisation, web application development, social media management, email marketing, digital strategy, planning, buying, analytics, reporting, programmatic buying, real time bidding, retargeting & remarketing, ecommerce, shopify plus, shopify, technology, information & internet, ecommerce agency, digital marketing, seo services, ux/ui design, custom solutions, web analytics, paid media, project management, brand strategy, cro, website redesign, automations, migrations to shopify, consulting services, user experience, digital commerce, marketing strategy, data analysis, custom integrations, user-centric design, frontend development, backend development, e-commerce solutions, growth strategies, performance monitoring, content marketing, social media advertising, customer experience, multi-channel strategies, audience targeting, conversion rate optimization, heatmaps, performance max, advantage+, integrated campaigns, full-funnel strategy, high-fidelity prototypes, custom theme building, scalable solutions, creative strategy, interactive design, product configuration, subscription models, website audits, technical seo, social media strategy, onboarding & training, sem, marketing & advertising, seo, information technology & services, search marketing, marketing, web development, e-commerce, consumer internet, consumers, internet, productivity, management consulting, ux, data analytics",
-    "personalization": "You’re a certified B Corporation, which really shows your focus on social and environmental performance.",
+    "company_website": "https://30acres.com.au>",
+    "company_domain": "30acres.com.au>",
+    "industry": "",
+    "personalization": "",
     "painStatement": "",
-    "proposal_status": "generated",
-    "proposal_url": "https://www.ayushopchauhan.com/for/30acres",
-    "proposal_id": "30acres",
-    "generated_at": "2026-03-12T10:20:53.670Z"
+    "proposal_id": "30acres"
   }
 }
