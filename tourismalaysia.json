@@ -1,0 +1,553 @@
+{
+  "slug": "tourismalaysia",
+  "companyName": "Tourismalaysia",
+  "contactName": "there",
+  "contactEmail": "lyle paris <lyle.paris@tourismalaysia.com>",
+  "generationTime": 19,
+  "createdAt": "2026-03-12T10:24:50.503Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": ""
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // TOURISMALAYSIA // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Tourismalaysia is losing 1,000 hours a year preparing proposals. Here's why it matters.",
+    "heroSubheadline": "Currently, Tourismalaysia spends hours on manual proposal creation. With our system, generate in just 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Each issue below represents a continuous drain on Tourismalaysia's resources.",
+    "problems": [
+      {
+        "title": "Wasted Hours",
+        "description": "Tourismalaysia staff spend over 1,000 hours annually on proposals. That's 1,000 hours not spent building partnerships."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Manual proposal creation costs Tourismalaysia over $50,000 a year in labor. Every dollar spent is a dollar not invested in marketing initiatives."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Brand inconsistency costs Tourismalaysia credibility. Each inconsistent proposal erodes trust with potential partners."
+      },
+      {
+        "title": "Missed Deals",
+        "description": "Slow proposal turnaround leads to lost deals. Every delayed response is a potential partner choosing a competitor."
+      },
+      {
+        "title": "Complex Tracking",
+        "description": "Tracking proposal progress is time-consuming and error-prone. Missteps cost Tourismalaysia vital insights into client engagement."
+      },
+      {
+        "title": "Overlooked Data",
+        "description": "Manual processes mean missed data insights. Tourismalaysia loses critical information that could enhance service offerings."
+      }
+    ],
+    "solutionIntro": "Our AI system replaces these losses with efficient, automated excellence.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Rapid Proposal Generation",
+        "description": "Currently, proposals take hours to draft. Our system completes them in under 60 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Time-Saving"
+        ]
+      },
+      {
+        "icon": "1.",
+        "title": "Consistent Branding",
+        "description": "Manual processes lead to branding errors. Our system ensures every proposal aligns with Tourismalaysia's brand.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "1.",
+        "title": "Cost Effective",
+        "description": "High labor costs drain resources. Our system reduces manual labor, saving money for strategic investments.",
+        "tags": [
+          "Cost-Saving",
+          "Efficiency",
+          "Resource Allocation"
+        ]
+      },
+      {
+        "icon": "1.",
+        "title": "Real-Time Tracking",
+        "description": "Tracking proposals manually is a hassle. Our system offers real-time tracking and insights.",
+        "tags": [
+          "Tracking",
+          "Insights",
+          "Efficiency"
+        ]
+      },
+      {
+        "icon": "1.",
+        "title": "Data-Driven Insights",
+        "description": "Manual data collection misses insights. Our system captures and analyzes data to enhance service offerings.",
+        "tags": [
+          "Data",
+          "Insights",
+          "Strategy"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Tourismalaysia's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Tourismalaysia around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Tourismalaysia.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Elevate Acme Corp's Visibility with Tourismalaysia's Expertise",
+    "heroSubheadline": "We will implement a comprehensive marketing strategy tailored to enhance Acme Corp's global reach and impact.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently facing significant losses due to untapped markets and inefficient marketing strategies.",
+    "problems": [
+      {
+        "title": "Low Brand Awareness",
+        "description": "Every day your brand is not recognized is potential revenue lost. You are missing opportunities to connect with a wider audience."
+      },
+      {
+        "title": "Ineffective Online Presence",
+        "description": "Your current digital footprint results in potential clients leaving without engagement. This is crucial revenue lost daily."
+      },
+      {
+        "title": "Underutilized Social Media",
+        "description": "With each missed post engagement, you lose the chance to convert followers into loyal customers."
+      },
+      {
+        "title": "Limited Market Penetration",
+        "description": "Every unentered market is a direct loss of potential revenue streams and growth opportunities."
+      },
+      {
+        "title": "Weak Customer Retention",
+        "description": "Losing repeat business means losing a significant portion of your potential revenue and customer loyalty."
+      },
+      {
+        "title": "Inefficient Campaigns",
+        "description": "Running campaigns without clear metrics results in wasted budget and missed opportunities for revenue growth."
+      }
+    ],
+    "solutionIntro": "Tourismalaysia offers strategic solutions to address these challenges and turn losses into opportunities.",
+    "solutions": [
+      {
+        "icon": "🌐",
+        "title": "Enhanced Digital Marketing",
+        "description": "Boost your online presence and convert visitors into customers with effective digital strategies.",
+        "tags": [
+          "Digital",
+          "Marketing",
+          "Conversion"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Social Media Management",
+        "description": "Engage and grow your audience through targeted social media campaigns.",
+        "tags": [
+          "Social",
+          "Engagement",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "🛍️",
+        "title": "Market Expansion Strategy",
+        "description": "Enter new markets with a structured plan to maximize your reach and revenue.",
+        "tags": [
+          "Expansion",
+          "Strategy",
+          "Revenue"
+        ]
+      },
+      {
+        "icon": "🔄",
+        "title": "Customer Retention Programs",
+        "description": "Improve customer loyalty and repeat business with customized retention strategies.",
+        "tags": [
+          "Retention",
+          "Loyalty",
+          "Business"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Increase in brand awareness."
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Growth in online engagement."
+      },
+      {
+        "value": "20",
+        "suffix": "%",
+        "label": "Increase in revenue from new markets."
+      }
+    ],
+    "whyUsIntro": "Tourismalaysia stands at the forefront of innovative marketing solutions tailored for your success.",
+    "whyUsCards": [
+      {
+        "icon": "🏆",
+        "title": "Proven Expertise",
+        "description": "Years of experience in elevating brands to new heights."
+      },
+      {
+        "icon": "🤝",
+        "title": "Collaborative Approach",
+        "description": "We work closely with you to ensure strategies align with your goals."
+      },
+      {
+        "icon": "📊",
+        "title": "Data-Driven Decisions",
+        "description": "Our strategies are backed by thorough research and analysis."
+      },
+      {
+        "icon": "🚀",
+        "title": "Innovative Solutions",
+        "description": "We employ cutting-edge techniques to maximize your impact."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "200",
+        "suffix": "+",
+        "label": "Successful campaigns executed."
+      },
+      {
+        "value": "150",
+        "suffix": "+",
+        "label": "Satisfied clients globally."
+      },
+      {
+        "value": "25",
+        "suffix": "years",
+        "label": "Experience in the industry."
+      },
+      {
+        "value": "95",
+        "suffix": "%",
+        "label": "Client retention rate."
+      }
+    ],
+    "teamIntro": "Our seasoned team is dedicated to driving your success.",
+    "team": {
+      "initials": "tC",
+      "name": "there ",
+      "role": "Executive Director",
+      "titleNote": "",
+      "bio": "Leading strategy and client relationships with a focus on generating tangible results. Ensures alignment with client objectives and market trends.",
+      "linkedin": "",
+      "phone": ""
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Strategy",
+        "badge": "Weeks 1 to 3",
+        "description": "We begin by understanding your business and crafting a tailored strategy.",
+        "bullets": [
+          "Business analysis",
+          "Goal setting"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Implementation",
+        "badge": "Weeks 4 to 6",
+        "description": "Executing the strategy with precision and agility.",
+        "bullets": [
+          "Campaign launch",
+          "Content creation"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Optimization",
+        "badge": "Weeks 7 to 9",
+        "description": "Refining tactics based on performance data for optimal results.",
+        "bullets": [
+          "Data analysis",
+          "Strategy adjustment"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Expansion",
+        "badge": "Weeks 10 to 12",
+        "description": "Assessing success and planning for future growth.",
+        "bullets": [
+          "Performance review",
+          "Future planning"
+        ]
+      }
+    ],
+    "pricingIntro": "Explore our investment options designed to deliver substantial returns.",
+    "pricing": [
+      {
+        "name": "Basic Plan",
+        "subtitle": "",
+        "description": "Ideal for startups looking to establish their presence.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Digital strategy",
+          "Basic support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Plan",
+        "subtitle": "",
+        "description": "Recommended for businesses ready to scale their impact.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Comprehensive strategy",
+          "Enhanced support"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Plan",
+        "subtitle": "",
+        "description": "Perfect for established entities aiming for market leadership.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full-service package",
+          "Priority support"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Acme Corp's Future?",
+    "ctaDescription": "Let's discuss how we can tailor our services to meet your needs. No commitment required.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "lyle paris <lyle.paris@tourismalaysia.com>",
+    "ctaNote": "",
+    "footerText": "© 2025 Tourismalaysia",
+    "footerSub": "Innovative Solutions for Global Reach"
+  },
+  "enriched": {
+    "tone": "professional",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "email": "lyle paris <lyle.paris@tourismalaysia.com>",
+    "first_name": "there",
+    "last_name": "",
+    "company_name": "Tourismalaysia",
+    "company_website": "https://tourismalaysia.com>",
+    "company_domain": "tourismalaysia.com>",
+    "industry": "",
+    "personalization": "",
+    "painStatement": "",
+    "proposal_id": "tourismalaysia"
+  }
+}
