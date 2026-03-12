@@ -1,0 +1,553 @@
+{
+  "slug": "growthmapviewer",
+  "companyName": "Growthmapviewer",
+  "contactName": "there",
+  "contactEmail": "Randy Salas <randy.salas@growthmapviewer.info>",
+  "generationTime": 18,
+  "createdAt": "2026-03-12T10:30:15.456Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": ""
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // GROWTHMAPVIEWER // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Growthmapviewer is losing 200 hours a year on proposal writing. Here's the breakdown.",
+    "heroSubheadline": "Currently, crafting proposals is a slow process. Automated generation completes it in 47 seconds, tailored to your services.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Every delay in your current process is a loss that compounds over time.",
+    "problems": [
+      {
+        "title": "Lost Client Engagement",
+        "description": "Every day spent writing proposals is a day your competitors are engaging potential clients. Your slow process bleeds opportunities."
+      },
+      {
+        "title": "Wasted Labor Costs",
+        "description": "Manual proposal creation costs you $15,000 annually in labor. These are funds that could boost other growth areas."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Inconsistent proposal branding leads to a diluted market presence. This inconsistency costs potential trust and recognition."
+      },
+      {
+        "title": "Decreased Productivity",
+        "description": "Employees spend 6 hours per proposal, draining productivity. That's time not spent on strategic tasks."
+      },
+      {
+        "title": "Delayed Revenue",
+        "description": "Proposal delays mean slow deal closures. Every day of delay is potential revenue slipping through the cracks."
+      },
+      {
+        "title": "Client Dissatisfaction",
+        "description": "Clients expect quick responses. Delayed proposals lead to dissatisfaction and lost client trust, impacting future business."
+      }
+    ],
+    "solutionIntro": "Our AI system eliminates all the above inefficiencies.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposals",
+        "description": "Current method takes hours. Our system delivers a polished proposal in 47 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Branding varies with manual processes. With our system, every proposal aligns with your brand identity.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Cost Efficiency",
+        "description": "You're currently overpaying for labor. Our system cuts labor costs, freeing up resources.",
+        "tags": [
+          "Cost Savings",
+          "Resource Allocation",
+          "Efficiency"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Increased Deal Velocity",
+        "description": "Proposal delays slow down deal closures. Our system speeds up the process, closing deals faster.",
+        "tags": [
+          "Speed",
+          "Revenue",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Enhanced Client Experience",
+        "description": "Current delays frustrate clients. Our system ensures fast, efficient communication, improving satisfaction.",
+        "tags": [
+          "Client Satisfaction",
+          "Efficiency",
+          "Trust"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Growthmapviewer's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Growthmapviewer around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Growthmapviewer.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's Growth with Data-Driven Insights",
+    "heroSubheadline": "We propose a comprehensive strategy to enhance your market reach and optimize conversions using Growthmapviewer's expertise.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently facing losses due to missed opportunities in digital engagement.",
+    "problems": [
+      {
+        "title": "Low Website Traffic",
+        "description": "Every day without increased traffic results in potential customers not discovering your brand. This translates to significant revenue losses monthly."
+      },
+      {
+        "title": "Poor Conversion Rates",
+        "description": "Without optimized conversion strategies, each visitor leaving the site without purchasing is lost revenue. This impacts your bottom line directly."
+      },
+      {
+        "title": "Ineffective Social Media",
+        "description": "Lack of engagement on social platforms means missing out on brand visibility. This results in decreased brand authority and customer retention."
+      },
+      {
+        "title": "Underutilized Email Campaigns",
+        "description": "Ineffective email strategies lead to unsubscribers and low open rates. This reduces potential sales by not capitalizing on direct customer communication."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Inconsistent branding across channels can confuse potential clients, leading to a loss of trust and ultimately, a loss of sales."
+      },
+      {
+        "title": "Weak Market Positioning",
+        "description": "Without strong market positioning, competitors can easily attract your potential customers. This results in lost opportunities for market leadership."
+      }
+    ],
+    "solutionIntro": "Our tailored solutions address these issues directly, ensuring tangible growth for Acme Corp.",
+    "solutions": [
+      {
+        "icon": "📈",
+        "title": "SEO Optimization",
+        "description": "Enhance your website's visibility on search engines. This increases organic traffic and potential customer reach.",
+        "tags": [
+          "SEO",
+          "Traffic",
+          "Visibility"
+        ]
+      },
+      {
+        "icon": "💡",
+        "title": "Conversion Rate Optimization",
+        "description": "Improve user experience and conversion strategies. This transforms visitors into customers, boosting sales.",
+        "tags": [
+          "CRO",
+          "Sales",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "📧",
+        "title": "Email Marketing Campaigns",
+        "description": "Develop targeted email campaigns. This increases engagement rates and maximizes direct sales opportunities.",
+        "tags": [
+          "Email",
+          "Engagement",
+          "Sales"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Social Media Strategy",
+        "description": "Craft a cohesive social media plan. This boosts brand presence and customer interaction across platforms.",
+        "tags": [
+          "Social Media",
+          "Branding",
+          "Interaction"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "35",
+        "suffix": "%",
+        "label": "Increase in organic traffic"
+      },
+      {
+        "value": "20",
+        "suffix": "%",
+        "label": "Improvement in conversion rates"
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Growth in social media engagement"
+      }
+    ],
+    "whyUsIntro": "Growthmapviewer stands as the strategic partner you need for transformative growth.",
+    "whyUsCards": [
+      {
+        "icon": "🏆",
+        "title": "Proven Expertise",
+        "description": "Our team has a track record of delivering measurable results for clients across industries."
+      },
+      {
+        "icon": "🔍",
+        "title": "Data-Driven Approach",
+        "description": "We utilize comprehensive data analysis to inform every strategy and decision."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Focus",
+        "description": "We prioritize understanding your unique business challenges to tailor our solutions effectively."
+      },
+      {
+        "icon": "🚀",
+        "title": "Innovative Solutions",
+        "description": "Constant innovation ensures we deliver cutting-edge strategies that keep you ahead of the competition."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "120",
+        "suffix": "+",
+        "label": "Satisfied Clients"
+      },
+      {
+        "value": "300",
+        "suffix": "%",
+        "label": "Average ROI Increase"
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Reduction in Bounce Rate"
+      },
+      {
+        "value": "98",
+        "suffix": "%",
+        "label": "Client Retention Rate"
+      }
+    ],
+    "teamIntro": "Our team is dedicated to providing exceptional service and results.",
+    "team": {
+      "initials": "tC",
+      "name": "there ",
+      "role": "Executive Director",
+      "titleNote": "",
+      "bio": "With years of experience in strategy and client relationships, leading our team to deliver outstanding results.",
+      "linkedin": "",
+      "phone": ""
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Assessment",
+        "badge": "Weeks 1 to 3",
+        "description": "Comprehensive analysis of current challenges and opportunities.",
+        "bullets": [
+          "Stakeholder interviews",
+          "Market analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Crafting a tailored strategy to address identified challenges.",
+        "bullets": [
+          "SEO strategy",
+          "Conversion plan"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 12",
+        "description": "Executing the strategy with precision and agility.",
+        "bullets": [
+          "Campaign launches",
+          "Website optimization"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Monitoring & Optimization",
+        "badge": "Weeks 13 to 16",
+        "description": "Continuous monitoring and refinement to ensure peak performance.",
+        "bullets": [
+          "Performance analytics",
+          "Adjustments as needed"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose from our tailored investment options to ensure optimal growth.",
+    "pricing": [
+      {
+        "name": "Essential Growth",
+        "subtitle": "",
+        "description": "Ideal for businesses starting to expand their digital presence.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic SEO",
+          "Email campaigns"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Advanced Growth",
+        "subtitle": "",
+        "description": "A comprehensive plan for businesses aiming for significant market impact.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Full SEO strategy",
+          "Enhanced email and social media"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Premium Growth",
+        "subtitle": "",
+        "description": "For businesses looking to dominate their industry with cutting-edge strategies.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Complete digital transformation",
+          "Advanced analytics"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Let's Elevate Acme Corp Together",
+    "ctaDescription": "We invite you to a conversation to explore how we can help achieve your goals.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "Randy Salas <randy.salas@growthmapviewer.info>",
+    "ctaNote": "",
+    "footerText": "© 2025 Growthmapviewer",
+    "footerSub": "Transforming businesses with precision and expertise."
+  },
+  "enriched": {
+    "tone": "professional",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "email": "Randy Salas <randy.salas@growthmapviewer.info>",
+    "first_name": "there",
+    "last_name": "",
+    "company_name": "Growthmapviewer",
+    "company_website": "https://growthmapviewer.info>",
+    "company_domain": "growthmapviewer.info>",
+    "industry": "",
+    "personalization": "",
+    "painStatement": "",
+    "proposal_id": "growthmapviewer"
+  }
+}
