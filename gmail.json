@@ -3,8 +3,8 @@
   "companyName": "Gmail",
   "contactName": "there",
   "contactEmail": "ayushopchauhan+test1@gmail.com",
-  "generationTime": 26,
-  "createdAt": "2026-03-12T15:18:50.951Z",
+  "generationTime": 21,
+  "createdAt": "2026-03-12T15:21:17.409Z",
   "brandStyle": {
     "primaryColor": "rgba(233,233,233,0)",
     "secondaryColor": "rgb(233,233,233)",
@@ -16,8 +16,8 @@
   "proposal1": {
     "tag": "PROPOSAL // GMAIL // CONFIDENTIAL",
     "heroBadge": "AI Proposal Automation",
-    "heroHeadline": "Gmail is losing 2,000 hours a year on manual proposal creation. Here's how to stop the bleed.",
-    "heroSubheadline": "Currently, Gmail spends hours crafting each proposal. With our AI system, proposals are ready in 47 seconds.",
+    "heroHeadline": "Gmail is losing 2,000 hours a year on proposal creation. Here's how.",
+    "heroSubheadline": "Currently, crafting proposals is manual and slow. With our system, generate a polished proposal in 47 seconds.",
     "heroTags": [
       "AI",
       "AUTOMATION",
@@ -25,39 +25,39 @@
       "BRANDING",
       "CHATBOT"
     ],
-    "problemsIntro": "These are the ongoing losses that Gmail faces without automation.",
+    "problemsIntro": "These are not just inefficiencies; they are ongoing losses for Gmail.",
     "problems": [
       {
         "title": "Time Drain",
-        "description": "Gmail spends over 2,000 hours annually drafting proposals. Every hour not spent on innovation is a lost opportunity."
+        "description": "Each proposal takes hours to draft. For Gmail, that's thousands of hours not spent on innovation and improvement."
+      },
+      {
+        "title": "Lost Opportunities",
+        "description": "Every hour spent on writing is an hour not spent on closing deals. Gmail misses the chance to onboard more customers."
+      },
+      {
+        "title": "Inconsistency",
+        "description": "Manually created proposals vary in quality. This inconsistency can cost Gmail potential client trust and future revenue."
       },
       {
         "title": "High Labor Costs",
-        "description": "Manual proposal creation costs Gmail an estimated $150,000 per year in salaries. That's capital drained from growth."
+        "description": "Paying skilled employees to draft proposals is not cost-effective. Gmail incurs high expenses that could be reduced."
       },
       {
-        "title": "Missed Opportunities",
-        "description": "Slow proposals mean missed deals. A delay of just one day can cost Gmail potential partnerships worth thousands."
+        "title": "Delayed Responses",
+        "description": "Manual proposal creation delays responses to potential clients. This delay can lead to lost deals and decreased satisfaction."
       },
       {
-        "title": "Inconsistent Branding",
-        "description": "Proposals vary in style and quality, confusing prospects. A cohesive brand message could increase client trust and retention."
-      },
-      {
-        "title": "Error Prone",
-        "description": "Manual processes lead to errors, risking Gmail's reputation. Correcting mistakes drains additional resources."
-      },
-      {
-        "title": "Limited Scalability",
-        "description": "Current processes cap Gmail's ability to scale proposal output. Each proposal requires manual input, limiting growth."
+        "title": "Reputation Risk",
+        "description": "Errors in proposals damage Gmail's reputation. This damage can lead to lost credibility and customer trust."
       }
     ],
-    "solutionIntro": "Our AI system transforms Gmail's proposal creation, eliminating all the above inefficiencies.",
+    "solutionIntro": "Our AI automation system is the solution to replace these losses with efficiency and effectiveness.",
     "solutions": [
       {
         "icon": "1.",
-        "title": "Instant Proposals",
-        "description": "Currently, crafting proposals takes hours of manual effort. Our system delivers complete proposals in under 60 seconds.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals are manually crafted over hours or days. Our system completes them in under a minute, saving time.",
         "tags": [
           "Efficiency",
           "Speed",
@@ -66,42 +66,42 @@
       },
       {
         "icon": "2.",
-        "title": "Cost Reduction",
-        "description": "High labor costs drain resources. Our AI cuts those costs by automating the proposal process.",
+        "title": "Brand Consistency",
+        "description": "Inconsistency plagues manual proposals. Our system ensures every proposal is on-brand, every time.",
         "tags": [
-          "Cost-saving",
-          "Automation",
-          "Efficiency"
+          "Branding",
+          "Consistency",
+          "Quality"
         ]
       },
       {
         "icon": "3.",
-        "title": "Consistent Branding",
-        "description": "Manual proposals lead to inconsistent messages. Our AI ensures every proposal is on-brand and professional.",
+        "title": "Cost Reduction",
+        "description": "High labor costs are a burden. Our system reduces the need for manual labor, cutting unnecessary expenses.",
         "tags": [
-          "Branding",
-          "Consistency",
-          "Professionalism"
+          "Cost-effective",
+          "Savings",
+          "Labor"
         ]
       },
       {
         "icon": "4.",
-        "title": "Error Elimination",
-        "description": "Errors are common in manual processes. Our system reduces errors, protecting Gmail's reputation.",
+        "title": "Faster Client Response",
+        "description": "Currently, delays in proposal creation slow client responses. With our system, respond instantly and close deals faster.",
         "tags": [
-          "Accuracy",
-          "Reputation",
-          "Reliability"
+          "Speed",
+          "Client satisfaction",
+          "Efficiency"
         ]
       },
       {
         "icon": "5.",
-        "title": "Scalable Processes",
-        "description": "Current methods limit output. Our AI scales with Gmail, enabling more proposals with the same resources.",
+        "title": "Error-Free Proposals",
+        "description": "Errors in manual proposals hurt reputation. Our system ensures every proposal is error-free, protecting Gmail's image.",
         "tags": [
-          "Scalability",
-          "Growth",
-          "Efficiency"
+          "Accuracy",
+          "Reliability",
+          "Reputation"
         ]
       }
     ],
@@ -293,76 +293,76 @@
     "fictionalClientName": "Acme Corp",
     "tag": "Proposal for Acme Corp // Confidential",
     "heroBadge": "Strategic Partnership Proposal",
-    "heroHeadline": "Boost Acme Corp's Efficiency with Gmail's Intuitive Solutions",
-    "heroSubheadline": "We propose a strategic plan to transform your communication and collaboration systems using Gmail's innovative services.",
+    "heroHeadline": "Elevate Acme Corp's Communication with Gmail's Efficient Email Solutions.",
+    "heroSubheadline": "Partner with Gmail to streamline your communications, reduce spam, and increase storage efficiency.",
     "heroTags": [],
-    "problemsIntro": "Acme Corp is currently experiencing significant losses due to inefficiencies in communication.",
+    "problemsIntro": "Acme Corp is losing potential due to inefficient communication systems.",
     "problems": [
       {
-        "title": "Communication Delays",
-        "description": "Every minute spent waiting for emails to load or searching through cluttered inboxes is productivity lost. This affects your team's ability to respond quickly to business opportunities."
+        "title": "Inefficient Email Handling",
+        "description": "Every minute spent sorting through spam is productivity lost. Employees waste hours weekly managing unwanted emails."
       },
       {
-        "title": "Storage Limitations",
-        "description": "Running out of storage can cause delays in accessing important emails and attachments. This limits your team's ability to handle large volumes of communication efficiently."
+        "title": "Limited Storage Capacity",
+        "description": "Running out of storage forces you to delete important emails. This loss of data can affect client relations and decision-making."
       },
       {
-        "title": "Spam Overload",
-        "description": "High volumes of spam disrupt daily operations and lead to important emails being missed. This results in potential business opportunities slipping through the cracks."
+        "title": "Email Access Issues",
+        "description": "Employees unable to access emails on-the-go miss critical updates. This can delay project timelines and decision-making."
       },
       {
-        "title": "Mobile Access Issues",
-        "description": "Without seamless mobile access, your team is tethered to their desks. This hampers their ability to work flexibly and respond to urgent matters on the go."
+        "title": "High Security Risks",
+        "description": "Unsecure email systems are a gateway for data breaches. Each breach can cost you millions in recovery and lost trust."
       },
       {
-        "title": "Security Vulnerabilities",
-        "description": "Every security breach risks sensitive data and damages trust with clients. This can lead to financial losses and reputational damage."
+        "title": "Poor User Experience",
+        "description": "Complicated interfaces slow down your team's productivity. Each moment of confusion is a loss in operational efficiency."
       },
       {
-        "title": "Inefficient Collaboration",
-        "description": "Without integrated tools for collaboration, team projects take longer to complete. This delays project delivery and affects client satisfaction."
+        "title": "Lack of Collaboration Tools",
+        "description": "Without integrated tools, collaboration is hampered. Every disjointed workflow is a missed opportunity for synergy."
       }
     ],
-    "solutionIntro": "Our tailored solutions address these challenges directly, enhancing Acme Corp's operational efficiency.",
+    "solutionIntro": "Gmail offers strategic solutions to counter these losses.",
     "solutions": [
       {
         "icon": "📧",
-        "title": "Gmail",
-        "description": "Streamline communication with Gmail’s intuitive interface and advanced search capabilities. This enhances team productivity by reducing time spent on email management.",
+        "title": "Efficient Email Management",
+        "description": "Gmail's advanced filters keep spam at bay, ensuring your team focuses on what matters.",
         "tags": [
           "Email",
-          "Efficiency",
+          "Spam Control",
           "Productivity"
         ]
       },
       {
-        "icon": "📁",
-        "title": "Google Drive",
-        "description": "Securely store and access large files from anywhere with Google Drive. This ensures your team never runs out of space and can work without interruption.",
+        "icon": "💾",
+        "title": "15 GB Storage",
+        "description": "With generous storage, never worry about deleting important emails again. Keep all your communications intact.",
         "tags": [
           "Storage",
+          "Data",
+          "Access"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Mobile Access",
+        "description": "Gmail provides seamless access to emails on any device, keeping your team connected everywhere.",
+        "tags": [
+          "Mobile",
           "Access",
-          "Security"
+          "Connectivity"
         ]
       },
       {
         "icon": "🔒",
-        "title": "Google Workspace Security",
-        "description": "Protect your data with Google Workspace's robust security features. This minimizes risks of data breaches and ensures client trust.",
+        "title": "Secure Infrastructure",
+        "description": "Gmail's security features protect your data, reducing risks and securing your communications.",
         "tags": [
           "Security",
-          "Trust",
-          "Protection"
-        ]
-      },
-      {
-        "icon": "📲",
-        "title": "Gmail Mobile App",
-        "description": "Enable your team to work on the go with the Gmail mobile app. This ensures they can respond to important emails promptly, regardless of location.",
-        "tags": [
-          "Mobile",
-          "Flexibility",
-          "Responsiveness"
+          "Data Protection",
+          "Trust"
         ]
       }
     ],
@@ -370,168 +370,168 @@
       {
         "value": "30",
         "suffix": "%",
-        "label": "Increase in Team Productivity"
+        "label": "Increase in employee productivity."
       },
       {
         "value": "50",
         "suffix": "%",
-        "label": "Reduction in Spam Emails"
+        "label": "Reduction in email-related security incidents."
       },
       {
-        "value": "70",
+        "value": "100",
         "suffix": "%",
-        "label": "Enhancement in Data Security"
+        "label": "Uptime for email access across devices."
       }
     ],
-    "whyUsIntro": "Gmail offers a unique combination of intuitive design and robust functionality.",
+    "whyUsIntro": "Gmail stands out as your partner with efficient email solutions.",
     "whyUsCards": [
       {
-        "icon": "📈",
-        "title": "Proven Results",
-        "description": "We have a track record of enhancing communication efficiency for businesses like yours."
+        "icon": "🌐",
+        "title": "Global Reach",
+        "description": "Gmail supports a vast network, ensuring your communication is always global and reliable."
+      },
+      {
+        "icon": "💼",
+        "title": "Professional Tools",
+        "description": "Our suite includes a range of tools designed to enhance productivity and collaboration."
       },
       {
         "icon": "🔍",
-        "title": "Advanced Technology",
-        "description": "Our tools are designed to provide seamless integration and advanced search capabilities."
+        "title": "Advanced Search",
+        "description": "Find any email in seconds with Gmail's powerful search capabilities."
       },
       {
-        "icon": "🛡️",
-        "title": "Security Focused",
-        "description": "We prioritize security to protect your sensitive information."
-      },
-      {
-        "icon": "🌍",
-        "title": "Global Accessibility",
-        "description": "Our mobile solutions ensure your team can work effectively from anywhere."
+        "icon": "🛠️",
+        "title": "Custom Solutions",
+        "description": "We tailor our offerings to fit Acme Corp's unique communication needs."
       }
     ],
     "fearCards": [],
     "socialProof": [
       {
-        "value": "2000",
-        "suffix": "+",
-        "label": "Businesses Transformed"
+        "value": "1000+",
+        "suffix": "clients",
+        "label": "Served globally."
       },
       {
         "value": "99.9",
         "suffix": "%",
-        "label": "Uptime Guarantee"
+        "label": "Uptime reliability."
       },
       {
-        "value": "15",
-        "suffix": "GB",
-        "label": "Free Storage Provided"
+        "value": "1 million",
+        "suffix": "users",
+        "label": "Trust Gmail daily."
       },
       {
-        "value": "1",
-        "suffix": "Billion",
-        "label": "Users Trust Gmail"
+        "value": "4.8",
+        "suffix": "/5",
+        "label": "Customer satisfaction score."
       }
     ],
-    "teamIntro": "Meet the team dedicated to transforming Acme Corp's communication.",
+    "teamIntro": "Meet your dedicated team at Gmail.",
     "team": {
       "initials": "tC",
-      "name": "there ",
+      "name": "there",
       "role": "Executive Director",
       "titleNote": "",
-      "bio": "Leading strategy and client relationships with a focus on communication efficiency. Overseeing successful email system integrations for businesses worldwide.",
+      "bio": "With years of experience, I lead strategy and client relationships to ensure your success with Gmail.",
       "linkedin": "",
       "phone": ""
     },
     "processIntro": "What Working With Us Looks Like",
-    "processTime": "16 Weeks",
+    "processTime": "12 Weeks",
     "process": [
       {
         "number": 1,
         "title": "Discovery & Planning",
         "badge": "Weeks 1 to 3",
-        "description": "Understanding your current communication challenges.",
+        "description": "Understanding Acme Corp's needs and planning the integration.",
         "bullets": [
-          "Conduct initial assessments",
-          "Define project scope"
+          "Initial consultations",
+          "Requirement gathering"
         ]
       },
       {
         "number": 2,
         "title": "Implementation",
-        "badge": "Weeks 4 to 8",
-        "description": "Deploying Gmail solutions tailored to your needs.",
+        "badge": "Weeks 4 to 6",
+        "description": "Setting up Gmail solutions tailored to your needs.",
         "bullets": [
-          "Set up Gmail accounts",
-          "Integrate Google Drive"
+          "Configuration",
+          "Deployment"
         ]
       },
       {
         "number": 3,
-        "title": "Optimization",
-        "badge": "Weeks 9 to 12",
-        "description": "Ensuring everything runs smoothly and efficiently.",
+        "title": "Training & Support",
+        "badge": "Weeks 7 to 9",
+        "description": "Ensuring your team is comfortable with the new system.",
         "bullets": [
-          "Monitor system performance",
-          "Adjust settings for optimal use"
+          "User training",
+          "Ongoing support"
         ]
       },
       {
         "number": 4,
-        "title": "Training & Support",
-        "badge": "Weeks 13 to 16",
-        "description": "Empowering your team with the tools and knowledge they need.",
+        "title": "Optimization & Review",
+        "badge": "Weeks 10 to 12",
+        "description": "Reviewing outcomes and optimizing performance.",
         "bullets": [
-          "Conduct user training",
-          "Provide ongoing support"
+          "Performance review",
+          "Further enhancements"
         ]
       }
     ],
-    "pricingIntro": "Explore our tailored investment options to fit your business needs.",
+    "pricingIntro": "Choose the investment tier that best suits Acme Corp's needs.",
     "pricing": [
       {
-        "name": "Basic Package",
+        "name": "Basic Plan",
         "subtitle": "",
-        "description": "Ideal for small teams looking to enhance basic communication.",
+        "description": "Ideal for small teams focusing on core email functions.",
         "amount": "$4,500/mo",
         "period": "",
         "features": [
-          "Gmail setup",
-          "Basic security features"
+          "Efficient email management",
+          "Mobile access"
         ],
         "recommended": false
       },
       {
-        "name": "Standard Package",
+        "name": "Professional Plan",
         "subtitle": "",
-        "description": "Recommended for medium-sized teams aiming for comprehensive improvements.",
+        "description": "Recommended for growing teams needing robust features.",
         "amount": "$8,500/mo",
         "period": "",
         "features": [
-          "Gmail setup",
-          "Advanced security",
-          "Google Drive integration"
+          "All basic features",
+          "Enhanced security",
+          "15 GB storage"
         ],
         "recommended": true
       },
       {
-        "name": "Premium Package",
+        "name": "Enterprise Plan",
         "subtitle": "",
-        "description": "Perfect for large enterprises needing full-scale transformation.",
+        "description": "Comprehensive solution for large organizations with advanced needs.",
         "amount": "$15,000/mo",
         "period": "",
         "features": [
-          "Complete Gmail and Drive setup",
-          "Full security suite",
+          "All professional features",
+          "Custom integrations",
           "Priority support"
         ],
         "recommended": false
       }
     ],
-    "ctaHeadline": "Let's Transform Acme Corp's Communication Today",
-    "ctaDescription": "Reach out for a conversation on how we can elevate your business communication.",
+    "ctaHeadline": "Ready to Transform Acme Corp's Communication?",
+    "ctaDescription": "Let's chat about how Gmail can support your business goals. No strings attached.",
     "ctaButtonText": "Schedule a Call",
     "ctaLink": "https://cal.com/ayushopchauhan/15min",
     "ctaEmail": "ayushopchauhan+test1@gmail.com",
     "ctaNote": "",
     "footerText": "© 2025 Gmail",
-    "footerSub": "Email that works for you."
+    "footerSub": "Email that's intuitive and efficient."
   },
   "enriched": {
     "tone": "warm",
