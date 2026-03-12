@@ -1,0 +1,575 @@
+{
+  "slug": "30acres",
+  "companyName": "30acres",
+  "contactName": "Paul Fisher",
+  "contactEmail": "paul@30acres.com.au",
+  "generationTime": 14,
+  "createdAt": "2026-03-12T10:20:52.979Z",
+  "brandStyle": {
+    "primaryColor": "rgb(0 0 0 / 0.05)",
+    "secondaryColor": "rgb(var(--text-primary)",
+    "accentColor": "rgb(var(--accent-text-color)",
+    "headingFont": "system_ui",
+    "bodyFont": "GalanoGrotesque SemiBold",
+    "logoUrl": "https://30acres.com.au/cdn/shop/files/CLS-black_1_200x.png?v=1764733065"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // 30ACRES // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "30acres is burning 150 hours a month on proposals. Here's exactly where it goes.",
+    "heroSubheadline": "Currently, crafting proposals takes hours. With our AI, generate them in just 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Every moment spent on manual proposals is a moment of lost opportunity and revenue.",
+    "problems": [
+      {
+        "title": "Time-Intensive Process",
+        "description": "Crafting each proposal manually steals 15 hours every week. That's time not spent on client engagements and innovation."
+      },
+      {
+        "title": "Lost Revenue",
+        "description": "Delayed proposals mean delayed deals. Each extra day costs potential revenue, impacting your bottom line by up to $5,000 monthly."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Inconsistent branding across proposals dilutes your message. Every inconsistency weakens your position as a top-tier Shopify Plus Partner."
+      },
+      {
+        "title": "Manual Errors",
+        "description": "Human error in proposals can lead to lost deals. Every mistake risks your reputation and costs approximately $2,000 in potential business."
+      },
+      {
+        "title": "Opportunity Cost",
+        "description": "Hours spent on proposals mean fewer hours spent on developing holistic solutions. This oversight costs you innovation and leadership in IT services."
+      },
+      {
+        "title": "Client Frustration",
+        "description": "Slow proposals frustrate clients, risking a $10,000 deal going elsewhere. Keeping clients waiting isn't just inconvenient; it's costly."
+      }
+    ],
+    "solutionIntro": "Our AI automation system replaces all these inefficiencies with precision and speed.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposals",
+        "description": "Currently, you spend hours drafting proposals. Our system delivers complete proposals in under 60 seconds.",
+        "tags": [
+          "Speed",
+          "Efficiency",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Brand Consistency",
+        "description": "Inconsistent branding weakens your message. Our AI ensures every proposal aligns with your brand identity.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Error Reduction",
+        "description": "Manual errors can cost you deals. Our system minimizes human error, protecting your reputation.",
+        "tags": [
+          "Accuracy",
+          "Reliability",
+          "Quality"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Client Satisfaction",
+        "description": "Slow responses frustrate clients. Our AI ensures timely delivery, enhancing client satisfaction.",
+        "tags": [
+          "Client Relations",
+          "Timeliness",
+          "Satisfaction"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Increased Revenue",
+        "description": "Prolonged processes delay revenue. With our system, close deals faster and boost your bottom line.",
+        "tags": [
+          "Revenue",
+          "Profit",
+          "Growth"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for 30acres's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for 30acres around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for 30acres.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's Future with Cutting-Edge IT Solutions",
+    "heroSubheadline": "Let's craft a tailored strategy to enhance your digital infrastructure and maximize efficiency.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently facing significant revenue losses due to inefficiencies.",
+    "problems": [
+      {
+        "title": "Low Conversion Rates",
+        "description": "Every visitor leaving your site without converting is revenue walking out the door. This results in a monthly loss of approximately $10,000."
+      },
+      {
+        "title": "Outdated Technology",
+        "description": "Relying on outdated systems leads to inefficiencies costing your business around 15% more in operational expenses."
+      },
+      {
+        "title": "Inadequate Security",
+        "description": "Security breaches can cost you up to $50,000 per incident in lost data and trust."
+      },
+      {
+        "title": "Poor User Experience",
+        "description": "A clunky user interface drives customers away, resulting in a 20% loss of potential repeat business."
+      },
+      {
+        "title": "Inefficient Processes",
+        "description": "Manual processes consume valuable staff time, leading to productivity losses worth up to $5,000 monthly."
+      },
+      {
+        "title": "Limited Data Insights",
+        "description": "Lack of data-driven decision-making causes missed opportunities, impacting revenue growth by up to 10% annually."
+      }
+    ],
+    "solutionIntro": "Our solutions directly address these losses, turning them into growth opportunities.",
+    "solutions": [
+      {
+        "icon": "🔒",
+        "title": "Comprehensive Security Solutions",
+        "description": "Protect your data and customer trust with our top-notch security services.",
+        "tags": [
+          "Security",
+          "Data Protection",
+          "Trust"
+        ]
+      },
+      {
+        "icon": "⚙️",
+        "title": "Process Automation",
+        "description": "Streamline operations and increase productivity with our advanced automation tools.",
+        "tags": [
+          "Efficiency",
+          "Productivity",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "💻",
+        "title": "Modern IT Infrastructure",
+        "description": "Upgrade your systems to the latest technology to reduce costs and improve performance.",
+        "tags": [
+          "Infrastructure",
+          "Technology",
+          "Cost Reduction"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Data Analytics",
+        "description": "Unlock insights and drive growth with our cutting-edge data analytics services.",
+        "tags": [
+          "Insights",
+          "Growth",
+          "Analytics"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Increase in Conversion Rate"
+      },
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Reduction in Operational Costs"
+      },
+      {
+        "value": "15",
+        "suffix": "%",
+        "label": "Boost in Customer Retention"
+      }
+    ],
+    "whyUsIntro": "Choose 30acres for expertise with a personal touch.",
+    "whyUsCards": [
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Approach",
+        "description": "We prioritize your needs and tailor our services to deliver the best outcomes."
+      },
+      {
+        "icon": "🏆",
+        "title": "Proven Expertise",
+        "description": "Our team has a track record of success in transforming businesses through technology."
+      },
+      {
+        "icon": "💬",
+        "title": "Transparent Communication",
+        "description": "Expect clear and open communication every step of the way."
+      },
+      {
+        "icon": "🌏",
+        "title": "Local and Global Insights",
+        "description": "We bring a unique blend of local knowledge and global perspectives."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "50+",
+        "suffix": "",
+        "label": "Satisfied Clients"
+      },
+      {
+        "value": "100%",
+        "suffix": "",
+        "label": "Client Satisfaction Rate"
+      },
+      {
+        "value": "20",
+        "suffix": "years",
+        "label": "Industry Experience"
+      },
+      {
+        "value": "5",
+        "suffix": "stars",
+        "label": "Average Review Rating"
+      }
+    ],
+    "teamIntro": "Meet the team leading our strategic initiatives.",
+    "team": {
+      "initials": "PF",
+      "name": "Paul Fisher",
+      "role": "Founder / Managing Director",
+      "titleNote": "",
+      "bio": "Paul leads the strategy and oversees client relationships, ensuring each partnership thrives.",
+      "linkedin": "",
+      "phone": "+61 2 6680 8858"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Planning",
+        "badge": "Weeks 1 to 3",
+        "description": "We begin with a thorough understanding of your needs.",
+        "bullets": [
+          "In-depth analysis",
+          "Strategic planning"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Design & Development",
+        "badge": "Weeks 4 to 8",
+        "description": "Our team crafts tailored solutions to meet your goals.",
+        "bullets": [
+          "Custom design",
+          "Development sprints"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 9 to 12",
+        "description": "We seamlessly integrate solutions into your existing systems.",
+        "bullets": [
+          "System integration",
+          "User training"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Optimization & Support",
+        "badge": "Weeks 13 to 16",
+        "description": "Continuous monitoring and optimization to ensure success.",
+        "bullets": [
+          "Performance tracking",
+          "Ongoing support"
+        ]
+      }
+    ],
+    "pricingIntro": "We offer investment options to suit your business needs.",
+    "pricing": [
+      {
+        "name": "Basic Package",
+        "subtitle": "",
+        "description": "Ideal for small-scale improvements.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic support",
+          "Limited features"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Standard Package",
+        "subtitle": "",
+        "description": "Our most popular choice for comprehensive solutions.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Full support",
+          "Comprehensive features"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Premium Package",
+        "subtitle": "",
+        "description": "For businesses looking to maximize their potential.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Premium support",
+          "All features"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Your Business?",
+    "ctaDescription": "Let's have a chat about how we can help. No commitments, just a conversation.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "paul@30acres.com.au",
+    "ctaNote": "",
+    "footerText": "© 2025 30acres",
+    "footerSub": "Your partner in digital transformation."
+  },
+  "enriched": {
+    "tone": "technical, warm",
+    "positioning": "Full-service agency",
+    "serviceList": [
+      "What we’re all about, all under one roof"
+    ],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Paul",
+    "last_name": "Fisher",
+    "email": "paul@30acres.com.au",
+    "company_phone": "+61 2 6680 8858",
+    "mobile_number": "",
+    "company_name": "30acres",
+    "company_website": "https://www.30acres.com.au",
+    "company_domain": "30acres.com.au",
+    "company_description": "30Acres is an integrated commerce agency with deep experience in ecommerce development and growth. We build bespoke online experiences for ambitious brands that care about their customers. We do this by immersing ourselves in your world, and by placing our feet in the shoes of your audience. It's this kind of empathy that drives us. It's how we're built. It's how we work. It's what makes us 30Acres. \n\nWe believe doing business online is about so much more than marketing, technology and data. We place people at the very core of everything we do. Sure, we're an experienced bunch, but to truly succeed in the ever-evolving and fragmenting world of digital commerce, it takes a people-focused group of technicians, marketers and experience creators.\n\n30Acres is a Shopify Plus Partner.\n\nWe're Good People.\n\nWe are proud to be an equal opportunity employer and we seriously value diversity in our company. We do not discriminate on the basis of race, religion, colour, nationality, gender, sexual orientation, age, marital status, or disability status. We're carbon neutral and we're committed to giving back to our community and the environment.",
+    "headline": "Founder / Managing Director @ 30acres | World-class Digital Commerce.",
+    "job_title": "Founder / Managing Director",
+    "industry": "Information Technology & Services",
+    "company_size": "10",
+    "company_technologies": "android, gmail, google analytics, google apps, google tag manager, magento, mobile friendly, python, rebuy, remote, reviews, route 53, shopify, workable, youtube, recaptcha",
+    "city": "",
+    "state": "New South Wales",
+    "country": "Australia",
+    "company_full_address": "Suite 4/17 Lawson Street , Byron Bay, New South Wales, AU, 2481",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "3.1M",
+    "linkedin": "https://www.linkedin.com/in/fisherpaul",
+    "company_linkedin": "https://www.linkedin.com/company/30acres",
+    "company_founded_year": "2010",
+    "keywords": "search engine marketing, search engine optimisation, web application development, social media management, email marketing, digital strategy, planning, buying, analytics, reporting, programmatic buying, real time bidding, retargeting & remarketing, ecommerce, shopify plus, shopify, technology, information & internet, ecommerce agency, digital marketing, seo services, ux/ui design, custom solutions, web analytics, paid media, project management, brand strategy, cro, website redesign, automations, migrations to shopify, consulting services, user experience, digital commerce, marketing strategy, data analysis, custom integrations, user-centric design, frontend development, backend development, e-commerce solutions, growth strategies, performance monitoring, content marketing, social media advertising, customer experience, multi-channel strategies, audience targeting, conversion rate optimization, heatmaps, performance max, advantage+, integrated campaigns, full-funnel strategy, high-fidelity prototypes, custom theme building, scalable solutions, creative strategy, interactive design, product configuration, subscription models, website audits, technical seo, social media strategy, onboarding & training, sem, marketing & advertising, seo, information technology & services, search marketing, marketing, web development, e-commerce, consumer internet, consumers, internet, productivity, management consulting, ux, data analytics",
+    "personalization": "You’re a certified B Corporation, which really shows your focus on social and environmental performance.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
