@@ -1,0 +1,554 @@
+{
+  "slug": "myframeshift",
+  "companyName": "Myframeshift",
+  "contactName": "there",
+  "contactEmail": "Leandro Teitelbaum <lteitelbaum@myframeshift.my>",
+  "generationTime": 16,
+  "createdAt": "2026-03-12T10:28:18.386Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": ""
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // MYFRAMESHIFT // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Myframeshift is losing over 1,000 hours a year on proposals. Here’s exactly where it goes.",
+    "heroSubheadline": "Currently, crafting a bespoke proposal takes hours. With our system, it’s 47 seconds to a client-ready document.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Each of the following issues is a direct drain on Myframeshift's resources and potential revenue.",
+    "problems": [
+      {
+        "title": "Time Consumed",
+        "description": "Myframeshift spends over 20 hours weekly on proposal writing. This is time not spent acquiring new clients."
+      },
+      {
+        "title": "Lost Deals",
+        "description": "Delayed proposals mean potential clients receive responses days late. Each lost client could mean a $10,000 annual revenue loss."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Manual proposals often miss the mark on branding. Inconsistency can cost Myframeshift credibility and trust, leading to fewer conversions."
+      },
+      {
+        "title": "Error-Prone Processes",
+        "description": "Human error in manual proposals can lead to costly mistakes. Each error can result in a loss of up to 15% in deal values."
+      },
+      {
+        "title": "Resource Drain",
+        "description": "High-skill employees are stuck doing low-value tasks. This results in a $50,000 annual loss in productivity."
+      },
+      {
+        "title": "Competitor Advantage",
+        "description": "Competitors using automation respond faster. Each delay gives them an edge, costing Myframeshift countless opportunities."
+      }
+    ],
+    "solutionIntro": "Our AI automation system replaces every inefficiency outlined above.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals take hours to draft. Our system delivers a complete proposal in under 60 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Manual methods can miss branding cues. Our AI ensures every proposal aligns perfectly with Myframeshift’s brand identity.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Error Reduction",
+        "description": "Human errors in proposals are costly. Our system minimizes errors by automating data input and formatting.",
+        "tags": [
+          "Accuracy",
+          "Reliability",
+          "Quality"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Resource Optimization",
+        "description": "High-value employees are tied up in drafting. With automation, they focus on strategic tasks and client interactions.",
+        "tags": [
+          "Productivity",
+          "Focus",
+          "Strategy"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Competitive Edge",
+        "description": "Current processes lag behind competitors. Our system ensures Myframeshift responds faster, securing more deals.",
+        "tags": [
+          "Competitiveness",
+          "Agility",
+          "Growth"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Greatoutdoorguides's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Greatoutdoorguides around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Myframeshift.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Elevate Acme Corp's Brand Presence with Myframeshift's Expertise.",
+    "heroSubheadline": "Implement a comprehensive strategy to transform your brand's digital footprint and convert potential leads into loyal customers.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently facing significant financial losses due to underperformance in key areas.",
+    "problems": [
+      {
+        "title": "Low Conversion Rates",
+        "description": "Every customer who clicks away from your site without purchasing is a missed revenue opportunity. This translates to thousands of dollars in potential sales lost monthly."
+      },
+      {
+        "title": "Poor Brand Visibility",
+        "description": "Lack of visibility in search results means potential customers aren't finding you. This results in a 30% decrease in market reach."
+      },
+      {
+        "title": "Inefficient Marketing Spend",
+        "description": "Marketing dollars are not yielding expected returns, leading to a 20% overspend on campaigns with minimal impact."
+      },
+      {
+        "title": "Customer Engagement Decline",
+        "description": "A decrease in customer interaction across channels suggests a lack of engagement, costing you repeat business and referrals."
+      },
+      {
+        "title": "Stagnant Growth",
+        "description": "Without innovative strategies, growth has plateaued, causing a potential loss of market share against dynamic competitors."
+      },
+      {
+        "title": "Outdated Content Strategy",
+        "description": "Content that fails to engage or inform customers results in a 25% drop in site traffic and customer retention."
+      }
+    ],
+    "solutionIntro": "Myframeshift offers targeted solutions to address these losses and drive growth.",
+    "solutions": [
+      {
+        "icon": "💡",
+        "title": "Digital Marketing Strategy",
+        "description": "Enhance your online presence and drive conversion rates by implementing tailored digital marketing strategies.",
+        "tags": [
+          "SEO",
+          "PPC",
+          "Content Marketing"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Brand Visibility Enhancement",
+        "description": "Improve your search engine rankings and brand visibility to capture a larger audience share.",
+        "tags": [
+          "SEO",
+          "Branding",
+          "Visibility"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Performance Analytics",
+        "description": "Utilize data-driven insights to optimize marketing spend and boost ROI on advertising campaigns.",
+        "tags": [
+          "Analytics",
+          "ROI",
+          "Optimization"
+        ]
+      },
+      {
+        "icon": "🎯",
+        "title": "Customer Engagement Solutions",
+        "description": "Implement strategies to increase customer interaction and loyalty, ensuring repeat business.",
+        "tags": [
+          "CRM",
+          "Engagement",
+          "Loyalty"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Increase in conversion rate"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Growth in brand visibility"
+      },
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Reduction in marketing costs"
+      }
+    ],
+    "whyUsIntro": "Myframeshift stands out with its proven expertise and results-driven approach.",
+    "whyUsCards": [
+      {
+        "icon": "🛠️",
+        "title": "Proven Methodologies",
+        "description": "Our strategies are backed by data and tailored to meet your specific business needs."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Approach",
+        "description": "We prioritize your goals and work closely with you to achieve them."
+      },
+      {
+        "icon": "📈",
+        "title": "Results-Driven",
+        "description": "Our focus is on delivering measurable results that impact your bottom line."
+      },
+      {
+        "icon": "🌟",
+        "title": "Industry Experts",
+        "description": "Our team consists of seasoned professionals with extensive experience in digital marketing."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "200",
+        "suffix": "%",
+        "label": "Increase in client engagement"
+      },
+      {
+        "value": "150",
+        "suffix": "%",
+        "label": "Improvement in brand visibility"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Growth in conversion rates"
+      },
+      {
+        "value": "95",
+        "suffix": "%",
+        "label": "Client satisfaction rate"
+      }
+    ],
+    "teamIntro": "Our team is dedicated to driving success for Acme Corp.",
+    "team": {
+      "initials": "tC",
+      "name": "there",
+      "role": "Executive Director",
+      "titleNote": "",
+      "bio": "With a focus on leading strategy and client relationships, our Executive Director ensures that every project aligns with client goals.",
+      "linkedin": "",
+      "phone": ""
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Strategy",
+        "badge": "Weeks 1 to 3",
+        "description": "We begin with a deep dive into your business and industry to craft a tailored strategy.",
+        "bullets": [
+          "Detailed analysis",
+          "Custom strategy development"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Implementation",
+        "badge": "Weeks 4 to 6",
+        "description": "Our team executes the strategy using best-in-class tools and techniques.",
+        "bullets": [
+          "Campaign setup",
+          "Content creation"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Optimization",
+        "badge": "Weeks 7 to 9",
+        "description": "We continuously monitor and optimize campaigns to ensure maximum effectiveness.",
+        "bullets": [
+          "Performance analysis",
+          "Adjustments for improvement"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Scale",
+        "badge": "Weeks 10 to 12",
+        "description": "The final phase involves reviewing results and planning for scalable growth.",
+        "bullets": [
+          "Final reporting",
+          "Strategic planning for growth"
+        ]
+      }
+    ],
+    "pricingIntro": "We offer investment options that align with your business goals.",
+    "pricing": [
+      {
+        "name": "Basic Plan",
+        "subtitle": "",
+        "description": "Ideal for small businesses looking to enhance their digital presence.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Digital Marketing Strategy",
+          "Basic Analytics"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Plan",
+        "subtitle": "",
+        "description": "Recommended for medium-sized businesses aiming for substantial growth.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Comprehensive Strategy",
+          "Advanced Analytics",
+          "Ongoing Optimization"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Plan",
+        "subtitle": "",
+        "description": "For large businesses seeking a full-scale marketing overhaul.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full-Service Marketing",
+          "Dedicated Account Manager"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Acme Corp's Future?",
+    "ctaDescription": "Let's discuss your goals and how we can achieve them together.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "Leandro Teitelbaum <lteitelbaum@myframeshift.my>",
+    "ctaNote": "",
+    "footerText": "© 2025 Myframeshift",
+    "footerSub": "Driving Results, Together."
+  },
+  "enriched": {
+    "tone": "professional",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "email": "Leandro Teitelbaum <lteitelbaum@myframeshift.my>",
+    "first_name": "there",
+    "last_name": "",
+    "company_name": "Myframeshift",
+    "company_website": "https://myframeshift.my>",
+    "company_domain": "myframeshift.my>",
+    "industry": "",
+    "personalization": "",
+    "painStatement": "",
+    "proposal_id": "myframeshift"
+  }
+}
