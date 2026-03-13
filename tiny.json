@@ -1,0 +1,570 @@
+{
+  "slug": "tiny",
+  "companyName": "Tiny",
+  "contactName": "Eva Voorhees",
+  "contactEmail": "eva@tinyadv.com",
+  "generationTime": 29,
+  "createdAt": "2026-03-13T19:43:20.367Z",
+  "brandStyle": {
+    "primaryColor": "#7a00df",
+    "secondaryColor": "#ddd",
+    "accentColor": "#007cba",
+    "headingFont": "Barlow Condensed:200,400,700,600,300,500",
+    "bodyFont": "FontAwesome",
+    "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20140%20139'%3E%3C/svg%3E"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // TINY // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Tiny is burning $15,000 a year on manual proposal creation. Here's where the time goes.",
+    "heroSubheadline": "Currently, crafting a proposal takes hours away from your core services. With our AI, generate complete, branded proposals in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Each issue below is a direct hit to Tiny's efficiency and profitability.",
+    "problems": [
+      {
+        "title": "Time Drain",
+        "description": "Eva spends 10 hours a week on proposals. That's 520 hours a year not spent on client strategy or media selection."
+      },
+      {
+        "title": "Lost Deals",
+        "description": "Delayed proposals mean lost opportunities. Every day a proposal is late, the client's interest wanes, costing potential deals."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Manual creation leads to branding errors. Each mistake can cost up to $500 in client corrections and damages trust."
+      },
+      {
+        "title": "High Labor Cost",
+        "description": "Paying $30/hour for proposal work totals $15,600 annually. This is money not reinvested in business growth or innovation."
+      },
+      {
+        "title": "Missed Insights",
+        "description": "Without data analysis, proposals lack depth. Missing insights can mean a loss of $2,000 per deal due to less competitive offers."
+      },
+      {
+        "title": "Stress and Burnout",
+        "description": "Constant manual effort leads to burnout. Overworked teams can reduce efficiency by 20%, impacting overall service quality."
+      }
+    ],
+    "solutionIntro": "Introducing our AI system, the antidote to Tiny's bleeding resources.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Generation",
+        "description": "Currently, proposal creation is a manual marathon. Our AI system completes it in 47 seconds, freeing up valuable time.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Manual proposals risk brand inconsistency. Our system ensures every proposal is on-brand, every time.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Quality"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Cost Efficiency",
+        "description": "High labor costs eat into profits. Our automated system reduces these costs significantly, reallocating funds to growth.",
+        "tags": [
+          "Cost Savings",
+          "Profitability",
+          "Resource Allocation"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Data-Driven Insights",
+        "description": "Proposals lack depth without data. Our system integrates insights automatically, making proposals smarter and more competitive.",
+        "tags": [
+          "Data",
+          "Insights",
+          "Competitiveness"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Enhanced Focus",
+        "description": "Manual tasks distract from core services. With automation, focus shifts back to strategy and media selection, enhancing service quality.",
+        "tags": [
+          "Focus",
+          "Quality",
+          "Service Improvement"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Tiny's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Tiny around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Tiny.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's Reach with Targeted Strategies",
+    "heroSubheadline": "We're committed to enhancing your market presence through strategic planning and precise execution.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently facing several losses due to ineffective marketing strategies.",
+    "problems": [
+      {
+        "title": "Low Conversion Rates",
+        "description": "Every visitor who leaves your site without converting is revenue walking out the door. This leads to an estimated 15% monthly loss in potential sales."
+      },
+      {
+        "title": "Ineffective Ad Spend",
+        "description": "Wasted ad spend is costing Acme Corp approximately 20% of its marketing budget each month, reducing overall profitability."
+      },
+      {
+        "title": "Poor Brand Visibility",
+        "description": "Limited brand recognition in your target market is causing a 25% loss in potential customer engagement monthly."
+      },
+      {
+        "title": "Weak Social Media Presence",
+        "description": "Inconsistent social media strategies result in a 30% decrease in audience interaction and brand loyalty."
+      },
+      {
+        "title": "Inefficient Communication",
+        "description": "Unclear messaging leads to customer confusion, resulting in a 10% drop in user retention and satisfaction."
+      },
+      {
+        "title": "Missed Market Opportunities",
+        "description": "Lack of market analysis is causing missed opportunities, with an approximate 18% loss in potential market share annually."
+      }
+    ],
+    "solutionIntro": "Tiny offers tailored solutions to address these specific challenges and improve Acme Corp's outcomes.",
+    "solutions": [
+      {
+        "icon": "📈",
+        "title": "Strategic Planning",
+        "description": "We create a customized roadmap to boost conversions and streamline marketing efforts.",
+        "tags": [
+          "Strategy",
+          "Planning",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "💡",
+        "title": "Compelling Communications",
+        "description": "Our team crafts clear, impactful messaging to enhance customer understanding and retention.",
+        "tags": [
+          "Messaging",
+          "Branding",
+          "Engagement"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Media Selection",
+        "description": "We identify the most effective media channels to maximize your advertising ROI.",
+        "tags": [
+          "Media",
+          "ROI",
+          "Optimization"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Social Media Management",
+        "description": "We boost your online presence with engaging and consistent social media strategies.",
+        "tags": [
+          "Social",
+          "Engagement",
+          "Visibility"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "20",
+        "suffix": "%",
+        "label": "Increase in conversion rates"
+      },
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Growth in brand visibility"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Improvement in ROI"
+      }
+    ],
+    "whyUsIntro": "Tiny is your partner for effective and economical marketing solutions.",
+    "whyUsCards": [
+      {
+        "icon": "🏆",
+        "title": "Proven Success",
+        "description": "Our track record of increasing client KPIs speaks for itself."
+      },
+      {
+        "icon": "🕒",
+        "title": "Timely Execution",
+        "description": "We deliver results on schedule, ensuring your campaigns are timely and effective."
+      },
+      {
+        "icon": "🔍",
+        "title": "Attention to Detail",
+        "description": "Every project is approached with meticulous care and precision."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client Focused",
+        "description": "We prioritize your needs and work closely to meet your business goals."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "50",
+        "suffix": "+",
+        "label": "Clients served successfully"
+      },
+      {
+        "value": "98",
+        "suffix": "%",
+        "label": "Client satisfaction rate"
+      },
+      {
+        "value": "100",
+        "suffix": "M",
+        "label": "Ad impressions delivered"
+      },
+      {
+        "value": "5",
+        "suffix": "years",
+        "label": "Experience in market"
+      }
+    ],
+    "teamIntro": "Our team is dedicated to driving your success.",
+    "team": {
+      "initials": "EV",
+      "name": "Eva Voorhees",
+      "role": "Owner",
+      "titleNote": "",
+      "bio": "Eva leads strategy development and nurtures client relationships with expertise and dedication.",
+      "linkedin": "",
+      "phone": "+1 480-717-3445"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Research",
+        "badge": "Weeks 1 to 3",
+        "description": "We thoroughly research your market and current strategies.",
+        "bullets": [
+          "Market analysis",
+          "Competitor review"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "We craft a tailored marketing strategy for your business.",
+        "bullets": [
+          "Custom roadmap",
+          "Goal setting"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 12",
+        "description": "Executing the strategy with precision and agility.",
+        "bullets": [
+          "Campaign launch",
+          "Media execution"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Optimize",
+        "badge": "Weeks 13 to 16",
+        "description": "We analyze outcomes and optimize strategies for continued success.",
+        "bullets": [
+          "Performance analysis",
+          "Strategy refinement"
+        ]
+      }
+    ],
+    "pricingIntro": "We offer investment options to suit your strategic needs.",
+    "pricing": [
+      {
+        "name": "Basic Plan",
+        "subtitle": "",
+        "description": "For businesses looking to address specific areas.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Targeted campaigns"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Plan",
+        "subtitle": "",
+        "description": "Recommended for a comprehensive marketing overhaul.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Full-service marketing"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Plan",
+        "subtitle": "",
+        "description": "For enterprises seeking aggressive market expansion.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Extensive market reach"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Elevate Your Marketing Strategy?",
+    "ctaDescription": "Let's discuss how Tiny can help transform your business. No commitment required.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "eva@tinyadv.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Tiny",
+    "footerSub": "Your Partner in Growth"
+  },
+  "enriched": {
+    "tone": "professional",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Eva",
+    "last_name": "Voorhees",
+    "email": "eva@tinyadv.com",
+    "company_phone": "+1 480-717-3445",
+    "mobile_number": "6023689252",
+    "company_name": "Tiny",
+    "company_website": "https://www.tinyadv.com",
+    "company_domain": "tinyadv.com",
+    "company_description": "Tiny is a group of experienced design and marketing professionals who realize you don't have to be large to be great. In fact, some of \nthe smallest ideas have made the biggest impact on the way people think, behave, work and live. Take Post-it notes, microchips, contact lenses, cell phones, Altoids. \n\nAs a full-service advertising and design firm, Tiny applies big-idea thinking to the development of successful marketing solutions. The truth is, effective marketing doesn't necessarily require large budgets, a huge staff and lots of overhead to be great. It takes a core team of highly experienced and knowledgeable people who understand your business, your industry and your customers. That's what we do. \nThat's who we are.",
+    "headline": "Owner, Tiny Advertising & Design",
+    "job_title": "Owner",
+    "industry": "Marketing & Advertising",
+    "company_size": "2",
+    "company_technologies": "cloudflare hosting, elasticemail, google font api, google tag manager, mobile friendly, outlook, wordpress.org",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "country": "United States",
+    "company_full_address": "4646 E Greenway Rd, #112, Phoenix, Arizona 85032, US",
+    "seniority_level": "owner",
+    "company_annual_revenue_clean": "2.6M",
+    "linkedin": "https://www.linkedin.com/in/evavoorheestinyadvertising",
+    "company_linkedin": "https://www.linkedin.com/company/tiny-advertising-&-design",
+    "company_founded_year": "2000",
+    "keywords": "public relations, luxury goods marketing, strategic planning, brand strategy development, digital marketing, marketing plan development & implementation, real estate marketing, web development, content development, advertising services, marketing & advertising, information technology & services",
+    "personalization": "You guys are flipping the script on marketing budgets with your small team approach.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
