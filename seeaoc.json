@@ -1,0 +1,553 @@
+{
+  "slug": "seeaoc",
+  "companyName": "Seeaoc",
+  "contactName": "there",
+  "contactEmail": "chauhan@seeaoc.com",
+  "generationTime": 24,
+  "createdAt": "2026-03-13T16:42:10.024Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": "https://ayushopchauhan.com/og-image.svg"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // SEEAOC // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Seeaoc is losing 2,000 hours a year on manual proposals. This is where it hurts.",
+    "heroSubheadline": "Your manual proposal process is costing precious hours. Our system delivers client-ready proposals in 47 seconds, freeing your time for innovation.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Each problem outlined below is an ongoing drain on your resources and potential.",
+    "problems": [
+      {
+        "title": "Time Drain",
+        "description": "Manually crafting proposals eats up 2,000 hours annually. Those are hours not spent optimizing your AI systems or acquiring new clients."
+      },
+      {
+        "title": "Lost Deals",
+        "description": "Delayed proposals mean lost opportunities. Every day waiting for a proposal is a day a competitor could close the deal."
+      },
+      {
+        "title": "Inconsistency Costs",
+        "description": "Varied proposal quality can lose client trust. Inconsistencies undermine your brand, costing potential long-term partnerships."
+      },
+      {
+        "title": "Operational Expense",
+        "description": "Spending $100,000 annually on proposal-related labor is unsustainable. This money could enhance your AI development framework instead."
+      },
+      {
+        "title": "Brand Dilution",
+        "description": "Each off-brand proposal weakens your market position. It signals a lack of focus which can erode client confidence."
+      },
+      {
+        "title": "Data Unutilized",
+        "description": "Valuable client insights are underused. This is data that could personalize proposals, thus boosting your conversion rates."
+      }
+    ],
+    "solutionIntro": "Our AI automation system replaces all these costly inefficiencies.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals require hours of manual input. Our system provides complete, branded proposals in 47 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Brand Consistency",
+        "description": "Manual proposals risk inconsistency. Our system ensures every proposal aligns perfectly with your brand guidelines.",
+        "tags": [
+          "Branding",
+          "Quality",
+          "Trust"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Enhanced Client Insights",
+        "description": "Client data often sits unused. Our system analyzes and incorporates it to tailor each proposal, increasing relevance.",
+        "tags": [
+          "Data",
+          "Personalization",
+          "Insights"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Cost Reduction",
+        "description": "High labor costs drain your budget. Our automated system slashes these expenses, redirecting funds to innovation.",
+        "tags": [
+          "Savings",
+          "Budget",
+          "Efficiency"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Real-Time Tracking",
+        "description": "Currently, proposal follow-ups are manual and slow. The system provides real-time tracking, allowing you to act swiftly.",
+        "tags": [
+          "Tracking",
+          "Speed",
+          "Responsiveness"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Seeaoc's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Seeaoc around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Seeaoc.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Unlock Acme Corp's Potential Through AI Automation Excellence.",
+    "heroSubheadline": "Seeaoc will transform your operations with a comprehensive AI-driven strategy, optimizing every facet of your business.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently experiencing significant revenue losses due to inefficiencies.",
+    "problems": [
+      {
+        "title": "High Customer Churn",
+        "description": "Every customer leaving is money lost. Acme Corp's churn rate is 15%, costing an estimated $500,000 annually."
+      },
+      {
+        "title": "Low Conversion Rates",
+        "description": "A 2% conversion rate means 98 out of 100 visitors are not converting. This results in a loss of potential revenue of $300,000 per quarter."
+      },
+      {
+        "title": "Operational Inefficiencies",
+        "description": "Manual processes lead to a 20% decrease in productivity, equating to $200,000 in annual losses."
+      },
+      {
+        "title": "Data Mismanagement",
+        "description": "Inaccurate data handling results in poor decision-making, costing Acme Corp $150,000 yearly in missed opportunities."
+      },
+      {
+        "title": "Delayed Product Launches",
+        "description": "Every delayed launch costs $100,000 in market opportunity loss each month."
+      },
+      {
+        "title": "High IT Costs",
+        "description": "Legacy systems are expensive, leading to an additional $250,000 in unnecessary IT costs annually."
+      }
+    ],
+    "solutionIntro": "Our solutions directly address these challenges to recover lost revenue and improve efficiency.",
+    "solutions": [
+      {
+        "icon": "🤖",
+        "title": "AI Automation",
+        "description": "Streamlines operations, reducing manual work by 30% and saving $200,000 annually.",
+        "tags": [
+          "Automation",
+          "Efficiency",
+          "Savings"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Data Analytics",
+        "description": "Enhances decision-making by providing accurate insights, reducing missed opportunities by 50%.",
+        "tags": [
+          "Data",
+          "Insights",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "💡",
+        "title": "Process Optimization",
+        "description": "Improves productivity by 25%, addressing operational inefficiencies and saving $150,000 annually.",
+        "tags": [
+          "Optimization",
+          "Productivity",
+          "Savings"
+        ]
+      },
+      {
+        "icon": "🚀",
+        "title": "IT Modernization",
+        "description": "Reduces IT costs by 20% through updated infrastructure, saving $200,000 annually.",
+        "tags": [
+          "Modernization",
+          "Cost Reduction",
+          "Efficiency"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Increase in productivity."
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Reduction in missed opportunities."
+      },
+      {
+        "value": "20",
+        "suffix": "%",
+        "label": "Reduction in IT costs."
+      }
+    ],
+    "whyUsIntro": "Seeaoc is uniquely positioned to deliver these results with our technical expertise.",
+    "whyUsCards": [
+      {
+        "icon": "✔️",
+        "title": "Proven Expertise",
+        "description": "Over a decade of experience in AI automation and optimization."
+      },
+      {
+        "icon": "💼",
+        "title": "Client-Centric Approach",
+        "description": "Tailored strategies that align with Acme Corp's specific needs and goals."
+      },
+      {
+        "icon": "📊",
+        "title": "Data-Driven Decisions",
+        "description": "Utilizing data to drive strategic decisions and maximize ROI."
+      },
+      {
+        "icon": "🤝",
+        "title": "Trusted Partner",
+        "description": "Long-term partnership focused on sustainable growth and success."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "100+",
+        "suffix": "",
+        "label": "Successful client engagements."
+      },
+      {
+        "value": "95%",
+        "suffix": "",
+        "label": "Client satisfaction rate."
+      },
+      {
+        "value": "20",
+        "suffix": "years",
+        "label": "Collective team experience."
+      },
+      {
+        "value": "200%",
+        "suffix": "",
+        "label": "Average client ROI."
+      }
+    ],
+    "teamIntro": "Our team is dedicated to driving unparalleled results.",
+    "team": {
+      "initials": "tC",
+      "name": "there ",
+      "role": "Executive Director",
+      "titleNote": "",
+      "bio": "Leading strategy and client relationships with a focus on driving measurable outcomes.",
+      "linkedin": "",
+      "phone": ""
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery Phase",
+        "badge": "Weeks 1 to 3",
+        "description": "Understanding Acme Corp's unique challenges and goals.",
+        "bullets": [
+          "Initial consultations",
+          "Needs assessment"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Crafting a tailored strategy for maximum impact.",
+        "bullets": [
+          "Strategic planning",
+          "Solution design"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 10",
+        "description": "Executing the strategy with precision.",
+        "bullets": [
+          "Deployment",
+          "Optimization"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Support",
+        "badge": "Weeks 11 to 12",
+        "description": "Ensuring success and providing ongoing support.",
+        "bullets": [
+          "Performance review",
+          "Continued assistance"
+        ]
+      }
+    ],
+    "pricingIntro": "Our services are an investment in Acme Corp's future success.",
+    "pricing": [
+      {
+        "name": "Standard Plan",
+        "subtitle": "",
+        "description": "Basic AI automation and support.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic automation",
+          "Standard support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Professional Plan",
+        "subtitle": "",
+        "description": "Comprehensive AI solutions with advanced features.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Advanced analytics",
+          "Priority support"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Plan",
+        "subtitle": "",
+        "description": "Full-scale AI integration and dedicated support.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full integration",
+          "Dedicated account manager"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Acme Corp? Let's Start the Conversation.",
+    "ctaDescription": "No pressure, just a chat to explore how we can help.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "chauhan@seeaoc.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Seeaoc",
+    "footerSub": "Innovation through Automation."
+  },
+  "enriched": {
+    "tone": "technical",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "email": "chauhan@seeaoc.com",
+    "first_name": "there",
+    "last_name": "",
+    "company_name": "Seeaoc",
+    "company_website": "https://seeaoc.com",
+    "company_domain": "seeaoc.com",
+    "industry": "",
+    "personalization": "",
+    "painStatement": "",
+    "proposal_id": "seeaoc"
+  }
+}
