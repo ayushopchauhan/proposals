@@ -1,0 +1,574 @@
+{
+  "slug": "mccreight",
+  "companyName": "McCreight",
+  "contactName": "John Mccreight",
+  "contactEmail": "jmc@mccreightpartners.com",
+  "generationTime": 19,
+  "createdAt": "2026-03-14T15:04:05.162Z",
+  "brandStyle": {
+    "primaryColor": "#7a00df",
+    "secondaryColor": "#ddd",
+    "accentColor": "#007cba",
+    "headingFont": "DIN W05 Light",
+    "bodyFont": "DIN W05 Light",
+    "logoUrl": "https://mccreightpartners.com/wp-content/uploads/2020/03/McCreightPartners_logo.png"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // MCCREIGHT // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "McCreight is losing $150,000 annually on manual proposal creation. Here's where it drains away.",
+    "heroSubheadline": "Manually drafting proposals eats up your valuable time. Our AI system creates them in just 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Each problem below represents a continuous loss for McCreight.",
+    "problems": [
+      {
+        "title": "Time Drain",
+        "description": "Spending 10 hours a week on proposals means 520 hours a year not spent on client engagement. At $300 per hour, that's $156,000 gone."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Every proposal inconsistently branded risks your reputation. A single misstep can cost a $50,000 contract."
+      },
+      {
+        "title": "Lost Deals",
+        "description": "Taking 3 days to respond with a proposal could mean losing a deal worth $100,000 to a faster competitor."
+      },
+      {
+        "title": "Employee Burnout",
+        "description": "Repetitive tasks demoralize your team. Employee turnover for McCreight's skilled consultants costs $20,000 per hire."
+      },
+      {
+        "title": "Missed Opportunities",
+        "description": "Failing to send proposals for all inquiries means $200,000 in missed opportunities each year."
+      },
+      {
+        "title": "Errors and Revisions",
+        "description": "Errors in proposals lead to 20% more back-and-forth communication. This costs an additional $25,000 annually in wasted effort."
+      }
+    ],
+    "solutionIntro": "Introducing our AI system as the definitive solution to these ongoing losses.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, creating a proposal takes hours of manual work. The system does it in 47 seconds, freeing up your time.",
+        "tags": [
+          "EFFICIENCY",
+          "SPEED",
+          "AUTOMATION"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Brand Consistency",
+        "description": "Inconsistencies slip through with manual efforts. The system ensures every proposal is perfectly branded every time.",
+        "tags": [
+          "BRANDING",
+          "CONSISTENCY",
+          "PROFESSIONALISM"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Immediate Client Engagement",
+        "description": "Waiting days for a proposal means lost deals. With the system, you're first to respond, securing more contracts.",
+        "tags": [
+          "RESPONSIVENESS",
+          "COMPETITIVE EDGE",
+          "SALES"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Team Satisfaction",
+        "description": "Manual proposal writing frustrates your team. The system automates the process, keeping your team motivated and focused.",
+        "tags": [
+          "PRODUCTIVITY",
+          "EMPLOYEE SATISFACTION",
+          "RETENTION"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Error-Free Proposals",
+        "description": "Manual errors lead to costly revisions. Automated proposals reduce errors, saving time and money.",
+        "tags": [
+          "ACCURACY",
+          "QUALITY",
+          "COST SAVINGS"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for McCreight's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for McCreight around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for McCreight.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's Business with Strategic Implementation.",
+    "heroSubheadline": "Let's enhance your operational efficiency and deliver measurable outcomes through innovative strategy execution.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently losing potential revenue due to operational inefficiencies.",
+    "problems": [
+      {
+        "title": "Conversion Drop",
+        "description": "Every visitor leaving without purchasing is a missed opportunity. This represents a 20% revenue loss monthly."
+      },
+      {
+        "title": "High Churn Rate",
+        "description": "Customers leaving after their first purchase lead to a 15% decrease in potential lifetime value."
+      },
+      {
+        "title": "Inefficient Processes",
+        "description": "Manual operations slow down productivity, causing a 12% dip in output efficiency."
+      },
+      {
+        "title": "Market Position Erosion",
+        "description": "Without distinct competitive positioning, Acme risks losing 10% market share annually."
+      },
+      {
+        "title": "Low Employee Engagement",
+        "description": "Poor engagement results in 30% higher turnover, escalating recruitment and training costs."
+      },
+      {
+        "title": "Inconsistent Brand Messaging",
+        "description": "Lack of clear messaging leads to a 25% decrease in brand recognition and customer loyalty."
+      }
+    ],
+    "solutionIntro": "Our tailored solutions address these challenges head-on to stop the financial bleeding.",
+    "solutions": [
+      {
+        "icon": "📈",
+        "title": "Strategic Planning",
+        "description": "Enhances conversion rates by identifying and implementing effective strategies.",
+        "tags": [
+          "Conversion",
+          "Revenue",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "🔄",
+        "title": "Change Management",
+        "description": "Reduces churn by aligning organizational processes with customer needs.",
+        "tags": [
+          "Retention",
+          "Efficiency",
+          "Engagement"
+        ]
+      },
+      {
+        "icon": "💡",
+        "title": "Process Optimization",
+        "description": "Improves operational efficiency, increasing productivity by streamlining workflows.",
+        "tags": [
+          "Productivity",
+          "Efficiency",
+          "Output"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Brand Strategy",
+        "description": "Strengthens market position by clarifying and amplifying brand messaging.",
+        "tags": [
+          "Brand",
+          "Market",
+          "Positioning"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Increase in conversion rate."
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Reduction in churn rate."
+      },
+      {
+        "value": "20",
+        "suffix": "%",
+        "label": "Boost in operational efficiency."
+      }
+    ],
+    "whyUsIntro": "McCreight brings unique expertise in strategy implementation with a playful yet corporate approach.",
+    "whyUsCards": [
+      {
+        "icon": "🌟",
+        "title": "Proven Track Record",
+        "description": "Successfully implemented strategies for various industries, ensuring tangible results."
+      },
+      {
+        "icon": "🏆",
+        "title": "Tailored Solutions",
+        "description": "We customize our approach to fit your specific business needs and objectives."
+      },
+      {
+        "icon": "🤝",
+        "title": "Dedicated Partnership",
+        "description": "Our team becomes an extension of yours, working collaboratively to achieve success."
+      },
+      {
+        "icon": "🔍",
+        "title": "Insightful Analysis",
+        "description": "We provide in-depth insights to inform strategic decisions and drive growth."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "50",
+        "suffix": "+",
+        "label": "Clients served globally"
+      },
+      {
+        "value": "95",
+        "suffix": "%",
+        "label": "Client satisfaction rate"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Average growth in client revenue"
+      },
+      {
+        "value": "20",
+        "suffix": "+",
+        "label": "Years of industry experience"
+      }
+    ],
+    "teamIntro": "Meet the team that's ready to transform Acme Corp.",
+    "team": {
+      "initials": "JM",
+      "name": "John Mccreight",
+      "role": "Founder And Chairman",
+      "titleNote": "",
+      "bio": "John leads our strategy and client relationships with expertise and dedication. He ensures every partnership is a step towards success.",
+      "linkedin": "",
+      "phone": "+1 203-594-7300"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Analysis",
+        "badge": "Weeks 1 to 3",
+        "description": "We dive into your business to understand challenges and opportunities.",
+        "bullets": [
+          "In-depth interviews",
+          "Data analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Crafting a strategy that aligns with your business goals.",
+        "bullets": [
+          "Strategic planning",
+          "Goal setting"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 9",
+        "description": "Executing the strategy with precision and focus.",
+        "bullets": [
+          "Process optimization",
+          "Change management"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Adjust",
+        "badge": "Weeks 10 to 12",
+        "description": "Evaluating progress and making necessary adjustments.",
+        "bullets": [
+          "Performance review",
+          "Strategy refinement"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment option that best aligns with your growth ambitions.",
+    "pricing": [
+      {
+        "name": "Basic Package",
+        "subtitle": "",
+        "description": "For startups looking to establish a foundational strategy.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic strategy implementation"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Recommended for businesses poised for growth.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Full strategy implementation",
+          "Ongoing support"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Package",
+        "subtitle": "",
+        "description": "For large corporations needing comprehensive strategy solutions.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Comprehensive strategy",
+          "Dedicated team"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform? Let's Talk.",
+    "ctaDescription": "We'd love to explore how we can work together. No strings attached.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "jmc@mccreightpartners.com",
+    "ctaNote": "",
+    "footerText": "© 2025 McCreight",
+    "footerSub": "Strategy that delivers results."
+  },
+  "enriched": {
+    "tone": "playful, corporate",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": [
+      "McCreightPartners"
+    ]
+  },
+  "lead": {
+    "first_name": "John",
+    "last_name": "Mccreight",
+    "email": "jmc@mccreightpartners.com",
+    "company_phone": "+1 203-594-7300",
+    "mobile_number": "12037228191",
+    "company_name": "McCreight",
+    "company_website": "https://www.mccreightpartners.com",
+    "company_domain": "mccreightpartners.com",
+    "company_description": "McCreightPartners collaborates with our clients' leaders worldwide, designing and implementing large-scale, strategic change. We apply time-tested methodologies developed during hundreds of engagements, years of experience, and knowledge gleaned through substantial investments in specialized research.\n\nMcCreight & Company was incorporated in 1983 by John McCreight, a management consultant in public practice since 1968. McCreight & Company, with our three sister firms:  CIO Group, Board Effectiveness Partners, and Second Opinion, is focused on partnering with our client leaders to design and guide the implementation of sound, sustainable, and competitively superior strategic change.\n\nWant to learn more? http://implementstrategy.com/our-firms/",
+    "headline": "Founder And Chairman",
+    "job_title": "Founder And Chairman",
+    "industry": "Management Consulting",
+    "company_size": "11",
+    "company_technologies": "ai, android, apache, barracuda networks, flutter, godaddy hosting, gravity forms, intuit, microsoft office 365, mobile friendly, outlook, proofpoint, python, render, reviews, sharepoint, wordpress.org",
+    "city": "Fairfield",
+    "state": "Connecticut",
+    "country": "United States",
+    "company_full_address": "fairfield, connecticut, united states",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "1M",
+    "linkedin": "https://www.linkedin.com/in/johnmccreight",
+    "company_linkedin": "https://www.linkedin.com/company/mccreightpartners",
+    "company_founded_year": "1983",
+    "keywords": "management consulting, strategic planning, strategy, management, performance improvement, mergers, acquisitions, results delivery, organization, business consulting & services",
+    "personalization": "You’ve got over 100 Alliance Partners with just 11 on your team, that’s quite a setup.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
