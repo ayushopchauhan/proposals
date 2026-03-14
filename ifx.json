@@ -1,0 +1,575 @@
+{
+  "slug": "ifx",
+  "companyName": "IFX",
+  "contactName": "Dan Martin",
+  "contactEmail": "dan@ifxonline.com",
+  "generationTime": 13,
+  "createdAt": "2026-03-14T16:06:14.243Z",
+  "brandStyle": {
+    "primaryColor": "#f2f4f7",
+    "secondaryColor": "#555",
+    "accentColor": "#66afe9",
+    "headingFont": "Open Sans:400,700",
+    "bodyFont": "Helvetica Neue",
+    "logoUrl": "https://ifxonline.com/wp-content/uploads/2021/05/IFXlogo.png"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // IFX // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "IFX is losing 1,000 hours a year on manual proposals. Here's why.",
+    "heroSubheadline": "Currently, IFX spends hours crafting each proposal. With our system, generate them in 47 seconds, tailored to your IT services.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "These are not just inconveniences. They are ongoing losses.",
+    "problems": [
+      {
+        "title": "Time Siphon",
+        "description": "Every hour spent drafting proposals is an hour not spent closing deals. With a team of 7, the manual process costs IFX significant revenue potential."
+      },
+      {
+        "title": "Opportunity Drain",
+        "description": "Delayed proposals mean lost opportunities. Each day a proposal is late, potential clients turn elsewhere, costing IFX thousands in lost contracts."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Manually crafted proposals risk inconsistent branding. Each inconsistency undermines IFX's 20-year reputation, potentially devaluing your trusted brand."
+      },
+      {
+        "title": "Human Error",
+        "description": "Mistakes in proposals lead to client confusion and lost deals. Each error chips away at trust, costing IFX credibility and potential revenue."
+      },
+      {
+        "title": "Resource Drain",
+        "description": "Creating proposals manually ties up valuable resources. This inefficiency diverts focus from strategic growth areas, costing IFX opportunity and expansion."
+      },
+      {
+        "title": "Competitive Lag",
+        "description": "Slow proposal turnarounds mean IFX lags behind faster competitors. This delay can cost IFX contracts worth thousands, undermining market position."
+      }
+    ],
+    "solutionIntro": "Meet the system that addresses all of the above.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals take hours of manual work. With this system, generate branded, client-ready proposals in under 60 seconds.",
+        "tags": [
+          "Instant",
+          "Efficient",
+          "Automated"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Currently, manual proposals risk brand inconsistency. The system ensures every proposal aligns with IFX's trusted 20-year image.",
+        "tags": [
+          "Brand",
+          "Consistency",
+          "Professional"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Error Reduction",
+        "description": "Currently, human errors can slip into proposals. This system eliminates errors, ensuring clarity and precision every time.",
+        "tags": [
+          "Accurate",
+          "Reliable",
+          "Trustworthy"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Resource Optimization",
+        "description": "Currently, resources are tied up in manual processes. The system frees up time for strategic initiatives, driving growth.",
+        "tags": [
+          "Efficient",
+          "Strategic",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Competitive Edge",
+        "description": "Currently, proposal delays put IFX behind competitors. With fast proposal generation, IFX stays ahead, capturing more opportunities.",
+        "tags": [
+          "Fast",
+          "Competitive",
+          "Advantage"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for IFX's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for IFX around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for IFX.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Unlock Acme Corp's Potential with IFX's Innovative Solutions.",
+    "heroSubheadline": "We'll transform your digital presence to capture every lost opportunity and maximize revenue.",
+    "heroTags": [],
+    "problemsIntro": "Every missed opportunity is revenue slipping through Acme Corp's fingers.",
+    "problems": [
+      {
+        "title": "Low Conversion Rates",
+        "description": "Hundreds of potential customers visit your site daily, but a high bounce rate means revenue is walking away."
+      },
+      {
+        "title": "Outdated Digital Strategy",
+        "description": "Sticking to traditional methods limits growth. Embracing innovation can boost your market reach by 30%."
+      },
+      {
+        "title": "Ineffective SEO",
+        "description": "Poor visibility in search engines results in losing out on 40% of potential online traffic."
+      },
+      {
+        "title": "Unoptimized User Experience",
+        "description": "A cumbersome website leads to customer frustration, resulting in a 25% drop in potential sales."
+      },
+      {
+        "title": "Inadequate Content Marketing",
+        "description": "Without engaging content, you miss the chance to convert curious visitors into loyal customers."
+      },
+      {
+        "title": "Unsupported IT Infrastructure",
+        "description": "Frequent downtime costs you approximately 15% in monthly revenue due to lost sales."
+      }
+    ],
+    "solutionIntro": "We have tailored solutions to tackle each of these problems directly.",
+    "solutions": [
+      {
+        "icon": "🚀",
+        "title": "Digital Transformation",
+        "description": "Revamp your digital presence to convert missed opportunities into loyal customers.",
+        "tags": [
+          "Digital",
+          "Strategy",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "🔍",
+        "title": "SEO Optimization",
+        "description": "Enhance your search engine visibility to capture lost traffic and boost sales.",
+        "tags": [
+          "SEO",
+          "Visibility",
+          "Traffic"
+        ]
+      },
+      {
+        "icon": "🖥️",
+        "title": "UX/UI Design",
+        "description": "Create a seamless user experience to increase customer satisfaction and sales.",
+        "tags": [
+          "Design",
+          "User Experience",
+          "Conversion"
+        ]
+      },
+      {
+        "icon": "⚙️",
+        "title": "IT Support",
+        "description": "Ensure your infrastructure is robust and reliable, minimizing downtime and revenue loss.",
+        "tags": [
+          "IT",
+          "Support",
+          "Reliability"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Increase in online traffic."
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Boost in market reach."
+      },
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Improvement in sales conversion."
+      }
+    ],
+    "whyUsIntro": "IFX has been the trusted partner for franchise brands for over 20 years.",
+    "whyUsCards": [
+      {
+        "icon": "🌟",
+        "title": "Proven Expertise",
+        "description": "With decades of experience, we know what works and how to implement it effectively."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric",
+        "description": "Our approach is tailored to your unique needs, ensuring you get the best results."
+      },
+      {
+        "icon": "📈",
+        "title": "Results-Driven",
+        "description": "We focus on delivering measurable results that drive your business forward."
+      },
+      {
+        "icon": "🔧",
+        "title": "Comprehensive Solutions",
+        "description": "From strategy to execution, we cover every aspect of your digital transformation."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "100+",
+        "suffix": "Clients",
+        "label": "Trusted by over 100 clients worldwide."
+      },
+      {
+        "value": "4.8",
+        "suffix": "/5",
+        "label": "Average client satisfaction rating."
+      },
+      {
+        "value": "20",
+        "suffix": "Years",
+        "label": "Experience in IT and services."
+      },
+      {
+        "value": "150",
+        "suffix": "Projects",
+        "label": "Successfully completed projects."
+      }
+    ],
+    "teamIntro": "Our team is dedicated to helping you achieve your business goals.",
+    "team": {
+      "initials": "DM",
+      "name": "Dan Martin",
+      "role": "President/CEO",
+      "titleNote": "",
+      "bio": "Dan leads strategy development and ensures client satisfaction through innovative solutions.",
+      "linkedin": "",
+      "phone": "+1 858-724-1024"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Planning",
+        "badge": "Weeks 1 to 3",
+        "description": "Understanding your needs and setting a clear path forward.",
+        "bullets": [
+          "Initial consultation",
+          "Goal setting"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Design & Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Creating solutions tailored to your business.",
+        "bullets": [
+          "UI/UX design",
+          "Development"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 9",
+        "description": "Bringing the strategies to life with precision.",
+        "bullets": [
+          "Execution",
+          "Testing"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Optimize",
+        "badge": "Weeks 10 to 12",
+        "description": "Ensuring all solutions meet your expectations and perform optimally.",
+        "bullets": [
+          "Feedback session",
+          "Optimization"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment option that best aligns with your goals.",
+    "pricing": [
+      {
+        "name": "Starter Package",
+        "subtitle": "",
+        "description": "For businesses looking to establish a digital presence.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic SEO",
+          "Standard UX/UI Design"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Recommended for businesses aiming for accelerated growth.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Advanced SEO",
+          "Enhanced UX/UI Design",
+          "IT Support"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Package",
+        "subtitle": "",
+        "description": "Comprehensive solutions for large businesses.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full Digital Transformation",
+          "Premium SEO",
+          "Dedicated IT Support"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Acme Corp's Future?",
+    "ctaDescription": "Let's chat about how we can make a difference for your business.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "dan@ifxonline.com",
+    "ctaNote": "",
+    "footerText": "© 2025 IFX",
+    "footerSub": "Your Partner in Digital Excellence"
+  },
+  "enriched": {
+    "tone": "warm, playful",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Dan",
+    "last_name": "Martin",
+    "email": "dan@ifxonline.com",
+    "company_phone": "+1 858-724-1024",
+    "mobile_number": "18582548360",
+    "company_name": "IFX",
+    "company_website": "https://www.ifxonline.com",
+    "company_domain": "ifxonline.com",
+    "company_description": "IFX's Technology and Strategic Divisions work hand-in-hand to optimize, and maximize franchise development, marketing, management and operations on a daily basis. \nWe serve as your personal technology partner and trusted franchise advisor who understands what it takes to build and maintain a successful franchise company.\nIFX Online is a simple and intuitive modular platform you can use to manage your entire franchise organization from anywhere in the world. With more than two decades of experience, servicing 500+ brands, IFX is the leading Technology Service Provider and Strategic Advisory Firm in Franchising.",
+    "headline": "President & CEO",
+    "job_title": "President/CEO",
+    "industry": "Information Technology & Services",
+    "company_size": "7",
+    "company_technologies": "ai, amazon aws, android, apache, flutter, gmail, google apps, google font api, iot, micro, mobile friendly, openssl, python, render, reviews, route 53, sharepoint, vimeo, wordpress.org",
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "company_full_address": "12636 High Bluff Drive, Suite 400, San Diego, CA 92130, US",
+    "seniority_level": "c_suite",
+    "company_annual_revenue_clean": "3.8M",
+    "linkedin": "https://www.linkedin.com/in/danmartincfe",
+    "company_linkedin": "https://www.linkedin.com/company/ifx-online",
+    "company_founded_year": "1996",
+    "keywords": "franchise management software, coaching, sales, royalty reporting, contact management system, it services & it consulting, franchise management, cloud-based platform, modular system, financial reporting, customer relationship management, franchisee onboarding, field compliance module, intranet portal, real-time reporting, royalty processing, franchise development, training support, strategic advisory services, affordable technology solutions, personalized service, consulting for franchisors, franchise information manager, digital asset management, multi-unit franchise support, kpi reporting, automated email campaigns, user-friendly interface, custom functionality, collaboration tools, vendor directories, instant access resources, performance tracking, technical support, hands-on training, implementation support, discovery day, franchise operations, evaluation & scoring inspections, automated ach, franchise expansion, content creation services, business process development, franchise brand growth, marketing automation, support ticketing system, custom crm solutions, module integration, branding consistency, risk management, process improvement, business intelligence, competitive analysis, information technology & services, crm, enterprise software, enterprises, computer software, b2b, marketing & advertising, saas, analytics",
+    "personalization": "Dan Martin made a unique leap from food service franchises to tech in '95.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
