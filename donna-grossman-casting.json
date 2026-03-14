@@ -1,0 +1,572 @@
+{
+  "slug": "donna-grossman-casting",
+  "companyName": "Donna Grossman Casting",
+  "contactName": "Paul Bernstein",
+  "contactEmail": "paul@donnagrossmancasting.com",
+  "generationTime": 13,
+  "createdAt": "2026-03-14T13:28:57.404Z",
+  "brandStyle": {
+    "primaryColor": "#abb8c3",
+    "secondaryColor": "#f78da7",
+    "accentColor": "#cf2e2e",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": "https://donnagrossmancasting.com/wp-content/uploads/2025/07/square-logo-2-2025-nov.jpg"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // DONNA GROSSMAN CASTING // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Donna Grossman Casting is losing 500 hours a year on manual proposals. Here is exactly where it goes.",
+    "heroSubheadline": "Currently, proposals for commercials and campaigns take hours. With our system, they are ready in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Each of these issues represents an ongoing loss, not just an observation.",
+    "problems": [
+      {
+        "title": "Wasted Talent Hours",
+        "description": "Every hour spent drafting proposals is an hour not spent casting talent for top brands. This costs Donna Grossman Casting both time and potential revenue."
+      },
+      {
+        "title": "Delayed Client Responses",
+        "description": "Manually crafting proposals delays client engagement by days. Every delay risks losing contracts worth thousands."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Proposals lack uniformity when crafted manually, potentially confusing clients. This inconsistency can cost deals and damage reputation."
+      },
+      {
+        "title": "Opportunity Costs",
+        "description": "Time spent on proposals means fewer opportunities to engage with new clients. This results in missed revenue streams."
+      },
+      {
+        "title": "Increased Stress",
+        "description": "The pressure to produce high-quality proposals quickly is mentally taxing. This stress reduces overall efficiency and effectiveness."
+      },
+      {
+        "title": "Resource Drain",
+        "description": "Manual proposal writing drains resources that could be used for more strategic tasks, such as talent scouting and client meetings."
+      }
+    ],
+    "solutionIntro": "Our AI system is the replacement for all these inefficiencies.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals are painstakingly written from scratch. Our system generates them instantly, saving valuable time.",
+        "tags": [
+          "Efficiency",
+          "Time-Saving",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Manual proposals risk inconsistent branding. Our system ensures every proposal is on-brand, every time.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Real-Time Client Engagement",
+        "description": "Client responses are delayed due to slow proposal turnaround. With our system, engage clients in real-time, closing deals faster.",
+        "tags": [
+          "Client Engagement",
+          "Speed",
+          "Sales"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Stress Reduction",
+        "description": "The manual process is stressful and error-prone. Our AI reduces stress by handling proposals with precision.",
+        "tags": [
+          "Wellbeing",
+          "Accuracy",
+          "Efficiency"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Resource Optimization",
+        "description": "Resources are drained by manual processes. Our system frees up resources for strategic growth and client interaction.",
+        "tags": [
+          "Resource Management",
+          "Growth",
+          "Strategy"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Donna Grossman Casting's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Donna Grossman Casting around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Donna Grossman Casting.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's Engagement through Expert Casting Services.",
+    "heroSubheadline": "Our tailored casting solutions will elevate your brand visibility and audience connection through strategic and professional talent placement.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently experiencing significant revenue losses due to underperforming marketing campaigns.",
+    "problems": [
+      {
+        "title": "Missed Audience Connection",
+        "description": "Every campaign that fails to engage its audience is a missed opportunity costing you potential sales and brand loyalty."
+      },
+      {
+        "title": "Talent Mismatch",
+        "description": "Incorrect casting choices lead to a 30% drop in campaign effectiveness, resulting in wasted resources."
+      },
+      {
+        "title": "Overlooked Brand Message",
+        "description": "When your brand message is not effectively communicated, it results in a 25% loss in potential customer engagement."
+      },
+      {
+        "title": "High Turnover of Talent",
+        "description": "Frequent changes in talent can disrupt campaign continuity and lead to an inconsistent brand image, costing you credibility."
+      },
+      {
+        "title": "Delayed Campaign Launches",
+        "description": "Each delay in launching a campaign due to casting issues costs you valuable market share and first-mover advantage."
+      },
+      {
+        "title": "Low Conversion Rates",
+        "description": "Unengaging talent results in a 20% lower conversion rate, directly impacting your bottom line."
+      }
+    ],
+    "solutionIntro": "Our solutions strategically address these problems to enhance your campaign success.",
+    "solutions": [
+      {
+        "icon": "🎬",
+        "title": "Advertising Casting",
+        "description": "We select the right talent to perfectly align with your brand's message and audience, boosting engagement.",
+        "tags": [
+          "Casting",
+          "Advertising",
+          "Engagement"
+        ]
+      },
+      {
+        "icon": "📸",
+        "title": "Print Campaign Casting",
+        "description": "Ensures consistency and impact across all print media, maintaining your brand's integrity and appeal.",
+        "tags": [
+          "Print",
+          "Consistency",
+          "Brand"
+        ]
+      },
+      {
+        "icon": "📡",
+        "title": "Integrated Media Casting",
+        "description": "Coordinates across media platforms to create a unified brand presence that captivates audiences.",
+        "tags": [
+          "Integrated",
+          "Media",
+          "Unified"
+        ]
+      },
+      {
+        "icon": "🎤",
+        "title": "Live Event Casting",
+        "description": "Provides dynamic and engaging talent for live events, enhancing audience interaction and brand experience.",
+        "tags": [
+          "Live",
+          "Event",
+          "Engagement"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Increase in campaign engagement"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Reduction in talent turnover"
+      },
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Improvement in conversion rates"
+      }
+    ],
+    "whyUsIntro": "Donna Grossman Casting is the partner you need for impactful casting solutions.",
+    "whyUsCards": [
+      {
+        "icon": "🌟",
+        "title": "Experienced Team",
+        "description": "Our team brings years of industry experience to deliver the best talent for your campaigns."
+      },
+      {
+        "icon": "🔍",
+        "title": "Tailored Solutions",
+        "description": "We provide customized casting strategies that align with your unique brand needs."
+      },
+      {
+        "icon": "📈",
+        "title": "Proven Results",
+        "description": "Our track record shows increased engagement and conversion for our clients."
+      },
+      {
+        "icon": "🤝",
+        "title": "Collaborative Approach",
+        "description": "We work closely with your team to ensure seamless integration of talent into your campaigns."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "150",
+        "suffix": "+",
+        "label": "Successful Campaigns"
+      },
+      {
+        "value": "200",
+        "suffix": "+",
+        "label": "Clients Served"
+      },
+      {
+        "value": "98",
+        "suffix": "%",
+        "label": "Client Satisfaction Rate"
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Repeat Business Rate"
+      }
+    ],
+    "teamIntro": "Our team is dedicated to crafting the perfect casting for your brand.",
+    "team": {
+      "initials": "PB",
+      "name": "Paul Bernstein",
+      "role": "Chief Executive Officer (CEO)",
+      "titleNote": "",
+      "bio": "Paul leads strategy and client relationships, ensuring that our casting solutions drive success for our clients.",
+      "linkedin": "",
+      "phone": "+1 212-725-7704"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Planning",
+        "badge": "Weeks 1 to 3",
+        "description": "We start by understanding your brand and campaign objectives.",
+        "bullets": [
+          "Client consultation",
+          "Objective setting"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Casting Strategy Development",
+        "badge": "Weeks 4 to 5",
+        "description": "We develop a customized casting strategy tailored to your needs.",
+        "bullets": [
+          "Talent scouting",
+          "Strategy formulation"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Talent Selection & Coordination",
+        "badge": "Weeks 6 to 8",
+        "description": "We select and coordinate talent to ensure alignment with your brand.",
+        "bullets": [
+          "Talent auditions",
+          "Coordination meetings"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Execution & Review",
+        "badge": "Weeks 9 to 12",
+        "description": "We oversee the campaign execution and conduct a comprehensive review.",
+        "bullets": [
+          "Campaign execution",
+          "Performance review"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose from our investment options to suit your strategic needs.",
+    "pricing": [
+      {
+        "name": "Basic Package",
+        "subtitle": "",
+        "description": "Ideal for small campaigns and startups.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic talent pool access"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Recommended Package",
+        "subtitle": "",
+        "description": "Our most popular option, offering comprehensive casting services.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Extended talent pool",
+          "Custom casting strategy"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Premium Package",
+        "subtitle": "",
+        "description": "For large-scale campaigns requiring extensive resources.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full talent access",
+          "Complete campaign integration"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Elevate Your Campaigns?",
+    "ctaDescription": "Let's start a conversation about how we can transform your casting strategy.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "paul@donnagrossmancasting.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Donna Grossman Casting",
+    "footerSub": "Casting Excellence for Every Brand"
+  },
+  "enriched": {
+    "tone": "professional",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Paul",
+    "last_name": "Bernstein",
+    "email": "paul@donnagrossmancasting.com",
+    "company_phone": "+1 212-725-7704",
+    "mobile_number": "",
+    "company_name": "Donna Grossman Casting",
+    "company_website": "https://www.donnagrossmancasting.com",
+    "company_domain": "donnagrossmancasting.com",
+    "company_description": "Donna Grossman Casting is a full service casting company in New York City. Donna Grossman is the CEO and lead Casting Director. We cast for TV, Commercials, Interactive, Film, Theater and Print/Photo shoots.\n\nOur clients include worldwide Directors, Photographers, Producers and Advertising Agencies.\n\nwww.donnagrossmancasting.com",
+    "headline": "Partner",
+    "job_title": "Chief Executive Officer (CEO)",
+    "industry": "Staffing & Recruiting",
+    "company_size": "1",
+    "company_technologies": "apache, gmail, google apps, iot, vimeo, youtube",
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "company_full_address": "12 West 27th Street, New York, NY 10001, US",
+    "seniority_level": "c_suite",
+    "company_annual_revenue_clean": "6.2M",
+    "linkedin": "https://www.linkedin.com/in/paul-bernstein-21374b9",
+    "company_linkedin": "https://www.linkedin.com/company/donna-grossman-casting",
+    "company_founded_year": "1995",
+    "keywords": "casting for directors, photographers & their producers, broadcast media production & distribution, real people casting, talent sourcing, remote casting sessions, storytelling, digital casting, audition process, camera comfort, video production, casting directors, client representation, audience engagement, marketing campaigns, advertisement casting, personal narratives, casting technology, story sharing, emotional connection, talent diversity, auditions, casting solutions, professional casting, remote auditions, casting portfolio, unique storytelling, market research, real-life stories, creative casting, casting call, client collaboration, video testimonials, selection process, community outreach, talent management, brand representation, casting expertise, client branding, consultative approach, audience connection, remote technology, selective casting, community engagement, diversified talent pool, engaging content, interactive casting, casting innovations, story-driven casting, communication strategies, casting methodologies, marketing & advertising, professional services, talent agencies",
+    "personalization": "It's odd that your site doesn't have detailed service descriptions for a full service casting company of your size.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
