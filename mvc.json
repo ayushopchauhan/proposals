@@ -1,0 +1,574 @@
+{
+  "slug": "mvc",
+  "companyName": "Mvc",
+  "contactName": "Dan Bailey",
+  "contactEmail": "dandydan527@gmail.com",
+  "generationTime": 18,
+  "createdAt": "2026-03-14T16:00:17.081Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": ""
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // MVC // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Mvc is burning 1,500 hours a year on manual proposals. Here is exactly where it goes.",
+    "heroSubheadline": "Currently, writing proposals eats into valuable campaign creation time. With our system, generate client-ready proposals in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Every moment spent on proposals is a moment of lost opportunity and revenue.",
+    "problems": [
+      {
+        "title": "Time Drain",
+        "description": "Mvc spends 20 hours weekly crafting proposals. That's over 1,000 hours a year not spent closing deals or serving clients."
+      },
+      {
+        "title": "Revenue Loss",
+        "description": "Every hour spent writing proposals is an hour not spent on billable client work. Mvc loses an estimated $75,000 annually in potential revenue."
+      },
+      {
+        "title": "Inconsistency Costs",
+        "description": "Manual proposals lead to inconsistent branding. This inconsistency can cost Mvc clients who expect professionalism and reliability."
+      },
+      {
+        "title": "Missed Opportunities",
+        "description": "Delayed proposals mean missed deadlines. Mvc risks losing up to 15% of potential deals due to slow turnaround times."
+      },
+      {
+        "title": "Resource Strain",
+        "description": "With a team of 7, each member is stretched thin. Proposal writing is bleeding resources that could be used for strategic growth."
+      },
+      {
+        "title": "Competitive Disadvantage",
+        "description": "Competitors with faster proposal processes can pitch more clients. Mvc is losing its edge, risking up to 10% market share."
+      }
+    ],
+    "solutionIntro": "Introducing our AI system as the definitive solution to Mvc's proposal challenges.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals take hours. With our system, they are ready in 47 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Brand Consistency",
+        "description": "Manual writing leads to errors. Our system ensures every proposal reflects Mvc's brand perfectly.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Increased Capacity",
+        "description": "Time spent drafting proposals is time away from clients. Automating this process allows Mvc to handle more projects.",
+        "tags": [
+          "Productivity",
+          "Capacity",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Real-Time Tracking",
+        "description": "Currently, Mvc can't track proposal views. Our system provides real-time analytics for immediate follow-ups.",
+        "tags": [
+          "Analytics",
+          "Insight",
+          "Follow-up"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "AI Chatbot",
+        "description": "Manual Q&A is time-consuming. Our integrated AI chatbot answers client questions instantly, enhancing engagement.",
+        "tags": [
+          "Engagement",
+          "AI",
+          "Support"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Mvc's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Mvc around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Mvc.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Elevate Acme Corp's Digital Presence with Mvc's Expertise",
+    "heroSubheadline": "A comprehensive strategy to boost engagement, conversion rates, and overall digital footprint.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently losing valuable revenue due to inefficiencies in digital engagement.",
+    "problems": [
+      {
+        "title": "Low Conversion Rates",
+        "description": "With a conversion rate below industry standards, Acme Corp is losing potential revenue every day. Optimizing this could increase sales by 20%."
+      },
+      {
+        "title": "Insufficient Online Traffic",
+        "description": "Acme Corp's website traffic is 30% below competitors, resulting in missed opportunities for brand exposure and customer acquisition."
+      },
+      {
+        "title": "Poor Brand Visibility",
+        "description": "A lack of cohesive branding across platforms is causing confusion, leading to a 15% drop in customer retention."
+      },
+      {
+        "title": "High Bounce Rates",
+        "description": "Current bounce rates are over 50%, indicating that half of your visitors leave without exploring your offerings."
+      },
+      {
+        "title": "Ineffective Social Media Engagement",
+        "description": "Engagement metrics are 40% lower than the industry average, which translates to lost community building and customer loyalty."
+      },
+      {
+        "title": "Underperforming Ad Campaigns",
+        "description": "Current ad campaigns are not optimized, leading to a 25% higher cost per acquisition than necessary."
+      }
+    ],
+    "solutionIntro": "Mvc offers targeted solutions to transform these challenges into opportunities for growth.",
+    "solutions": [
+      {
+        "icon": "💻",
+        "title": "Website Optimization",
+        "description": "Improve user experience and conversion rates, turning visitors into loyal customers.",
+        "tags": [
+          "UX",
+          "Conversion",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "SEO & SEM",
+        "description": "Enhance online visibility and drive qualified traffic to your site, increasing brand awareness.",
+        "tags": [
+          "Visibility",
+          "Traffic",
+          "Awareness"
+        ]
+      },
+      {
+        "icon": "📣",
+        "title": "Social Media Management",
+        "description": "Boost engagement and build a strong online community, fostering brand loyalty.",
+        "tags": [
+          "Engagement",
+          "Community",
+          "Loyalty"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Ad Campaign Optimization",
+        "description": "Maximize ROI by refining ad strategies and reducing cost per acquisition.",
+        "tags": [
+          "ROI",
+          "Strategy",
+          "Efficiency"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Increase in conversion rates"
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Growth in social media engagement"
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Boost in overall site traffic"
+      }
+    ],
+    "whyUsIntro": "Mvc is the strategic partner Acme Corp needs, combining expertise with proven results.",
+    "whyUsCards": [
+      {
+        "icon": "💼",
+        "title": "Proven Track Record",
+        "description": "Decades of experience in elevating brands to new heights."
+      },
+      {
+        "icon": "🎯",
+        "title": "Targeted Strategies",
+        "description": "Customized solutions that align with your specific business goals."
+      },
+      {
+        "icon": "👥",
+        "title": "Dedicated Support",
+        "description": "A committed team that stays with you every step of the way."
+      },
+      {
+        "icon": "🚀",
+        "title": "Innovative Solutions",
+        "description": "Leveraging cutting-edge technology to ensure your brand stands out."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "500",
+        "suffix": "+",
+        "label": "Successful campaigns"
+      },
+      {
+        "value": "20",
+        "suffix": "M",
+        "label": "Ad spend managed"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client satisfaction rate"
+      },
+      {
+        "value": "50",
+        "suffix": "+",
+        "label": "Awards won in marketing excellence"
+      }
+    ],
+    "teamIntro": "Meet the team that will drive Acme Corp's success.",
+    "team": {
+      "initials": "DB",
+      "name": "Dan Bailey",
+      "role": "Agency Owner",
+      "titleNote": "",
+      "bio": "Dan leads strategy and client relationships, ensuring that every project aligns with client goals and delivers measurable results.",
+      "linkedin": "",
+      "phone": "+1 818-718-2005"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Strategy",
+        "badge": "Weeks 1 to 3",
+        "description": "Understanding your business and goals to tailor a strategic plan.",
+        "bullets": [
+          "Business Analysis",
+          "Goal Setting"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Design & Development",
+        "badge": "Weeks 4 to 7",
+        "description": "Creating a user-centric design and developing a responsive site.",
+        "bullets": [
+          "Design Mockups",
+          "Site Development"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Testing & Optimization",
+        "badge": "Weeks 8 to 11",
+        "description": "Ensuring site functionality and optimizing for conversions.",
+        "bullets": [
+          "A/B Testing",
+          "Performance Optimization"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Launch & Support",
+        "badge": "Weeks 12 to 16",
+        "description": "Launching your project and providing ongoing support.",
+        "bullets": [
+          "Project Launch",
+          "Continuous Support"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment option that best suits your strategic needs.",
+    "pricing": [
+      {
+        "name": "Basic Plan",
+        "subtitle": "",
+        "description": "Ideal for small businesses looking to establish a digital presence.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "SEO & SEM",
+          "Basic Social Media Management"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Plan",
+        "subtitle": "",
+        "description": "Recommended for businesses aiming to significantly boost online performance.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Website Optimization",
+          "Advanced Social Media Management",
+          "Ad Campaign Optimization"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Plan",
+        "subtitle": "",
+        "description": "For large corporations ready to dominate their industry.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Comprehensive Digital Strategy",
+          "Full-Service Marketing Support"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Acme Corp's Future?",
+    "ctaDescription": "Let's discuss how we can drive your business forward. No commitment required.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "dandydan527@gmail.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Mvc",
+    "footerSub": "Strategic Solutions for Lasting Impact"
+  },
+  "enriched": {
+    "tone": "professional",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Dan",
+    "last_name": "Bailey",
+    "email": "dandydan527@gmail.com",
+    "company_phone": "+1 818-718-2005",
+    "mobile_number": "",
+    "company_name": "Mvc",
+    "company_website": "https://www.mvcagency.com",
+    "company_domain": "mvcagency.com",
+    "company_description": "An award-winning boutique agency based in Los Angeles, MVC specializes in influencing, evolving, and reinventing consumer taste by creating emotionally compelling brand experiences designed to connect and unite our clients with their audience.\n\nFor over 15 years, MVC has been working with lifestyle and taste-driven clients who wish to find their unique voice, identity, and exclusive position in the market. We help clients achieve sustained growth through ideas, strategies, and solutions that enrich the bottom line, positively influence consumers, and shape culture.",
+    "headline": "Mvc Insurance Agency",
+    "job_title": "Agency Owner",
+    "industry": "Marketing & Advertising",
+    "company_size": "7",
+    "company_technologies": "ai, mobile friendly, remote",
+    "city": "Brentwood",
+    "state": "California",
+    "country": "United States",
+    "company_full_address": "14724 Ventura Blvd #505, Sherman Oaks, CA 91403, US",
+    "seniority_level": "owner",
+    "company_annual_revenue_clean": "4.8M",
+    "linkedin": "https://www.linkedin.com/in/dan-bailey-82755130",
+    "company_linkedin": "https://www.linkedin.com/company/mvc-agency",
+    "company_founded_year": "1998",
+    "keywords": "graphic design, branding, brand identity, advertising, social media, web design, public relations, packaging design, marketing, business consultation, advertising services, consumer internet, consumers, internet, information technology & services, marketing & advertising",
+    "personalization": "Your team is in Brentwood, which might change how people see your LA branding.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
