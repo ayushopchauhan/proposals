@@ -1,0 +1,555 @@
+{
+  "slug": "tryaoc",
+  "companyName": "Tryaoc",
+  "contactName": "there",
+  "contactEmail": "chauhan@tryaoc.com",
+  "generationTime": 13,
+  "createdAt": "2026-03-15T03:31:19.235Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": "https://ayushopchauhan.com/og-image.svg"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // TRYAOC // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Tryaoc is losing 2,000 hours annually crafting proposals. Here is exactly where it goes.",
+    "heroSubheadline": "Currently, Tryaoc spends hours manually preparing each proposal. With our system, generate a full proposal in just 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Every issue below is a direct bleed from Tryaoc's resources.",
+    "problems": [
+      {
+        "title": "Time Sink",
+        "description": "Spending 5 hours per proposal means 2000 hours a year lost. That's time that could close deals or innovate new solutions."
+      },
+      {
+        "title": "High Labor Cost",
+        "description": "At an average of $50/hour, Tryaoc is burning $100,000 annually on proposal writing. This is money not spent on growth."
+      },
+      {
+        "title": "Inconsistent Branding",
+        "description": "Manual proposals vary in style. This inconsistency can erode brand trust, costing Tryaoc potential client confidence and loyalty."
+      },
+      {
+        "title": "Delayed Responses",
+        "description": "Manual processes delay proposal delivery by days. In fast-moving industries, this delay could mean losing a deal to a competitor."
+      },
+      {
+        "title": "Missed Opportunities",
+        "description": "Every hour spent writing proposals is an hour not spent prospecting new clients. This results in missed business opportunities."
+      },
+      {
+        "title": "Error Prone",
+        "description": "Manual entries lead to errors, costing Tryaoc credibility and potentially losing contracts. Each mistake is a strike against reputation."
+      }
+    ],
+    "solutionIntro": "Our AI system replaces every inefficient process with precision and speed.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals require hours of work. With this system, proposals are ready in 47 seconds.",
+        "tags": [
+          "Speed",
+          "Efficiency",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Cost Effective",
+        "description": "Today, labor costs for proposal writing are high. Our system slashes these costs dramatically.",
+        "tags": [
+          "Cost Savings",
+          "Profitability",
+          "Investment"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Consistent Branding",
+        "description": "Branding varies with manual work. Our system ensures every proposal aligns perfectly with Tryaoc's brand standards.",
+        "tags": [
+          "Brand Integrity",
+          "Consistency",
+          "Trust"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Real-Time Tracking",
+        "description": "Currently, proposal progress is unclear. Our system offers real-time tracking, enhancing accountability and client trust.",
+        "tags": [
+          "Transparency",
+          "Accountability",
+          "Client Confidence"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Error Reduction",
+        "description": "Manual processes are error-prone. Our system automates entries, significantly reducing mistakes.",
+        "tags": [
+          "Accuracy",
+          "Reliability",
+          "Quality Assurance"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Tryaoc's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Tryaoc around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Tryaoc.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp's Business with AI Automation.",
+    "heroSubheadline": "We propose a comprehensive AI automation strategy that will increase efficiency and drive growth.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently experiencing significant losses due to inefficiencies.",
+    "problems": [
+      {
+        "title": "Low Conversion Rates",
+        "description": "Every visitor who leaves your site without converting is revenue walking out the door. This results in a 30% revenue loss monthly."
+      },
+      {
+        "title": "Manual Process Bottlenecks",
+        "description": "Manual processes slow down operations, costing you an estimated 20 hours weekly and delaying project timelines."
+      },
+      {
+        "title": "High Operational Costs",
+        "description": "Inefficient workflows lead to increased operational costs, draining about 15% of your monthly budget."
+      },
+      {
+        "title": "Customer Churn",
+        "description": "Inconsistent customer experiences lead to a 10% increase in customer churn, impacting your bottom line."
+      },
+      {
+        "title": "Data Inaccuracy",
+        "description": "Inaccurate data inputs result in faulty decision-making, costing you approximately $5,000 in losses annually."
+      },
+      {
+        "title": "Limited Market Reach",
+        "description": "Without a scalable solution, expanding market reach is challenging, resulting in a 25% potential revenue loss."
+      }
+    ],
+    "solutionIntro": "Our solutions address these critical issues to optimize Acme Corp’s operations.",
+    "solutions": [
+      {
+        "icon": "🤖",
+        "title": "AI Automation Services",
+        "description": "Automate repetitive tasks to increase efficiency and reduce errors. This solution will save time and cut costs.",
+        "tags": [
+          "Efficiency",
+          "Cost Reduction",
+          "Scalability"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Data Analysis & Insights",
+        "description": "Improve decision-making with accurate data analysis. This will enhance strategic planning and reduce costly errors.",
+        "tags": [
+          "Data Accuracy",
+          "Strategic Planning",
+          "Decision-Making"
+        ]
+      },
+      {
+        "icon": "🌐",
+        "title": "Digital Transformation",
+        "description": "Upgrade your digital infrastructure to support growth. This will expand market reach and improve customer satisfaction.",
+        "tags": [
+          "Infrastructure",
+          "Market Reach",
+          "Customer Experience"
+        ]
+      },
+      {
+        "icon": "💼",
+        "title": "Process Optimization",
+        "description": "Streamline workflows to reduce operational costs and minimize bottlenecks. This ensures timely project delivery.",
+        "tags": [
+          "Workflow",
+          "Cost Savings",
+          "Efficiency"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Increase in efficiency"
+      },
+      {
+        "value": "15",
+        "suffix": "%",
+        "label": "Reduction in operational costs"
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Decrease in manual errors"
+      }
+    ],
+    "whyUsIntro": "Tryaoc is the technical partner Acme Corp needs.",
+    "whyUsCards": [
+      {
+        "icon": "💡",
+        "title": "Proven Expertise",
+        "description": "Our team has a track record of successful AI implementations that drive business growth."
+      },
+      {
+        "icon": "🔧",
+        "title": "Customized Solutions",
+        "description": "We tailor our services to meet your specific business needs, ensuring maximum impact."
+      },
+      {
+        "icon": "🔍",
+        "title": "Data-Driven Approach",
+        "description": "We rely on data to inform our strategies, ensuring measurable results."
+      },
+      {
+        "icon": "🤝",
+        "title": "Collaborative Partnership",
+        "description": "We work closely with your team to ensure seamless integration and success."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "500+",
+        "suffix": "projects",
+        "label": "Completed successfully"
+      },
+      {
+        "value": "98",
+        "suffix": "%",
+        "label": "Client satisfaction rate"
+      },
+      {
+        "value": "20",
+        "suffix": "+",
+        "label": "Industries served"
+      },
+      {
+        "value": "10",
+        "suffix": "years",
+        "label": "Experience in the field"
+      }
+    ],
+    "teamIntro": "Meet the dedicated team leading your project.",
+    "team": {
+      "initials": "tC",
+      "name": "there ",
+      "role": "Executive Director",
+      "titleNote": "",
+      "bio": "With over a decade of experience, our Executive Director excels in strategic planning and nurturing client relationships.",
+      "linkedin": "",
+      "phone": ""
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Analysis",
+        "badge": "Weeks 1 to 3",
+        "description": "Understanding your business needs and analyzing current processes.",
+        "bullets": [
+          "Stakeholder interviews",
+          "Process analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Creating a tailored strategy to address your specific challenges.",
+        "bullets": [
+          "Solution design",
+          "Approval process"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 10",
+        "description": "Executing the strategy with precision and care.",
+        "bullets": [
+          "System integration",
+          "Training sessions"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Optimization",
+        "badge": "Weeks 11 to 12",
+        "description": "Evaluating results and optimizing processes for continuous improvement.",
+        "bullets": [
+          "Performance review",
+          "Optimization recommendations"
+        ]
+      }
+    ],
+    "pricingIntro": "Explore our investment options for maximizing your growth.",
+    "pricing": [
+      {
+        "name": "Tier 1",
+        "subtitle": "",
+        "description": "Basic package for small-scale optimizations.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic automation",
+          "Monthly reporting"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Tier 2",
+        "subtitle": "",
+        "description": "Comprehensive solution for mid-sized businesses.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Advanced automation",
+          "Bi-weekly reporting",
+          "Dedicated support"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Tier 3",
+        "subtitle": "",
+        "description": "All-inclusive package for large-scale enterprises.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full automation suite",
+          "Weekly reporting",
+          "Priority support"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Begin Your Transformation with Tryaoc.",
+    "ctaDescription": "Let's discuss how we can elevate Acme Corp's operations. No commitment needed.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "chauhan@tryaoc.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Tryaoc",
+    "footerSub": "Driving Innovation Forward"
+  },
+  "enriched": {
+    "tone": "technical",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "email": "chauhan@tryaoc.com",
+    "first_name": "there",
+    "last_name": "",
+    "company_name": "Tryaoc",
+    "company_website": "https://tryaoc.com",
+    "company_domain": "tryaoc.com",
+    "industry": "",
+    "personalization": "",
+    "painStatement": "",
+    "proposal_id": "tryaoc"
+  }
+}
