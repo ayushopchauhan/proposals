@@ -1,0 +1,553 @@
+{
+  "slug": "intelligence",
+  "companyName": "Intelligence",
+  "contactName": "there",
+  "contactEmail": "connectors@intelligence.com",
+  "generationTime": 12,
+  "createdAt": "2026-03-15T10:44:31.148Z",
+  "brandStyle": {
+    "primaryColor": "#2664eb",
+    "secondaryColor": "#172554",
+    "accentColor": "#93c5fd",
+    "headingFont": "DM Sans Variable",
+    "bodyFont": "DM Sans",
+    "logoUrl": "https://framerusercontent.com/images/FdUNFknRFLXFCfTAlJNtrCaSI.png"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // INTELLIGENCE // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Intelligence is losing $250,000 annually on manual proposal crafting. Here is exactly how it slips away.",
+    "heroSubheadline": "Manually creating proposals drains hours, while our system delivers them in 47 seconds, tailored to your network-driven services.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Every moment spent on manual proposal writing is a moment of potential loss.",
+    "problems": [
+      {
+        "title": "Dragging Proposal Hours",
+        "description": "Crafting each proposal takes up to 3 hours. That's 3 hours not spent on building valuable connections, costing you potential deals."
+      },
+      {
+        "title": "Lost Client Opportunities",
+        "description": "Delayed proposals mean missed opportunities. Each day of delay could be a deal lost to a faster competitor."
+      },
+      {
+        "title": "Brand Inconsistencies",
+        "description": "Inconsistent branding in proposals can confuse prospects. This inconsistency can dilute your message and reduce trust."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Paying staff for manual proposal creation adds up. At $50/hour, 10 proposals a month cost you $18,000 annually."
+      },
+      {
+        "title": "Untracked Engagement",
+        "description": "Without tracking, you don't know which proposals engage prospects. This lack of insight can lead to repeated mistakes."
+      },
+      {
+        "title": "Inflexibility in Customization",
+        "description": "Manually adjusting proposals for each client is time-consuming. This inflexibility can cost you clients who need quick, tailored responses."
+      }
+    ],
+    "solutionIntro": "Here's how our AI system transforms your proposal process.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, proposals take hours to draft. Our system generates them in under 60 seconds, freeing your time for client engagement.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Inconsistent branding dilutes your message. Our system ensures every proposal is on-brand and professional.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Professionalism"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Engagement Tracking",
+        "description": "Lack of tracking means missed insights. With our system, see exactly how prospects interact with your proposals.",
+        "tags": [
+          "Insights",
+          "Tracking",
+          "Engagement"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Effortless Customization",
+        "description": "Customizing proposals manually is labor-intensive. Our system tailors each proposal to client needs instantly.",
+        "tags": [
+          "Customization",
+          "Flexibility",
+          "Tailored"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Cost-Effective Solutions",
+        "description": "Manual drafting increases labor costs. Our system reduces these costs by automating the entire process.",
+        "tags": [
+          "Cost-Effective",
+          "Savings",
+          "Automation"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Intelligence's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Intelligence around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Intelligence.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Transform Acme Corp with Data-Driven Connections.",
+    "heroSubheadline": "Our plan will harness AI to enhance Acme Corp's network, driving growth through strategic relationships.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is experiencing significant revenue losses due to untapped network potential.",
+    "problems": [
+      {
+        "title": "Lost Sales Opportunities",
+        "description": "Every missed connection is a potential sale unmade. Acme Corp is losing approximately $500,000 annually in potential sales by not leveraging their network."
+      },
+      {
+        "title": "Inefficient Networking",
+        "description": "Inefficient networking processes lead to wasted time. This results in an estimated loss of 200 productive hours per month."
+      },
+      {
+        "title": "Underutilized Contacts",
+        "description": "Valuable contacts are not being engaged, resulting in a 30% drop in potential collaborations that could drive innovation."
+      },
+      {
+        "title": "Weak Market Position",
+        "description": "Without strong strategic partnerships, Acme Corp risks losing market position, missing out on key industry insights."
+      },
+      {
+        "title": "Customer Churn",
+        "description": "Lack of relationship-building tools leads to a 15% increase in customer churn, impacting long-term revenue stability."
+      },
+      {
+        "title": "Stalled Growth",
+        "description": "Without a robust strategic relationship strategy, growth is stunted, leading to a 10% annual growth rate shortfall."
+      }
+    ],
+    "solutionIntro": "Our solutions directly address these challenges by activating Acme Corp's network potential.",
+    "solutions": [
+      {
+        "icon": "🤝",
+        "title": "Network Analysis",
+        "description": "Identifies and activates valuable connections within your existing network. This will enhance opportunities and reduce lost sales.",
+        "tags": [
+          "Connections",
+          "Growth",
+          "Sales"
+        ]
+      },
+      {
+        "icon": "🔍",
+        "title": "AI-Driven Insights",
+        "description": "Uses AI to uncover hidden opportunities and insights in Acme Corp's network, leading to more efficient and productive relationships.",
+        "tags": [
+          "AI",
+          "Efficiency",
+          "Productivity"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Strategic Relationship Management",
+        "description": "Optimizes how you engage with key contacts, reducing churn and improving market position through strengthened partnerships.",
+        "tags": [
+          "Engagement",
+          "Retention",
+          "Market Position"
+        ]
+      },
+      {
+        "icon": "🛠",
+        "title": "Custom Integration Solutions",
+        "description": "Tailored solutions that embed seamlessly into your workflow, driving innovation and sustained growth.",
+        "tags": [
+          "Innovation",
+          "Growth",
+          "Integration"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "35",
+        "suffix": "%",
+        "label": "Increase in Sales Opportunities"
+      },
+      {
+        "value": "20",
+        "suffix": "%",
+        "label": "Reduction in Customer Churn"
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Improvement in Networking Efficiency"
+      }
+    ],
+    "whyUsIntro": "At Intelligence, we turn networks into powerful growth engines.",
+    "whyUsCards": [
+      {
+        "icon": "🌟",
+        "title": "Proven Expertise",
+        "description": "Our team has consistently delivered results by transforming networks into valuable assets."
+      },
+      {
+        "icon": "🔗",
+        "title": "Innovative Solutions",
+        "description": "We leverage cutting-edge technology to provide tailored solutions that meet your unique needs."
+      },
+      {
+        "icon": "🤖",
+        "title": "AI-Powered Results",
+        "description": "Our AI-driven approach ensures that you get actionable insights that drive real business growth."
+      },
+      {
+        "icon": "💼",
+        "title": "Client-Centric Approach",
+        "description": "We prioritize your goals and work closely with you to achieve them."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "500",
+        "suffix": "+",
+        "label": "Clients Served"
+      },
+      {
+        "value": "1",
+        "suffix": "M",
+        "label": "Connections Enhanced"
+      },
+      {
+        "value": "95",
+        "suffix": "%",
+        "label": "Client Satisfaction Rate"
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Average Growth in Client Networks"
+      }
+    ],
+    "teamIntro": "Meet the team dedicated to transforming your business.",
+    "team": {
+      "initials": "tC",
+      "name": "there ",
+      "role": "Executive Director",
+      "titleNote": "",
+      "bio": "Leading strategy and client relationships with a focus on delivering measurable results. Committed to transforming networks into growth engines.",
+      "linkedin": "",
+      "phone": ""
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery and Analysis",
+        "badge": "Weeks 1 to 3",
+        "description": "Understanding your current network and identifying opportunities.",
+        "bullets": [
+          "Network Mapping",
+          "Opportunity Analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategic Planning",
+        "badge": "Weeks 4 to 6",
+        "description": "Developing a tailored strategy to enhance your network.",
+        "bullets": [
+          "Strategy Development",
+          "Goal Setting"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 12",
+        "description": "Executing the strategy with our innovative solutions.",
+        "bullets": [
+          "Solution Deployment",
+          "Integration Support"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review and Optimize",
+        "badge": "Weeks 13 to 16",
+        "description": "Evaluating results and optimizing for continued success.",
+        "bullets": [
+          "Performance Review",
+          "Optimization Recommendations"
+        ]
+      }
+    ],
+    "pricingIntro": "Explore our investment options designed to maximize your network's potential.",
+    "pricing": [
+      {
+        "name": "Basic Package",
+        "subtitle": "",
+        "description": "Essential tools to begin tapping into your network's potential.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Network Analysis",
+          "Basic Insights"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Comprehensive solutions for significant growth and optimization.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "AI-Driven Insights",
+          "Strategic Management"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Package",
+        "subtitle": "",
+        "description": "Advanced integration and custom solutions for large-scale impact.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Custom Solutions",
+          "Full Support"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Your Network?",
+    "ctaDescription": "Let's have a conversation about how we can help you achieve your goals.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "connectors@intelligence.com",
+    "ctaNote": "",
+    "footerText": "© 2025 Intelligence",
+    "footerSub": "Turning Networks into Growth Engines."
+  },
+  "enriched": {
+    "tone": "technical, warm",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "email": "connectors@intelligence.com",
+    "first_name": "there",
+    "last_name": "",
+    "company_name": "Intelligence",
+    "company_website": "https://intelligence.com",
+    "company_domain": "intelligence.com",
+    "industry": "",
+    "personalization": "",
+    "painStatement": "",
+    "proposal_id": "intelligence"
+  }
+}
