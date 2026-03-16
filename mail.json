@@ -1,0 +1,553 @@
+{
+  "slug": "mail",
+  "companyName": "Mail",
+  "contactName": "there",
+  "contactEmail": "contact@mail.hunter.io",
+  "generationTime": 12,
+  "createdAt": "2026-03-16T03:34:56.475Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": "https://hunter.io/assets/canva-NDW-0Zm4.svg"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // MAIL // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Mail is burning 1,000 hours a year on proposals. Here is exactly where it goes.",
+    "heroSubheadline": "Currently, Mail spends hours manually crafting proposals. With our system, generate them in just 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Each problem below highlights a critical ongoing loss for Mail.",
+    "problems": [
+      {
+        "title": "Wasted Sales Time",
+        "description": "Every hour spent on proposal writing is an hour not spent closing deals. Mail loses potential revenue opportunities due to this inefficiency."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Inconsistent branding in proposals costs you deals. Unprofessional presentations can damage Mail's reputation and lead to lost clients."
+      },
+      {
+        "title": "Manual Errors",
+        "description": "Errors in proposals cause confusion and mistrust. Each mistake can cost thousands in lost business opportunities for Mail."
+      },
+      {
+        "title": "Delayed Responses",
+        "description": "Slow proposal turnaround times frustrate prospects. Each delay risks losing interest, resulting in potential revenue slipping away."
+      },
+      {
+        "title": "High Labor Costs",
+        "description": "Manual proposal creation involves high labor costs. Paying for hours of work adds up, impacting Mail's bottom line significantly."
+      },
+      {
+        "title": "Missed Opportunities",
+        "description": "Every missed connection due to slow proposals means lost business. In a competitive market, delays can make prospects choose competitors instead."
+      }
+    ],
+    "solutionIntro": "Our AI system replaces all these inefficiencies with a streamlined process.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Currently, creating a proposal takes hours of manual effort. Our system delivers a complete, branded proposal in under 60 seconds.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "Consistent Branding",
+        "description": "Branding inconsistencies can lose deals. Our AI ensures every proposal aligns perfectly with Mail's brand.",
+        "tags": [
+          "Branding",
+          "Professionalism",
+          "Consistency"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Error-Free Proposals",
+        "description": "Manual processes invite errors. Our system generates precise proposals every time, eliminating costly mistakes.",
+        "tags": [
+          "Accuracy",
+          "Reliability",
+          "Precision"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Rapid Response",
+        "description": "Delayed proposals lose clients. With our AI, respond instantly and keep prospects engaged with fast turnaround.",
+        "tags": [
+          "Speed",
+          "Engagement",
+          "Responsiveness"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Reduced Labor Costs",
+        "description": "Manual work inflates costs. Our automation cuts labor expenses, improving Mail's profitability.",
+        "tags": [
+          "Cost Savings",
+          "Profitability",
+          "Efficiency"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Mail's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for Mail around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for Mail.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Enhance Acme Corp's Lead Generation Efficiency with Mail's Expertise.",
+    "heroSubheadline": "We propose a strategic engagement to optimize your customer acquisition processes and increase conversion rates.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is experiencing significant losses due to inefficient lead conversion.",
+    "problems": [
+      {
+        "title": "High Bounce Rate",
+        "description": "Every visitor who leaves your site without engaging is a potential customer lost. This could equate to losing up to 20% of your potential revenue."
+      },
+      {
+        "title": "Inefficient Ad Spend",
+        "description": "Spending on ads that don't convert means wasted resources. This could be costing up to 15% of your marketing budget annually."
+      },
+      {
+        "title": "Low Email Engagement",
+        "description": "Emails that aren't opened or clicked reduce your reach. This results in losing potential sales opportunities by 25%."
+      },
+      {
+        "title": "Poor Customer Targeting",
+        "description": "Not reaching the right audience means missed connections. This can lead to a 30% decrease in potential leads."
+      },
+      {
+        "title": "Inadequate CRM Utilization",
+        "description": "Not fully utilizing CRM capabilities leads to inefficient customer management, resulting in a 20% loss in repeat business."
+      },
+      {
+        "title": "Limited Brand Awareness",
+        "description": "Without a strong brand presence, potential customers might choose competitors, leading to a 10% loss of market share."
+      }
+    ],
+    "solutionIntro": "Our solutions directly address these losses by enhancing lead generation and conversion efforts.",
+    "solutions": [
+      {
+        "icon": "🚀",
+        "title": "Advanced Lead Identification",
+        "description": "Identify and target high-value prospects more effectively, minimizing wasted efforts on non-converting leads.",
+        "tags": [
+          "Lead Generation",
+          "Targeting",
+          "Optimization"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Strategic Ad Campaigns",
+        "description": "Optimize ad spend by focusing on high-conversion channels, reducing waste and increasing ROI.",
+        "tags": [
+          "Ad Optimization",
+          "ROI",
+          "Efficiency"
+        ]
+      },
+      {
+        "icon": "💌",
+        "title": "Enhanced Email Campaigns",
+        "description": "Increase email engagement rates by segmenting audiences and personalizing content.",
+        "tags": [
+          "Email Marketing",
+          "Engagement",
+          "Personalization"
+        ]
+      },
+      {
+        "icon": "🔍",
+        "title": "CRM Optimization",
+        "description": "Leverage CRM tools to foster stronger customer relationships and improve retention rates.",
+        "tags": [
+          "CRM",
+          "Customer Retention",
+          "Relationship Management"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Increase in Lead Conversion Rate"
+      },
+      {
+        "value": "20",
+        "suffix": "%",
+        "label": "Reduction in Ad Spend Waste"
+      },
+      {
+        "value": "25",
+        "suffix": "%",
+        "label": "Improvement in Email Engagement"
+      }
+    ],
+    "whyUsIntro": "Mail offers the technical expertise and strategic insight to transform Acme Corp's lead generation efforts.",
+    "whyUsCards": [
+      {
+        "icon": "💡",
+        "title": "Proven Expertise",
+        "description": "Our team has a track record of enhancing lead generation for top-tier clients."
+      },
+      {
+        "icon": "📊",
+        "title": "Data-Driven Approach",
+        "description": "We use data analytics to drive decision-making and deliver measurable results."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Focus",
+        "description": "We prioritize client goals and tailor strategies to meet your specific needs."
+      },
+      {
+        "icon": "🔧",
+        "title": "Comprehensive Solutions",
+        "description": "Our services cover all aspects of digital marketing, ensuring a cohesive strategy."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Average Increase in Client ROI"
+      },
+      {
+        "value": "50",
+        "suffix": "%",
+        "label": "Client Repeat Engagement Rate"
+      },
+      {
+        "value": "35",
+        "suffix": "%",
+        "label": "Average Client Revenue Growth"
+      },
+      {
+        "value": "20",
+        "suffix": "years",
+        "label": "Industry Experience"
+      }
+    ],
+    "teamIntro": "Meet the team dedicated to driving Acme Corp's success.",
+    "team": {
+      "initials": "tC",
+      "name": "there ",
+      "role": "Executive Director",
+      "titleNote": "",
+      "bio": "With over a decade in digital strategy, I lead our client relationships and strategic initiatives. My focus is ensuring that our solutions align with your business goals.",
+      "linkedin": "",
+      "phone": ""
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "16 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Strategy",
+        "badge": "Weeks 1 to 3",
+        "description": "Understanding your business and setting strategic goals.",
+        "bullets": [
+          "Initial consultation",
+          "Market analysis"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Implementation",
+        "badge": "Weeks 4 to 8",
+        "description": "Deploying strategic solutions across channels.",
+        "bullets": [
+          "Campaign setup",
+          "System integration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Optimization",
+        "badge": "Weeks 9 to 12",
+        "description": "Refining strategies for maximum efficiency.",
+        "bullets": [
+          "Performance analysis",
+          "Strategy adjustment"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Reporting",
+        "badge": "Weeks 13 to 16",
+        "description": "Evaluating outcomes and planning next steps.",
+        "bullets": [
+          "Final report",
+          "Future recommendations"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose from our tailored investment options to meet your needs.",
+    "pricing": [
+      {
+        "name": "Basic Plan",
+        "subtitle": "",
+        "description": "Ideal for small-scale campaigns looking for foundational improvements.",
+        "amount": "$4,500/mo",
+        "period": "",
+        "features": [
+          "Basic lead generation",
+          "Email campaign setup"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Professional Plan",
+        "subtitle": "",
+        "description": "Our recommended option for businesses ready to scale their lead generation efforts.",
+        "amount": "$8,500/mo",
+        "period": "",
+        "features": [
+          "Comprehensive lead generation",
+          "Advanced CRM optimization"
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Plan",
+        "subtitle": "",
+        "description": "Perfect for large enterprises seeking extensive, customized solutions.",
+        "amount": "$15,000/mo",
+        "period": "",
+        "features": [
+          "Full-service marketing",
+          "Dedicated account management"
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Transform Your Lead Generation?",
+    "ctaDescription": "Let's talk about how we can tailor our solutions to meet your specific needs.",
+    "ctaButtonText": "Schedule a Call",
+    "ctaLink": "https://cal.com/ayushopchauhan/15min",
+    "ctaEmail": "contact@mail.hunter.io",
+    "ctaNote": "",
+    "footerText": "© 2025 Mail",
+    "footerSub": "Empowering Your Business Through Strategic Solutions."
+  },
+  "enriched": {
+    "tone": "technical, corporate",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "email": "contact@mail.hunter.io",
+    "first_name": "there",
+    "last_name": "",
+    "company_name": "Mail",
+    "company_website": "https://mail.hunter.io",
+    "company_domain": "mail.hunter.io",
+    "industry": "",
+    "personalization": "",
+    "painStatement": "",
+    "proposal_id": "mail"
+  }
+}
