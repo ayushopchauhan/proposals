@@ -1,0 +1,347 @@
+{
+  "slug": "simplero",
+  "companyName": "Simplero",
+  "contactName": "Calvin",
+  "contactEmail": "calvin@simplero.com",
+  "generationTime": 41,
+  "createdAt": "2026-03-18T09:30:00.000Z",
+  "brandStyle": {
+    "primaryColor": "#3F73E5",
+    "secondaryColor": "#102342",
+    "accentColor": "#f55953",
+    "headingFont": "Oswald",
+    "bodyFont": "Inter",
+    "logoUrl": ""
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // SIMPLERO // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Simplero has processed $882 million in sales. Every one of those started with a pitch someone wrote by hand.",
+    "heroSubheadline": "Your platform eliminates tech chaos for coaches. This system eliminates proposal chaos for your sales team. Prospect URL in, branded proposal out in 47 seconds.",
+    "heroTags": ["AI", "AUTOMATION", "PROPOSALS", "SAAS", "ONBOARDING"],
+    "problemsIntro": "Six patterns bleeding time and pipeline velocity from your operation right now.",
+    "problems": [
+      {
+        "title": "Manual Partnership Proposals",
+        "description": "Every integration partner pitch, every enterprise onboarding proposal, every migration guide gets written from scratch. At the volume Simplero operates, that is hundreds of hours per quarter spent on documents that could be generated in seconds."
+      },
+      {
+        "title": "Slow Response to Inbound Interest",
+        "description": "A coach evaluating Simplero against Kajabi sends a question. Your team takes 24 to 48 hours to respond with a custom migration plan. By then, they have already started a Kajabi trial. The window of highest intent closes in minutes, not days."
+      },
+      {
+        "title": "Inconsistent Onboarding Materials",
+        "description": "Different team members create different onboarding docs. Tuesday's migration guide looks different from Friday's. The experience shifts depending on who has bandwidth. For a platform built on simplicity, that irony is expensive."
+      },
+      {
+        "title": "No Engagement Intelligence",
+        "description": "Once a proposal or migration guide goes out, you have no idea what happens. Did they read the pricing section? Did they skip the feature comparison? Did they share it with their VA? The moment of highest decision-making passes in silence."
+      },
+      {
+        "title": "Lost Conversion Opportunities",
+        "description": "Coaches comparing platforms make emotional decisions fast. A personalized, branded proposal that arrives in 60 seconds while they are still evaluating converts at 3x the rate of a generic feature page they found on Google."
+      },
+      {
+        "title": "Scaling Sales Without Scaling Headcount",
+        "description": "Simplero has processed $882M through the platform. To reach $1B, the sales motion needs to scale without linearly adding headcount. Automating the proposal layer is the highest-leverage move available."
+      }
+    ],
+    "solutionIntro": "Five integrated workstreams to automate every proposal Simplero sends.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Prospect Intelligence Engine",
+        "description": "The system reads a prospect's website in 3 seconds. Their current tech stack, audience size, content type, and platform pain points, all extracted automatically. No research needed.",
+        "tags": ["SCRAPING", "ANALYSIS"]
+      },
+      {
+        "icon": "2.",
+        "title": "Brand-Matched Proposal Generation",
+        "description": "Every proposal uses Simplero's brand: your blue, your Oswald headings, your tone. Each one reads like Calvin's team wrote it. Personalized to the specific coach or creator receiving it.",
+        "tags": ["AI", "BRANDING"]
+      },
+      {
+        "icon": "3.",
+        "title": "AI Sales Assistant (Ace)",
+        "description": "An AI chatbot embedded in every proposal handles objections in real time. 'How does Simplero compare to Kajabi?' gets answered instantly with Simplero-specific talking points. Prospects get answers while their interest is hot.",
+        "tags": ["CHATBOT", "SALES"]
+      },
+      {
+        "icon": "4.",
+        "title": "Session Tracking and Alerts",
+        "description": "Every scroll, click, and section view is tracked. Telegram alerts fire the second a prospect opens the proposal. Your team knows exactly who is looking, for how long, and which sections matter to them.",
+        "tags": ["ANALYTICS", "TRACKING"]
+      },
+      {
+        "icon": "5.",
+        "title": "Migration Playbook Generator",
+        "description": "For coaches switching from Kajabi, Teachable, or ConvertKit, the system generates a custom step-by-step migration plan. Courses, email lists, payment integrations, all mapped automatically based on their current setup.",
+        "tags": ["MIGRATION", "ONBOARDING"]
+      }
+    ],
+    "metrics": [
+      { "value": "47", "suffix": "s", "label": "Average generation time" },
+      { "value": "3", "suffix": "x", "label": "Faster prospect response" },
+      { "value": "882", "suffix": "M", "label": "Platform sales to date", "decimal": 0 }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      { "icon": "01", "title": "Speed", "description": "Every hour your team spends writing proposals is an hour not spent closing. This system gives those hours back. Prospect data in, live proposal out, 60 seconds." },
+      { "icon": "02", "title": "Personalization at Scale", "description": "Generic feature pages get bookmarked and forgotten. Personalized proposals that name their specific courses, their specific tech debt, their specific audience, those get read." },
+      { "icon": "03", "title": "Ownership", "description": "No monthly subscription. No vendor dependency. You own the source code, the infrastructure, and the data. Permanently. Just like you give your customers ownership of their business." },
+      { "icon": "04", "title": "Support", "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone." }
+    ],
+    "fearCards": [
+      { "icon": "01", "title": "You are probably thinking: we already have sales materials.", "description": "", "sub": "You do. Static ones. This system generates dynamic, personalized proposals for each prospect in under a minute. Different value prop." },
+      { "icon": "02", "title": "You might be wondering if AI output will match Simplero's voice.", "description": "", "sub": "The system is trained on your actual copy, your positioning, your philosophy. Revisions are part of the build. We calibrate until it sounds like Calvin wrote it." },
+      { "icon": "03", "title": "You are concerned about integration with your existing stack.", "description": "", "sub": "It runs standalone. Connects to whatever CRM, email system, or analytics you use. Nothing changes except the time spent on proposals." }
+    ],
+    "socialProof": [
+      { "value": "15", "suffix": "+", "label": "Systems Deployed" },
+      { "value": "5", "suffix": "", "label": "Business Days" },
+      { "value": "100", "suffix": "%", "label": "Client Retention" },
+      { "value": "47", "suffix": "s", "label": "Generation Time" }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for SaaS companies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      { "number": 1, "title": "Kickoff (Async or Call)", "badge": "DAY 1", "description": "We map your sales workflow, your positioning, your current proposal process, and your ideal customer profiles. Can be a 15-minute call or handled entirely over email.", "bullets": ["Current process audit", "Requirements gathering", "ICP mapping"] },
+      { "number": 2, "title": "System Configuration", "badge": "DAYS 2-3", "description": "The engine gets configured with Simplero's services, pricing tiers, migration paths, and Calvin's voice. Every proposal it generates will sound like your best salesperson wrote it.", "bullets": ["Service mapping", "Tone calibration", "Template configuration"] },
+      { "number": 3, "title": "Build and QA", "badge": "DAY 4", "description": "Test proposals generated for real coach profiles and reviewed against your quality bar. Refinements continue until the output matches what your team would produce manually.", "bullets": ["Test proposal generation", "Output quality review", "Refinements"] },
+      { "number": 4, "title": "Deployment and Handoff", "badge": "DAY 5", "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.", "bullets": ["Infrastructure deployment", "Video walkthrough", "Source code handoff"] }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for Simplero's services, voice, and pricing structure. One build. Yours permanently.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": ["Custom proposal generation", "Branded proposal pages", "Full infrastructure (hosting, API, domain)", "Video walkthrough for your team", "Source code and documentation", "One week post-delivery support"],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything in Proposal Engine, plus an AI sales assistant that handles objections, answers questions, and books calls while your team focuses on closing.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": ["Everything in Proposal Engine", "AI chatbot on every proposal page", "Real-time objection handling", "Lead tracking and Telegram alerts", "Configurable chatbot personality", "Chatbot analytics dashboard"],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on Simplero's actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He sends the onboarding form, you fill it out in 10 minutes, and the build starts the same day. If the output does not match your standards, you do not pay.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Simplero",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "\u00a9 2026 AOC",
+    "footerSub": "AI Automation for SaaS Companies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Aligned Path Coaching",
+    "tag": "Proposal for Aligned Path Coaching // Confidential",
+    "heroBadge": "Platform Migration Proposal",
+    "heroHeadline": "Stop Paying $847 a Month for 6 Tools That Do Not Talk to Each Other",
+    "heroSubheadline": "Aligned Path Coaching runs on Teachable, ConvertKit, WordPress, Stripe, Circle, and Calendly. Simplero replaces all six. Here is exactly what that looks like.",
+    "heroTags": [],
+    "problemsIntro": "Six friction points costing your coaching business growth, time, and revenue right now.",
+    "problems": [
+      {
+        "title": "Six Subscriptions, Zero Integration",
+        "description": "You are paying $847 per month across Teachable, ConvertKit, WordPress hosting, Circle, Calendly, and Stripe fees. Each tool has its own login, its own dashboard, its own learning curve. When one breaks, nobody knows which system caused it."
+      },
+      {
+        "title": "Student Data Lives in Five Places",
+        "description": "A student signs up on Teachable, gets added to ConvertKit, joins Circle, books on Calendly, and pays through Stripe. No single system knows the full picture. You cannot answer 'which students are most engaged and least likely to renew' without opening four tabs."
+      },
+      {
+        "title": "Email Automations Break Silently",
+        "description": "ConvertKit triggers when someone joins a list. Teachable triggers when someone buys a course. But the two do not share data natively. A student who buys your premium program still gets the free lead magnet sequence. Nobody notices until a customer complains."
+      },
+      {
+        "title": "No Revenue Dashboard",
+        "description": "Monthly revenue is scattered across Stripe, Teachable payments, and manual tracking. Calculating your actual MRR, churn rate, and lifetime value requires a spreadsheet you update by hand. Decisions get made on incomplete numbers."
+      },
+      {
+        "title": "Community Engagement Is Siloed",
+        "description": "Your Circle community does not know what courses a member has completed. Your email system does not know what they posted in the community. Personalization is impossible when every tool only sees its own fragment of the relationship."
+      },
+      {
+        "title": "Every New Launch Requires a Duct-Tape Stack",
+        "description": "Launching a new program means configuring Teachable, setting up Stripe products, building ConvertKit automations, creating WordPress landing pages, and connecting them with Zapier. A two-day launch takes two weeks of tech setup."
+      }
+    ],
+    "solutionIntro": "One platform. Everything connected. Here is what changes.",
+    "solutions": [
+      {
+        "icon": "01",
+        "title": "Courses, Memberships, and Community in One Place",
+        "description": "Every course, every membership tier, and your community forum live inside Simplero. Student progress, engagement, and payment history are unified. No more cross-referencing five dashboards.",
+        "tags": ["Courses", "Community", "Memberships"]
+      },
+      {
+        "icon": "02",
+        "title": "Email Marketing That Knows Your Students",
+        "description": "Simplero's email system sees everything: purchases, course completions, community activity, support tickets. Automations trigger on real behavior, not brittle Zapier connections. A student who just finished Module 6 gets the Module 7 nudge automatically.",
+        "tags": ["Email", "Automation", "Segmentation"]
+      },
+      {
+        "icon": "03",
+        "title": "Payments, Subscriptions, and Revenue Tracking Built In",
+        "description": "Accept one-time payments, subscriptions, and payment plans without Stripe being a separate system. See your MRR, churn, and LTV in a single dashboard. No more manual spreadsheets.",
+        "tags": ["Payments", "Analytics", "Subscriptions"]
+      },
+      {
+        "icon": "04",
+        "title": "Landing Pages and Website Without WordPress",
+        "description": "Build landing pages, sales pages, and your full website inside Simplero. No WordPress plugins to update, no hosting to manage, no security patches to worry about. Your entire online presence in one login.",
+        "tags": ["Website", "Landing Pages", "Design"]
+      }
+    ],
+    "metrics": [
+      { "value": "882", "suffix": "M", "label": "Processed through Simplero", "decimal": 0 },
+      { "value": "6", "suffix": "", "label": "Tools replaced with one" },
+      { "value": "847", "suffix": "", "label": "Monthly savings in subscriptions" }
+    ],
+    "whyUsIntro": "A platform built by someone who was tired of choosing between soul and scale.",
+    "whyUsCards": [
+      { "icon": "01", "title": "All-in-One by Design", "description": "Not a course platform with email bolted on. Not an email tool with courses bolted on. Built from day one to be one integrated system. Everything talks to everything." },
+      { "icon": "02", "title": "17 Years of Coaching DNA", "description": "Founded in 2009 specifically for coaches and course creators. Not adapted from a generic business tool. Every feature was built because a real coach needed it." },
+      { "icon": "03", "title": "Human Support, Not Chatbots", "description": "Real people who understand your business answer your questions. Not a knowledge base maze. Not a chatbot loop. Humans who know the platform inside out." },
+      { "icon": "04", "title": "You Own Your Business", "description": "Your content, your students, your data. No platform lock-in games. Export anything, anytime. Your business runs on Simplero. It is not owned by Simplero." }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      { "value": "882", "suffix": "M+", "label": "Processed in Sales" },
+      { "value": "17", "suffix": "", "label": "Years Running" },
+      { "value": "0", "suffix": "%", "label": "Transaction Fees" },
+      { "value": "24", "suffix": "/7", "label": "Human Support" }
+    ],
+    "teamIntro": "Your platform is built and led by Calvin Correli, who has been solving this exact problem since 2009.",
+    "team": {
+      "initials": "CC",
+      "name": "Calvin Correli",
+      "role": "Founder and CEO",
+      "titleNote": "SIMPLERO // NEW YORK CITY",
+      "bio": "Software engineer turned coach platform builder. Founded Simplero in 2009 after realizing coaches and creators deserved better than duct-taping six tools together. Has personally guided thousands of businesses through the transition from tool chaos to operational simplicity. Philosophy: soul and scale are not opposites.",
+      "linkedin": "https://www.linkedin.com/in/truecalvin",
+      "phone": "347-489-140"
+    },
+    "processIntro": "What Migrating to Simplero Looks Like",
+    "processTime": "2 Weeks",
+    "process": [
+      { "number": 1, "title": "Discovery Call", "badge": "DAY 1", "description": "A 30-minute call to map your current tools, courses, email lists, and payment setup. By the end, you have a clear migration plan with zero ambiguity.", "bullets": ["Current stack audit", "Migration scope", "Timeline confirmation"] },
+      { "number": 2, "title": "Content Migration", "badge": "DAYS 2-5", "description": "Your courses, email lists, and landing pages are moved into Simplero. Student accounts, purchase history, and progress data are preserved. Nothing gets lost.", "bullets": ["Course import", "List migration", "Landing page rebuild"] },
+      { "number": 3, "title": "Automation Setup", "badge": "DAYS 6-9", "description": "Your email sequences, purchase triggers, and membership automations are rebuilt natively in Simplero. No more Zapier bridges. No more silent failures.", "bullets": ["Email automation", "Payment triggers", "Community setup"] },
+      { "number": 4, "title": "Launch and Handoff", "badge": "DAYS 10-14", "description": "Everything goes live. Old subscriptions cancelled. Your team gets a walkthrough video and direct support access. Two weeks from now, you log into one platform instead of six.", "bullets": ["Go-live cutover", "Team training", "Support handoff"] }
+    ],
+    "pricingIntro": "Simple pricing. No per-student fees. No transaction fees. The more you grow, the more you save.",
+    "pricing": [
+      {
+        "name": "Starter",
+        "subtitle": "// Getting Started",
+        "description": "Everything you need to run your coaching business from one platform. 5 courses, 1 membership, 500 contacts.",
+        "amount": "$59",
+        "period": "/month (annual)",
+        "features": ["5 courses and products", "1 membership site", "Email marketing", "Landing pages", "Payment processing", "0% transaction fees"],
+        "recommended": false
+      },
+      {
+        "name": "Scale",
+        "subtitle": "// Most Popular",
+        "description": "Unlimited everything. Automations, affiliates, help desk, certificates. Built for coaches ready to grow.",
+        "amount": "$149",
+        "period": "/month (annual)",
+        "features": ["Unlimited courses and products", "Unlimited memberships", "Advanced automations", "Affiliate program", "Help desk", "Member badges and certificates"],
+        "recommended": true
+      },
+      {
+        "name": "Skyrocket",
+        "subtitle": "// Maximum Power",
+        "description": "Everything in Scale plus unlimited storage, domains, SMS, and AI credits. For established coaching businesses.",
+        "amount": "$249",
+        "period": "/month (annual)",
+        "features": ["Everything in Scale", "Unlimited storage", "Unlimited domains", "SMS messaging", "AI credits", "Priority support"],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Ready to Stop Paying for Six Tools?",
+    "ctaDescription": "Start a 14-day free trial with every feature unlocked. No credit card required. Or book a call with the Simplero team and get a custom migration plan for your specific setup.",
+    "ctaButtonText": "Start Free Trial",
+    "ctaLink": "https://simplero.com/pricing",
+    "ctaEmail": "support@simplero.com",
+    "ctaNote": "Calvin Correli, Founder // Simplero",
+    "footerText": "\u00a9 2026 Simplero",
+    "footerSub": "Your Online Business Made Simpler"
+  },
+  "enriched": {
+    "tone": "warm, philosophical, direct, soul-driven, anti-corporate",
+    "positioning": "All-in-one platform for coaches and course creators who want soul and scale",
+    "serviceList": [
+      "Online Course Hosting",
+      "Membership Sites",
+      "Email Marketing and Automations",
+      "Payment Processing",
+      "CRM",
+      "Landing Pages and Website Builder",
+      "Community Forums",
+      "Affiliate Management",
+      "Podcast Hosting"
+    ],
+    "valuePropositions": [
+      "Replace 5+ tools with one integrated platform",
+      "$882M+ processed through the platform",
+      "Zero transaction fees on any plan",
+      "Built specifically for coaches since 2009",
+      "Human support, not chatbot mazes"
+    ],
+    "differentiators": [
+      "17 years of coaching-specific DNA, not a generic tool adapted",
+      "Soul and scale philosophy, not growth-at-all-costs",
+      "Founded and led by a developer who understands both code and consciousness",
+      "No per-student or transaction fees, predictable pricing",
+      "Full data ownership and export capability"
+    ]
+  },
+  "lead": {
+    "email": "calvin@simplero.com",
+    "first_name": "Calvin",
+    "last_name": "Correli",
+    "company_name": "Simplero",
+    "company_website": "https://www.simplero.com",
+    "company_domain": "simplero.com",
+    "company_description": "All-in-one online business platform for coaches, course creators, and membership site owners",
+    "headline": "Founder and CEO at Simplero",
+    "job_title": "Founder and CEO",
+    "industry": "Computer Software",
+    "company_size": "11-50",
+    "company_technologies": "",
+    "city": "New York",
+    "state": "NY",
+    "country": "United States",
+    "company_full_address": "New York, NY",
+    "seniority_level": "C-Suite",
+    "company_annual_revenue_clean": "",
+    "linkedin": "https://www.linkedin.com/in/truecalvin",
+    "company_linkedin": "https://www.linkedin.com/company/simplero",
+    "company_founded_year": "2009",
+    "keywords": "coaching platform, course creation, email marketing, membership sites, all-in-one",
+    "personalization": "",
+    "painStatement": "",
+    "proposal_id": "simplero",
+    "company_size_num": "20"
+  }
+}
