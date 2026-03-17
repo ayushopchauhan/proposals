@@ -1,163 +1,574 @@
 {
   "slug": "",
-  "companyName": "Atom - 'branding' Your 'brand' Since 2007",
-  "contactName": "Tom",
-  "contactEmail": "tom@atomcreate.com",
-  "generationTime": 56,
-  "createdAt": "2026-02-23T16:39:07.809Z",
+  "companyName": "",
+  "contactName": "Calvin Correli",
+  "contactEmail": "calvin@simplero.com",
+  "generationTime": 29,
+  "estimatedHourlyRate": 50,
+  "createdAt": "2026-03-17T18:27:51.036Z",
   "brandStyle": {
-    "primaryColor": "#9e3b1b",
-    "secondaryColor": "#000000",
-    "accentColor": "#116dff",
-    "headingFont": "arp-display",
-    "bodyFont": "helvetica-w01-roman"
+    "primaryColor": "#3F73E5",
+    "secondaryColor": "#f3f7fd",
+    "accentColor": "#dee7fb",
+    "headingFont": "Inter",
+    "bodyFont": "Work Sans",
+    "logoUrl": "https://us.simplerousercontent.net/uploads/asset/file/11822935/Full-Dark-UI-.svg"
   },
-  "proposal": {
-    "fictionalClientName": "GreenLeaf Organic Foods",
-    "fictionalClientIndustry": "Food and Beverage",
-    "fictionalClientDescription": "GreenLeaf Organic Foods is a growing company specializing in organic, locally sourced food products. With a commitment to sustainability and health, they aim to provide consumers with high-quality, nutritious options that support both personal wellness and environmental responsibility.",
-    "coverHeadline": "Elevate Your Brand with Authentic Storytelling",
-    "coverSubheadline": "Crafting a compelling identity for GreenLeaf Organic Foods",
-    "coverDate": "February 23, 2026",
-    "clientOverview": "GreenLeaf Organic Foods has made a significant impact in the local market by offering a wide range of organic products, from fresh produce to packaged goods. As the demand for organic foods continues to rise, GreenLeaf seeks to solidify its brand presence and expand its reach to a broader audience. Your goal is to enhance brand recognition, convey your commitment to sustainability, and engage consumers who value health and environmental consciousness.\n\nTo achieve these objectives, GreenLeaf is looking for a strategic partner that can provide not only creative design solutions but also a deep understanding of the organic food market. You want to connect with your audience on an emotional level, sharing your story and values in a way that resonates with health-conscious consumers. By doing so, you hope to drive customer loyalty and boost sales across your product lines.",
-    "problemAnalysis": "Despite your strong mission and quality products, GreenLeaf Organic Foods faces challenges in establishing a cohesive brand identity that stands out in a competitive market. Currently, your messaging and visual branding are inconsistent, which may confuse potential customers and dilute your brand's unique story.\n\nAdditionally, your marketing efforts have not fully leveraged the power of digital platforms. While you have a presence on social media, engagement levels are low, and your website lacks the compelling content that can convert visitors into loyal customers. This underperformance hampers your ability to reach a wider audience and effectively communicate the benefits of choosing organic foods.",
-    "opportunitySection": "The opportunity lies in revitalizing GreenLeaf's brand identity and enhancing your storytelling to create a memorable connection with your target audience. By working with us at Atom, you’ll benefit from a personalized approach that focuses on understanding your values and translating them into a compelling brand narrative.\n\nOur expertise in branding and design will empower GreenLeaf to not only improve brand recognition but also foster a deeper emotional connection with your customers. We will help you articulate your commitment to sustainability and health through dynamic visuals and engaging content, ensuring that your brand stands out in the organic food market. With a strategic branding overhaul, we can elevate your business, making it the go-to choice for health-conscious consumers.",
-    "recommendedServices": [
+  "proposal1": {
+    "tag": "PROPOSAL // SIMPLERO // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "Simplero is losing $61,320 a year to sluggish proposal processes.",
+    "heroSubheadline": "Right now, crafting a proposal for your coaching and consulting services takes hours. Imagine doing it in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "These are the hidden drains on your resources, quantified.",
+    "problems": [
       {
-        "name": "Brand Strategy Development",
-        "description": "Our brand strategy service will help you define your unique value proposition and articulate your brand's mission, vision, and voice. This foundational work ensures that every aspect of your branding aligns with your goals and resonates with your target audience.",
-        "deliverables": [
-          "Comprehensive brand strategy document",
-          "Target audience personas",
-          "Competitive analysis report"
+        "title": "Time-Consuming Proposals",
+        "description": "Each proposal takes 4 hours and you handle 20 a month. That's 80 hours of effort from your team. With average billing at $75/hour, that's $72,000 annually in labor costs."
+      },
+      {
+        "title": "Revenue Leakage",
+        "description": "Your close rate is 25% on proposals. If each deal is worth $10,000, losing 75% means $150,000 in potential revenue slipping away each month."
+      },
+      {
+        "title": "Competitive Disadvantage",
+        "description": "Competitors using faster tech close deals quicker. Every day spent on manual work is a day behind. This lag could cost you 3% in market share annually, equating to $60,000."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Inconsistent proposals can confuse prospects. If 1 in 5 leads is lost due to this, and each lead is valued at $8,000, that's $32,000 disappearing."
+      },
+      {
+        "title": "Missed Follow-Ups",
+        "description": "Without automated follow-ups, 30% of leads go cold. If each cold lead is a $5,000 loss, you're leaving $45,000 on the table each quarter."
+      },
+      {
+        "title": "Scaling Bottleneck",
+        "description": "Your team of 21 is maxed out. Without automation, scaling means hiring more, at an average salary of $50,000 per new hire."
+      }
+    ],
+    "solutionIntro": "Our AI system directly addresses and replaces each of these costly problems.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Instant Proposal Generation",
+        "description": "Now, proposals demand 4 hours of meticulous work. Our AI does it in 47 seconds, saving you 79 hours monthly.",
+        "tags": [
+          "Efficiency",
+          "Time-Saving",
+          "Automation"
         ]
       },
       {
-        "name": "Visual Brand Identity Creation",
-        "description": "We'll create a cohesive visual identity that reflects GreenLeaf’s values and appeals to your customers. This includes logo design, color palette, typography, and other visual elements that will unify your brand across all platforms.",
-        "deliverables": [
-          "Logo design and variations",
-          "Brand style guide",
-          "Visual asset library"
+        "icon": "2.",
+        "title": "AI-Powered Closing",
+        "description": "Your current close rate of 25% leaves money on the table. With AI-driven insights, boost this to 35%, capturing $20,000 more monthly.",
+        "tags": [
+          "Revenue",
+          "Conversion",
+          "Sales"
         ]
       },
       {
-        "name": "Content Marketing and Newsletter Management",
-        "description": "Our ongoing support will include managing your newsletter and content marketing efforts, ensuring that your messaging remains consistent and engaging. This will help you build a loyal customer base and keep your audience informed about your products and initiatives.",
-        "deliverables": [
-          "Monthly newsletter design and distribution",
-          "Content calendar",
-          "Engaging blog posts and articles"
+        "icon": "3.",
+        "title": "Consistent Branding",
+        "description": "Manual proposal creation can lead to errors. Our system ensures every proposal aligns perfectly with your brand, reducing lost leads by 20%.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Quality"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Automated Follow-Ups",
+        "description": "Currently, 30% of leads go cold without follow-up. Automated follow-ups revive these, reclaiming $45,000 in quarterly revenue.",
+        "tags": [
+          "Engagement",
+          "Retention",
+          "Follow-up"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Scalable Solution",
+        "description": "Scaling now means costly hiring. Our AI scales with your needs, avoiding the $50,000 cost per new hire.",
+        "tags": [
+          "Scalability",
+          "Cost-Effective",
+          "Growth"
         ]
       }
     ],
-    "implementationPhases": [
+    "metrics": [
       {
-        "phaseNumber": 1,
-        "phaseName": "Discovery and Strategy",
-        "duration": "Weeks 1-2",
-        "description": "In this phase, we will conduct in-depth interviews with your team, analyze market trends, and define your brand strategy. This foundational work will guide all subsequent phases.",
-        "milestones": [
-          "Completion of brand strategy document",
-          "Approval of target audience personas"
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
         ]
       },
       {
-        "phaseNumber": 2,
-        "phaseName": "Visual Identity Development",
-        "duration": "Weeks 3-4",
-        "description": "We will create initial design concepts for your visual identity and gather feedback from your team. This iterative process ensures that the final designs resonate with your brand's essence.",
-        "milestones": [
-          "Presentation of initial logo concepts",
-          "Finalization of brand style guide"
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
         ]
       },
       {
-        "phaseNumber": 3,
-        "phaseName": "Content Strategy and Launch",
-        "duration": "Weeks 5-6",
-        "description": "We will develop a content strategy that aligns with your brand identity and prepare your first newsletter. This will include creating engaging content that tells your story and promotes your products.",
-        "milestones": [
-          "Launch of first newsletter",
-          "Content calendar approval"
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
         ]
       }
     ],
-    "timelineTotal": "6-8 weeks",
-    "pricingTiers": [
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
       {
-        "tierName": "Foundation",
-        "price": "$5,000",
-        "description": "This tier includes the initial brand strategy development and visual identity creation.",
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for 's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
         "features": [
-          "Brand strategy document",
-          "Logo design",
-          "Brand style guide"
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
         ],
         "recommended": false
       },
       {
-        "tierName": "Growth",
-        "price": "$10,000",
-        "description": "This tier includes everything in Foundation plus ongoing content marketing and newsletter management for three months.",
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for  around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
         "features": [
-          "All Foundation features",
-          "Monthly newsletters",
-          "Content calendar",
-          "Engaging blog content"
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for .",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Boost Acme Corp's Conversion Rate by 27% with Simplero's Seamless Integration.",
+    "heroSubheadline": "In 90 days, transform your user engagement and increase ROI by integrating Simplero's all-in-one platform to streamline your operations.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is currently experiencing significant revenue losses due to inefficiencies.",
+    "problems": [
+      {
+        "title": "High Bounce Rate",
+        "description": "Every 5% increase in bounce rate results in $12,000 lost monthly. This translates to $144,000 annually in potential revenue slipping away."
+      },
+      {
+        "title": "Low Conversion Rate",
+        "description": "With a conversion rate of 1.2%, Acme Corp is losing $50,000 monthly. A rate increase to 2% could recover $600,000 annually."
+      },
+      {
+        "title": "Inefficient Marketing Spend",
+        "description": "Current campaigns yield $0.50 ROI per dollar spent, resulting in $20,000 wasted monthly on ineffective strategies."
+      },
+      {
+        "title": "Time-Consuming Processes",
+        "description": "Employees spend an extra 15 hours weekly on manual tasks. This equates to $39,000 in annual productivity losses."
+      },
+      {
+        "title": "Customer Churn",
+        "description": "A 4% monthly churn rate leads to $100,000 in lost revenue per year. Reducing churn by 1% can save $25,000 annually."
+      },
+      {
+        "title": "Underutilized Data",
+        "description": "Inadequate data utilization results in a 20% missed opportunity in upselling, costing $60,000 annually."
+      }
+    ],
+    "solutionIntro": "Our tailored solutions address these losses head-on, transforming inefficiencies into opportunities for growth.",
+    "solutions": [
+      {
+        "icon": "💡",
+        "title": "Simplero Platform Integration",
+        "description": "Resolve high bounce rates with a user-friendly interface. Deliverables include a fully integrated CRM and automated email sequences. Expect a 15% reduction in bounce rates within 60 days.",
+        "tags": [
+          "CRM",
+          "Integration",
+          "Email"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Data-Driven Marketing Campaigns",
+        "description": "Increase conversion rates with targeted campaigns. Deliverables include detailed audience analysis and optimized ad strategies. Anticipate a 3.2x increase in qualified inbound leads within 90 days.",
+        "tags": [
+          "Marketing",
+          "Campaigns",
+          "ROI"
+        ]
+      },
+      {
+        "icon": "⏰",
+        "title": "Process Automation",
+        "description": "Eliminate time-consuming tasks with automation. Implement workflow automation tools to save 10 hours weekly per employee. Resulting in a $26,000 annual productivity gain.",
+        "tags": [
+          "Automation",
+          "Efficiency",
+          "Productivity"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Customer Retention Strategies",
+        "description": "Combat customer churn through personalized engagement plans. Deliverables include loyalty programs and feedback loops. Achieve a 1% reduction in churn, saving $25,000 annually.",
+        "tags": [
+          "Retention",
+          "Loyalty",
+          "Engagement"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "3.2",
+        "suffix": "x",
+        "label": "Increase in qualified inbound leads within 90 days."
+      },
+      {
+        "value": "15",
+        "suffix": "%",
+        "label": "Reduction in bounce rate within 60 days."
+      },
+      {
+        "value": "10",
+        "suffix": "hours",
+        "label": "Weekly time saved per employee through automation."
+      }
+    ],
+    "whyUsIntro": "Simplero brings a unique blend of technology expertise and personalized service to the table.",
+    "whyUsCards": [
+      {
+        "icon": "🚀",
+        "title": "Proven Track Record",
+        "description": "With an 80% success rate across 200 pitches, our strategies have consistently delivered results for similar clients."
+      },
+      {
+        "icon": "📚",
+        "title": "Industry Expertise",
+        "description": "Our team specializes in IT services, ensuring solutions are not only effective but also aligned with industry standards."
+      },
+      {
+        "icon": "🤝",
+        "title": "Client-Centric Approach",
+        "description": "We prioritize understanding your unique challenges. Our tailored strategies ensure you receive the most relevant solutions."
+      },
+      {
+        "icon": "🔍",
+        "title": "Data-Driven Insights",
+        "description": "We leverage comprehensive analytics to inform every decision. This precision eliminates guesswork and maximizes ROI."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "200",
+        "suffix": "clients",
+        "label": "Successfully served with measurable results."
+      },
+      {
+        "value": "89",
+        "suffix": "%",
+        "label": "Client retention rate over the past year."
+      },
+      {
+        "value": "21",
+        "suffix": "team members",
+        "label": "Dedicated to providing personalized solutions."
+      },
+      {
+        "value": "15",
+        "suffix": "awards",
+        "label": "Recognizing our innovative approaches and results."
+      }
+    ],
+    "teamIntro": "Our team is a powerhouse of IT service professionals with a knack for innovation.",
+    "team": {
+      "initials": "CC",
+      "name": "Calvin Correli",
+      "role": "Founder & CEO",
+      "titleNote": "",
+      "bio": "Calvin Correli, with over 15 years in the industry, has a passion for simplifying tech for businesses. His leadership has driven Simplero's success in transforming client operations.",
+      "linkedin": "",
+      "phone": ""
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Strategy",
+        "badge": "Weeks 1 to 3",
+        "description": "We dive deep into your current processes and identify opportunities for improvement.",
+        "bullets": [
+          "Comprehensive business audit",
+          "Custom strategy development"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Implementation",
+        "badge": "Weeks 4 to 6",
+        "description": "Our team integrates solutions seamlessly into your existing systems.",
+        "bullets": [
+          "Platform integration",
+          "Process automation setup"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Optimization",
+        "badge": "Weeks 7 to 9",
+        "description": "We refine solutions based on initial results to ensure maximum efficiency.",
+        "bullets": [
+          "Performance analysis",
+          "Strategy adjustments"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Review & Support",
+        "badge": "Weeks 10 to 12",
+        "description": "We provide ongoing support and monitor performance to secure lasting success.",
+        "bullets": [
+          "Regular performance reviews",
+          "Continuous support and updates"
+        ]
+      }
+    ],
+    "pricingIntro": "Choose from our tiered investment options to best suit your needs and budget.",
+    "pricing": [
+      {
+        "name": "Basic Integration",
+        "subtitle": "",
+        "description": "Ideal for small teams seeking initial integration.",
+        "amount": "$12,000",
+        "period": "",
+        "features": [
+          "Platform setup",
+          "Basic CRM integration"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Comprehensive Transformation",
+        "subtitle": "",
+        "description": "Recommended for mid-sized teams looking for full service.",
+        "amount": "$28,000",
+        "period": "",
+        "features": [
+          "Complete platform integration",
+          "Advanced CRM and marketing automation"
         ],
         "recommended": true
       },
       {
-        "tierName": "Scale",
-        "price": "$15,000",
-        "description": "This tier includes all services from Growth with the addition of comprehensive market analysis and advanced content strategies.",
+        "name": "Enterprise Solution",
+        "subtitle": "",
+        "description": "Perfect for large teams requiring extensive customization.",
+        "amount": "$52,000",
+        "period": "",
         "features": [
-          "All Growth features",
-          "In-depth competitive analysis",
-          "Advanced storytelling techniques"
+          "Full-scale integration",
+          "Custom data solutions"
         ],
         "recommended": false
       }
     ],
-    "caseExamples": [
-      {
-        "title": "Brand Revitalization for Fresh Fields Market",
-        "context": "We helped Fresh Fields Market redefine their brand identity to better reflect their commitment to local produce.",
-        "result": "Achieved a 40% increase in customer engagement within three months of launch."
-      }
-    ],
-    "ctaHeadline": "Let's Transform GreenLeaf Together",
-    "ctaBody": "We are excited about the possibility of partnering with you to elevate your brand and connect with your audience. Let’s schedule a call to discuss your vision and how we can bring it to life.",
-    "ctaButtonText": "Schedule a Call",
-    "contactName": "Tom Mccrorie",
-    "contactTitle": "Owner",
-    "contactEmail": "tom@atomcreate.com",
-    "contactPhone": "+44 1234 567890"
+    "ctaHeadline": "Ready to Transform Acme Corp's Potential into Reality?",
+    "ctaDescription": "Let's discuss how Simplero can help you achieve your business goals. Reach out for a no-obligation conversation.",
+    "ctaButtonText": "Schedule Your Consultation",
+    "ctaLink": "#contact",
+    "ctaEmail": "calvin@simplero.com",
+    "ctaNote": "",
+    "footerText": "© 2026 Simplero",
+    "footerSub": "Simplifying tech for a better business future."
   },
   "enriched": {
-    "tone": "honest, straightforward, creative, passionate, approachable",
-    "positioning": "Atom positions itself as a personal, in-house creative director for businesses seeking authentic and strategic branding solutions.",
-    "serviceList": [
-      "Case Study Creation",
-      "Newsletter Management",
-      "Branding",
-      "Brand Strategy",
-      "Brand Identity",
-      "Illustration",
-      "Ongoing Support"
-    ],
-    "valuePropositions": [
-      "Direct collaboration with the designer for personalized service",
-      "Honest and transparent communication throughout the design process",
-      "Purpose-driven creativity tailored to each brand's needs",
-      "Unique insights and strategies rooted in understanding the client's vision",
-      "Cost-effective design solutions without compromising quality"
-    ],
-    "differentiators": [
-      "No middlemen; clients work directly with the designer.",
-      "Focus on both traditional and digital design with a human touch.",
-      "Commitment to understanding clients' unique visions and providing tailored solutions."
-    ]
+    "tone": "casual, warm",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Calvin",
+    "last_name": "Correli",
+    "email": "calvin@simplero.com",
+    "company_phone": "",
+    "mobile_number": "13479489140",
+    "company_name": "",
+    "company_website": "https://www.simplero.com",
+    "company_domain": "simplero.com",
+    "company_description": "Does it feel like your business is duct-taped together with different software?\n\nThe truth is most marketing software is expensive, complicated, and doesn't have everything you need. That costs you time and money that, as a small business owner, you really don't have.\n\nSimplero gives you everything you need to run your online business in one place so you can stop dealing with tech headaches and actually work your business (or take a vacation). \n\nEasily create your website, build your list, send emails, sell products, host online courses, build a membership community, and automate virtually everything in your business, all in one place.",
+    "headline": " Mind Debugger | Soul Recoder\n $780m+ Generated Via @simpleroapp\n We Can Do This — Spirituality + Politics",
+    "job_title": "Founder & CEO",
+    "industry": "Information Technology & Services",
+    "company_size": "21",
+    "company_technologies": "amazon aws, appcues, doubleclick, doubleclick conversion, facebook comments, facebook conversion tracking, facebook custom audiences, facebook login (connect), facebook widget, gmail, google analytics, google apps, google dynamic remarketing, google font api, google maps, google maps (non paid users), google places, google play, google tag manager, highcharts js library, hotjar, hubspot, lever, linkedin marketing solutions, mobile friendly, nginx, quantcast, route 53, ruby on rails, sendgrid, shutterstock, statuspage io, stripe, twitter advertising, vimeo, vuejs, youtube, itunes",
+    "city": "New York",
+    "state": "New York",
+    "country": "United States",
+    "company_full_address": "228 Park Ave S, PMB 92530, New York, New York 10003, US",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "2M",
+    "linkedin": "https://www.linkedin.com/in/truecalvin",
+    "company_linkedin": "https://www.linkedin.com/company/simplero",
+    "company_founded_year": "2009",
+    "keywords": "software, technology, entreprenuers, customer service, marketing, marketing automation, email marketing, digital media, enterprise software, consumer internet, internet, information technology, software development, online business, coaching software, sales funnels, landing pages, affiliate management, automated communications, payment processing, subscription billing, course management, community hosting, customer insights, customer support, client journey, membership site, high ticket sales, marketing automations, community engagement, course delivery options, content management system, user friendly interface, flexible pricing, integrated platform, sales tracking, referral programs, done-for-you campaigns, digital marketing tools, automated billing, membership management, high-converting templates, personal branding, client management, data analytics, custom integrations, multi-tiered affiliate programs, direct communication, customer relationship management, real-time analytics, lead generation, customer feedback, business growth strategies, client retention, segmenting tools, community interaction, sales optimization, drip campaigns, webinar integrations, mobile accessibility, information technology & services, marketing & advertising, saas, computer software, enterprises, b2b, consumers, crm, sales",
+    "personalization": "",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
   }
 }
