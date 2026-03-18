@@ -1,24 +1,24 @@
 {
   "slug": "",
   "companyName": "",
-  "contactName": "Calvin Correli",
-  "contactEmail": "calvin@simplero.com",
-  "generationTime": 29,
+  "contactName": "Tom Simpson",
+  "contactEmail": "tom@weareteamrocket.com",
+  "generationTime": 23,
   "estimatedHourlyRate": 50,
-  "createdAt": "2026-03-17T18:27:51.036Z",
+  "createdAt": "2026-03-18T03:44:28.271Z",
   "brandStyle": {
-    "primaryColor": "#3F73E5",
-    "secondaryColor": "#f3f7fd",
-    "accentColor": "#dee7fb",
-    "headingFont": "Inter",
-    "bodyFont": "Work Sans",
-    "logoUrl": "https://us.simplerousercontent.net/uploads/asset/file/11822935/Full-Dark-UI-.svg"
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": ""
   },
   "proposal1": {
-    "tag": "PROPOSAL // SIMPLERO // CONFIDENTIAL",
+    "tag": "PROPOSAL //  // CONFIDENTIAL",
     "heroBadge": "AI Proposal Automation",
-    "heroHeadline": "Simplero is losing $61,320 a year to sluggish proposal processes.",
-    "heroSubheadline": "Right now, crafting a proposal for your coaching and consulting services takes hours. Imagine doing it in 47 seconds.",
+    "heroHeadline": " is spending thousands on proposals that could write themselves. Here is the math.",
+    "heroSubheadline": "Your team writes proposals manually. This system generates them in under 60 seconds. Fully branded. Fully personalized. With an AI closer built in.",
     "heroTags": [
       "AI",
       "AUTOMATION",
@@ -26,83 +26,78 @@
       "BRANDING",
       "CHATBOT"
     ],
-    "problemsIntro": "These are the hidden drains on your resources, quantified.",
+    "problemsIntro": "Six patterns bleeding time and revenue from  right now.",
     "problems": [
       {
-        "title": "Time-Consuming Proposals",
-        "description": "Each proposal takes 4 hours and you handle 20 a month. That's 80 hours of effort from your team. With average billing at $75/hour, that's $72,000 annually in labor costs."
+        "title": "Manual Proposal Writing",
+        "description": "Each proposal takes 3 to 5 hours of senior strategist time. That is time billed at zero. Every hour spent writing proposals is an hour  cannot spend on work that generates revenue."
       },
       {
-        "title": "Revenue Leakage",
-        "description": "Your close rate is 25% on proposals. If each deal is worth $10,000, losing 75% means $150,000 in potential revenue slipping away each month."
+        "title": "Slow Response Times",
+        "description": "Agencies that respond within 24 hours close at 3x the rate. Every day a prospect waits for your proposal, they are talking to your competitors. Speed is the differentiator most agencies ignore."
       },
       {
-        "title": "Competitive Disadvantage",
-        "description": "Competitors using faster tech close deals quicker. Every day spent on manual work is a day behind. This lag could cost you 3% in market share annually, equating to $60,000."
+        "title": "Inconsistent Quality",
+        "description": "Tuesday proposals look different from Friday proposals. No standardized format, no consistent tone, no quality floor. The client experience changes depending on who writes it and how busy they are."
       },
       {
-        "title": "Brand Inconsistency",
-        "description": "Inconsistent proposals can confuse prospects. If 1 in 5 leads is lost due to this, and each lead is valued at $8,000, that's $32,000 disappearing."
+        "title": "Zero Follow-Up Intelligence",
+        "description": "Once a proposal is sent, you have no idea what happens. No tracking. No data on which sections they read. No chatbot to handle objections while the prospect is still engaged."
       },
       {
-        "title": "Missed Follow-Ups",
-        "description": "Without automated follow-ups, 30% of leads go cold. If each cold lead is a $5,000 loss, you're leaving $45,000 on the table each quarter."
+        "title": "Lost Billable Hours",
+        "description": "At 48 hours per month spent on proposals, that is 6 full working days your strategists are not billing clients. At $75 an hour, $3,600 in lost billable time. Every single month."
       },
       {
-        "title": "Scaling Bottleneck",
-        "description": "Your team of 21 is maxed out. Without automation, scaling means hiring more, at an average salary of $50,000 per new hire."
+        "title": "Widening Competitive Gap",
+        "description": "Your competitors are already exploring automation. The agencies that figure this out first will respond faster, look sharper, and close more. The longer you wait, the wider that gap becomes."
       }
     ],
-    "solutionIntro": "Our AI system directly addresses and replaces each of these costly problems.",
+    "solutionIntro": "Five integrated workstreams to replace manual proposal writing entirely.",
     "solutions": [
       {
         "icon": "1.",
-        "title": "Instant Proposal Generation",
-        "description": "Now, proposals demand 4 hours of meticulous work. Our AI does it in 47 seconds, saving you 79 hours monthly.",
+        "title": "Website Scraping Engine",
+        "description": "Your team manually researches each prospect before writing a single word. The system reads their homepage, about page, services, and portfolio in 3 seconds. Every detail extracted automatically.",
         "tags": [
-          "Efficiency",
-          "Time-Saving",
-          "Automation"
+          "SCRAPING",
+          "ANALYSIS"
         ]
       },
       {
         "icon": "2.",
-        "title": "AI-Powered Closing",
-        "description": "Your current close rate of 25% leaves money on the table. With AI-driven insights, boost this to 35%, capturing $20,000 more monthly.",
+        "title": "Brand Analysis",
+        "description": "Your team guesses at how to match a prospect's tone and positioning. The system extracts exact brand attributes, colors, fonts, voice, and competitive positioning in 5 seconds flat.",
         "tags": [
-          "Revenue",
-          "Conversion",
-          "Sales"
+          "BRAND",
+          "DESIGN"
         ]
       },
       {
         "icon": "3.",
-        "title": "Consistent Branding",
-        "description": "Manual proposal creation can lead to errors. Our system ensures every proposal aligns perfectly with your brand, reducing lost leads by 20%.",
+        "title": "AI Proposal Generation",
+        "description": "A senior strategist takes half a day to write one proposal. This system writes a complete, client-ready proposal in your tone, with your services and pricing structure, in 30 seconds. From scratch. Every time.",
         "tags": [
-          "Branding",
-          "Consistency",
-          "Quality"
+          "AI",
+          "COPYWRITING"
         ]
       },
       {
         "icon": "4.",
-        "title": "Automated Follow-Ups",
-        "description": "Currently, 30% of leads go cold without follow-up. Automated follow-ups revive these, reclaiming $45,000 in quarterly revenue.",
+        "title": "AI Sales Chatbot",
+        "description": "After your proposal is sent, questions go unanswered until someone checks email. The system embeds an AI sales assistant in every proposal that handles objections, answers questions, and books calls the moment the prospect is engaged.",
         "tags": [
-          "Engagement",
-          "Retention",
-          "Follow-up"
+          "CHATBOT",
+          "SALES"
         ]
       },
       {
         "icon": "5.",
-        "title": "Scalable Solution",
-        "description": "Scaling now means costly hiring. Our AI scales with your needs, avoiding the $50,000 cost per new hire.",
+        "title": "Tracking and Analytics",
+        "description": "Right now, you send a proposal and hope for the best. The system tells you exactly who viewed it, for how long, which sections they read, and alerts you on Telegram the second a prospect engages.",
         "tags": [
-          "Scalability",
-          "Cost-Effective",
-          "Growth"
+          "ANALYTICS",
+          "TRACKING"
         ]
       }
     ],
@@ -291,279 +286,279 @@
     "footerSub": "AI Automation for Agencies"
   },
   "proposal2": {
-    "fictionalClientName": "Acme Corp",
-    "tag": "Proposal for Acme Corp // Confidential",
+    "fictionalClientName": "Cascade Health Systems",
+    "tag": "Proposal for Cascade Health Systems // Confidential",
     "heroBadge": "Strategic Partnership Proposal",
-    "heroHeadline": "Boost Acme Corp's Conversion Rate by 27% with Simplero's Seamless Integration.",
-    "heroSubheadline": "In 90 days, transform your user engagement and increase ROI by integrating Simplero's all-in-one platform to streamline your operations.",
+    "heroHeadline": "Unlock a 3.5x Increase in Patient Engagement Using Data-Driven Strategies.",
+    "heroSubheadline": "Our strategic approach will elevate Cascade Health Systems' patient engagement by 3.5x within 6 months, increasing patient retention and satisfaction.",
     "heroTags": [],
-    "problemsIntro": "Acme Corp is currently experiencing significant revenue losses due to inefficiencies.",
+    "problemsIntro": "Cascade Health Systems is facing significant financial losses due to inefficiencies and missed opportunities.",
     "problems": [
       {
-        "title": "High Bounce Rate",
-        "description": "Every 5% increase in bounce rate results in $12,000 lost monthly. This translates to $144,000 annually in potential revenue slipping away."
+        "title": "High Patient Churn",
+        "description": "With a churn rate of 20%, Cascade Health Systems is losing approximately $1.2 million annually in potential revenue from dissatisfied patients."
       },
       {
-        "title": "Low Conversion Rate",
-        "description": "With a conversion rate of 1.2%, Acme Corp is losing $50,000 monthly. A rate increase to 2% could recover $600,000 annually."
+        "title": "Inefficient Lead Conversion",
+        "description": "Current lead conversion sits at 3%, resulting in $300,000 in lost revenue annually due to unoptimized patient acquisition processes."
       },
       {
-        "title": "Inefficient Marketing Spend",
-        "description": "Current campaigns yield $0.50 ROI per dollar spent, resulting in $20,000 wasted monthly on ineffective strategies."
+        "title": "Underperforming Website",
+        "description": "An average bounce rate of 60% is causing $200,000 in wasted marketing spend each year, as potential patients leave without engaging."
       },
       {
-        "title": "Time-Consuming Processes",
-        "description": "Employees spend an extra 15 hours weekly on manual tasks. This equates to $39,000 in annual productivity losses."
+        "title": "Poor Digital Engagement",
+        "description": "Low digital engagement levels are costing Cascade Health Systems 15% in potential growth opportunities, equivalent to $450,000 in revenue."
       },
       {
-        "title": "Customer Churn",
-        "description": "A 4% monthly churn rate leads to $100,000 in lost revenue per year. Reducing churn by 1% can save $25,000 annually."
+        "title": "Ineffective Content Strategy",
+        "description": "A lack of targeted content is leading to a 25% decrease in patient inquiries, resulting in $150,000 in lost opportunities annually."
       },
       {
-        "title": "Underutilized Data",
-        "description": "Inadequate data utilization results in a 20% missed opportunity in upselling, costing $60,000 annually."
+        "title": "Suboptimal Brand Visibility",
+        "description": "Without a strong brand presence, $500,000 in potential market share is being lost to competitors annually."
       }
     ],
-    "solutionIntro": "Our tailored solutions address these losses head-on, transforming inefficiencies into opportunities for growth.",
+    "solutionIntro": "Our tailored solutions directly address these quantified losses, converting challenges into growth opportunities.",
     "solutions": [
       {
-        "icon": "💡",
-        "title": "Simplero Platform Integration",
-        "description": "Resolve high bounce rates with a user-friendly interface. Deliverables include a fully integrated CRM and automated email sequences. Expect a 15% reduction in bounce rates within 60 days.",
-        "tags": [
-          "CRM",
-          "Integration",
-          "Email"
-        ]
-      },
-      {
         "icon": "📈",
-        "title": "Data-Driven Marketing Campaigns",
-        "description": "Increase conversion rates with targeted campaigns. Deliverables include detailed audience analysis and optimized ad strategies. Anticipate a 3.2x increase in qualified inbound leads within 90 days.",
+        "title": "Comprehensive Patient Engagement Strategy",
+        "description": "We will reduce patient churn by implementing a data-driven engagement strategy. Deliverables include a 12-month roadmap and regular performance analysis, aiming for a 20% improvement in retention.",
         "tags": [
-          "Marketing",
-          "Campaigns",
-          "ROI"
+          "ENGAGEMENT",
+          "RETENTION",
+          "STRATEGY"
         ]
       },
       {
-        "icon": "⏰",
-        "title": "Process Automation",
-        "description": "Eliminate time-consuming tasks with automation. Implement workflow automation tools to save 10 hours weekly per employee. Resulting in a $26,000 annual productivity gain.",
+        "icon": "🔍",
+        "title": "Optimized Lead Conversion Framework",
+        "description": "To address lead conversion inefficiencies, we'll deploy a conversion optimization framework including A/B testing and CRM integration, targeting a 5% conversion rate increase.",
         "tags": [
-          "Automation",
-          "Efficiency",
-          "Productivity"
+          "CONVERSION",
+          "LEAD",
+          "OPTIMIZATION"
         ]
       },
       {
-        "icon": "📊",
-        "title": "Customer Retention Strategies",
-        "description": "Combat customer churn through personalized engagement plans. Deliverables include loyalty programs and feedback loops. Achieve a 1% reduction in churn, saving $25,000 annually.",
+        "icon": "🌐",
+        "title": "Website Revamp & SEO Enhancement",
+        "description": "We will overhaul the website to reduce bounce rate by 15%, focusing on user experience improvements and SEO enhancements, resulting in higher patient engagement.",
         "tags": [
-          "Retention",
-          "Loyalty",
-          "Engagement"
+          "WEBSITE",
+          "SEO",
+          "USER EXPERIENCE"
+        ]
+      },
+      {
+        "icon": "📝",
+        "title": "Targeted Content Marketing Initiative",
+        "description": "Our content marketing initiative will increase patient inquiries by 25% through personalized content and strategic distribution across digital channels.",
+        "tags": [
+          "CONTENT",
+          "MARKETING",
+          "DIGITAL"
         ]
       }
     ],
     "metrics": [
       {
-        "value": "3.2",
+        "value": "3.5",
         "suffix": "x",
-        "label": "Increase in qualified inbound leads within 90 days."
+        "label": "Increase in patient engagement within 6 months."
       },
       {
-        "value": "15",
+        "value": "5.0",
         "suffix": "%",
-        "label": "Reduction in bounce rate within 60 days."
+        "label": "Improvement in lead conversion rate within 90 days."
       },
       {
-        "value": "10",
-        "suffix": "hours",
-        "label": "Weekly time saved per employee through automation."
+        "value": "20",
+        "suffix": "%",
+        "label": "Reduction in patient churn over the next year."
       }
     ],
-    "whyUsIntro": "Simplero brings a unique blend of technology expertise and personalized service to the table.",
+    "whyUsIntro": "Our track record of 80% successful pitches speaks to our expertise and effectiveness.",
     "whyUsCards": [
       {
-        "icon": "🚀",
-        "title": "Proven Track Record",
-        "description": "With an 80% success rate across 200 pitches, our strategies have consistently delivered results for similar clients."
-      },
-      {
-        "icon": "📚",
-        "title": "Industry Expertise",
-        "description": "Our team specializes in IT services, ensuring solutions are not only effective but also aligned with industry standards."
+        "icon": "🏆",
+        "title": "Proven Results",
+        "description": "We've consistently delivered measurable outcomes, with an average client ROI of 150% within the first year."
       },
       {
         "icon": "🤝",
-        "title": "Client-Centric Approach",
-        "description": "We prioritize understanding your unique challenges. Our tailored strategies ensure you receive the most relevant solutions."
+        "title": "Tailored Strategies",
+        "description": "Our approach is customized to each client, ensuring strategies align with specific business objectives and market conditions."
       },
       {
-        "icon": "🔍",
+        "icon": "📊",
         "title": "Data-Driven Insights",
-        "description": "We leverage comprehensive analytics to inform every decision. This precision eliminates guesswork and maximizes ROI."
+        "description": "We leverage advanced analytics to inform our strategies, resulting in a 40% average boost in client performance metrics."
+      },
+      {
+        "icon": "🌟",
+        "title": "Comprehensive Expertise",
+        "description": "Our team excels in integrating marketing with operational improvements, driving holistic business growth."
       }
     ],
     "fearCards": [],
     "socialProof": [
       {
-        "value": "200",
+        "value": "49",
         "suffix": "clients",
-        "label": "Successfully served with measurable results."
+        "label": "Currently served across various industries."
       },
       {
-        "value": "89",
+        "value": "92",
         "suffix": "%",
-        "label": "Client retention rate over the past year."
+        "label": "Client retention rate over the past three years."
       },
       {
-        "value": "21",
-        "suffix": "team members",
-        "label": "Dedicated to providing personalized solutions."
+        "value": "150",
+        "suffix": "%",
+        "label": "Average client ROI in the first year."
       },
       {
-        "value": "15",
-        "suffix": "awards",
-        "label": "Recognizing our innovative approaches and results."
+        "value": "200",
+        "suffix": "",
+        "label": "Successful pitches delivered."
       }
     ],
-    "teamIntro": "Our team is a powerhouse of IT service professionals with a knack for innovation.",
+    "teamIntro": "Our team of experts brings decades of combined experience in marketing and advertising.",
     "team": {
-      "initials": "CC",
-      "name": "Calvin Correli",
-      "role": "Founder & CEO",
+      "initials": "TS",
+      "name": "Tom Simpson",
+      "role": "Founder & Group CEO",
       "titleNote": "",
-      "bio": "Calvin Correli, with over 15 years in the industry, has a passion for simplifying tech for businesses. His leadership has driven Simplero's success in transforming client operations.",
+      "bio": "Tom Simpson has over 20 years of experience in marketing and advertising, leading to the successful growth of numerous clients. His strategic vision and leadership have been instrumental in 's success.",
       "linkedin": "",
-      "phone": ""
+      "phone": "+44 115 714 0440"
     },
     "processIntro": "What Working With Us Looks Like",
-    "processTime": "12 Weeks",
+    "processTime": "16 Weeks",
     "process": [
       {
         "number": 1,
-        "title": "Discovery & Strategy",
+        "title": "Discovery & Audit",
         "badge": "Weeks 1 to 3",
-        "description": "We dive deep into your current processes and identify opportunities for improvement.",
+        "description": "We conduct a thorough audit of your current marketing activities and patient engagement strategies.",
         "bullets": [
-          "Comprehensive business audit",
-          "Custom strategy development"
+          "Comprehensive marketing audit",
+          "Patient engagement analysis"
         ]
       },
       {
         "number": 2,
-        "title": "Implementation",
+        "title": "Strategy Development",
         "badge": "Weeks 4 to 6",
-        "description": "Our team integrates solutions seamlessly into your existing systems.",
+        "description": "We develop a customized strategy tailored to Cascade Health Systems' specific needs.",
         "bullets": [
-          "Platform integration",
-          "Process automation setup"
+          "Strategy framework",
+          "Key performance indicators"
         ]
       },
       {
         "number": 3,
-        "title": "Optimization",
-        "badge": "Weeks 7 to 9",
-        "description": "We refine solutions based on initial results to ensure maximum efficiency.",
+        "title": "Implementation",
+        "badge": "Weeks 7 to 12",
+        "description": "We execute the strategy, focusing on key areas identified during the audit.",
         "bullets": [
-          "Performance analysis",
-          "Strategy adjustments"
+          "Website redesign",
+          "Content marketing plan"
         ]
       },
       {
         "number": 4,
-        "title": "Review & Support",
-        "badge": "Weeks 10 to 12",
-        "description": "We provide ongoing support and monitor performance to secure lasting success.",
+        "title": "Optimization & Reporting",
+        "badge": "Weeks 13 to 16",
+        "description": "We optimize the campaign based on performance and provide detailed reporting.",
         "bullets": [
-          "Regular performance reviews",
-          "Continuous support and updates"
+          "Performance analytics",
+          "Quarterly reporting"
         ]
       }
     ],
-    "pricingIntro": "Choose from our tiered investment options to best suit your needs and budget.",
+    "pricingIntro": "Choose from investment options that align with your strategic goals, each tier offering distinct advantages.",
     "pricing": [
       {
-        "name": "Basic Integration",
+        "name": "Basic Engagement Package",
         "subtitle": "",
-        "description": "Ideal for small teams seeking initial integration.",
+        "description": "Ideal for small-scale initiatives focused on immediate improvements.",
         "amount": "$12,000",
         "period": "",
         "features": [
-          "Platform setup",
-          "Basic CRM integration"
+          "Initial strategy assessment",
+          "Basic website audit"
         ],
         "recommended": false
       },
       {
-        "name": "Comprehensive Transformation",
+        "name": "Comprehensive Growth Plan",
         "subtitle": "",
-        "description": "Recommended for mid-sized teams looking for full service.",
+        "description": "Recommended for businesses looking to achieve substantial growth and engagement.",
         "amount": "$28,000",
         "period": "",
         "features": [
-          "Complete platform integration",
-          "Advanced CRM and marketing automation"
+          "Full strategy development",
+          "Advanced SEO enhancements"
         ],
         "recommended": true
       },
       {
-        "name": "Enterprise Solution",
+        "name": "Enterprise Transformation Package",
         "subtitle": "",
-        "description": "Perfect for large teams requiring extensive customization.",
+        "description": "For organizations aiming for complete digital transformation and market leadership.",
         "amount": "$52,000",
         "period": "",
         "features": [
-          "Full-scale integration",
-          "Custom data solutions"
+          "Complete digital overhaul",
+          "Full-scale content strategy"
         ],
         "recommended": false
       }
     ],
-    "ctaHeadline": "Ready to Transform Acme Corp's Potential into Reality?",
-    "ctaDescription": "Let's discuss how Simplero can help you achieve your business goals. Reach out for a no-obligation conversation.",
-    "ctaButtonText": "Schedule Your Consultation",
+    "ctaHeadline": "Ready to Transform Your Patient Engagement?",
+    "ctaDescription": "Let's discuss how we can tailor our strategies to meet your unique needs. Book a consultation today.",
+    "ctaButtonText": "Schedule a Consultation",
     "ctaLink": "#contact",
-    "ctaEmail": "calvin@simplero.com",
+    "ctaEmail": "tom@weareteamrocket.com",
     "ctaNote": "",
-    "footerText": "© 2026 Simplero",
-    "footerSub": "Simplifying tech for a better business future."
+    "footerText": "© 2026 ",
+    "footerSub": "Revolutionizing Marketing with Precision."
   },
   "enriched": {
-    "tone": "casual, warm",
+    "tone": "professional",
     "positioning": "Full-service agency",
     "serviceList": [],
     "valuePropositions": [],
     "differentiators": []
   },
   "lead": {
-    "first_name": "Calvin",
-    "last_name": "Correli",
-    "email": "calvin@simplero.com",
-    "company_phone": "",
-    "mobile_number": "13479489140",
+    "first_name": "Tom",
+    "last_name": "Simpson",
+    "email": "tom@weareteamrocket.com",
+    "company_phone": "+44 115 714 0440",
+    "mobile_number": "",
     "company_name": "",
-    "company_website": "https://www.simplero.com",
-    "company_domain": "simplero.com",
-    "company_description": "Does it feel like your business is duct-taped together with different software?\n\nThe truth is most marketing software is expensive, complicated, and doesn't have everything you need. That costs you time and money that, as a small business owner, you really don't have.\n\nSimplero gives you everything you need to run your online business in one place so you can stop dealing with tech headaches and actually work your business (or take a vacation). \n\nEasily create your website, build your list, send emails, sell products, host online courses, build a membership community, and automate virtually everything in your business, all in one place.",
-    "headline": " Mind Debugger | Soul Recoder\n $780m+ Generated Via @simpleroapp\n We Can Do This — Spirituality + Politics",
-    "job_title": "Founder & CEO",
-    "industry": "Information Technology & Services",
-    "company_size": "21",
-    "company_technologies": "amazon aws, appcues, doubleclick, doubleclick conversion, facebook comments, facebook conversion tracking, facebook custom audiences, facebook login (connect), facebook widget, gmail, google analytics, google apps, google dynamic remarketing, google font api, google maps, google maps (non paid users), google places, google play, google tag manager, highcharts js library, hotjar, hubspot, lever, linkedin marketing solutions, mobile friendly, nginx, quantcast, route 53, ruby on rails, sendgrid, shutterstock, statuspage io, stripe, twitter advertising, vimeo, vuejs, youtube, itunes",
-    "city": "New York",
-    "state": "New York",
-    "country": "United States",
-    "company_full_address": "228 Park Ave S, PMB 92530, New York, New York 10003, US",
+    "company_website": "https://www.weareteamrocket.com",
+    "company_domain": "weareteamrocket.com",
+    "company_description": "We are hard-wired to drive predictable revenue for our clients by unlocking, automating, and augmenting their funnels, pipeline, and operations for a de-costed, de-risked path to maximum profitability at scale.\n \nWith over a decade of experience helping hundreds of businesses from start-ups to enterprises, spanning 4 continents and 20+ countries we know what it takes to unlock our client's growth potential. We know exactly what it takes to open doors for our clients by getting them in front of the right decision-makers, with the right message at the right time!\n\n\nOur talent and team augmentation solutions are geared perfectly to complement the revenue growth that we unlock and bestow on our clients, ensuring a more seamless, profitable path as they scale. Augmentix by Team Rocket unlocks our clients and their internal teams from repetitive operational tasks, circumnavigating bottlenecks and overloads by plugging flexible, remote, global talent, experts in their fields.",
+    "headline": " @ We Are Team Rocket | B2b Demand Generation |       -,    ,    ! ",
+    "job_title": "Founder & Group CEO",
+    "industry": "Marketing & Advertising",
+    "company_size": "49",
+    "company_technologies": "adroll, basis, doubleclick, doubleclick conversion, facebook custom audiences, facebook login (connect), facebook widget, gmail, google apps, google cloud hosting, google dynamic remarketing, google font api, google tag manager, hubspot, intercom, mobile friendly, nginx, reviews, wordpress.org",
+    "city": "Cheltenham",
+    "state": "England",
+    "country": "United Kingdom",
+    "company_full_address": "2 Grace Gardens, Cheltenham, State / Province Gl51 6QE, GB",
     "seniority_level": "founder",
-    "company_annual_revenue_clean": "2M",
-    "linkedin": "https://www.linkedin.com/in/truecalvin",
-    "company_linkedin": "https://www.linkedin.com/company/simplero",
-    "company_founded_year": "2009",
-    "keywords": "software, technology, entreprenuers, customer service, marketing, marketing automation, email marketing, digital media, enterprise software, consumer internet, internet, information technology, software development, online business, coaching software, sales funnels, landing pages, affiliate management, automated communications, payment processing, subscription billing, course management, community hosting, customer insights, customer support, client journey, membership site, high ticket sales, marketing automations, community engagement, course delivery options, content management system, user friendly interface, flexible pricing, integrated platform, sales tracking, referral programs, done-for-you campaigns, digital marketing tools, automated billing, membership management, high-converting templates, personal branding, client management, data analytics, custom integrations, multi-tiered affiliate programs, direct communication, customer relationship management, real-time analytics, lead generation, customer feedback, business growth strategies, client retention, segmenting tools, community interaction, sales optimization, drip campaigns, webinar integrations, mobile accessibility, information technology & services, marketing & advertising, saas, computer software, enterprises, b2b, consumers, crm, sales",
+    "company_annual_revenue_clean": "2.4M",
+    "linkedin": "https://www.linkedin.com/in/challengetomsimpson",
+    "company_linkedin": "https://www.linkedin.com/company/weareteamrocketofficial",
+    "company_founded_year": "2013",
+    "keywords": "new business development, marketing, fmcg, new customer acquisition, appointment setting, b2b, campaign creation, lead generation, pipeline growth, new business growth best practices, growth strategy, social selling, dataenrichment, data, lead nurturing, email automation, abm, account based marketing, hyperpersonalization, outbound marketing, inbound marketing, linkedin marketing, email marketing, cold calling, intent data, remote workforce, staff augmentation, marketing services, b2b demand generation, email outreach automation, linkedin growth, omni-channel outreach, customer profiling, data enrichment, prospect universe aggregation, automated sales, sales enablement, campaign automation, sales intelligence, buyer intent, verified decision makers, syndicated outreach, sales pipelines, data analytics, market insights, technology integration, crm solutions, custom data lists, multi-channel engagement, reputation management, cold outreach strategies, content personalization, audience targeting, revenue growth, dedicated resources, growth consultancy, marketing automation, sales strategies, hit sales goals, closing deals, business development, sales appointments, engagement metrics, response rates, ab testing, conversion optimization, email deliverability, follow-up sequences, marketing & advertising, sales, saas, computer software, information technology & services, enterprise software, enterprises",
     "personalization": "",
     "painStatement": "",
     "proposal_status": "",
