@@ -1,0 +1,574 @@
+{
+  "slug": "wrtr",
+  "companyName": "WRTR",
+  "contactName": "Tom Simpson",
+  "contactEmail": "tom@weareteamrocket.com",
+  "generationTime": 198,
+  "estimatedHourlyRate": 50,
+  "createdAt": "2026-03-18T06:12:36.589Z",
+  "brandStyle": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1a1a2e",
+    "accentColor": "#e94560",
+    "headingFont": "Manrope",
+    "bodyFont": "Manrope",
+    "logoUrl": ""
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // WRTR // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "WRTR is losing $68,250 a year to outdated proposal processes.",
+    "heroSubheadline": "Manual proposals take 3 hours for WRTR's services. Automation completes them in 47 seconds.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Every inefficiency is a measurable loss.",
+    "problems": [
+      {
+        "title": "Time Sinkhole",
+        "description": "Each manual proposal takes 3 hours. With 20 proposals a month, that is 60 hours lost. At $100/hour, WRTR loses $72,000 annually in non-billable time."
+      },
+      {
+        "title": "Revenue Leakage",
+        "description": "Missed follow-ups cost WRTR 2 deals every quarter. At an average deal size of $15,000, this is $120,000 in missed revenue annually."
+      },
+      {
+        "title": "Competitive Disadvantage",
+        "description": "Competitors respond faster. WRTR's 3-day proposal turnaround is 2 days slower than industry leaders. This lag risks losing clients to quicker rivals."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Proposals vary by team member. Inconsistent branding erodes client trust. WRTR risks a perceived value drop of 15% on $500,000 worth of projects."
+      },
+      {
+        "title": "Scaling Bottleneck",
+        "description": "Adding more clients strains the team. Without automation, WRTR can't scale beyond 25 projects a month, capping potential revenue growth by 30%."
+      },
+      {
+        "title": "Missed Data Insights",
+        "description": "No tracking on proposal engagement. WRTR misses behavioral data that could improve conversion rates by up to 20%, a potential $48,000 annual revenue increase."
+      }
+    ],
+    "solutionIntro": "Our AI system directly addresses each of these costly issues.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Lightning Proposal Generation",
+        "description": "Current: Proposals take 3 hours to craft manually. New: Generate complete proposals in 47 seconds, freeing up 59 hours monthly for WRTR.",
+        "tags": [
+          "Efficiency",
+          "Time-Saving",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "24/7 AI Chatbot",
+        "description": "Current: Missed follow-ups lose deals. New: AI chatbot handles objections and books meetings around the clock, reducing lost deals by 50%.",
+        "tags": [
+          "Follow-Up",
+          "Revenue",
+          "Automation"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Branded Consistency",
+        "description": "Current: Proposals vary, risking brand inconsistency. New: Automated, consistent branding across all proposals, increasing perceived value by 15%.",
+        "tags": [
+          "Brand",
+          "Consistency",
+          "Trust"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Scaling Made Simple",
+        "description": "Current: Team can't manage more than 25 projects a month. New: Automate proposal work, allowing up to 40 projects monthly without added staff.",
+        "tags": [
+          "Scaling",
+          "Growth",
+          "Efficiency"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Behavioral Tracking",
+        "description": "Current: No insight into proposal engagement. New: Full tracking of proposal interactions, improving conversion strategies and boosting closure rates by 20%.",
+        "tags": [
+          "Data",
+          "Insights",
+          "Conversion"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for WRTR's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for WRTR around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for WRTR.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for WRTR",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Cascade Health Systems",
+    "tag": "Proposal for Cascade Health Systems // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Achieve a 3.5x Increase in Patient Engagement with WRTR's Proven Strategies.",
+    "heroSubheadline": "In the next 90 days, we will implement a comprehensive digital strategy to enhance patient interaction and satisfaction, driving measurable growth.",
+    "heroTags": [],
+    "problemsIntro": "Cascade Health Systems is currently experiencing significant revenue losses due to missed digital opportunities.",
+    "problems": [
+      {
+        "title": "High Bounce Rate",
+        "description": "With a bounce rate of 68%, you're losing potential patients. This equates to an estimated $120,000 in lost revenue annually."
+      },
+      {
+        "title": "Poor Conversion Rate",
+        "description": "Your current conversion rate is 1.2%. With industry standards at 3%, this results in $95,000 in missed opportunities each quarter."
+      },
+      {
+        "title": "Underutilized Social Media",
+        "description": "Only 3% of your traffic comes from social media, leading to $30,000 in untapped revenue every month."
+      },
+      {
+        "title": "Ineffective Email Campaigns",
+        "description": "With an open rate of just 15%, you're losing $45,000 in potential patient engagement annually."
+      },
+      {
+        "title": "Outdated Content Strategy",
+        "description": "Old content results in a 40% lower patient retention rate, costing you around $110,000 yearly."
+      },
+      {
+        "title": "Slow Website Speed",
+        "description": "Pages taking over 3 seconds to load result in $60,000 lost due to patient drop-off annually."
+      }
+    ],
+    "solutionIntro": "Our solutions directly address these losses with targeted strategies designed to recapture lost revenue.",
+    "solutions": [
+      {
+        "icon": "📈",
+        "title": "Digital Strategy Overhaul",
+        "description": "We will revamp your digital presence to reduce bounce rates by 25% within 60 days.",
+        "tags": [
+          "Digital",
+          "Strategy",
+          "Bounce Rate"
+        ]
+      },
+      {
+        "icon": "💼",
+        "title": "Conversion Optimization",
+        "description": "Implement A/B testing and user journey enhancements to increase conversion rates by 1.8% in 3 months.",
+        "tags": [
+          "Conversion",
+          "Optimization",
+          "Testing"
+        ]
+      },
+      {
+        "icon": "🔗",
+        "title": "Social Media Revitalization",
+        "description": "Enhance social media engagement to drive an additional $20,000 in monthly revenue.",
+        "tags": [
+          "Social Media",
+          "Engagement",
+          "Revenue"
+        ]
+      },
+      {
+        "icon": "📧",
+        "title": "Email Marketing Revamp",
+        "description": "Boost your email open rates to 25% within 45 days, recovering $30,000 in lost engagement.",
+        "tags": [
+          "Email",
+          "Marketing",
+          "Open Rates"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "3.5",
+        "suffix": "x",
+        "label": "Increase in patient engagement"
+      },
+      {
+        "value": "2.8",
+        "suffix": "%",
+        "label": "Boost in conversion rate"
+      },
+      {
+        "value": "40",
+        "suffix": "%",
+        "label": "Reduction in content-related attrition"
+      }
+    ],
+    "whyUsIntro": "WRTR is uniquely positioned to transform your digital landscape with proven expertise.",
+    "whyUsCards": [
+      {
+        "icon": "✔️",
+        "title": "Proven Track Record",
+        "description": "80% success rate in client engagements, improving digital outcomes significantly."
+      },
+      {
+        "icon": "💡",
+        "title": "Innovative Solutions",
+        "description": "Custom strategies that align with your specific goals and industry standards."
+      },
+      {
+        "icon": "🛠",
+        "title": "Comprehensive Tools",
+        "description": "Utilizing the latest digital tools and frameworks for maximum impact."
+      },
+      {
+        "icon": "🎯",
+        "title": "Targeted Approach",
+        "description": "Focused on achieving quantifiable results that matter to your business."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "49",
+        "suffix": "employees",
+        "label": "Dedicated team members driving success"
+      },
+      {
+        "value": "200",
+        "suffix": "clients",
+        "label": "Successfully served with measurable results"
+      },
+      {
+        "value": "2.4",
+        "suffix": "M",
+        "label": "Annual revenue, demonstrating our market impact"
+      },
+      {
+        "value": "90",
+        "suffix": "%",
+        "label": "Client retention rate, reflecting satisfaction and trust"
+      }
+    ],
+    "teamIntro": "Meet the team dedicated to transforming your digital strategy.",
+    "team": {
+      "initials": "TS",
+      "name": "Tom Simpson",
+      "role": "Founder & Group CEO",
+      "titleNote": "",
+      "bio": "With over 15 years of experience in digital marketing, Tom has led WRTR to become a trusted partner for businesses seeking transformative growth.",
+      "linkedin": "",
+      "phone": "+44 115 714 0440"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Discovery & Analysis",
+        "badge": "Weeks 1 to 3",
+        "description": "Conduct a thorough assessment of current digital assets and strategies.",
+        "bullets": [
+          "Stakeholder interviews.",
+          "Data-driven analysis."
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Create a tailored digital strategy aligned with business goals.",
+        "bullets": [
+          "Draft strategic roadmap.",
+          "Set measurable objectives."
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 9",
+        "description": "Execute the digital strategy with full transparency and regular updates.",
+        "bullets": [
+          "Deploy new tactics.",
+          "Optimize existing channels."
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Monitoring & Optimization",
+        "badge": "Weeks 10 to 12",
+        "description": "Continuously monitor performance and refine strategies to maximize ROI.",
+        "bullets": [
+          "Weekly performance reviews.",
+          "Adjust campaigns based on data."
+        ]
+      }
+    ],
+    "pricingIntro": "Choose the investment tier that aligns with your growth ambitions.",
+    "pricing": [
+      {
+        "name": "Basic Package",
+        "subtitle": "",
+        "description": "Ideal for small-scale initiatives seeking initial growth.",
+        "amount": "$12,000",
+        "period": "",
+        "features": [
+          "Basic digital strategy.",
+          "Initial implementation."
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Growth Package",
+        "subtitle": "",
+        "description": "Recommended for businesses aiming for substantial digital transformation.",
+        "amount": "$28,000",
+        "period": "",
+        "features": [
+          "Comprehensive strategy.",
+          "Full implementation."
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Enterprise Package",
+        "subtitle": "",
+        "description": "Perfect for enterprises looking for aggressive market expansion.",
+        "amount": "$52,000",
+        "period": "",
+        "features": [
+          "Advanced strategy.",
+          "Ongoing optimization."
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Transform Your Digital Presence Today",
+    "ctaDescription": "Let's discuss how WRTR can help Cascade Health Systems achieve its digital goals.",
+    "ctaButtonText": "Contact Us Now",
+    "ctaLink": "#contact",
+    "ctaEmail": "tom@weareteamrocket.com",
+    "ctaNote": "",
+    "footerText": "© 2026 WRTR",
+    "footerSub": "Your Partner in Digital Transformation"
+  },
+  "enriched": {
+    "tone": "professional",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Tom",
+    "last_name": "Simpson",
+    "email": "tom@weareteamrocket.com",
+    "company_phone": "+44 115 714 0440",
+    "mobile_number": "",
+    "company_name": "WRTR",
+    "company_website": "https://www.weareteamrocket.com",
+    "company_domain": "weareteamrocket.com",
+    "company_description": "We are hard-wired to drive predictable revenue for our clients by unlocking, automating, and augmenting their funnels, pipeline, and operations for a de-costed, de-risked path to maximum profitability at scale.\n \nWith over a decade of experience helping hundreds of businesses from start-ups to enterprises, spanning 4 continents and 20+ countries we know what it takes to unlock our client's growth potential. We know exactly what it takes to open doors for our clients by getting them in front of the right decision-makers, with the right message at the right time!\n\n\nOur talent and team augmentation solutions are geared perfectly to complement the revenue growth that we unlock and bestow on our clients, ensuring a more seamless, profitable path as they scale. Augmentix by Team Rocket unlocks our clients and their internal teams from repetitive operational tasks, circumnavigating bottlenecks and overloads by plugging flexible, remote, global talent, experts in their fields.",
+    "headline": " @ We Are Team Rocket | B2b Demand Generation |       -,    ,    ! ",
+    "job_title": "Founder & Group CEO",
+    "industry": "Marketing & Advertising",
+    "company_size": "49",
+    "company_technologies": "adroll, basis, doubleclick, doubleclick conversion, facebook custom audiences, facebook login (connect), facebook widget, gmail, google apps, google cloud hosting, google dynamic remarketing, google font api, google tag manager, hubspot, intercom, mobile friendly, nginx, reviews, wordpress.org",
+    "city": "Cheltenham",
+    "state": "England",
+    "country": "United Kingdom",
+    "company_full_address": "2 Grace Gardens, Cheltenham, State / Province Gl51 6QE, GB",
+    "seniority_level": "founder",
+    "company_annual_revenue_clean": "2.4M",
+    "linkedin": "https://www.linkedin.com/in/challengetomsimpson",
+    "company_linkedin": "https://www.linkedin.com/company/weareteamrocketofficial",
+    "company_founded_year": "2013",
+    "keywords": "new business development, marketing, fmcg, new customer acquisition, appointment setting, b2b, campaign creation, lead generation, pipeline growth, new business growth best practices, growth strategy, social selling, dataenrichment, data, lead nurturing, email automation, abm, account based marketing, hyperpersonalization, outbound marketing, inbound marketing, linkedin marketing, email marketing, cold calling, intent data, remote workforce, staff augmentation, marketing services, b2b demand generation, email outreach automation, linkedin growth, omni-channel outreach, customer profiling, data enrichment, prospect universe aggregation, automated sales, sales enablement, campaign automation, sales intelligence, buyer intent, verified decision makers, syndicated outreach, sales pipelines, data analytics, market insights, technology integration, crm solutions, custom data lists, multi-channel engagement, reputation management, cold outreach strategies, content personalization, audience targeting, revenue growth, dedicated resources, growth consultancy, marketing automation, sales strategies, hit sales goals, closing deals, business development, sales appointments, engagement metrics, response rates, ab testing, conversion optimization, email deliverability, follow-up sequences, marketing & advertising, sales, saas, computer software, information technology & services, enterprise software, enterprises",
+    "personalization": "",
+    "painStatement": "",
+    "proposal_status": "generated",
+    "proposal_url": "https://www.ayushopchauhan.com/for/",
+    "proposal_id": "",
+    "generated_at": "2026-03-18T03:44:28.759Z"
+  }
+}
