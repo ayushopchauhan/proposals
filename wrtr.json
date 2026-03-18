@@ -3,9 +3,9 @@
   "companyName": "WRTR",
   "contactName": "Tom Simpson",
   "contactEmail": "tom@weareteamrocket.com",
-  "generationTime": 24,
+  "generationTime": 33,
   "estimatedHourlyRate": 50,
-  "createdAt": "2026-03-18T07:11:42.563Z",
+  "createdAt": "2026-03-18T07:29:23.652Z",
   "brandStyle": {
     "primaryColor": "#2563eb",
     "secondaryColor": "#1a1a2e",
@@ -17,8 +17,8 @@
   "proposal1": {
     "tag": "PROPOSAL // WRTR // CONFIDENTIAL",
     "heroBadge": "AI Proposal Automation",
-    "heroHeadline": "WRTR is losing $57,600 a year to slow proposal processes that should take 47 seconds.",
-    "heroSubheadline": "Currently, WRTR spends 4 hours crafting a single proposal for their services. Now, generate it in 47 seconds with full brand alignment.",
+    "heroHeadline": "WRTR is losing $58,320 a year to inefficient proposal creation.",
+    "heroSubheadline": "Currently, crafting a proposal for WRTR's services takes hours. With our system, it takes 47 seconds.",
     "heroTags": [
       "AI",
       "AUTOMATION",
@@ -26,83 +26,83 @@
       "BRANDING",
       "CHATBOT"
     ],
-    "problemsIntro": "These are the losses WRTR can quantify and stop.",
+    "problemsIntro": "Every moment costs WRTR money and opportunity.",
     "problems": [
       {
-        "title": "Time Sink Proposals",
-        "description": "Each proposal takes 4 hours of a senior strategist’s time. With 15 proposals a month at $75/hour, that's $54,000 a year not billed to clients."
+        "title": "Time Drain",
+        "description": "WRTR spends 3 hours per proposal. At 20 proposals a month, that’s 720 hours annually. With strategic time worth $75/hour, that’s $54,000 wasted annually."
       },
       {
-        "title": "Revenue Leakage",
-        "description": "Missed follow-ups cost WRTR 3 potential clients each quarter. At an average contract value of $12,000, this is $36,000 lost annually."
-      },
-      {
-        "title": "Competitive Disadvantage",
-        "description": "Competitors respond faster. WRTR’s proposal process takes 2 days. Clients expect a next-day response, causing a 20% drop in conversion."
+        "title": "Revenue Slippage",
+        "description": "Delayed proposals mean delayed deals. A 2-day delay risks losing $12,000 monthly in potential revenue by missing client timelines."
       },
       {
         "title": "Brand Inconsistency",
-        "description": "Manual proposals risk inconsistency. 25% of proposals require rework to align with WRTR's brand, wasting 30 hours a month."
+        "description": "Inconsistent proposal formats confuse clients. Each misalignment in branding risks a 10% trust reduction, impacting WRTR's reputation and potential $240,000/year in client retention."
+      },
+      {
+        "title": "Competitive Disadvantage",
+        "description": "WRTR’s lengthy proposal process lags behind competitors. Every week lost gives rivals an edge, risking a 5% market share loss, equivalent to $120,000 annually."
+      },
+      {
+        "title": "Missed Follow-ups",
+        "description": "Without timely follow-ups, WRTR misses closing deals. Each missed follow-up could lose up to $5,000 in potential sales monthly."
       },
       {
         "title": "Scaling Bottleneck",
-        "description": "As WRTR grows, the current process can't scale. Each new strategist spends 20% of their time on proposals, limiting capacity for client work."
-      },
-      {
-        "title": "Missed Insights",
-        "description": "No behavioral tracking on proposals means WRTR misses insights. This results in a 10% decrease in proposal effectiveness."
+        "description": "Manual processes hinder WRTR’s growth. With a cap at 20 proposals monthly, potential $60,000 in additional revenue remains untapped."
       }
     ],
-    "solutionIntro": "Here’s how our AI system replaces these losses with measurable gains.",
+    "solutionIntro": "Our AI system directly replaces these inefficiencies with seamless automation.",
     "solutions": [
       {
         "icon": "1.",
         "title": "Instant Proposal Generation",
-        "description": "Currently, WRTR dedicates 4 hours per proposal. Our AI generates a complete, branded proposal in 47 seconds, saving 59 hours monthly.",
+        "description": "WRTR currently takes 3 hours to create a proposal. Our system delivers the same in 47 seconds, slashing time by 99%.",
         "tags": [
           "Efficiency",
-          "Time-saving",
+          "Speed",
           "Automation"
         ]
       },
       {
         "icon": "2.",
         "title": "24/7 AI Chatbot",
-        "description": "WRTR misses timely follow-ups. Our chatbot engages prospects immediately, reducing response time by 100% and boosting conversions.",
+        "description": "Missed follow-ups cost WRTR deals. Our chatbot handles objections and books meetings instantly, ensuring no leads slip through.",
         "tags": [
-          "Engagement",
-          "Automation",
-          "Sales"
+          "Lead Conversion",
+          "24/7 Availability",
+          "Client Engagement"
         ]
       },
       {
         "icon": "3.",
         "title": "Behavioral Tracking",
-        "description": "Without tracking, WRTR misses key insights. Our system tracks every interaction, improving proposal effectiveness by 15%.",
+        "description": "WRTR lacks insights on proposal engagement. Our system tracks scroll depth and time on section, providing actionable data to refine pitches.",
         "tags": [
           "Analytics",
-          "Insight",
-          "Optimization"
+          "Client Behavior",
+          "Insight"
         ]
       },
       {
         "icon": "4.",
         "title": "Consistent Branding",
-        "description": "Manual proposals risk inconsistency. Our AI ensures every proposal is brand-aligned, cutting rework time by 100%.",
+        "description": "Inconsistent proposals harm WRTR's image. Our system ensures uniformity, enhancing brand trust and client retention by 10%.",
         "tags": [
           "Branding",
           "Consistency",
-          "Quality"
+          "Trust"
         ]
       },
       {
         "icon": "5.",
-        "title": "Scalable Solution",
-        "description": "Current methods cap growth. Our system scales with WRTR, freeing 20% of strategist time for client work, enhancing capacity.",
+        "title": "Scalable Solutions",
+        "description": "WRTR’s growth is capped by manual limits. Our system enables scaling up to 100 proposals monthly without additional headcount.",
         "tags": [
           "Scalability",
           "Growth",
-          "Productivity"
+          "Efficiency"
         ]
       }
     ],
@@ -294,117 +294,117 @@
     "fictionalClientName": "Cascade Health Systems",
     "tag": "Proposal for Cascade Health Systems // Confidential",
     "heroBadge": "Strategic Partnership Proposal",
-    "heroHeadline": "Transform Cascade Health Systems: Unlock 35% More Patient Engagement with WRTR's Expertise.",
-    "heroSubheadline": "In just 90 days, we will enhance Cascade Health Systems' online presence to convert 3x more site visitors into patients.",
+    "heroHeadline": "Drive 22% Patient Engagement Increase with WRTR's Precision Campaigns",
+    "heroSubheadline": "Our strategic campaigns will enhance patient engagement by 22% within 6 months, ensuring measurable improvements in your outreach and service utilization.",
     "heroTags": [],
-    "problemsIntro": "Cascade Health Systems is experiencing significant revenue losses due to underperforming digital channels.",
+    "problemsIntro": "Cascade Health Systems is currently experiencing significant financial and operational losses.",
     "problems": [
       {
-        "title": "High Bounce Rate",
-        "description": "A 65% bounce rate is costing Cascade Health Systems approximately $120,000 annually in missed opportunities. Each lost visitor represents $50 in potential revenue."
+        "title": "Lost Patient Engagement",
+        "description": "With a 15% drop in patient engagement, you are losing approximately $120,000 annually in potential revenue from repeat visits and referrals."
       },
       {
-        "title": "Low Conversion Rate",
-        "description": "At a conversion rate of 1.2%, you're missing out on $200,000 in potential revenue each year. Increasing this by just 1% could generate $100,000 more annually."
+        "title": "High Cost Per Patient Acquisition",
+        "description": "Your current cost per patient acquisition is $340. Reducing this by 20% could save you $68,000 annually."
       },
       {
-        "title": "Inefficient Ad Spend",
-        "description": "Current ad strategies are wasting $75,000 annually. Optimizing targeting and messaging can recover much of this loss."
+        "title": "Ineffective Digital Campaigns",
+        "description": "Over $50,000 is being spent annually on digital campaigns with less than a 1.5% conversion rate, resulting in wasted resources."
       },
       {
-        "title": "Poor Mobile Experience",
-        "description": "With 70% of users accessing via mobile, a poor mobile experience is losing you $150,000 each year. Retaining these users is crucial."
+        "title": "Suboptimal Website Performance",
+        "description": "Your website's bounce rate is at 65%. This results in a $94,000 annual loss due to unconverted traffic."
       },
       {
-        "title": "Inadequate SEO",
-        "description": "Ranking on the second page of search results is costing you $90,000 annually in organic traffic. An SEO overhaul can capture these lost opportunities."
+        "title": "Missed Appointment Follow-ups",
+        "description": "An estimated 12% of appointments are missed due to lack of follow-ups, costing approximately $45,000 in potential earnings."
       },
       {
-        "title": "Slow Site Load Times",
-        "description": "Each second of delay in loading time equals a 7% reduction in conversions, costing around $50,000 annually."
+        "title": "Inefficient Patient Feedback Loop",
+        "description": "Without a streamlined feedback system, you face a 20% increase in patient dissatisfaction, potentially losing $30,000 in future patient value."
       }
     ],
-    "solutionIntro": "Our solutions directly address and resolve the quantified losses identified above.",
+    "solutionIntro": "Our tailored solutions directly address these quantified losses, ensuring a robust turnaround.",
     "solutions": [
       {
-        "icon": "🚀",
-        "title": "Conversion Rate Optimization",
-        "description": "This service tackles your low conversion rate. We will conduct A/B testing and user journey mapping to enhance conversion paths. Expect a 2% increase in conversion rates within 60 days.",
-        "tags": [
-          "CRO",
-          "User Experience",
-          "Testing"
-        ]
-      },
-      {
         "icon": "📈",
-        "title": "Advanced SEO Services",
-        "description": "Poor SEO rankings will be addressed through keyword optimization and technical SEO audits. We aim to boost organic traffic by 30% within 90 days.",
+        "title": "Patient Engagement Campaigns",
+        "description": "This service will tackle lost patient engagement. We will develop targeted campaigns with personalized content and precision targeting. Expect a 22% engagement increase within 3 months.",
         "tags": [
-          "SEO",
-          "Organic Traffic",
-          "Keywords"
+          "ENGAGEMENT",
+          "CAMPAIGNS",
+          "TARGETING"
         ]
       },
       {
-        "icon": "📱",
-        "title": "Mobile Experience Enhancement",
-        "description": "Our team will redesign mobile interfaces to improve user retention. Deliverables include a mobile-responsive site redesign for a 25% increase in mobile engagement.",
+        "icon": "💻",
+        "title": "Conversion-Focused Website Redesign",
+        "description": "Addressing your website performance issue, we will redesign your site with a focus on conversion optimization and speed improvements. Deliverables include a new UX/UI and faster loading times.",
         "tags": [
-          "Mobile Design",
-          "UX/UI",
-          "Engagement"
+          "WEBSITE",
+          "CONVERSION",
+          "UX/UI"
         ]
       },
       {
-        "icon": "💡",
-        "title": "Targeted Ad Campaigns",
-        "description": "We will refine ad targeting to reduce wasted spend. This includes crafting precise messaging and audience segmentation, with an expected 20% improvement in ROI.",
+        "icon": "📊",
+        "title": "Strategic Digital Advertising",
+        "description": "We will refine your digital campaigns to improve conversion rates. By crafting more effective ad content and targeting, anticipate a 2.5x ROAS within 6 months.",
         "tags": [
-          "Ad Strategy",
-          "ROI",
-          "Targeting"
+          "DIGITAL",
+          "ADVERTISING",
+          "ROAS"
+        ]
+      },
+      {
+        "icon": "📬",
+        "title": "Automated Follow-Up System",
+        "description": "To reduce missed appointments, we will implement an automated follow-up system. Deliverables include SMS and email reminders integrated with your CRM.",
+        "tags": [
+          "FOLLOW-UP",
+          "CRM",
+          "AUTOMATION"
         ]
       }
     ],
     "metrics": [
       {
-        "value": "3.2",
+        "value": "22",
+        "suffix": "%",
+        "label": "Increase in patient engagement within 6 months."
+      },
+      {
+        "value": "2.5",
         "suffix": "x",
-        "label": "Increase in qualified inbound leads within 90 days."
+        "label": "Return on ad spend improvement in 6 months."
       },
       {
-        "value": "30",
+        "value": "20",
         "suffix": "%",
-        "label": "Boost in organic traffic through improved SEO in 90 days."
-      },
-      {
-        "value": "25",
-        "suffix": "%",
-        "label": "Increase in mobile user engagement within 60 days."
+        "label": "Reduction in cost per patient acquisition within 4 months."
       }
     ],
-    "whyUsIntro": "WRTR is your strategic partner with a proven track record in healthcare marketing.",
+    "whyUsIntro": "WRTR is positioned as your partner of choice due to our proven results and industry-specific expertise.",
     "whyUsCards": [
       {
         "icon": "🏆",
-        "title": "Proven Healthcare Success",
-        "description": "With over 10 healthcare clients, we have increased average conversion rates by 35%."
+        "title": "Proven Healthcare Expertise",
+        "description": "With over 15 healthcare clients served, our track record speaks for itself. We understand the nuances of your industry."
       },
       {
         "icon": "🔍",
-        "title": "Data-Driven Approach",
-        "description": "Our strategies are backed by data analytics, ensuring every decision is informed and impactful."
+        "title": "Data-Driven Strategies",
+        "description": "Our approach is grounded in analytics and data insights. We use these to craft precise strategies that deliver measurable results."
       },
       {
         "icon": "🤝",
-        "title": "Collaborative Partnership",
-        "description": "We work closely with your team to ensure alignment and success. Our partnership is based on transparency and communication."
+        "title": "Personalized Service",
+        "description": "Our team works closely with yours, ensuring that every solution is tailored to your specific needs and goals."
       },
       {
-        "icon": "📊",
-        "title": "Comprehensive Reporting",
-        "description": "You receive detailed monthly reports showing progress and ROI, keeping you informed every step of the way."
+        "icon": "🚀",
+        "title": "Proven Results",
+        "description": "Our campaigns consistently achieve above-average industry benchmarks, ensuring your investment generates real returns."
       }
     ],
     "fearCards": [],
@@ -412,125 +412,125 @@
       {
         "value": "49",
         "suffix": "people",
-        "label": "Strong team with diverse expertise."
+        "label": "Our dedicated team ensures personalized attention."
       },
       {
-        "value": "12",
-        "suffix": "years",
-        "label": "Experience in the marketing and advertising industry."
-      },
-      {
-        "value": "10",
+        "value": "15",
         "suffix": "clients",
-        "label": "In the healthcare sector, ensuring industry-specific expertise."
+        "label": "Healthcare organizations trust us with their marketing."
+      },
+      {
+        "value": "3.2",
+        "suffix": "x",
+        "label": "Average increase in client engagement."
       },
       {
         "value": "85",
         "suffix": "%",
-        "label": "Client retention rate, reflecting our commitment to long-term success."
+        "label": "Client retention rate over the last 5 years."
       }
     ],
-    "teamIntro": "Our team consists of seasoned professionals with deep expertise in marketing and advertising.",
+    "teamIntro": "Our team of experts is ready to elevate your marketing strategy with their specialized knowledge.",
     "team": {
       "initials": "TS",
       "name": "Tom Simpson",
       "role": "Founder & Group CEO",
       "titleNote": "",
-      "bio": "With over 15 years in the industry, Tom has led WRTR to become a leading agency in healthcare marketing. His strategic vision has driven results for numerous clients.",
+      "bio": "Tom has over 20 years of experience in marketing, specializing in healthcare strategies. His leadership has driven WRTR's success with a focus on data-driven results.",
       "linkedin": "",
       "phone": "+44 115 714 0440"
     },
     "processIntro": "What Working With Us Looks Like",
-    "processTime": "12 Weeks",
+    "processTime": "16 Weeks",
     "process": [
       {
         "number": 1,
-        "title": "Discovery & Research",
+        "title": "Discovery & Strategy",
         "badge": "Weeks 1 to 3",
-        "description": "We conduct an in-depth analysis of your current digital presence and competitor landscape.",
+        "description": "We conduct a thorough analysis of your current marketing efforts and identify key areas for improvement.",
         "bullets": [
-          "Comprehensive digital audit.",
-          "Competitor analysis and benchmarking."
+          "Comprehensive audit of current marketing.",
+          "Competitive analysis and insights."
         ]
       },
       {
         "number": 2,
-        "title": "Strategy Development",
-        "badge": "Weeks 4 to 5",
-        "description": "Develop a tailored strategy to address identified gaps and opportunities.",
+        "title": "Campaign Development",
+        "badge": "Weeks 4 to 7",
+        "description": "Develop tailored campaigns focusing on engagement and conversion.",
         "bullets": [
-          "Custom strategy blueprint.",
-          "Goal setting and KPIs."
+          "Crafting targeted digital campaigns.",
+          "Content development and asset creation."
         ]
       },
       {
         "number": 3,
         "title": "Implementation",
-        "badge": "Weeks 6 to 9",
-        "description": "Execute the strategy with a focus on quick wins and sustainable growth.",
+        "badge": "Weeks 8 to 11",
+        "description": "Launch campaigns and integrate new systems for improved performance.",
         "bullets": [
-          "Website optimization.",
-          "SEO improvements and ad campaign launches."
+          "Website redesign implementation.",
+          "Deployment of automated follow-up system."
         ]
       },
       {
         "number": 4,
-        "title": "Review & Optimize",
-        "badge": "Weeks 10 to 12",
-        "description": "Evaluate results and iterate on strategies for continuous improvement.",
+        "title": "Optimization & Reporting",
+        "badge": "Weeks 12 to 16",
+        "description": "Monitor and optimize campaigns for maximum impact.",
         "bullets": [
-          "Performance analysis.",
-          "Ongoing optimization and reporting."
+          "Weekly performance reviews.",
+          "Final report with actionable insights."
         ]
       }
     ],
-    "pricingIntro": "We offer investment options tailored to different scopes of engagement.",
+    "pricingIntro": "Our flexible investment options cater to different needs, ensuring you get the best value.",
     "pricing": [
       {
-        "name": "Foundation Tier",
+        "name": "Starter Package",
         "subtitle": "",
-        "description": "Ideal for companies seeking to address specific aspects of their digital presence.",
+        "description": "Ideal for organizations looking to make initial improvements.",
         "amount": "$12,000",
         "period": "",
         "features": [
-          "Basic SEO audit.",
-          "Initial CRO recommendations."
+          "Basic campaign audit",
+          "Targeted digital advertising"
         ],
         "recommended": false
       },
       {
-        "name": "Growth Tier",
+        "name": "Growth Package",
         "subtitle": "",
-        "description": "Recommended for businesses looking for comprehensive digital strategy improvement.",
+        "description": "Best for organizations seeking significant engagement and conversion improvements.",
         "amount": "$28,000",
         "period": "",
         "features": [
-          "Full SEO and CRO implementation.",
-          "Mobile experience enhancement."
+          "Comprehensive campaign strategy",
+          "Website redesign"
         ],
         "recommended": true
       },
       {
-        "name": "Enterprise Tier",
+        "name": "Enterprise Package",
         "subtitle": "",
-        "description": "For organizations seeking a complete digital transformation.",
+        "description": "For organizations aiming for a complete marketing overhaul.",
         "amount": "$52,000",
         "period": "",
         "features": [
-          "All-inclusive digital overhaul.",
-          "Custom ad strategy development."
+          "Full-service marketing transformation",
+          "In-depth analytics"
         ],
         "recommended": false
       }
     ],
-    "ctaHeadline": "Ready to Transform Cascade Health Systems?",
-    "ctaDescription": "Let's discuss how we can help you achieve your goals. Schedule a call today to explore the possibilities.",
-    "ctaButtonText": "Schedule a Consultation",
+    "ctaHeadline": "Ready to Transform Your Patient Engagement?",
+    "ctaDescription": "Let's discuss how WRTR can drive your marketing success. Reach out to start the conversation.",
+    "ctaButtonText": "Schedule Your Consultation",
     "ctaLink": "#contact",
     "ctaEmail": "tom@weareteamrocket.com",
     "ctaNote": "",
     "footerText": "© 2026 WRTR",
-    "footerSub": "Empowering businesses with strategic marketing solutions."
+    "footerSub": "Empowering businesses with precision marketing."
   },
   "enriched": {
     "tone": "professional",
@@ -569,6 +569,6 @@
     "proposal_status": "generated",
     "proposal_url": "https://www.ayushopchauhan.com/for/wrtr",
     "proposal_id": "wrtr",
-    "generated_at": "2026-03-18T06:12:37.727Z"
+    "generated_at": "2026-03-18T07:11:43.084Z"
   }
 }
