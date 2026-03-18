@@ -3,9 +3,9 @@
   "companyName": "WRTR",
   "contactName": "Tom Simpson",
   "contactEmail": "tom@weareteamrocket.com",
-  "generationTime": 30,
+  "generationTime": 53,
   "estimatedHourlyRate": 50,
-  "createdAt": "2026-03-18T07:42:45.960Z",
+  "createdAt": "2026-03-18T08:13:00.234Z",
   "brandStyle": {
     "primaryColor": "#2563eb",
     "secondaryColor": "#1a1a2e",
@@ -17,8 +17,8 @@
   "proposal1": {
     "tag": "PROPOSAL // WRTR // CONFIDENTIAL",
     "heroBadge": "AI Proposal Automation",
-    "heroHeadline": "WRTR is losing $96,300 a year to inefficient proposal processes.",
-    "heroSubheadline": "Current manual proposals take 4 hours. Automate them to 47 seconds with AI, tailored for WRTR's services.",
+    "heroHeadline": "WRTR is losing $58,320 annually on inefficient proposal processes.",
+    "heroSubheadline": "Your current manual proposal process takes hours. Our system does it in 47 seconds with seamless integration into your marketing services.",
     "heroTags": [
       "AI",
       "AUTOMATION",
@@ -26,39 +26,39 @@
       "BRANDING",
       "CHATBOT"
     ],
-    "problemsIntro": "Every day, WRTR loses measurable revenue from inefficiencies.",
+    "problemsIntro": "Every day, your current methods are costing you measurable losses.",
     "problems": [
       {
         "title": "Time Drain",
-        "description": "WRTR's strategists spend 60 hours monthly on proposals, costing $54,000 annually. That's time not spent on client engagement."
+        "description": "Each proposal currently takes 4 hours. At 15 proposals a month, that's 720 hours a year. Billed at $75/hour, that's $54,000 a year that never reaches your clients."
       },
       {
         "title": "Revenue Leakage",
-        "description": "Missed follow-ups result in potential revenue loss of $22,500 annually. Timely responses mean more closed deals."
+        "description": "Missed follow-ups result in lost deals, costing an estimated $33,600 annually. Each missed follow-up potentially loses a $2,800 contract."
       },
       {
         "title": "Competitive Disadvantage",
-        "description": "With a 4-hour proposal turnaround, competitors respond faster. Each delayed response risks losing a $15,000 project."
+        "description": "Competitors respond faster. Your 5-day proposal cycle often loses to 24-hour turnarounds. This costs WRTR an estimated 10% of potential new clients annually."
       },
       {
         "title": "Brand Inconsistency",
-        "description": "Manually crafted proposals often miss WRTR's unique messaging, risking $5,000 in brand value dilution per proposal."
+        "description": "Manual proposals often miss branding elements. Result: 20% of proposals lack full brand alignment, impacting client perception and costing around $12,500 in brand value."
+      },
+      {
+        "title": "Missed Opportunities",
+        "description": "Without behavioral tracking, 30% of proposal engagement insights are lost. This limits your ability to tailor follow-ups, potentially costing $18,000 in upsell opportunities."
       },
       {
         "title": "Scaling Bottleneck",
-        "description": "The current process limits WRTR to 15 proposals monthly. This caps potential revenue growth at $180,000 annually."
-      },
-      {
-        "title": "Missed Insights",
-        "description": "Without behavioral tracking, WRTR misses $7,800 worth of actionable client insights each year, reducing conversion rates."
+        "description": "Your team hits capacity at 15 proposals per month. Without automation, scaling would require hiring, costing $24,000 annually per additional team member."
       }
     ],
-    "solutionIntro": "Introducing our AI system that transforms each listed problem into measurable efficiency.",
+    "solutionIntro": "Our AI system directly resolves each of these costly inefficiencies.",
     "solutions": [
       {
         "icon": "1.",
         "title": "Instant Proposal Generation",
-        "description": "Currently, WRTR spends 4 hours crafting a proposal. Our system completes it in 47 seconds, freeing up $54,000 annually in strategist time.",
+        "description": "Current manual efforts require 4 hours per proposal. Our system completes proposals in 47 seconds, saving over 700 hours yearly.",
         "tags": [
           "Efficiency",
           "Time-Saving",
@@ -67,28 +67,28 @@
       },
       {
         "icon": "2.",
-        "title": "Automated Follow-Ups",
-        "description": "Missed follow-ups cost WRTR $22,500 annually. Our AI handles 24/7 client engagement, capturing more opportunities.",
+        "title": "AI Chatbot for Follow-ups",
+        "description": "Manual follow-ups are often missed, losing potential deals. The AI chatbot ensures 24/7 engagement, potentially recovering $33,600 in lost revenue.",
         "tags": [
-          "Engagement",
           "Revenue",
+          "Engagement",
           "Automation"
         ]
       },
       {
         "icon": "3.",
-        "title": "Rapid Response Advantage",
-        "description": "4-hour turnarounds let competitors get ahead. AI-generated proposals in seconds position WRTR as the industry leader.",
+        "title": "Real-time Behavioral Tracking",
+        "description": "Without tracking, insights are lost. Our system provides real-time tracking, enhancing follow-up strategies and uncovering $18,000 in upsell potential.",
         "tags": [
-          "Competitive Edge",
-          "Speed",
-          "Lead Conversion"
+          "Insight",
+          "Data",
+          "Growth"
         ]
       },
       {
         "icon": "4.",
-        "title": "Consistent Branding",
-        "description": "Inconsistent messaging risks $5,000 per proposal. Our system ensures every document aligns with WRTR's brand.",
+        "title": "Brand Consistency Assurance",
+        "description": "Manual branding checks miss details. Our system ensures 100% brand alignment in every proposal, safeguarding $12,500 in brand value.",
         "tags": [
           "Branding",
           "Consistency",
@@ -97,12 +97,12 @@
       },
       {
         "icon": "5.",
-        "title": "Behavioral Insights",
-        "description": "Missed insights from proposal interactions cost $7,800 annually. Our tracking provides actionable data, improving conversions.",
+        "title": "Scalable Proposal Capacity",
+        "description": "Current capacity caps at 15 proposals monthly. Our system scales effortlessly, avoiding $24,000 in hiring costs for additional team capacity.",
         "tags": [
-          "Analytics",
-          "Insights",
-          "Conversion"
+          "Scalability",
+          "Cost-Saving",
+          "Growth"
         ]
       }
     ],
@@ -284,7 +284,7 @@
     "ctaHeadline": "See this running on your actual proposals.",
     "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for WRTR.",
     "ctaButtonText": "Email Ayush",
-    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for Atom Create",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for WRTR",
     "ctaEmail": "ayushopchauhan@gmail.com",
     "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
     "footerText": "© 2026 AOC",
@@ -294,149 +294,149 @@
     "fictionalClientName": "Cascade Health Systems",
     "tag": "Proposal for Cascade Health Systems // Confidential",
     "heroBadge": "Strategic Partnership Proposal",
-    "heroHeadline": "Transform Cascade Health Systems with a 2.5x Increase in Patient Engagement",
-    "heroSubheadline": "Our 6-month engagement will enhance your digital presence, resulting in a 2.5x increase in patient engagement and satisfaction.",
+    "heroHeadline": "Transform Cascade Health Systems with a 3.2x Lead Increase Using WRTR's Expertise.",
+    "heroSubheadline": "Our 90-day action plan will enhance your digital presence, resulting in significant lead generation improvements.",
     "heroTags": [],
-    "problemsIntro": "Cascade Health Systems is currently experiencing measurable financial and operational losses.",
+    "problemsIntro": "Cascade Health Systems is currently experiencing significant measurable losses in revenue and operational efficiency.",
     "problems": [
       {
-        "title": "High Website Bounce Rate",
-        "description": "Every visitor leaving without engaging costs you $32 in lost potential revenue. With 3,000 visitors monthly, that's $1,152,000 annually."
+        "title": "High Bounce Rate",
+        "description": "A 65% bounce rate on key landing pages is costing $120,000 annually in lost conversions."
       },
       {
-        "title": "Ineffective Ad Spend",
-        "description": "Your current ad spend results in a 20% ROI. Industry average is 35%, losing you approximately $240,000 annually."
+        "title": "Low Conversion Rate",
+        "description": "With a conversion rate of 1.2%, there is a $200,000 potential revenue loss per year."
       },
       {
-        "title": "Low Patient Retention",
-        "description": "A 15% patient churn results in $400,000 lost revenue each year due to lack of follow-up engagement."
+        "title": "Inefficient Ad Spend",
+        "description": "Wasted ad spend is approximately $150,000 annually due to poor targeting strategies."
       },
       {
-        "title": "Suboptimal Social Media Engagement",
-        "description": "Your social media channels lag, with a 1% engagement rate versus the 3% industry standard. This equates to 7,000 fewer interactions monthly."
+        "title": "Poor SEO Performance",
+        "description": "Ranking below competitors is leading to a 30% drop in organic traffic, equating to $85,000 in potential revenue loss."
       },
       {
-        "title": "Underutilized CRM System",
-        "description": "Your CRM system operates at 60% efficiency, costing you 200 staff hours monthly, valued at $18,000."
+        "title": "Customer Retention Issues",
+        "description": "A 20% churn rate is leading to a customer lifetime value loss of $90,000 annually."
       },
       {
-        "title": "Poor Email Campaign Performance",
-        "description": "Current email campaigns yield a 0.5% conversion rate, missing out on $350,000 in potential revenue annually."
+        "title": "Underutilized Social Channels",
+        "description": "Current social engagement is down 40%, resulting in $50,000 lost in potential brand reach."
       }
     ],
-    "solutionIntro": "Our solutions directly address these losses by optimizing engagement and operational efficiency.",
+    "solutionIntro": "Our tailored solutions directly address these quantified losses, driving measurable results.",
     "solutions": [
       {
         "icon": "📈",
-        "title": "Digital Presence Optimization",
-        "description": "Solves high bounce rate. We will redesign your website for a seamless user experience. Deliverables include a responsive design and improved load times. Expect a 50% reduction in bounce rate.",
+        "title": "Conversion Rate Optimization",
+        "description": "Our team will implement a CRO strategy to increase your conversion rate from 1.2% to 3.5% within 90 days.",
         "tags": [
-          "Website",
-          "User Experience",
-          "Design"
+          "Conversion",
+          "Strategy",
+          "Optimization"
         ]
       },
       {
-        "icon": "💡",
-        "title": "Targeted Advertising Campaigns",
-        "description": "Addresses ineffective ad spend. We will craft targeted campaigns using data-driven insights. Deliverables include ad strategy and creative assets. Expect a 20% increase in ROI.",
+        "icon": "🔍",
+        "title": "SEO Enhancement",
+        "description": "Improve your search rankings to drive a 25% increase in organic traffic over the next six months.",
+        "tags": [
+          "SEO",
+          "Traffic",
+          "Visibility"
+        ]
+      },
+      {
+        "icon": "💬",
+        "title": "Social Media Revamp",
+        "description": "Revitalize your social media strategy to boost engagement by 50% in 60 days.",
+        "tags": [
+          "Social",
+          "Engagement",
+          "Growth"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Targeted Ad Campaigns",
+        "description": "Refine targeting strategies to reduce wasted ad spend by 35% in the next quarter.",
         "tags": [
           "Advertising",
-          "Strategy",
-          "ROI"
-        ]
-      },
-      {
-        "icon": "🔄",
-        "title": "CRM Efficiency Enhancement",
-        "description": "Optimizes CRM usage. We will fully integrate and streamline your CRM system. Deliverables include training sessions and process automation. Expect a 30% reduction in time spent on administrative tasks.",
-        "tags": [
-          "CRM",
           "Efficiency",
-          "Automation"
-        ]
-      },
-      {
-        "icon": "📬",
-        "title": "Email Campaign Revamp",
-        "description": "Improves email conversion rates. We will refine your email strategy with personalized content. Deliverables include segmented lists and compelling templates. Expect a 2% increase in conversion rates.",
-        "tags": [
-          "Email",
-          "Conversion",
-          "Personalization"
+          "ROI"
         ]
       }
     ],
     "metrics": [
       {
-        "value": "2.5",
+        "value": "3.2",
         "suffix": "x",
-        "label": "Increase in patient engagement in 6 months."
+        "label": "Increase in qualified inbound leads within 90 days."
       },
       {
-        "value": "20",
+        "value": "25",
         "suffix": "%",
-        "label": "Increase in ROI from targeted advertising within 3 months."
+        "label": "Increase in organic web traffic within 6 months."
       },
       {
-        "value": "30",
+        "value": "50",
         "suffix": "%",
-        "label": "Reduction in CRM-related staff hours in 4 months."
+        "label": "Increase in social media engagement in 60 days."
       }
     ],
-    "whyUsIntro": "WRTR is your expert partner in strategic marketing, with a track record of achieving measurable results.",
+    "whyUsIntro": "WRTR is uniquely positioned to transform Cascade Health Systems.",
     "whyUsCards": [
       {
-        "icon": "🏆",
-        "title": "Proven ROI Improvement",
-        "description": "We've consistently improved client ROI by over 20% through strategic campaigns based on real data."
+        "icon": "🚀",
+        "title": "Proven Track Record",
+        "description": "We've successfully increased client leads by an average of 3x, evidenced by numerous case studies."
+      },
+      {
+        "icon": "🔧",
+        "title": "Customized Strategies",
+        "description": "Our team crafts bespoke marketing strategies tailored to your specific business needs."
       },
       {
         "icon": "📊",
-        "title": "Data-Driven Strategies",
-        "description": "Our approach is grounded in solid data analysis, ensuring targeted and effective strategies."
+        "title": "Data-Driven Insights",
+        "description": "Our approach relies on analytics to continuously optimize campaign performance."
       },
       {
-        "icon": "🛠",
-        "title": "Custom Solutions",
-        "description": "We tailor our services to meet your specific needs, ensuring relevant and impactful outcomes."
-      },
-      {
-        "icon": "🚀",
-        "title": "Rapid Implementation",
-        "description": "Our team swiftly executes projects, with most solutions implemented within 90 days."
+        "icon": "🤝",
+        "title": "Partnership Approach",
+        "description": "We work as an extension of your team, ensuring alignment and success."
       }
     ],
     "fearCards": [],
     "socialProof": [
       {
-        "value": "49",
-        "suffix": "projects",
-        "label": "Managed in the last year with 95% client satisfaction."
-      },
-      {
-        "value": "2.5",
-        "suffix": "x",
-        "label": "Average increase in client engagement metrics."
+        "value": "200",
+        "suffix": "+",
+        "label": "Successful client projects completed."
       },
       {
         "value": "80",
         "suffix": "%",
-        "label": "Win rate for pitched proposals."
+        "label": "Client retention rate over the past 5 years."
       },
       {
-        "value": "35",
-        "suffix": "%",
-        "label": "Average ROI improvement for clients across sectors."
+        "value": "49",
+        "suffix": "",
+        "label": "Dedicated team members ready to support you."
+      },
+      {
+        "value": "2.4",
+        "suffix": "M",
+        "label": "In annual revenue, showcasing our stability."
       }
     ],
-    "teamIntro": "Our team is comprised of top professionals specialized in marketing and advertising.",
+    "teamIntro": "Our dedicated team is here to support your growth.",
     "team": {
       "initials": "TS",
       "name": "Tom Simpson",
       "role": "Founder & Group CEO",
       "titleNote": "",
-      "bio": "Tom has over 15 years of experience in strategic marketing and has successfully led WRTR to become a leader in the industry.",
+      "bio": "Tom has over 15 years of experience in marketing and advertising, leading WRTR to numerous successes.",
       "linkedin": "",
       "phone": "+44 115 714 0440"
     },
@@ -445,89 +445,93 @@
     "process": [
       {
         "number": 1,
-        "title": "Discovery & Analysis",
+        "title": "Discovery & Strategy",
         "badge": "Weeks 1 to 3",
-        "description": "We thoroughly analyze your current marketing efforts and identify key areas for improvement.",
+        "description": "Understanding your business and goals.",
         "bullets": [
-          "Comprehensive audit of current channels.",
-          "Stakeholder interviews."
+          "Conduct stakeholder interviews.",
+          "Analyze current marketing efforts."
         ]
       },
       {
         "number": 2,
-        "title": "Strategy Development",
-        "badge": "Weeks 4 to 6",
-        "description": "Develop a tailored marketing strategy aligned with your business goals.",
+        "title": "Implementation",
+        "badge": "Weeks 4 to 7",
+        "description": "Executing the approved strategies.",
         "bullets": [
-          "Create a detailed project roadmap.",
-          "Define KPIs and success metrics."
+          "Optimize website for conversions.",
+          "Launch targeted ad campaigns."
         ]
       },
       {
         "number": 3,
-        "title": "Execution & Implementation",
-        "badge": "Weeks 7 to 10",
-        "description": "Implement the strategies across all platforms for maximum impact.",
+        "title": "Monitoring & Adjustment",
+        "badge": "Weeks 8 to 10",
+        "description": "Tracking performance and making necessary tweaks.",
         "bullets": [
-          "Launch of marketing campaigns.",
-          "Integration of new tools and processes."
+          "Monitor KPIs.",
+          "Adjust strategies based on data."
         ]
       },
       {
         "number": 4,
-        "title": "Review & Optimization",
+        "title": "Reporting & Handover",
         "badge": "Weeks 11 to 12",
-        "description": "Review performance data and optimize strategies for ongoing success.",
+        "description": "Providing insights and next steps.",
         "bullets": [
-          "Performance analysis and reporting.",
-          "Continuous improvement recommendations."
+          "Deliver comprehensive report.",
+          "Plan future growth strategies."
         ]
       }
     ],
-    "pricingIntro": "Choose from our investment options, each tailored to different scopes of engagement.",
+    "pricingIntro": "We offer flexible investment options tailored to your needs.",
     "pricing": [
       {
         "name": "Basic Engagement",
         "subtitle": "",
-        "description": "For companies seeking foundational improvements.",
+        "description": "Ideal for addressing specific areas with targeted solutions.",
         "amount": "$12,000",
         "period": "",
         "features": [
-          "Initial audit and recommendations."
+          "SEO Audit",
+          "Basic CRO Strategy"
         ],
         "recommended": false
       },
       {
-        "name": "Comprehensive Partnership",
+        "name": "Comprehensive Growth Plan",
         "subtitle": "",
-        "description": "Recommended for businesses aiming for significant growth.",
+        "description": "Recommended for a holistic approach to maximize results.",
         "amount": "$28,000",
         "period": "",
         "features": [
-          "Full strategy and implementation."
+          "Full CRO Implementation",
+          "Advanced SEO Strategy",
+          "Social Media Revamp"
         ],
         "recommended": true
       },
       {
-        "name": "Premium Transformation",
+        "name": "Premium Partnership",
         "subtitle": "",
-        "description": "For businesses seeking complete transformation.",
+        "description": "For businesses seeking a complete transformation and ongoing support.",
         "amount": "$52,000",
         "period": "",
         "features": [
-          "Comprehensive solutions and ongoing support."
+          "Ongoing Strategy Development",
+          "Dedicated Account Manager"
         ],
         "recommended": false
       }
     ],
-    "ctaHeadline": "Ready to Transform Cascade Health Systems?",
-    "ctaDescription": "Let's discuss how we can elevate your marketing efforts. Schedule a consultation to explore the next steps.",
-    "ctaButtonText": "Schedule Your Consultation",
+    "ctaHeadline": "Ready to Transform Your Business?",
+    "ctaDescription": "Let's discuss how we can help Cascade Health Systems achieve its goals.",
+    "ctaButtonText": "Schedule a Consultation",
     "ctaLink": "#contact",
     "ctaEmail": "tom@weareteamrocket.com",
     "ctaNote": "",
     "footerText": "© 2026 WRTR",
-    "footerSub": "Driving measurable results through strategic marketing."
+    "footerSub": "Your Partner in Growth and Innovation."
   },
   "enriched": {
     "tone": "professional",
@@ -566,6 +570,6 @@
     "proposal_status": "generated",
     "proposal_url": "https://www.ayushopchauhan.com/for/wrtr",
     "proposal_id": "wrtr",
-    "generated_at": "2026-03-18T07:33:33.525Z"
+    "generated_at": "2026-03-18T07:42:46.403Z"
   }
 }
