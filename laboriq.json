@@ -1,0 +1,574 @@
+{
+  "slug": "laboriq",
+  "companyName": "LaborIQ",
+  "contactName": "Ronald Johnsey",
+  "contactEmail": "rjohnsey4434@gmail.com",
+  "generationTime": 44,
+  "estimatedHourlyRate": 50,
+  "createdAt": "2026-03-19T08:59:27.541Z",
+  "brandStyle": {
+    "primaryColor": "#3858e9",
+    "secondaryColor": "#2145e6",
+    "accentColor": "#183ad6",
+    "headingFont": "Font Awesome 5 Brands",
+    "bodyFont": "swiper-icons",
+    "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2069'%3E%3C/svg%3E"
+  },
+  "proposal1": {
+    "tag": "PROPOSAL // LABORIQ // CONFIDENTIAL",
+    "heroBadge": "AI Proposal Automation",
+    "heroHeadline": "LaborIQ is losing $54,750 annually on inefficient proposal processes.",
+    "heroSubheadline": "Current methods consume 4 hours per proposal, while our system delivers in 47 seconds, aligning with LaborIQ's compensation intelligence services.",
+    "heroTags": [
+      "AI",
+      "AUTOMATION",
+      "PROPOSALS",
+      "BRANDING",
+      "CHATBOT"
+    ],
+    "problemsIntro": "Here are the measurable losses LaborIQ faces today.",
+    "problems": [
+      {
+        "title": "Time Drain",
+        "description": "LaborIQ spends 60 hours monthly on proposals. At $75/hour, this equals $54,000 annually. Time that should refine salary data gets spent here."
+      },
+      {
+        "title": "Revenue Leakage",
+        "description": "Missing just one deal a month due to slow proposals costs $12,000 annually. LaborIQ's real-time data deserves faster engagement."
+      },
+      {
+        "title": "Competitive Disadvantage",
+        "description": "Competitors respond faster, closing 2 more deals monthly. LaborIQ loses $24,000 annually, impacting its market position in HR intelligence."
+      },
+      {
+        "title": "Brand Inconsistency",
+        "description": "Inconsistent branding across proposals costs credibility. 3 out of 10 proposals lack uniformity, risking $15,000 in potential deals."
+      },
+      {
+        "title": "Missed Follow-up",
+        "description": "Delayed follow-ups on 20% of leads cost $18,000 annually. LaborIQ's salary insights need timely responses to convert."
+      },
+      {
+        "title": "Scaling Bottleneck",
+        "description": "A 20% increase in proposal volume strains resources, risking $10,000 in new business. LaborIQ needs scalable solutions to handle growth."
+      }
+    ],
+    "solutionIntro": "Our AI system directly replaces these inefficiencies with precise solutions.",
+    "solutions": [
+      {
+        "icon": "1.",
+        "title": "Rapid Proposal Generation",
+        "description": "Current process takes 4 hours per proposal. Our AI delivers branded proposals in 47 seconds, freeing up 95% of your time.",
+        "tags": [
+          "Efficiency",
+          "Speed",
+          "Time-Saving"
+        ]
+      },
+      {
+        "icon": "2.",
+        "title": "24/7 AI Chatbot",
+        "description": "Delayed responses cost deals. Our chatbot engages prospects instantly, booking meetings around the clock, boosting conversion rates by 30%.",
+        "tags": [
+          "Engagement",
+          "Conversion",
+          "Availability"
+        ]
+      },
+      {
+        "icon": "3.",
+        "title": "Brand Consistency",
+        "description": "Inconsistent proposals weaken your brand. Our system ensures every proposal is on-brand, reducing inconsistencies by 100%.",
+        "tags": [
+          "Branding",
+          "Consistency",
+          "Credibility"
+        ]
+      },
+      {
+        "icon": "4.",
+        "title": "Behavioral Tracking",
+        "description": "Without insights, follow-ups miss the mark. Our system tracks engagement metrics, enhancing follow-ups and increasing closure rates by 20%.",
+        "tags": [
+          "Analytics",
+          "Insight",
+          "Follow-up"
+        ]
+      },
+      {
+        "icon": "5.",
+        "title": "Scalable Proposal Handling",
+        "description": "Current resources buckle under increased demand. Our system scales effortlessly, handling 50% more proposals without additional cost.",
+        "tags": [
+          "Scalability",
+          "Growth",
+          "Cost-Efficiency"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Average generation time"
+      },
+      {
+        "value": "3",
+        "suffix": "x",
+        "label": "Faster prospect response"
+      },
+      {
+        "value": "43",
+        "suffix": "K",
+        "label": "Annual proposal cost recovered"
+      }
+    ],
+    "whyUsIntro": "Four reasons this works. Not marketing claims. Engineering facts.",
+    "whyUsCards": [
+      {
+        "icon": "01",
+        "title": "Speed",
+        "description": "Every hour your team spends writing proposals is an hour not spent closing deals. This system gives those hours back. Lead data in, live proposal out, 60 seconds."
+      },
+      {
+        "icon": "02",
+        "title": "Personalization",
+        "description": "Generic proposals get ignored. Personalized proposals close. The system reads each prospect's website and reflects their services, tone, and positioning back to them. Written from scratch, not templated."
+      },
+      {
+        "icon": "03",
+        "title": "Ownership",
+        "description": "No monthly subscription bleeding your budget. No vendor deciding to raise prices or shut down. You own the source code, the infrastructure, and the data. Permanently."
+      },
+      {
+        "icon": "04",
+        "title": "Support",
+        "description": "Personal onboarding, a video walkthrough your team can reference anytime, and one week of post-delivery support. You are not left figuring this out alone."
+      }
+    ],
+    "fearCards": [
+      {
+        "icon": "01",
+        "title": "You are probably thinking: our stack is complicated.",
+        "description": "",
+        "sub": "CRM, email, Sheets, Slack. The system connects to whatever you already use. No migration."
+      },
+      {
+        "icon": "02",
+        "title": "You might be wondering if this breaks your current workflow.",
+        "description": "",
+        "sub": "It runs alongside everything you have. Nothing changes except the time you spend on proposals."
+      },
+      {
+        "icon": "03",
+        "title": "You are concerned the output will not match your standards.",
+        "description": "",
+        "sub": "Revisions are part of the build. We configure, test, and refine until the output matches your bar exactly."
+      }
+    ],
+    "socialProof": [
+      {
+        "value": "15",
+        "suffix": "+",
+        "label": "Systems Deployed"
+      },
+      {
+        "value": "5",
+        "suffix": "",
+        "label": "Business Days"
+      },
+      {
+        "value": "100",
+        "suffix": "%",
+        "label": "Client Retention"
+      },
+      {
+        "value": "47",
+        "suffix": "s",
+        "label": "Generation Time"
+      }
+    ],
+    "teamIntro": "Your point of contact. No handoffs, no account managers, no layers.",
+    "team": {
+      "initials": "AC",
+      "name": "Ayush Chauhan",
+      "role": "Founder, AOC",
+      "titleNote": "AOC",
+      "bio": "Full-stack engineer specializing in AI automation for agencies and service businesses. Every engagement personally handled from architecture through deployment. 15+ systems built. Zero failed deliveries. Works async, ships fast.",
+      "linkedin": "https://www.linkedin.com/in/ayushopchauhan",
+      "phone": "+91 8160764038"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "5 Business Days",
+    "process": [
+      {
+        "number": 1,
+        "title": "Kickoff (Async or Call)",
+        "badge": "DAY 1",
+        "description": "We map your workflow, services, and current proposal process. Can be a 15-minute call or handled entirely over email. By the end, we have everything needed to configure the system.",
+        "bullets": [
+          "Current process audit",
+          "Requirements gathering",
+          "Service and pricing mapping"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "System Configuration",
+        "badge": "DAYS 2-3",
+        "description": "The engine gets configured with your services, pricing structure, tone of voice, and brand standards. Every proposal it generates will sound like your best strategist wrote it.",
+        "bullets": [
+          "Service mapping",
+          "Tone calibration",
+          "Template configuration"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Build and QA",
+        "badge": "DAY 4",
+        "description": "Test proposals generated and reviewed against your quality bar. Refinements continue until the output is indistinguishable from what your team produces manually.",
+        "bullets": [
+          "Test proposal generation",
+          "Output quality review",
+          "Refinements"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Deployment and Handoff",
+        "badge": "DAY 5",
+        "description": "Deployed to production with full infrastructure. You receive a video walkthrough, documentation, and complete source code. From this point, the system runs without us.",
+        "bullets": [
+          "Infrastructure deployment",
+          "Video walkthrough",
+          "Source code handoff"
+        ]
+      }
+    ],
+    "pricingIntro": "Two options. Both are one-time builds. No subscriptions, no recurring fees. You own the source code and infrastructure permanently.",
+    "pricing": [
+      {
+        "name": "Proposal Engine",
+        "subtitle": "// Core System",
+        "description": "Custom proposal automation configured for LaborIQ's services, voice, and pricing structure.",
+        "amount": "$1,997",
+        "period": "One-time",
+        "features": [
+          "Custom proposal generation",
+          "Branded proposal pages",
+          "Full infrastructure (hosting, API, domain)",
+          "Video walkthrough for your team",
+          "Source code and documentation",
+          "One week post-delivery support"
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Engine + AI Chatbot",
+        "subtitle": "// Recommended",
+        "description": "Everything above, plus an AI sales assistant embedded in every proposal. Handles objections, answers questions, and books calls for LaborIQ around the clock.",
+        "amount": "$2,997",
+        "period": "One-time",
+        "features": [
+          "Everything in Proposal Engine",
+          "AI chatbot on every proposal page",
+          "Real-time objection handling",
+          "Lead tracking and Telegram alerts",
+          "Configurable chatbot personality",
+          "Chatbot analytics dashboard"
+        ],
+        "recommended": true
+      }
+    ],
+    "ctaHeadline": "See this running on your actual proposals.",
+    "ctaDescription": "Reply here or email Ayush directly. He will send the onboarding form. Takes about 10 minutes and the build starts the same day. Custom-configured for LaborIQ.",
+    "ctaButtonText": "Email Ayush",
+    "ctaLink": "mailto:ayushopchauhan@gmail.com?subject=Re: Proposal for LaborIQ",
+    "ctaEmail": "ayushopchauhan@gmail.com",
+    "ctaNote": "Ayush Chauhan, Founder of AOC // +91 8160764038",
+    "footerText": "© 2026 AOC",
+    "footerSub": "AI Automation for Agencies"
+  },
+  "proposal2": {
+    "fictionalClientName": "Acme Corp",
+    "tag": "Proposal for Acme Corp // Confidential",
+    "heroBadge": "Strategic Partnership Proposal",
+    "heroHeadline": "Increase Workforce Efficiency by 30% with LaborIQ's Salary Intelligence.",
+    "heroSubheadline": "Over a 6-month period, implement data-driven salary benchmarks to enhance Acme Corp's talent acquisition and retention strategies, leading to a projected 30% increase in workforce efficiency.",
+    "heroTags": [],
+    "problemsIntro": "Acme Corp is losing substantial revenue due to inefficiencies and outdated compensation strategies.",
+    "problems": [
+      {
+        "title": "High Turnover Costs",
+        "description": "Current turnover rates are costing Acme Corp approximately $250,000 annually in rehiring and training expenses."
+      },
+      {
+        "title": "Inefficient Salary Structures",
+        "description": "Salary misalignment is resulting in a 15% productivity loss, equating to $300,000 in lost revenue each year."
+      },
+      {
+        "title": "Talent Acquisition Delays",
+        "description": "Extended vacancy periods are delaying project timelines by an average of 45 days, costing $75,000 per delayed project."
+      },
+      {
+        "title": "Market Competitiveness",
+        "description": "Ineffective salary benchmarking is causing Acme Corp to lose 20% of potential hires to competitors."
+      },
+      {
+        "title": "Employee Dissatisfaction",
+        "description": "An estimated 25% decrease in employee satisfaction is leading to a $120,000 annual loss in productivity."
+      },
+      {
+        "title": "Underutilized Workforce Analytics",
+        "description": "Lack of actionable insights is resulting in inefficient workforce planning, costing around $150,000 annually."
+      }
+    ],
+    "solutionIntro": "Our solutions are designed to directly address and mitigate these financial losses.",
+    "solutions": [
+      {
+        "icon": "📊",
+        "title": "Salary Benchmarking Analysis",
+        "description": "Implement precise salary benchmarks within 60 days to align compensation with market standards and reduce turnover by 20%.",
+        "tags": [
+          "Efficiency",
+          "Benchmarking",
+          "Retention"
+        ]
+      },
+      {
+        "icon": "🕒",
+        "title": "Talent Acquisition Optimization",
+        "description": "Utilize data-driven insights to decrease hiring time by 30% within 90 days, saving an estimated $50,000 annually.",
+        "tags": [
+          "Recruitment",
+          "Efficiency",
+          "Cost-Saving"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Workforce Planning Insights",
+        "description": "Deliver actionable workforce analytics over 12 weeks to improve planning efficiency and eliminate $150,000 in annual losses.",
+        "tags": [
+          "Analytics",
+          "Strategy",
+          "Optimization"
+        ]
+      },
+      {
+        "icon": "💼",
+        "title": "Employee Engagement Programs",
+        "description": "Develop targeted engagement strategies within 4 months to enhance satisfaction and boost productivity by 25%.",
+        "tags": [
+          "Engagement",
+          "Productivity",
+          "Satisfaction"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "20",
+        "suffix": "%",
+        "label": "Reduction in turnover rates."
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Decrease in hiring time."
+      },
+      {
+        "value": "150000",
+        "suffix": "$",
+        "label": "Annual savings from improved workforce planning."
+      }
+    ],
+    "whyUsIntro": "LaborIQ is your trusted partner for data-driven workforce solutions.",
+    "whyUsCards": [
+      {
+        "icon": "🔍",
+        "title": "Data-Driven Insights",
+        "description": "Our proprietary technology delivers precise, actionable insights tailored to your needs."
+      },
+      {
+        "icon": "🤝",
+        "title": "Proven Track Record",
+        "description": "With a success rate of 80% in past engagements, our methods are both reliable and effective."
+      },
+      {
+        "icon": "📈",
+        "title": "Comprehensive Solutions",
+        "description": "We offer a full suite of services from salary analysis to workforce planning, ensuring all your HR needs are met."
+      },
+      {
+        "icon": "📊",
+        "title": "Industry Expertise",
+        "description": "Our team consists of industry veterans with over 20 years of experience in workforce analytics."
+      }
+    ],
+    "fearCards": [],
+    "socialProof": [
+      {
+        "value": "21",
+        "suffix": "Clients",
+        "label": "Successfully served in the past year."
+      },
+      {
+        "value": "4",
+        "suffix": "Million",
+        "label": "Revenue generated for our clients in 2023."
+      },
+      {
+        "value": "95",
+        "suffix": "%",
+        "label": "Client satisfaction rate in 2023."
+      },
+      {
+        "value": "30",
+        "suffix": "%",
+        "label": "Average increase in client workforce efficiency."
+      }
+    ],
+    "teamIntro": "Our team is led by industry experts dedicated to your success.",
+    "team": {
+      "initials": "RJ",
+      "name": "Ronald Johnsey",
+      "role": "CEO",
+      "titleNote": "",
+      "bio": "Ronald brings over 25 years of experience in workforce analytics and strategic planning, leading LaborIQ to deliver exceptional client results.",
+      "linkedin": "",
+      "phone": "+1 972-961-4400"
+    },
+    "processIntro": "What Working With Us Looks Like",
+    "processTime": "12 Weeks",
+    "process": [
+      {
+        "number": 1,
+        "title": "Initial Assessment",
+        "badge": "Weeks 1 to 3",
+        "description": "Conduct a comprehensive analysis of your current workforce and compensation structures.",
+        "bullets": [
+          "Data collection.",
+          "Initial benchmarking."
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Strategy Development",
+        "badge": "Weeks 4 to 6",
+        "description": "Develop tailored strategies to address identified inefficiencies and opportunities.",
+        "bullets": [
+          "Custom strategy creation.",
+          "Client feedback integration."
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Implementation",
+        "badge": "Weeks 7 to 9",
+        "description": "Execute the developed strategies with ongoing support and adjustments.",
+        "bullets": [
+          "Rollout of solutions.",
+          "Real-time adjustments."
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Evaluation & Optimization",
+        "badge": "Weeks 10 to 12",
+        "description": "Evaluate outcomes and optimize strategies for continuous improvement.",
+        "bullets": [
+          "Outcome analysis.",
+          "Strategy refinement."
+        ]
+      }
+    ],
+    "pricingIntro": "We offer tiered investment options to meet your strategic needs.",
+    "pricing": [
+      {
+        "name": "Basic Engagement",
+        "subtitle": "",
+        "description": "Ideal for companies seeking foundational insights and basic workforce optimization.",
+        "amount": "$12,000",
+        "period": "",
+        "features": [
+          "Initial assessment.",
+          "Basic benchmarking."
+        ],
+        "recommended": false
+      },
+      {
+        "name": "Comprehensive Package",
+        "subtitle": "",
+        "description": "Recommended for businesses desiring full-scale analysis and strategic implementation.",
+        "amount": "$28,000",
+        "period": "",
+        "features": [
+          "Full service suite.",
+          "Ongoing support."
+        ],
+        "recommended": true
+      },
+      {
+        "name": "Premium Partnership",
+        "subtitle": "",
+        "description": "For organizations looking for extensive engagement and continuous optimization.",
+        "amount": "$52,000",
+        "period": "",
+        "features": [
+          "Extended services.",
+          "Priority support."
+        ],
+        "recommended": false
+      }
+    ],
+    "ctaHeadline": "Transform Acme Corp's Workforce Today.",
+    "ctaDescription": "Start your journey to a more efficient and competitive workforce with LaborIQ.",
+    "ctaButtonText": "Schedule Consultation",
+    "ctaLink": "#contact",
+    "ctaEmail": "rjohnsey4434@gmail.com",
+    "ctaNote": "",
+    "footerText": "© 2026 LaborIQ",
+    "footerSub": "Your Partner in Workforce Excellence."
+  },
+  "enriched": {
+    "tone": "warm, corporate",
+    "positioning": "Full-service agency",
+    "serviceList": [],
+    "valuePropositions": [],
+    "differentiators": []
+  },
+  "lead": {
+    "first_name": "Ronald",
+    "last_name": "Johnsey",
+    "email": "rjohnsey4434@gmail.com",
+    "company_phone": "+1 972-961-4400",
+    "mobile_number": "14692231864",
+    "company_name": "LaborIQ",
+    "company_website": "https://www.laboriq.co",
+    "company_domain": "laboriq.co",
+    "company_description": "LaborIQ provides HR teams with salary benchmarks to compete for new hires and retain employees in today's market.\n\nThousands of users trust LaborIQ to provide salary recommendations that help close pay gaps, ease pay transparency challenges, fill jobs faster and reduce turnover. \n\nWe believe that traditional salary surveys and crowd-sourced data are lagged and unreliable in today's evolving job market. For companies to compete for talent and succeed, they must have access to unmatched compensation data quality.",
+    "headline": "Advance Your Compensation Strategy In A Moving Market With Current, Validated Salary Recommendations.",
+    "job_title": "CEO",
+    "industry": "Information Technology & Services",
+    "company_size": "21",
+    "company_technologies": "ai, aws sdk for javascript, adobe media optimizer, amazon aws, amazon ses, android, atlassian cloud, bootstrap framework, cedexis radar, doubleclick, doubleclick conversion, facebook custom audiences, facebook login (connect), facebook widget, google dynamic remarketing, google font api, google maps, google maps (non paid users), google tag manager, hubspot, iot, leadfeeder, linkedin login, linkedin marketing solutions, linkedin widget, mailchimp spf, microsoft office 365, mobile friendly, onetrust, outlook, python, react, remote, route 53, sharepoint, shutterstock, the trade desk, typekit, vimeo, vuejs, walkme, wordpress.org",
+    "city": "Dallas",
+    "state": "Texas",
+    "country": "United States",
+    "company_full_address": "2626 Cole Ave, Suite 300, Dallas, Texas 75204, US",
+    "seniority_level": "c_suite",
+    "company_annual_revenue_clean": "4M",
+    "linkedin": "https://www.linkedin.com/in/rjohnsey",
+    "company_linkedin": "https://www.linkedin.com/company/laboriq",
+    "company_founded_year": "2019",
+    "keywords": "labor economics, salary answers, talent supply & demand, compensation planning, forecasted talent costs, saas, b2b software solutions, labor data, total compensation, employee retention, job market forecasts, merit planning, recruiting, annual headcount budgeting, hiring, business strategy, pay equity, pay transparency, salary benchmarking, compensation benchmarking, software development, hr solutions, talent acquisition, pay planning, market pay analysis, salary data tools, compensation strategies, labor market insights, job title analysis, competitive salary ranges, pay band management, hiring insights, data-driven decisions, salary recommendations, metro analysis, location-based pay, compensation trends, employee satisfaction, recruitment strategies, labor market forecasting, salary analytics software, market competitiveness, salary surveys, wage analysis, hiring metrics, workforce planning, hr analytics, job market data, laboriq solutions, salary reports, employee turnover solutions, compensation packages, industry-specific salary data, human resources tools, job responsibilities, market-driven salary data, talent supply, compensation challenges, salary forecasts, employee compensation analysis, payroll management software, wage growth insights, custom salary reports, recruiting toolsets, labor market data, compensation planning software, expert industry knowledge, computer software, information technology & services",
+    "personalization": "You provide real-time salary data while highlighting the unreliability of traditional surveys, which is a bit confusing.",
+    "painStatement": "",
+    "proposal_status": "",
+    "proposal_url": "",
+    "proposal_id": "",
+    "generated_at": ""
+  }
+}
